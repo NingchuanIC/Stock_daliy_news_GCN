@@ -1,0 +1,9 @@
+{"news_id": "news_20221003_000002", "ts_code": "600745", "name": "闻泰科技", "date": "2022-10-03 23:42:43", "sentiment_score": 0.7326}
+{"news_id": "news_20221003_000032", "ts_code": "600745", "name": "闻泰科技", "date": "2022-10-03 19:40:51", "sentiment_score": 0.6362}
+{"news_id": "news_20221003_000032", "ts_code": "002273", "name": "水晶光电", "date": "2022-10-03 19:40:51", "sentiment_score": 0.6362}
+{"news_id": "news_20221003_000056", "ts_code": "002594", "name": "比亚迪", "date": "2022-10-03 17:48:35", "sentiment_score": 0.8385}
+{"news_id": "news_20221003_000061", "ts_code": "600196", "name": "复星医药", "date": "2022-10-03 17:13:36", "sentiment_score": 0.8685}
+{"news_id": "news_20221003_000081", "ts_code": "600547", "name": "山东黄金", "date": "2022-10-03 14:45:32", "sentiment_score": 0.7611}
+{"news_id": "news_20221003_000090", "ts_code": "600938", "name": "中国海油", "date": "2022-10-03 12:59:03", "sentiment_score": 0.6716}
+{"news_id": "news_20221003_000107", "ts_code": "601988", "name": "中国银行", "date": "2022-10-03 09:45:59", "sentiment_score": 0.884}
+{"news_id": "news_20221003_000120", "ts_code": "601857", "name": "中国石油", "date": "2022-10-03 07:45:35", "sentiment_score": 0.7505}

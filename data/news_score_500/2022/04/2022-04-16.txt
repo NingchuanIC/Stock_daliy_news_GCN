@@ -1,0 +1,7 @@
+{"news_id": "news_20220416_000002", "ts_code": "002459", "name": "晶澳科技", "date": "2022-04-16 21:24:34", "sentiment_score": 0.843}
+{"news_id": "news_20220416_000004", "ts_code": "601668", "name": "中国建筑", "date": "2022-04-16 19:26:53", "sentiment_score": 0.4455}
+{"news_id": "news_20220416_000004", "ts_code": "601390", "name": "中国中铁", "date": "2022-04-16 19:26:53", "sentiment_score": 0.4455}
+{"news_id": "news_20220416_000005", "ts_code": "002594", "name": "比亚迪", "date": "2022-04-16 18:46:24", "sentiment_score": 0.6101}
+{"news_id": "news_20220416_000012", "ts_code": "002603", "name": "以岭药业", "date": "2022-04-16 14:53:31", "sentiment_score": 0.7318}
+{"news_id": "news_20220416_000021", "ts_code": "601988", "name": "中国银行", "date": "2022-04-16 10:19:02", "sentiment_score": 0.6544}
+{"news_id": "news_20220416_000034", "ts_code": "002415", "name": "海康威视", "date": "2022-04-16 01:56:05", "sentiment_score": 0.7783}

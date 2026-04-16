@@ -1,0 +1,16 @@
+{"news_id": "news_20221029_000001", "ts_code": "600031", "name": "三一重工", "date": "2022-10-29 21:56:08", "sentiment_score": 0.5074}
+{"news_id": "news_20221029_000001", "ts_code": "601857", "name": "中国石油", "date": "2022-10-29 21:56:08", "sentiment_score": 0.5074}
+{"news_id": "news_20221029_000005", "ts_code": "601288", "name": "农业银行", "date": "2022-10-29 19:20:13", "sentiment_score": 0.6998}
+{"news_id": "news_20221029_000013", "ts_code": "600030", "name": "中信证券", "date": "2022-10-29 13:59:44", "sentiment_score": 0.7332}
+{"news_id": "news_20221029_000017", "ts_code": "002230", "name": "科大讯飞", "date": "2022-10-29 11:41:24", "sentiment_score": 0.667}
+{"news_id": "news_20221029_000018", "ts_code": "002230", "name": "科大讯飞", "date": "2022-10-29 11:32:10", "sentiment_score": 0.748}
+{"news_id": "news_20221029_000019", "ts_code": "002230", "name": "科大讯飞", "date": "2022-10-29 11:31:40", "sentiment_score": 0.7582}
+{"news_id": "news_20221029_000031", "ts_code": "601628", "name": "中国人寿", "date": "2022-10-29 07:12:17", "sentiment_score": 0.6168}
+{"news_id": "news_20221029_000033", "ts_code": "601728", "name": "中国电信", "date": "2022-10-29 06:12:27", "sentiment_score": 0.7694}
+{"news_id": "news_20221029_000033", "ts_code": "600050", "name": "中国联通", "date": "2022-10-29 06:12:27", "sentiment_score": 0.7694}
+{"news_id": "news_20221029_000034", "ts_code": "600028", "name": "中国石化", "date": "2022-10-29 05:52:06", "sentiment_score": 0.7507}
+{"news_id": "news_20221029_000034", "ts_code": "601857", "name": "中国石油", "date": "2022-10-29 05:52:06", "sentiment_score": 0.7507}
+{"news_id": "news_20221029_000034", "ts_code": "600938", "name": "中国海油", "date": "2022-10-29 05:52:06", "sentiment_score": 0.7507}
+{"news_id": "news_20221029_000037", "ts_code": "600028", "name": "中国石化", "date": "2022-10-29 04:04:32", "sentiment_score": 0.1402}
+{"news_id": "news_20221029_000043", "ts_code": "002812", "name": "Lee", "date": "2022-10-29 03:04:59", "sentiment_score": 0.7745}
+{"news_id": "news_20221029_000057", "ts_code": "600519", "name": "贵州茅台", "date": "2022-10-29 00:08:07", "sentiment_score": 0.5372}

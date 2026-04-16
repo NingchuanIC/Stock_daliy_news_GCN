@@ -1,0 +1,10 @@
+{"news_id": "news_20231209_000009", "ts_code": "000625", "name": "长安汽车", "date": "2023-12-09 21:38:40", "sentiment_score": 0.3198}
+{"news_id": "news_20231209_000009", "ts_code": "601127", "name": "赛力斯", "date": "2023-12-09 21:38:40", "sentiment_score": 0.3198}
+{"news_id": "news_20231209_000014", "ts_code": "601328", "name": "交通银行", "date": "2023-12-09 19:01:27", "sentiment_score": 0.6335}
+{"news_id": "news_20231209_000019", "ts_code": "601390", "name": "中国中铁", "date": "2023-12-09 18:24:42", "sentiment_score": 0.7259}
+{"news_id": "news_20231209_000025", "ts_code": "600115", "name": "东方航空", "date": "2023-12-09 17:39:25", "sentiment_score": 0.6025}
+{"news_id": "news_20231209_000026", "ts_code": "601857", "name": "中国石油", "date": "2023-12-09 17:32:19", "sentiment_score": 0.5687}
+{"news_id": "news_20231209_000036", "ts_code": "600115", "name": "东方航空", "date": "2023-12-09 15:19:12", "sentiment_score": 0.7938}
+{"news_id": "news_20231209_000038", "ts_code": "002594", "name": "比亚迪", "date": "2023-12-09 14:48:26", "sentiment_score": 0.7814}
+{"news_id": "news_20231209_000044", "ts_code": "600418", "name": "安徽江淮汽车集团股份有限公司", "date": "2023-12-09 14:05:56", "sentiment_score": 0.6532}
+{"news_id": "news_20231209_000057", "ts_code": "601633", "name": "长城汽车", "date": "2023-12-09 11:34:57", "sentiment_score": 0.8004}

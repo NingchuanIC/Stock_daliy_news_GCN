@@ -1,0 +1,8 @@
+{"news_id": "news_20220402_000009", "ts_code": "601012", "name": "隆基股份", "date": "2022-04-02 20:00:04", "sentiment_score": 0.7443}
+{"news_id": "news_20220402_000019", "ts_code": "300750", "name": "宁德时代", "date": "2022-04-02 16:28:28", "sentiment_score": 0.7527}
+{"news_id": "news_20220402_000026", "ts_code": "002129", "name": "中环股份", "date": "2022-04-02 13:55:36", "sentiment_score": 0.8468}
+{"news_id": "news_20220402_000036", "ts_code": "600998", "name": "九州通", "date": "2022-04-02 11:35:58", "sentiment_score": 0.7889}
+{"news_id": "news_20220402_000040", "ts_code": "002594", "name": "比亚迪", "date": "2022-04-02 11:14:40", "sentiment_score": 0.7038}
+{"news_id": "news_20220402_000044", "ts_code": "002594", "name": "比亚迪股份有限公司", "date": "2022-04-02 09:38:25", "sentiment_score": 0.5714}
+{"news_id": "news_20220402_000051", "ts_code": "600079", "name": "人福医药", "date": "2022-04-02 06:27:18", "sentiment_score": 0.6601}
+{"news_id": "news_20220402_000080", "ts_code": "002466", "name": "天齐锂业", "date": "2022-04-02 00:04:45", "sentiment_score": 0.5196}

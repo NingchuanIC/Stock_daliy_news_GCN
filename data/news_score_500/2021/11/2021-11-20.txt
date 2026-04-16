@@ -1,0 +1,3 @@
+{"news_id": "news_20211120_000015", "ts_code": "300750", "name": "宁德时代", "date": "2021-11-20 19:02:34", "sentiment_score": 0.6538}
+{"news_id": "news_20211120_000017", "ts_code": "002594", "name": "比亚迪", "date": "2021-11-20 18:10:54", "sentiment_score": 0.8335}
+{"news_id": "news_20211120_000022", "ts_code": "601238", "name": "广汽集团", "date": "2021-11-20 12:59:08", "sentiment_score": 0.6902}

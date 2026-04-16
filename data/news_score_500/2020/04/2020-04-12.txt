@@ -1,0 +1,4 @@
+{"news_id": "news_20200412_000004", "ts_code": "600028", "name": "中国石化", "date": "2020-04-12 18:31:26", "sentiment_score": 0.7628}
+{"news_id": "news_20200412_000016", "ts_code": "000651", "name": "格力电器", "date": "2020-04-12 17:01:29", "sentiment_score": 0.7095}
+{"news_id": "news_20200412_000045", "ts_code": "002594", "name": "比亚迪", "date": "2020-04-12 10:31:03", "sentiment_score": 0.4817}
+{"news_id": "news_20200412_000047", "ts_code": "000651", "name": "珠海格力电器股份有限公司", "date": "2020-04-12 10:19:07", "sentiment_score": 0.6247}

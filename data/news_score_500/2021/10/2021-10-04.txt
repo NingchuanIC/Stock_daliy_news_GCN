@@ -1,0 +1,16 @@
+{"news_id": "news_20211004_000007", "ts_code": "002812", "name": "Lee", "date": "2021-10-04 23:07:52", "sentiment_score": 0.7271}
+{"news_id": "news_20211004_000066", "ts_code": "688180", "name": "君实生物", "date": "2021-10-04 18:29:42", "sentiment_score": 0.6415}
+{"news_id": "news_20211004_000067", "ts_code": "601633", "name": "长城汽车", "date": "2021-10-04 18:14:21", "sentiment_score": 0.6193}
+{"news_id": "news_20211004_000069", "ts_code": "601238", "name": "广汽集团", "date": "2021-10-04 18:12:13", "sentiment_score": 0.8649}
+{"news_id": "news_20211004_000070", "ts_code": "600938", "name": "中国海洋石油有限公司", "date": "2021-10-04 18:03:12", "sentiment_score": 0.7506}
+{"news_id": "news_20211004_000075", "ts_code": "002202", "name": "金风科技", "date": "2021-10-04 17:38:05", "sentiment_score": 0.8672}
+{"news_id": "news_20211004_000080", "ts_code": "688235", "name": "百济神州", "date": "2021-10-04 16:35:16", "sentiment_score": 0.8729}
+{"news_id": "news_20211004_000082", "ts_code": "688223", "name": "晶科能源", "date": "2021-10-04 16:17:19", "sentiment_score": 0.8995}
+{"news_id": "news_20211004_000093", "ts_code": "002594", "name": "比亚迪", "date": "2021-10-04 14:34:13", "sentiment_score": 0.8243}
+{"news_id": "news_20211004_000123", "ts_code": "600011", "name": "华能国际", "date": "2021-10-04 10:02:14", "sentiment_score": 0.8766}
+{"news_id": "news_20211004_000124", "ts_code": "600029", "name": "南方航空", "date": "2021-10-04 10:00:46", "sentiment_score": 0.8149}
+{"news_id": "news_20211004_000124", "ts_code": "600115", "name": "东方航空", "date": "2021-10-04 10:00:46", "sentiment_score": 0.8149}
+{"news_id": "news_20211004_000125", "ts_code": "600196", "name": "复星医药", "date": "2021-10-04 09:48:34", "sentiment_score": 0.8616}
+{"news_id": "news_20211004_000129", "ts_code": "600196", "name": "复星医药", "date": "2021-10-04 09:40:29", "sentiment_score": 0.873}
+{"news_id": "news_20211004_000130", "ts_code": "600196", "name": "复星医药", "date": "2021-10-04 09:36:01", "sentiment_score": 0.8693}
+{"news_id": "news_20211004_000147", "ts_code": "600938", "name": "中国海洋石油", "date": "2021-10-04 06:30:21", "sentiment_score": 0.8372}

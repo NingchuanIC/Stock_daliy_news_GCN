@@ -1,0 +1,6 @@
+{"news_id": "news_20200208_000007", "ts_code": "601728", "name": "中国电信", "date": "2020-02-08 20:25:41", "sentiment_score": 0.7095}
+{"news_id": "news_20200208_000007", "ts_code": "600050", "name": "中国联通", "date": "2020-02-08 20:25:41", "sentiment_score": 0.7095}
+{"news_id": "news_20200208_000010", "ts_code": "601238", "name": "广汽集团", "date": "2020-02-08 18:52:08", "sentiment_score": 0.6646}
+{"news_id": "news_20200208_000025", "ts_code": "002594", "name": "比亚迪", "date": "2020-02-08 12:27:24", "sentiment_score": 0.6175}
+{"news_id": "news_20200208_000037", "ts_code": "601668", "name": "中国建筑", "date": "2020-02-08 07:57:14", "sentiment_score": 0.5623}
+{"news_id": "news_20200208_000037", "ts_code": "600887", "name": "伊利股份", "date": "2020-02-08 07:57:14", "sentiment_score": 0.5623}

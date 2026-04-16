@@ -1,0 +1,4 @@
+{"news_id": "news_20210405_000149", "ts_code": "601012", "name": "隆基绿能", "date": "2021-04-05 10:07:26", "sentiment_score": 0.6931}
+{"news_id": "news_20210405_000153", "ts_code": "601211", "name": "国泰君安", "date": "2021-04-05 09:05:06", "sentiment_score": 0.6993}
+{"news_id": "news_20210405_000157", "ts_code": "002475", "name": "立讯精密", "date": "2021-04-05 07:14:34", "sentiment_score": 0.6844}
+{"news_id": "news_20210405_000160", "ts_code": "002352", "name": "顺丰控股", "date": "2021-04-05 06:17:53", "sentiment_score": 0.6249}

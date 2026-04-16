@@ -1,0 +1,9 @@
+{"news_id": "news_20200705_000003", "ts_code": "000157", "name": "中联重科", "date": "2020-07-05 22:52:00", "sentiment_score": 0.6572}
+{"news_id": "news_20200705_000007", "ts_code": "688008", "name": "澜起科技", "date": "2020-07-05 19:19:27", "sentiment_score": 0.6656}
+{"news_id": "news_20200705_000011", "ts_code": "600030", "name": "中信证券", "date": "2020-07-05 17:25:58", "sentiment_score": 0.7038}
+{"news_id": "news_20200705_000013", "ts_code": "002129", "name": "中环股份", "date": "2020-07-05 17:17:14", "sentiment_score": 0.6089}
+{"news_id": "news_20200705_000019", "ts_code": "000157", "name": "中联重科", "date": "2020-07-05 17:02:06", "sentiment_score": 0.7709}
+{"news_id": "news_20200705_000020", "ts_code": "688012", "name": "中微公司", "date": "2020-07-05 17:01:45", "sentiment_score": 0.6612}
+{"news_id": "news_20200705_000023", "ts_code": "603501", "name": "韦尔股份", "date": "2020-07-05 16:31:53", "sentiment_score": 0.6972}
+{"news_id": "news_20200705_000027", "ts_code": "002049", "name": "紫光国微", "date": "2020-07-05 16:13:12", "sentiment_score": 0.7857}
+{"news_id": "news_20200705_000035", "ts_code": "688169", "name": "石头科技", "date": "2020-07-05 15:20:41", "sentiment_score": 0.8472}

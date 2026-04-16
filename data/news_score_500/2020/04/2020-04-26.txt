@@ -1,0 +1,13 @@
+{"news_id": "news_20200426_000013", "ts_code": "600028", "name": "中国石化", "date": "2020-04-26 21:00:00", "sentiment_score": 0.6393}
+{"news_id": "news_20200426_000020", "ts_code": "601857", "name": "中国石油", "date": "2020-04-26 19:38:03", "sentiment_score": 0.7287}
+{"news_id": "news_20200426_000045", "ts_code": "601988", "name": "中国银行", "date": "2020-04-26 18:12:12", "sentiment_score": 0.6688}
+{"news_id": "news_20200426_000052", "ts_code": "000651", "name": "格力电器", "date": "2020-04-26 17:45:12", "sentiment_score": 0.6568}
+{"news_id": "news_20200426_000064", "ts_code": "600029", "name": "南方航空", "date": "2020-04-26 16:51:02", "sentiment_score": 0.8466}
+{"news_id": "news_20200426_000072", "ts_code": "002714", "name": "牧原股份", "date": "2020-04-26 16:35:19", "sentiment_score": 0.8564}
+{"news_id": "news_20200426_000073", "ts_code": "002594", "name": "比亚迪", "date": "2020-04-26 16:26:43", "sentiment_score": 0.8012}
+{"news_id": "news_20200426_000077", "ts_code": "601988", "name": "中国银行", "date": "2020-04-26 15:32:26", "sentiment_score": 0.7949}
+{"news_id": "news_20200426_000083", "ts_code": "002384", "name": "东山精密", "date": "2020-04-26 15:03:15", "sentiment_score": 0.8627}
+{"news_id": "news_20200426_000086", "ts_code": "000063", "name": "中兴通讯", "date": "2020-04-26 14:37:19", "sentiment_score": 0.7502}
+{"news_id": "news_20200426_000092", "ts_code": "300750", "name": "宁德时代", "date": "2020-04-26 13:33:59", "sentiment_score": 0.8419}
+{"news_id": "news_20200426_000093", "ts_code": "601988", "name": "中国银行", "date": "2020-04-26 13:20:09", "sentiment_score": 0.7404}
+{"news_id": "news_20200426_000094", "ts_code": "002415", "name": "海康威视", "date": "2020-04-26 12:04:01", "sentiment_score": 0.6306}

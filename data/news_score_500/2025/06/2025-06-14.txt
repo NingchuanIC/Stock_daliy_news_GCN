@@ -1,0 +1,9 @@
+{"news_id": "news_20250614_000005", "ts_code": "300750", "name": "宁德时代新能源科技股份有限公司", "date": "2025-06-14 22:46:12", "sentiment_score": 0.6827}
+{"news_id": "news_20250614_000014", "ts_code": "600938", "name": "中国海油", "date": "2025-06-14 18:55:03", "sentiment_score": 0.6039}
+{"news_id": "news_20250614_000021", "ts_code": "002001", "name": "新和成", "date": "2025-06-14 18:05:16", "sentiment_score": 0.7116}
+{"news_id": "news_20250614_000029", "ts_code": "600039", "name": "四川路桥", "date": "2025-06-14 15:01:40", "sentiment_score": 0.6622}
+{"news_id": "news_20250614_000034", "ts_code": "601238", "name": "广汽集团", "date": "2025-06-14 13:29:52", "sentiment_score": 0.5376}
+{"news_id": "news_20250614_000048", "ts_code": "600938", "name": "中国海油", "date": "2025-06-14 10:20:17", "sentiment_score": 0.6872}
+{"news_id": "news_20250614_000051", "ts_code": "600039", "name": "四川路桥", "date": "2025-06-14 09:09:42", "sentiment_score": 0.5449}
+{"news_id": "news_20250614_000061", "ts_code": "002594", "name": "比亚迪", "date": "2025-06-14 08:03:51", "sentiment_score": 0.6388}
+{"news_id": "news_20250614_000061", "ts_code": "601127", "name": "赛力斯", "date": "2025-06-14 08:03:51", "sentiment_score": 0.6388}

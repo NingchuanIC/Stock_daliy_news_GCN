@@ -1,0 +1,10 @@
+{"news_id": "news_20211006_000004", "ts_code": "688223", "name": "晶科能源", "date": "2021-10-06 23:35:16", "sentiment_score": 0.8841}
+{"news_id": "news_20211006_000012", "ts_code": "002594", "name": "比亚迪", "date": "2021-10-06 21:42:04", "sentiment_score": 0.7398}
+{"news_id": "news_20211006_000040", "ts_code": "601318", "name": "中国平安", "date": "2021-10-06 17:14:32", "sentiment_score": 0.8938}
+{"news_id": "news_20211006_000064", "ts_code": "002594", "name": "比亚迪", "date": "2021-10-06 14:09:07", "sentiment_score": 0.747}
+{"news_id": "news_20211006_000068", "ts_code": "601318", "name": "中国平安", "date": "2021-10-06 13:45:07", "sentiment_score": 0.8569}
+{"news_id": "news_20211006_000086", "ts_code": "601857", "name": "中国石油", "date": "2021-10-06 09:37:15", "sentiment_score": 0.7927}
+{"news_id": "news_20211006_000088", "ts_code": "601857", "name": "中国石油", "date": "2021-10-06 09:36:13", "sentiment_score": 0.8428}
+{"news_id": "news_20211006_000092", "ts_code": "003816", "name": "中国广核", "date": "2021-10-06 08:11:13", "sentiment_score": 0.8428}
+{"news_id": "news_20211006_000115", "ts_code": "002594", "name": "比亚迪", "date": "2021-10-06 01:35:31", "sentiment_score": 0.7697}
+{"news_id": "news_20211006_000121", "ts_code": "002594", "name": "比亚迪", "date": "2021-10-06 00:59:32", "sentiment_score": 0.8242}

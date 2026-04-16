@@ -1,0 +1,7 @@
+{"news_id": "news_20250629_000008", "ts_code": "300014", "name": "亿纬锂能", "date": "2025-06-29 20:24:17", "sentiment_score": 0.7166}
+{"news_id": "news_20250629_000008", "ts_code": "688169", "name": "石头科技", "date": "2025-06-29 20:24:17", "sentiment_score": 0.7166}
+{"news_id": "news_20250629_000008", "ts_code": "688008", "name": "澜起科技", "date": "2025-06-29 20:24:17", "sentiment_score": 0.7166}
+{"news_id": "news_20250629_000039", "ts_code": "002049", "name": "紫光国微", "date": "2025-06-29 16:37:37", "sentiment_score": 0.7093}
+{"news_id": "news_20250629_000058", "ts_code": "300760", "name": "迈瑞医疗", "date": "2025-06-29 15:36:19", "sentiment_score": 0.7582}
+{"news_id": "news_20250629_000065", "ts_code": "000538", "name": "云南白药", "date": "2025-06-29 14:26:30", "sentiment_score": 0.7199}
+{"news_id": "news_20250629_000083", "ts_code": "002415", "name": "海康威视", "date": "2025-06-29 08:49:38", "sentiment_score": 0.6213}

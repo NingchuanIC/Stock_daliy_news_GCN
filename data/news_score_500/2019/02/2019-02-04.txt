@@ -1,0 +1,6 @@
+{"news_id": "news_20190204_000032", "ts_code": "601628", "name": "中国人寿", "date": "2019-02-04 11:41:00", "sentiment_score": 0.8576}
+{"news_id": "news_20190204_000034", "ts_code": "000063", "name": "中兴通讯", "date": "2019-02-04 11:27:59", "sentiment_score": 0.7416}
+{"news_id": "news_20190204_000039", "ts_code": "601318", "name": "中国平安", "date": "2019-02-04 10:31:54", "sentiment_score": 0.7966}
+{"news_id": "news_20190204_000042", "ts_code": "002739", "name": "万达电影", "date": "2019-02-04 10:11:50", "sentiment_score": 0.4119}
+{"news_id": "news_20190204_000042", "ts_code": "300251", "name": "光线传媒", "date": "2019-02-04 10:11:50", "sentiment_score": 0.4119}
+{"news_id": "news_20190204_000049", "ts_code": "600115", "name": "东方航空", "date": "2019-02-04 09:04:56", "sentiment_score": 0.8637}

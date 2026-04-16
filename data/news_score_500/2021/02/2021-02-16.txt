@@ -1,0 +1,2 @@
+{"news_id": "news_20210216_000095", "ts_code": "601238", "name": "广汽集团", "date": "2021-02-16 17:35:19", "sentiment_score": 0.8764}
+{"news_id": "news_20210216_000104", "ts_code": "601601", "name": "中国太保", "date": "2021-02-16 17:15:28", "sentiment_score": 0.89}

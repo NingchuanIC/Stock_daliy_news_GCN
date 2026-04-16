@@ -1,0 +1,7 @@
+{"news_id": "news_20200118_000002", "ts_code": "600030", "name": "中信证券", "date": "2020-01-18 22:31:48", "sentiment_score": 0.5892}
+{"news_id": "news_20200118_000005", "ts_code": "600030", "name": "中信证券", "date": "2020-01-18 18:09:19", "sentiment_score": 0.5639}
+{"news_id": "news_20200118_000012", "ts_code": "600050", "name": "中国联通", "date": "2020-01-18 13:50:02", "sentiment_score": 0.6987}
+{"news_id": "news_20200118_000015", "ts_code": "300750", "name": "宁德时代", "date": "2020-01-18 11:44:29", "sentiment_score": 0.6234}
+{"news_id": "news_20200118_000017", "ts_code": "002594", "name": "比亚迪", "date": "2020-01-18 10:34:14", "sentiment_score": 0.4145}
+{"news_id": "news_20200118_000019", "ts_code": "600276", "name": "恒瑞医药", "date": "2020-01-18 09:58:33", "sentiment_score": 0.7009}
+{"news_id": "news_20200118_000019", "ts_code": "002422", "name": "科伦药业", "date": "2020-01-18 09:58:33", "sentiment_score": 0.7009}

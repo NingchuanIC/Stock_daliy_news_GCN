@@ -1,0 +1,4 @@
+{"news_id": "news_20230122_000010", "ts_code": "603019", "name": "中科曙光", "date": "2023-01-22 15:51:14", "sentiment_score": 0.7137}
+{"news_id": "news_20230122_000021", "ts_code": "000338", "name": "潍柴动力", "date": "2023-01-22 12:30:49", "sentiment_score": 0.7228}
+{"news_id": "news_20230122_000031", "ts_code": "601766", "name": "中国中车", "date": "2023-01-22 09:43:02", "sentiment_score": 0.7015}
+{"news_id": "news_20230122_000033", "ts_code": "000157", "name": "中联重科", "date": "2023-01-22 09:05:33", "sentiment_score": 0.7323}

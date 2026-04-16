@@ -1,0 +1,6 @@
+{"news_id": "news_20220130_000011", "ts_code": "300750", "name": "宁德时代", "date": "2022-01-30 14:47:48", "sentiment_score": 0.7579}
+{"news_id": "news_20220130_000011", "ts_code": "300207", "name": "欣旺达", "date": "2022-01-30 14:47:48", "sentiment_score": 0.7579}
+{"news_id": "news_20220130_000014", "ts_code": "300015", "name": "爱尔眼科", "date": "2022-01-30 14:22:08", "sentiment_score": 0.7479}
+{"news_id": "news_20220130_000018", "ts_code": "300014", "name": "惠州亿纬锂能股份有限公司", "date": "2022-01-30 13:23:59", "sentiment_score": 0.5933}
+{"news_id": "news_20220130_000019", "ts_code": "300750", "name": "宁德时代", "date": "2022-01-30 12:28:27", "sentiment_score": 0.7345}
+{"news_id": "news_20220130_000019", "ts_code": "300014", "name": "亿纬锂能", "date": "2022-01-30 12:28:27", "sentiment_score": 0.7345}

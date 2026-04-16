@@ -1,0 +1,11 @@
+{"news_id": "news_20230507_000044", "ts_code": "600166", "name": "福田汽车", "date": "2023-05-07 16:30:44", "sentiment_score": 0.7097}
+{"news_id": "news_20230507_000045", "ts_code": "600276", "name": "恒瑞医药", "date": "2023-05-07 16:30:29", "sentiment_score": 0.4189}
+{"news_id": "news_20230507_000054", "ts_code": "600309", "name": "万华化学", "date": "2023-05-07 15:51:24", "sentiment_score": 0.5561}
+{"news_id": "news_20230507_000055", "ts_code": "688180", "name": "君实生物", "date": "2023-05-07 15:47:41", "sentiment_score": 0.6964}
+{"news_id": "news_20230507_000057", "ts_code": "688235", "name": "百济神州", "date": "2023-05-07 15:44:53", "sentiment_score": 0.6078}
+{"news_id": "news_20230507_000081", "ts_code": "300760", "name": "迈瑞医疗", "date": "2023-05-07 13:21:41", "sentiment_score": 0.5592}
+{"news_id": "news_20230507_000098", "ts_code": "300459", "name": "汤姆猫", "date": "2023-05-07 09:43:51", "sentiment_score": 0.7265}
+{"news_id": "news_20230507_000100", "ts_code": "600519", "name": "贵州茅台", "date": "2023-05-07 09:05:16", "sentiment_score": 0.7806}
+{"news_id": "news_20230507_000104", "ts_code": "600519", "name": "贵州茅台", "date": "2023-05-07 08:16:36", "sentiment_score": 0.6593}
+{"news_id": "news_20230507_000105", "ts_code": "600519", "name": "贵州茅台", "date": "2023-05-07 08:10:34", "sentiment_score": 0.7905}
+{"news_id": "news_20230507_000107", "ts_code": "000858", "name": "五粮液", "date": "2023-05-07 07:45:15", "sentiment_score": 0.5679}

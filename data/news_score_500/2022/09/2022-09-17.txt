@@ -1,0 +1,6 @@
+{"news_id": "news_20220917_000005", "ts_code": "300750", "name": "宁德时代", "date": "2022-09-17 22:07:58", "sentiment_score": 0.844}
+{"news_id": "news_20220917_000018", "ts_code": "600050", "name": "中国联通", "date": "2022-09-17 15:30:44", "sentiment_score": 0.6786}
+{"news_id": "news_20220917_000020", "ts_code": "000063", "name": "中兴通讯股份有限公司", "date": "2022-09-17 14:01:50", "sentiment_score": 0.6489}
+{"news_id": "news_20220917_000031", "ts_code": "002475", "name": "立讯精密", "date": "2022-09-17 08:07:34", "sentiment_score": 0.7066}
+{"news_id": "news_20220917_000035", "ts_code": "688041", "name": "海光信息", "date": "2022-09-17 06:56:01", "sentiment_score": 0.6395}
+{"news_id": "news_20220917_000042", "ts_code": "601211", "name": "国泰君安", "date": "2022-09-17 01:23:29", "sentiment_score": 0.7719}

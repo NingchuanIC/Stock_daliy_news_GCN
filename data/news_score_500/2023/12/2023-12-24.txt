@@ -1,0 +1,8 @@
+{"news_id": "news_20231224_000004", "ts_code": "300459", "name": "汤姆猫", "date": "2023-12-24 20:47:54", "sentiment_score": 0.6435}
+{"news_id": "news_20231224_000015", "ts_code": "000568", "name": "泸州老窖", "date": "2023-12-24 18:31:21", "sentiment_score": 0.6169}
+{"news_id": "news_20231224_000016", "ts_code": "600028", "name": "中国石化", "date": "2023-12-24 18:31:14", "sentiment_score": 0.6343}
+{"news_id": "news_20231224_000029", "ts_code": "600153", "name": "建发股份", "date": "2023-12-24 17:01:25", "sentiment_score": 0.7247}
+{"news_id": "news_20231224_000053", "ts_code": "300832", "name": "新产业", "date": "2023-12-24 15:18:32", "sentiment_score": 0.663}
+{"news_id": "news_20231224_000059", "ts_code": "600938", "name": "中国海油", "date": "2023-12-24 14:06:54", "sentiment_score": 0.7241}
+{"news_id": "news_20231224_000065", "ts_code": "002074", "name": "国轩高科", "date": "2023-12-24 12:45:00", "sentiment_score": 0.7425}
+{"news_id": "news_20231224_000075", "ts_code": "601728", "name": "中国电信", "date": "2023-12-24 10:35:37", "sentiment_score": 0.769}

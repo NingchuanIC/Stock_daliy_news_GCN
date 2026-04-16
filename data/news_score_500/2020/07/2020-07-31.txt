@@ -1,0 +1,13 @@
+{"news_id": "news_20200731_000046", "ts_code": "600690", "name": "海尔智家", "date": "2020-07-31 19:48:45", "sentiment_score": 0.7522}
+{"news_id": "news_20200731_000054", "ts_code": "600690", "name": "海尔智家", "date": "2020-07-31 19:13:24", "sentiment_score": 0.7431}
+{"news_id": "news_20200731_000115", "ts_code": "600332", "name": "白云山", "date": "2020-07-31 16:56:35", "sentiment_score": 0.7845}
+{"news_id": "news_20200731_000136", "ts_code": "600028", "name": "中国石化", "date": "2020-07-31 16:17:11", "sentiment_score": 0.8578}
+{"news_id": "news_20200731_000154", "ts_code": "002594", "name": "比亚迪", "date": "2020-07-31 13:34:33", "sentiment_score": 0.7209}
+{"news_id": "news_20200731_000155", "ts_code": "002244", "name": "滨江集团", "date": "2020-07-31 13:12:28", "sentiment_score": 0.7746}
+{"news_id": "news_20200731_000167", "ts_code": "601985", "name": "中国核电", "date": "2020-07-31 12:41:08", "sentiment_score": 0.675}
+{"news_id": "news_20200731_000178", "ts_code": "601899", "name": "紫金矿业", "date": "2020-07-31 11:28:25", "sentiment_score": 0.8893}
+{"news_id": "news_20200731_000178", "ts_code": "600547", "name": "山东黄金", "date": "2020-07-31 11:28:25", "sentiment_score": 0.8893}
+{"news_id": "news_20200731_000196", "ts_code": "002241", "name": "歌尔股份", "date": "2020-07-31 09:33:04", "sentiment_score": 0.8337}
+{"news_id": "news_20200731_000196", "ts_code": "002384", "name": "东山精密", "date": "2020-07-31 09:33:04", "sentiment_score": 0.8337}
+{"news_id": "news_20200731_000203", "ts_code": "002415", "name": "海康威视", "date": "2020-07-31 09:10:02", "sentiment_score": 0.7148}
+{"news_id": "news_20200731_000214", "ts_code": "600519", "name": "贵州茅台", "date": "2020-07-31 07:29:49", "sentiment_score": 0.7912}

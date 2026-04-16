@@ -1,0 +1,8 @@
+{"news_id": "news_20200712_000003", "ts_code": "603993", "name": "洛阳钼业", "date": "2020-07-12 22:09:29", "sentiment_score": 0.8091}
+{"news_id": "news_20200712_000005", "ts_code": "002594", "name": "比亚迪", "date": "2020-07-12 21:28:35", "sentiment_score": 0.6869}
+{"news_id": "news_20200712_000023", "ts_code": "000858", "name": "五粮液", "date": "2020-07-12 16:26:24", "sentiment_score": 0.7328}
+{"news_id": "news_20200712_000025", "ts_code": "002603", "name": "以岭药业", "date": "2020-07-12 16:10:59", "sentiment_score": 0.8577}
+{"news_id": "news_20200712_000030", "ts_code": "600196", "name": "复星医药", "date": "2020-07-12 15:02:25", "sentiment_score": 0.7531}
+{"news_id": "news_20200712_000031", "ts_code": "001979", "name": "招商蛇口", "date": "2020-07-12 15:02:06", "sentiment_score": 0.7844}
+{"news_id": "news_20200712_000031", "ts_code": "601318", "name": "中国平安", "date": "2020-07-12 15:02:06", "sentiment_score": 0.7844}
+{"news_id": "news_20200712_000048", "ts_code": "002594", "name": "比亚迪", "date": "2020-07-12 10:47:22", "sentiment_score": 0.7068}

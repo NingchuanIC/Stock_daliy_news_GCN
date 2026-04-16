@@ -1,0 +1,16 @@
+{"news_id": "news_20241001_000013", "ts_code": "601633", "name": "长城汽车", "date": "2024-10-01 22:40:53", "sentiment_score": 0.7911}
+{"news_id": "news_20241001_000013", "ts_code": "600104", "name": "上汽集团", "date": "2024-10-01 22:40:53", "sentiment_score": 0.7911}
+{"news_id": "news_20241001_000013", "ts_code": "002594", "name": "比亚迪", "date": "2024-10-01 22:40:53", "sentiment_score": 0.7911}
+{"news_id": "news_20241001_000014", "ts_code": "601633", "name": "长城汽车", "date": "2024-10-01 22:40:49", "sentiment_score": 0.7911}
+{"news_id": "news_20241001_000014", "ts_code": "600104", "name": "上汽集团", "date": "2024-10-01 22:40:49", "sentiment_score": 0.7911}
+{"news_id": "news_20241001_000014", "ts_code": "002594", "name": "比亚迪", "date": "2024-10-01 22:40:49", "sentiment_score": 0.7911}
+{"news_id": "news_20241001_000020", "ts_code": "601669", "name": "中国电建", "date": "2024-10-01 21:55:08", "sentiment_score": 0.7296}
+{"news_id": "news_20241001_000034", "ts_code": "601633", "name": "长城汽车", "date": "2024-10-01 18:23:05", "sentiment_score": 0.792}
+{"news_id": "news_20241001_000036", "ts_code": "002594", "name": "比亚迪", "date": "2024-10-01 18:22:21", "sentiment_score": 0.8358}
+{"news_id": "news_20241001_000040", "ts_code": "002594", "name": "比亚迪", "date": "2024-10-01 18:15:55", "sentiment_score": 0.8034}
+{"news_id": "news_20241001_000041", "ts_code": "600104", "name": "上汽集团", "date": "2024-10-01 18:15:25", "sentiment_score": 0.8391}
+{"news_id": "news_20241001_000114", "ts_code": "002594", "name": "比亚迪", "date": "2024-10-01 11:46:02", "sentiment_score": 0.5105}
+{"news_id": "news_20241001_000126", "ts_code": "300750", "name": "宁德时代", "date": "2024-10-01 10:49:42", "sentiment_score": 0.7784}
+{"news_id": "news_20241001_000126", "ts_code": "000333", "name": "美的集团", "date": "2024-10-01 10:49:42", "sentiment_score": 0.7784}
+{"news_id": "news_20241001_000144", "ts_code": "603259", "name": "药明康德", "date": "2024-10-01 09:14:14", "sentiment_score": 0.7372}
+{"news_id": "news_20241001_000192", "ts_code": "600438", "name": "通威股份", "date": "2024-10-01 04:15:30", "sentiment_score": 0.8457}

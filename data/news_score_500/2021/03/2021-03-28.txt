@@ -1,0 +1,12 @@
+{"news_id": "news_20210328_000005", "ts_code": "601633", "name": "长城汽车", "date": "2021-03-28 22:30:32", "sentiment_score": 0.727}
+{"news_id": "news_20210328_000009", "ts_code": "601211", "name": "国泰君安", "date": "2021-03-28 21:47:34", "sentiment_score": 0.7985}
+{"news_id": "news_20210328_000017", "ts_code": "600196", "name": "复星医药", "date": "2021-03-28 19:11:36", "sentiment_score": 0.7419}
+{"news_id": "news_20210328_000022", "ts_code": "002594", "name": "比亚迪", "date": "2021-03-28 18:12:38", "sentiment_score": 0.6724}
+{"news_id": "news_20210328_000057", "ts_code": "600028", "name": "中国石化", "date": "2021-03-28 15:52:35", "sentiment_score": 0.6268}
+{"news_id": "news_20210328_000068", "ts_code": "600028", "name": "中国石化", "date": "2021-03-28 14:29:03", "sentiment_score": 0.7038}
+{"news_id": "news_20210328_000071", "ts_code": "600028", "name": "中国石化", "date": "2021-03-28 14:26:09", "sentiment_score": 0.839}
+{"news_id": "news_20210328_000073", "ts_code": "601601", "name": "中国太保", "date": "2021-03-28 14:24:49", "sentiment_score": 0.8056}
+{"news_id": "news_20210328_000075", "ts_code": "600028", "name": "中国石化", "date": "2021-03-28 14:21:08", "sentiment_score": 0.7908}
+{"news_id": "news_20210328_000079", "ts_code": "601601", "name": "中国太保", "date": "2021-03-28 14:17:45", "sentiment_score": 0.8687}
+{"news_id": "news_20210328_000082", "ts_code": "002050", "name": "三花智控", "date": "2021-03-28 13:56:32", "sentiment_score": 0.7183}
+{"news_id": "news_20210328_000090", "ts_code": "000651", "name": "珠海格力电器股份有限公司", "date": "2021-03-28 09:17:23", "sentiment_score": 0.5724}

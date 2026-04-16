@@ -1,0 +1,17 @@
+{"news_id": "news_20230826_000004", "ts_code": "600900", "name": "长江电力", "date": "2023-08-26 20:22:10", "sentiment_score": 0.753}
+{"news_id": "news_20230826_000006", "ts_code": "600030", "name": "中信证券", "date": "2023-08-26 19:53:26", "sentiment_score": 0.8462}
+{"news_id": "news_20230826_000006", "ts_code": "600415", "name": "小商品城", "date": "2023-08-26 19:53:26", "sentiment_score": 0.8462}
+{"news_id": "news_20230826_000012", "ts_code": "600029", "name": "南方航空", "date": "2023-08-26 19:00:48", "sentiment_score": 0.7611}
+{"news_id": "news_20230826_000027", "ts_code": "300014", "name": "亿纬锂能", "date": "2023-08-26 15:04:57", "sentiment_score": 0.6728}
+{"news_id": "news_20230826_000029", "ts_code": "601633", "name": "长城汽车", "date": "2023-08-26 14:48:02", "sentiment_score": 0.7833}
+{"news_id": "news_20230826_000041", "ts_code": "600029", "name": "南方航空", "date": "2023-08-26 13:04:15", "sentiment_score": 0.6466}
+{"news_id": "news_20230826_000043", "ts_code": "601857", "name": "中国石油", "date": "2023-08-26 12:44:17", "sentiment_score": 0.7866}
+{"news_id": "news_20230826_000045", "ts_code": "601668", "name": "中国建筑", "date": "2023-08-26 12:07:45", "sentiment_score": 0.7526}
+{"news_id": "news_20230826_000048", "ts_code": "002230", "name": "科大讯飞", "date": "2023-08-26 11:39:58", "sentiment_score": 0.6525}
+{"news_id": "news_20230826_000056", "ts_code": "600019", "name": "宝钢股份", "date": "2023-08-26 10:44:02", "sentiment_score": 0.7032}
+{"news_id": "news_20230826_000057", "ts_code": "601669", "name": "中国电建", "date": "2023-08-26 09:42:04", "sentiment_score": 0.7735}
+{"news_id": "news_20230826_000059", "ts_code": "000063", "name": "中兴通讯", "date": "2023-08-26 09:17:08", "sentiment_score": 0.737}
+{"news_id": "news_20230826_000061", "ts_code": "000858", "name": "五粮液", "date": "2023-08-26 09:11:00", "sentiment_score": 0.7862}
+{"news_id": "news_20230826_000063", "ts_code": "000333", "name": "美的集团", "date": "2023-08-26 08:34:38", "sentiment_score": 0.4431}
+{"news_id": "news_20230826_000063", "ts_code": "688223", "name": "晶科能源", "date": "2023-08-26 08:34:38", "sentiment_score": 0.4431}
+{"news_id": "news_20230826_000064", "ts_code": "002405", "name": "四维图新", "date": "2023-08-26 08:29:04", "sentiment_score": 0.7154}

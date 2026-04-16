@@ -1,0 +1,14 @@
+{"news_id": "news_20210417_000004", "ts_code": "300750", "name": "宁德时代", "date": "2021-04-17 21:45:30", "sentiment_score": 0.6785}
+{"news_id": "news_20210417_000011", "ts_code": "000338", "name": "潍柴动力", "date": "2021-04-17 19:07:28", "sentiment_score": 0.7547}
+{"news_id": "news_20210417_000013", "ts_code": "002415", "name": "海康威视", "date": "2021-04-17 18:31:42", "sentiment_score": 0.7574}
+{"news_id": "news_20210417_000015", "ts_code": "601012", "name": "隆基股份", "date": "2021-04-17 18:16:44", "sentiment_score": 0.7989}
+{"news_id": "news_20210417_000015", "ts_code": "300059", "name": "东方财富", "date": "2021-04-17 18:16:44", "sentiment_score": 0.7989}
+{"news_id": "news_20210417_000020", "ts_code": "002074", "name": "国轩高科", "date": "2021-04-17 16:20:35", "sentiment_score": 0.588}
+{"news_id": "news_20210417_000023", "ts_code": "002415", "name": "海康威视", "date": "2021-04-17 15:40:46", "sentiment_score": 0.7176}
+{"news_id": "news_20210417_000025", "ts_code": "002594", "name": "比亚迪", "date": "2021-04-17 14:16:04", "sentiment_score": 0.6694}
+{"news_id": "news_20210417_000027", "ts_code": "601899", "name": "紫金矿业", "date": "2021-04-17 13:37:16", "sentiment_score": 0.7626}
+{"news_id": "news_20210417_000029", "ts_code": "601186", "name": "中国铁建股份有限公司", "date": "2021-04-17 13:14:55", "sentiment_score": 0.7284}
+{"news_id": "news_20210417_000030", "ts_code": "601899", "name": "紫金矿业", "date": "2021-04-17 12:43:42", "sentiment_score": 0.6728}
+{"news_id": "news_20210417_000031", "ts_code": "002415", "name": "海康威视", "date": "2021-04-17 12:34:02", "sentiment_score": 0.6462}
+{"news_id": "news_20210417_000039", "ts_code": "002714", "name": "牧原股份", "date": "2021-04-17 09:18:16", "sentiment_score": 0.7838}
+{"news_id": "news_20210417_000040", "ts_code": "600519", "name": "贵州茅台", "date": "2021-04-17 09:18:00", "sentiment_score": 0.7867}

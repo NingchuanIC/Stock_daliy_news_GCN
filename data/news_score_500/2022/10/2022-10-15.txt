@@ -1,0 +1,9 @@
+{"news_id": "news_20221015_000007", "ts_code": "600438", "name": "通威股份", "date": "2022-10-15 19:54:37", "sentiment_score": 0.5947}
+{"news_id": "news_20221015_000009", "ts_code": "601238", "name": "广汽集团", "date": "2022-10-15 19:01:49", "sentiment_score": 0.7911}
+{"news_id": "news_20221015_000012", "ts_code": "600332", "name": "白云山", "date": "2022-10-15 18:33:14", "sentiment_score": 0.5914}
+{"news_id": "news_20221015_000017", "ts_code": "000333", "name": "美的集团", "date": "2022-10-15 15:12:32", "sentiment_score": 0.7289}
+{"news_id": "news_20221015_000030", "ts_code": "600418", "name": "江淮汽车", "date": "2022-10-15 10:28:24", "sentiment_score": 0.4761}
+{"news_id": "news_20221015_000033", "ts_code": "300760", "name": "迈瑞医疗", "date": "2022-10-15 09:33:28", "sentiment_score": 0.6937}
+{"news_id": "news_20221015_000034", "ts_code": "002415", "name": "海康威视", "date": "2022-10-15 09:16:42", "sentiment_score": 0.7097}
+{"news_id": "news_20221015_000044", "ts_code": "600028", "name": "中国石化", "date": "2022-10-15 05:45:25", "sentiment_score": 0.7807}
+{"news_id": "news_20221015_000055", "ts_code": "688223", "name": "晶科能源", "date": "2022-10-15 04:02:37", "sentiment_score": 0.8068}

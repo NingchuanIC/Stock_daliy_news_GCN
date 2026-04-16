@@ -1,0 +1,7 @@
+{"news_id": "news_20220204_000025", "ts_code": "000661", "name": "长春高新", "date": "2022-02-04 20:57:21", "sentiment_score": 0.3444}
+{"news_id": "news_20220204_000034", "ts_code": "601857", "name": "中国石油", "date": "2022-02-04 18:15:52", "sentiment_score": 0.5704}
+{"news_id": "news_20220204_000067", "ts_code": "601088", "name": "中国神华", "date": "2022-02-04 10:45:32", "sentiment_score": 0.8069}
+{"news_id": "news_20220204_000071", "ts_code": "601633", "name": "长城汽车", "date": "2022-02-04 10:23:12", "sentiment_score": 0.8643}
+{"news_id": "news_20220204_000072", "ts_code": "002594", "name": "比亚迪", "date": "2022-02-04 10:16:59", "sentiment_score": 0.8838}
+{"news_id": "news_20220204_000075", "ts_code": "601633", "name": "长城汽车", "date": "2022-02-04 09:24:32", "sentiment_score": 0.8747}
+{"news_id": "news_20220204_000075", "ts_code": "002594", "name": "比亚迪", "date": "2022-02-04 09:24:32", "sentiment_score": 0.8747}

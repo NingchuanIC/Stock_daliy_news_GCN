@@ -1,0 +1,9 @@
+{"news_id": "news_20220424_000003", "ts_code": "601857", "name": "中国石油", "date": "2022-04-24 22:56:16", "sentiment_score": 0.7811}
+{"news_id": "news_20220424_000005", "ts_code": "002812", "name": "Lee", "date": "2022-04-24 22:19:03", "sentiment_score": 0.7033}
+{"news_id": "news_20220424_000007", "ts_code": "300750", "name": "宁德时代", "date": "2022-04-24 21:18:15", "sentiment_score": 0.7228}
+{"news_id": "news_20220424_000044", "ts_code": "300073", "name": "当升科技", "date": "2022-04-24 17:59:16", "sentiment_score": 0.3926}
+{"news_id": "news_20220424_000047", "ts_code": "300750", "name": "宁德时代", "date": "2022-04-24 17:47:29", "sentiment_score": 0.7439}
+{"news_id": "news_20220424_000053", "ts_code": "300308", "name": "中际旭创", "date": "2022-04-24 17:33:33", "sentiment_score": 0.8429}
+{"news_id": "news_20220424_000115", "ts_code": "300014", "name": "惠州亿纬锂能股份有限公司", "date": "2022-04-24 14:49:14", "sentiment_score": 0.7346}
+{"news_id": "news_20220424_000118", "ts_code": "002008", "name": "大族激光", "date": "2022-04-24 11:54:12", "sentiment_score": 0.6658}
+{"news_id": "news_20220424_000128", "ts_code": "003816", "name": "中国广核", "date": "2022-04-24 00:01:06", "sentiment_score": 0.7145}

@@ -1,0 +1,6 @@
+{"news_id": "news_20211204_000002", "ts_code": "300750", "name": "宁德时代", "date": "2021-12-04 21:31:48", "sentiment_score": 0.6878}
+{"news_id": "news_20211204_000007", "ts_code": "002594", "name": "比亚迪", "date": "2021-12-04 18:49:15", "sentiment_score": 0.7431}
+{"news_id": "news_20211204_000012", "ts_code": "601633", "name": "长城汽车", "date": "2021-12-04 17:08:44", "sentiment_score": 0.8351}
+{"news_id": "news_20211204_000020", "ts_code": "601689", "name": "拓普集团", "date": "2021-12-04 11:16:49", "sentiment_score": 0.6712}
+{"news_id": "news_20211204_000022", "ts_code": "600030", "name": "中信证券", "date": "2021-12-04 10:02:43", "sentiment_score": 0.7263}
+{"news_id": "news_20211204_000022", "ts_code": "002709", "name": "天赐材料", "date": "2021-12-04 10:02:43", "sentiment_score": 0.7263}

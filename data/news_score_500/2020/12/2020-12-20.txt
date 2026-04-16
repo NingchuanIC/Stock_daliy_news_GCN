@@ -1,0 +1,7 @@
+{"news_id": "news_20201220_000004", "ts_code": "601988", "name": "中国银行", "date": "2020-12-20 21:37:14", "sentiment_score": 0.6307}
+{"news_id": "news_20201220_000017", "ts_code": "600690", "name": "海尔智家", "date": "2020-12-20 17:56:07", "sentiment_score": 0.7258}
+{"news_id": "news_20201220_000039", "ts_code": "600196", "name": "复星医药", "date": "2020-12-20 15:22:37", "sentiment_score": 0.6978}
+{"news_id": "news_20201220_000042", "ts_code": "601012", "name": "隆基股份", "date": "2020-12-20 15:09:14", "sentiment_score": 0.7251}
+{"news_id": "news_20201220_000044", "ts_code": "600030", "name": "中信证券", "date": "2020-12-20 14:42:38", "sentiment_score": 0.6854}
+{"news_id": "news_20201220_000052", "ts_code": "600276", "name": "恒瑞医药", "date": "2020-12-20 08:10:11", "sentiment_score": 0.7608}
+{"news_id": "news_20201220_000053", "ts_code": "603986", "name": "兆易创新", "date": "2020-12-20 07:43:36", "sentiment_score": 0.6932}

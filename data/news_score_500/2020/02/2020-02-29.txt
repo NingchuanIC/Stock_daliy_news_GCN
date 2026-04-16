@@ -1,0 +1,6 @@
+{"news_id": "news_20200229_000009", "ts_code": "002049", "name": "紫光国微", "date": "2020-02-29 17:54:46", "sentiment_score": 0.7363}
+{"news_id": "news_20200229_000015", "ts_code": "601857", "name": "中国石油", "date": "2020-02-29 14:02:17", "sentiment_score": 0.708}
+{"news_id": "news_20200229_000016", "ts_code": "688256", "name": "寒武纪", "date": "2020-02-29 13:40:15", "sentiment_score": 0.8352}
+{"news_id": "news_20200229_000019", "ts_code": "688256", "name": "中科寒武纪科技股份有限公司", "date": "2020-02-29 10:28:58", "sentiment_score": 0.699}
+{"news_id": "news_20200229_000019", "ts_code": "002230", "name": "科大讯飞", "date": "2020-02-29 10:28:58", "sentiment_score": 0.699}
+{"news_id": "news_20200229_000019", "ts_code": "600030", "name": "中信证券", "date": "2020-02-29 10:28:58", "sentiment_score": 0.699}

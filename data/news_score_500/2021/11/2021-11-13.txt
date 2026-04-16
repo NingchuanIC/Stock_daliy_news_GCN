@@ -1,0 +1,6 @@
+{"news_id": "news_20211113_000005", "ts_code": "000651", "name": "格力电器", "date": "2021-11-13 19:18:35", "sentiment_score": 0.713}
+{"news_id": "news_20211113_000006", "ts_code": "601728", "name": "中国电信", "date": "2021-11-13 17:09:38", "sentiment_score": 0.2164}
+{"news_id": "news_20211113_000020", "ts_code": "300750", "name": "宁德时代", "date": "2021-11-13 06:49:15", "sentiment_score": 0.5949}
+{"news_id": "news_20211113_000020", "ts_code": "000651", "name": "格力电器", "date": "2021-11-13 06:49:15", "sentiment_score": 0.5949}
+{"news_id": "news_20211113_000020", "ts_code": "600519", "name": "贵州茅台", "date": "2021-11-13 06:49:15", "sentiment_score": 0.5949}
+{"news_id": "news_20211113_000020", "ts_code": "300059", "name": "东方财富", "date": "2021-11-13 06:49:15", "sentiment_score": 0.5949}

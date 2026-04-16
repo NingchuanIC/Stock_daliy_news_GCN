@@ -1,0 +1,16 @@
+{"news_id": "news_20190612_000035", "ts_code": "601988", "name": "中国银行", "date": "2019-06-12 20:04:50", "sentiment_score": 0.831}
+{"news_id": "news_20190612_000037", "ts_code": "600030", "name": "中信证券", "date": "2019-06-12 19:56:38", "sentiment_score": 0.7854}
+{"news_id": "news_20190612_000058", "ts_code": "601628", "name": "中国人寿", "date": "2019-06-12 18:28:59", "sentiment_score": 0.7809}
+{"news_id": "news_20190612_000059", "ts_code": "601600", "name": "中国铝业", "date": "2019-06-12 18:28:01", "sentiment_score": 0.7047}
+{"news_id": "news_20190612_000079", "ts_code": "601628", "name": "中国人寿", "date": "2019-06-12 17:14:51", "sentiment_score": 0.8111}
+{"news_id": "news_20190612_000102", "ts_code": "300750", "name": "宁德时代", "date": "2019-06-12 15:07:53", "sentiment_score": 0.6211}
+{"news_id": "news_20190612_000104", "ts_code": "000651", "name": "格力电器", "date": "2019-06-12 14:59:23", "sentiment_score": 0.6855}
+{"news_id": "news_20190612_000108", "ts_code": "600519", "name": "贵州茅台", "date": "2019-06-12 14:16:43", "sentiment_score": 0.6891}
+{"news_id": "news_20190612_000110", "ts_code": "601318", "name": "中国平安", "date": "2019-06-12 13:44:19", "sentiment_score": 0.6833}
+{"news_id": "news_20190612_000117", "ts_code": "601398", "name": "工商银行", "date": "2019-06-12 12:20:50", "sentiment_score": 0.827}
+{"news_id": "news_20190612_000130", "ts_code": "000725", "name": "京东方A", "date": "2019-06-12 11:01:54", "sentiment_score": 0.7818}
+{"news_id": "news_20190612_000132", "ts_code": "300433", "name": "蓝思科技", "date": "2019-06-12 10:49:39", "sentiment_score": 0.6871}
+{"news_id": "news_20190612_000134", "ts_code": "601318", "name": "中国平安", "date": "2019-06-12 10:42:46", "sentiment_score": 0.6278}
+{"news_id": "news_20190612_000141", "ts_code": "300433", "name": "蓝思科技", "date": "2019-06-12 10:01:52", "sentiment_score": 0.8026}
+{"news_id": "news_20190612_000145", "ts_code": "002594", "name": "比亚迪", "date": "2019-06-12 09:39:14", "sentiment_score": 0.8848}
+{"news_id": "news_20190612_000151", "ts_code": "000625", "name": "长安汽车", "date": "2019-06-12 08:05:02", "sentiment_score": 0.4221}

@@ -1,0 +1,9 @@
+{"news_id": "news_20250906_000006", "ts_code": "601728", "name": "中国电信股份有限公司", "date": "2025-09-06 21:57:27", "sentiment_score": 0.7889}
+{"news_id": "news_20250906_000006", "ts_code": "601288", "name": "农业银行", "date": "2025-09-06 21:57:27", "sentiment_score": 0.7889}
+{"news_id": "news_20250906_000016", "ts_code": "000425", "name": "徐工机械", "date": "2025-09-06 19:21:32", "sentiment_score": 0.7013}
+{"news_id": "news_20250906_000036", "ts_code": "000625", "name": "长安汽车", "date": "2025-09-06 13:43:25", "sentiment_score": 0.7188}
+{"news_id": "news_20250906_000041", "ts_code": "601728", "name": "中国电信股份有限公司", "date": "2025-09-06 12:43:12", "sentiment_score": 0.7377}
+{"news_id": "news_20250906_000041", "ts_code": "601288", "name": "农业银行", "date": "2025-09-06 12:43:12", "sentiment_score": 0.7377}
+{"news_id": "news_20250906_000071", "ts_code": "002230", "name": "科大讯飞股份有限公司", "date": "2025-09-06 08:13:11", "sentiment_score": 0.432}
+{"news_id": "news_20250906_000078", "ts_code": "000157", "name": "中联重科", "date": "2025-09-06 07:30:21", "sentiment_score": 0.4728}
+{"news_id": "news_20250906_000078", "ts_code": "688008", "name": "澜起科技", "date": "2025-09-06 07:30:21", "sentiment_score": 0.4728}

@@ -1,0 +1,6 @@
+{"news_id": "news_20210925_000004", "ts_code": "601988", "name": "中国银行", "date": "2021-09-25 19:57:49", "sentiment_score": 0.8095}
+{"news_id": "news_20210925_000005", "ts_code": "600029", "name": "南方航空", "date": "2021-09-25 18:50:26", "sentiment_score": 0.7584}
+{"news_id": "news_20210925_000005", "ts_code": "600115", "name": "东方航空", "date": "2021-09-25 18:50:26", "sentiment_score": 0.7584}
+{"news_id": "news_20210925_000025", "ts_code": "601318", "name": "中国平安", "date": "2021-09-25 13:24:04", "sentiment_score": 0.6376}
+{"news_id": "news_20210925_000032", "ts_code": "300122", "name": "智飞生物", "date": "2021-09-25 10:01:02", "sentiment_score": 0.6354}
+{"news_id": "news_20210925_000042", "ts_code": "601600", "name": "中国铝业", "date": "2021-09-25 06:43:12", "sentiment_score": 0.4073}

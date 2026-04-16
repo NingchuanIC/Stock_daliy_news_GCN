@@ -1,0 +1,3 @@
+{"news_id": "news_20210516_000002", "ts_code": "300001", "name": "特锐德", "date": "2021-05-16 22:34:05", "sentiment_score": 0.7452}
+{"news_id": "news_20210516_000006", "ts_code": "002594", "name": "比亚迪", "date": "2021-05-16 18:26:25", "sentiment_score": 0.8443}
+{"news_id": "news_20210516_000011", "ts_code": "300760", "name": "迈瑞医疗", "date": "2021-05-16 16:53:45", "sentiment_score": 0.8234}

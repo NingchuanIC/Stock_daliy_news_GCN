@@ -1,0 +1,12 @@
+{"news_id": "news_20220320_000002", "ts_code": "600276", "name": "恒瑞医药", "date": "2022-03-20 22:48:24", "sentiment_score": 0.6345}
+{"news_id": "news_20220320_000002", "ts_code": "600309", "name": "万华化学", "date": "2022-03-20 22:48:24", "sentiment_score": 0.6345}
+{"news_id": "news_20220320_000002", "ts_code": "601899", "name": "紫金矿业", "date": "2022-03-20 22:48:24", "sentiment_score": 0.6345}
+{"news_id": "news_20220320_000005", "ts_code": "601211", "name": "国泰君安", "date": "2022-03-20 22:24:53", "sentiment_score": 0.408}
+{"news_id": "news_20220320_000009", "ts_code": "600309", "name": "万华化学", "date": "2022-03-20 19:39:47", "sentiment_score": 0.7577}
+{"news_id": "news_20220320_000013", "ts_code": "000333", "name": "美的集团", "date": "2022-03-20 18:26:41", "sentiment_score": 0.7093}
+{"news_id": "news_20220320_000013", "ts_code": "002475", "name": "立讯精密", "date": "2022-03-20 18:26:41", "sentiment_score": 0.7093}
+{"news_id": "news_20220320_000013", "ts_code": "600031", "name": "三一重工", "date": "2022-03-20 18:26:41", "sentiment_score": 0.7093}
+{"news_id": "news_20220320_000079", "ts_code": "601633", "name": "长城汽车", "date": "2022-03-20 10:05:45", "sentiment_score": 0.6861}
+{"news_id": "news_20220320_000082", "ts_code": "600519", "name": "贵州茅台", "date": "2022-03-20 09:18:22", "sentiment_score": 0.5382}
+{"news_id": "news_20220320_000085", "ts_code": "688223", "name": "晶科能源", "date": "2022-03-20 03:13:37", "sentiment_score": 0.7159}
+{"news_id": "news_20220320_000088", "ts_code": "603986", "name": "兆易创新", "date": "2022-03-20 00:54:58", "sentiment_score": 0.6143}

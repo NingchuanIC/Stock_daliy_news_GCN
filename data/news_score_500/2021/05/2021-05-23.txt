@@ -1,0 +1,5 @@
+{"news_id": "news_20210523_000003", "ts_code": "300750", "name": "宁德时代", "date": "2021-05-23 21:52:34", "sentiment_score": 0.6095}
+{"news_id": "news_20210523_000003", "ts_code": "601211", "name": "国泰君安", "date": "2021-05-23 21:52:34", "sentiment_score": 0.6095}
+{"news_id": "news_20210523_000006", "ts_code": "000998", "name": "隆平高科", "date": "2021-05-23 17:59:53", "sentiment_score": 0.6606}
+{"news_id": "news_20210523_000008", "ts_code": "000426", "name": "兴业矿业", "date": "2021-05-23 17:10:45", "sentiment_score": 0.5749}
+{"news_id": "news_20210523_000015", "ts_code": "601238", "name": "广汽集团", "date": "2021-05-23 16:22:55", "sentiment_score": 0.7927}

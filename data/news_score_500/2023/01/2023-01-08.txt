@@ -1,0 +1,15 @@
+{"news_id": "news_20230108_000011", "ts_code": "601899", "name": "紫金矿业", "date": "2023-01-08 18:50:46", "sentiment_score": 0.7421}
+{"news_id": "news_20230108_000027", "ts_code": "600519", "name": "贵州茅台", "date": "2023-01-08 16:51:24", "sentiment_score": 0.6379}
+{"news_id": "news_20230108_000027", "ts_code": "000568", "name": "泸州老窖", "date": "2023-01-08 16:51:24", "sentiment_score": 0.6379}
+{"news_id": "news_20230108_000027", "ts_code": "000858", "name": "五粮液", "date": "2023-01-08 16:51:24", "sentiment_score": 0.6379}
+{"news_id": "news_20230108_000029", "ts_code": "601633", "name": "长城汽车", "date": "2023-01-08 16:42:18", "sentiment_score": 0.7372}
+{"news_id": "news_20230108_000029", "ts_code": "000625", "name": "长安汽车", "date": "2023-01-08 16:42:18", "sentiment_score": 0.7372}
+{"news_id": "news_20230108_000029", "ts_code": "002050", "name": "三花智控", "date": "2023-01-08 16:42:18", "sentiment_score": 0.7372}
+{"news_id": "news_20230108_000029", "ts_code": "601689", "name": "拓普集团", "date": "2023-01-08 16:42:18", "sentiment_score": 0.7372}
+{"news_id": "news_20230108_000029", "ts_code": "002594", "name": "比亚迪", "date": "2023-01-08 16:42:18", "sentiment_score": 0.7372}
+{"news_id": "news_20230108_000038", "ts_code": "002603", "name": "以岭药业", "date": "2023-01-08 16:23:23", "sentiment_score": 0.6315}
+{"news_id": "news_20230108_000039", "ts_code": "002340", "name": "格林美", "date": "2023-01-08 16:16:05", "sentiment_score": 0.6236}
+{"news_id": "news_20230108_000048", "ts_code": "600153", "name": "建发股份", "date": "2023-01-08 15:39:43", "sentiment_score": 0.5487}
+{"news_id": "news_20230108_000051", "ts_code": "600028", "name": "中国石化", "date": "2023-01-08 14:31:49", "sentiment_score": 0.6403}
+{"news_id": "news_20230108_000052", "ts_code": "002340", "name": "格林美", "date": "2023-01-08 14:01:14", "sentiment_score": 0.3861}
+{"news_id": "news_20230108_000054", "ts_code": "600031", "name": "三一重工股份有限公司", "date": "2023-01-08 13:51:40", "sentiment_score": 0.703}

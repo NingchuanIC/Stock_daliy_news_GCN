@@ -1,0 +1,9 @@
+{"news_id": "news_20210503_000055", "ts_code": "601288", "name": "农业银行", "date": "2021-05-03 17:21:15", "sentiment_score": 0.8785}
+{"news_id": "news_20210503_000060", "ts_code": "601318", "name": "中国平安", "date": "2021-05-03 15:44:46", "sentiment_score": 0.7561}
+{"news_id": "news_20210503_000069", "ts_code": "600196", "name": "复星医药", "date": "2021-05-03 13:19:34", "sentiment_score": 0.768}
+{"news_id": "news_20210503_000088", "ts_code": "600196", "name": "复星医药", "date": "2021-05-03 10:26:26", "sentiment_score": 0.8622}
+{"news_id": "news_20210503_000090", "ts_code": "600196", "name": "复星医药", "date": "2021-05-03 10:01:58", "sentiment_score": 0.8039}
+{"news_id": "news_20210503_000094", "ts_code": "601318", "name": "中国平安", "date": "2021-05-03 09:31:50", "sentiment_score": 0.8106}
+{"news_id": "news_20210503_000096", "ts_code": "603993", "name": "洛阳钼业", "date": "2021-05-03 09:25:47", "sentiment_score": 0.8771}
+{"news_id": "news_20210503_000097", "ts_code": "601318", "name": "中国平安", "date": "2021-05-03 09:22:30", "sentiment_score": 0.8534}
+{"news_id": "news_20210503_000117", "ts_code": "600690", "name": "海尔智家", "date": "2021-05-03 06:26:50", "sentiment_score": 0.8065}

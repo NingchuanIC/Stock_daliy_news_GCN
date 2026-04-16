@@ -1,0 +1,12 @@
+{"news_id": "news_20240810_000015", "ts_code": "300750", "name": "宁德时代", "date": "2024-08-10 20:14:53", "sentiment_score": 0.7361}
+{"news_id": "news_20240810_000017", "ts_code": "600887", "name": "伊利股份", "date": "2024-08-10 19:56:28", "sentiment_score": 0.6017}
+{"news_id": "news_20240810_000021", "ts_code": "300750", "name": "宁德时代", "date": "2024-08-10 17:25:20", "sentiment_score": 0.5289}
+{"news_id": "news_20240810_000022", "ts_code": "600519", "name": "贵州茅台", "date": "2024-08-10 17:08:10", "sentiment_score": 0.699}
+{"news_id": "news_20240810_000026", "ts_code": "300750", "name": "宁德时代", "date": "2024-08-10 16:51:21", "sentiment_score": 0.6211}
+{"news_id": "news_20240810_000029", "ts_code": "600795", "name": "国电电力", "date": "2024-08-10 15:00:58", "sentiment_score": 0.5749}
+{"news_id": "news_20240810_000032", "ts_code": "601012", "name": "隆基绿能", "date": "2024-08-10 13:58:55", "sentiment_score": 0.6878}
+{"news_id": "news_20240810_000040", "ts_code": "300750", "name": "宁德时代", "date": "2024-08-10 11:23:18", "sentiment_score": 0.7703}
+{"news_id": "news_20240810_000041", "ts_code": "300750", "name": "宁德时代", "date": "2024-08-10 11:21:31", "sentiment_score": 0.605}
+{"news_id": "news_20240810_000043", "ts_code": "000683", "name": "远兴能源", "date": "2024-08-10 10:54:14", "sentiment_score": 0.8075}
+{"news_id": "news_20240810_000045", "ts_code": "300750", "name": "宁德时代", "date": "2024-08-10 10:24:05", "sentiment_score": 0.6988}
+{"news_id": "news_20240810_000052", "ts_code": "600276", "name": "恒瑞医药", "date": "2024-08-10 06:58:37", "sentiment_score": 0.8005}

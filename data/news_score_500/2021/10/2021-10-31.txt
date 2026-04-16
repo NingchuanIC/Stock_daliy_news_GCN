@@ -1,0 +1,6 @@
+{"news_id": "news_20211031_000001", "ts_code": "600031", "name": "三一重工", "date": "2021-10-31 23:59:20", "sentiment_score": 0.6996}
+{"news_id": "news_20211031_000028", "ts_code": "603993", "name": "洛阳钼业", "date": "2021-10-31 15:54:06", "sentiment_score": 0.8555}
+{"news_id": "news_20211031_000030", "ts_code": "601615", "name": "明阳智能", "date": "2021-10-31 15:41:04", "sentiment_score": 0.8215}
+{"news_id": "news_20211031_000031", "ts_code": "688180", "name": "君实生物", "date": "2021-10-31 15:39:20", "sentiment_score": 0.701}
+{"news_id": "news_20211031_000036", "ts_code": "000157", "name": "中联重科", "date": "2021-10-31 12:53:19", "sentiment_score": 0.6909}
+{"news_id": "news_20211031_000038", "ts_code": "000651", "name": "格力电器", "date": "2021-10-31 08:03:05", "sentiment_score": 0.6247}

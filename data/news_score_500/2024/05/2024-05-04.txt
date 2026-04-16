@@ -1,0 +1,13 @@
+{"news_id": "news_20240504_000049", "ts_code": "002273", "name": "水晶光电", "date": "2024-05-04 22:14:29", "sentiment_score": 0.7358}
+{"news_id": "news_20240504_000071", "ts_code": "000100", "name": "TCL科技", "date": "2024-05-04 19:12:49", "sentiment_score": 0.6655}
+{"news_id": "news_20240504_000072", "ts_code": "000100", "name": "TCL科技", "date": "2024-05-04 19:12:49", "sentiment_score": 0.6326}
+{"news_id": "news_20240504_000093", "ts_code": "600276", "name": "恒瑞医药", "date": "2024-05-04 11:28:54", "sentiment_score": 0.7947}
+{"news_id": "news_20240504_000094", "ts_code": "002594", "name": "比亚迪", "date": "2024-05-04 11:11:35", "sentiment_score": 0.6754}
+{"news_id": "news_20240504_000099", "ts_code": "000100", "name": "TCL科技", "date": "2024-05-04 10:29:01", "sentiment_score": 0.5886}
+{"news_id": "news_20240504_000100", "ts_code": "000100", "name": "TCL科技", "date": "2024-05-04 09:10:55", "sentiment_score": 0.6512}
+{"news_id": "news_20240504_000101", "ts_code": "601857", "name": "中国石油", "date": "2024-05-04 08:27:27", "sentiment_score": 0.6405}
+{"news_id": "news_20240504_000102", "ts_code": "601668", "name": "中国建筑", "date": "2024-05-04 08:27:03", "sentiment_score": 0.6868}
+{"news_id": "news_20240504_000102", "ts_code": "601728", "name": "中国电信", "date": "2024-05-04 08:27:03", "sentiment_score": 0.6868}
+{"news_id": "news_20240504_000103", "ts_code": "601668", "name": "中国建筑", "date": "2024-05-04 08:27:03", "sentiment_score": 0.5661}
+{"news_id": "news_20240504_000103", "ts_code": "601728", "name": "中国电信", "date": "2024-05-04 08:27:03", "sentiment_score": 0.5661}
+{"news_id": "news_20240504_000111", "ts_code": "300750", "name": "宁德时代", "date": "2024-05-04 06:43:38", "sentiment_score": 0.7427}

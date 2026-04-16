@@ -1,0 +1,15 @@
+{"news_id": "news_20200119_000007", "ts_code": "600519", "name": "贵州茅台", "date": "2020-01-19 19:46:52", "sentiment_score": 0.8249}
+{"news_id": "news_20200119_000009", "ts_code": "000100", "name": "TCL集团", "date": "2020-01-19 18:52:28", "sentiment_score": 0.7332}
+{"news_id": "news_20200119_000011", "ts_code": "002294", "name": "信立泰", "date": "2020-01-19 18:32:48", "sentiment_score": 0.8496}
+{"news_id": "news_20200119_000018", "ts_code": "300251", "name": "光线传媒", "date": "2020-01-19 17:49:51", "sentiment_score": 0.8913}
+{"news_id": "news_20200119_000019", "ts_code": "603986", "name": "兆易创新", "date": "2020-01-19 17:43:29", "sentiment_score": 0.8582}
+{"news_id": "news_20200119_000021", "ts_code": "002405", "name": "四维图新", "date": "2020-01-19 17:33:14", "sentiment_score": 0.7199}
+{"news_id": "news_20200119_000027", "ts_code": "601857", "name": "中国石油", "date": "2020-01-19 16:39:35", "sentiment_score": 0.4746}
+{"news_id": "news_20200119_000033", "ts_code": "600028", "name": "中国石化", "date": "2020-01-19 16:10:42", "sentiment_score": 0.7569}
+{"news_id": "news_20200119_000036", "ts_code": "600519", "name": "贵州茅台", "date": "2020-01-19 16:07:15", "sentiment_score": 0.8378}
+{"news_id": "news_20200119_000040", "ts_code": "000651", "name": "珠海格力电器股份有限公司", "date": "2020-01-19 15:48:59", "sentiment_score": 0.6662}
+{"news_id": "news_20200119_000044", "ts_code": "601988", "name": "中国银行", "date": "2020-01-19 15:33:06", "sentiment_score": 0.6321}
+{"news_id": "news_20200119_000055", "ts_code": "601615", "name": "明阳智能", "date": "2020-01-19 14:26:47", "sentiment_score": 0.8068}
+{"news_id": "news_20200119_000058", "ts_code": "002594", "name": "比亚迪", "date": "2020-01-19 12:10:44", "sentiment_score": 0.6178}
+{"news_id": "news_20200119_000060", "ts_code": "000651", "name": "珠海格力电器股份有限公司", "date": "2020-01-19 11:07:49", "sentiment_score": 0.5219}
+{"news_id": "news_20200119_000063", "ts_code": "002415", "name": "海康威视", "date": "2020-01-19 09:34:52", "sentiment_score": 0.7554}

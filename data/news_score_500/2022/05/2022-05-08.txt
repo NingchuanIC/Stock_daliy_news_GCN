@@ -1,0 +1,7 @@
+{"news_id": "news_20220508_000002", "ts_code": "002594", "name": "比亚迪", "date": "2022-05-08 22:08:24", "sentiment_score": 0.5987}
+{"news_id": "news_20220508_000010", "ts_code": "002422", "name": "科伦药业", "date": "2022-05-08 17:56:43", "sentiment_score": 0.649}
+{"news_id": "news_20220508_000013", "ts_code": "600066", "name": "宇通客车", "date": "2022-05-08 17:21:41", "sentiment_score": 0.8282}
+{"news_id": "news_20220508_000019", "ts_code": "000999", "name": "华润三九", "date": "2022-05-08 16:43:51", "sentiment_score": 0.7872}
+{"news_id": "news_20220508_000025", "ts_code": "300001", "name": "特锐德", "date": "2022-05-08 16:29:59", "sentiment_score": 0.2898}
+{"news_id": "news_20220508_000033", "ts_code": "688223", "name": "晶科能源", "date": "2022-05-08 15:58:30", "sentiment_score": 0.7271}
+{"news_id": "news_20220508_000040", "ts_code": "002594", "name": "比亚迪", "date": "2022-05-08 15:06:10", "sentiment_score": 0.6546}

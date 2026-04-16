@@ -1,0 +1,7 @@
+{"news_id": "news_20201018_000025", "ts_code": "600030", "name": "中信证券", "date": "2020-10-18 15:42:56", "sentiment_score": 0.7105}
+{"news_id": "news_20201018_000027", "ts_code": "600988", "name": "赤峰黄金", "date": "2020-10-18 14:59:41", "sentiment_score": 0.7853}
+{"news_id": "news_20201018_000028", "ts_code": "600886", "name": "国投电力", "date": "2020-10-18 14:55:46", "sentiment_score": 0.8286}
+{"news_id": "news_20201018_000029", "ts_code": "600332", "name": "白云山", "date": "2020-10-18 14:52:42", "sentiment_score": 0.5371}
+{"news_id": "news_20201018_000054", "ts_code": "601238", "name": "广汽集团", "date": "2020-10-18 07:47:38", "sentiment_score": 0.7262}
+{"news_id": "news_20201018_000054", "ts_code": "601633", "name": "长城汽车", "date": "2020-10-18 07:47:38", "sentiment_score": 0.7262}
+{"news_id": "news_20201018_000054", "ts_code": "002594", "name": "比亚迪", "date": "2020-10-18 07:47:38", "sentiment_score": 0.7262}

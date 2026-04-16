@@ -1,0 +1,17 @@
+{"news_id": "news_20221106_000006", "ts_code": "600938", "name": "中国海洋石油", "date": "2022-11-06 22:39:08", "sentiment_score": 0.565}
+{"news_id": "news_20221106_000011", "ts_code": "601238", "name": "广汽集团", "date": "2022-11-06 20:45:28", "sentiment_score": 0.8532}
+{"news_id": "news_20221106_000017", "ts_code": "601669", "name": "中国电建", "date": "2022-11-06 18:27:06", "sentiment_score": 0.7486}
+{"news_id": "news_20221106_000021", "ts_code": "002340", "name": "格林美股份有限公司", "date": "2022-11-06 17:50:29", "sentiment_score": 0.636}
+{"news_id": "news_20221106_000022", "ts_code": "601857", "name": "中国石油", "date": "2022-11-06 17:34:23", "sentiment_score": 0.7142}
+{"news_id": "news_20221106_000024", "ts_code": "601899", "name": "紫金矿业", "date": "2022-11-06 17:16:04", "sentiment_score": 0.7194}
+{"news_id": "news_20221106_000029", "ts_code": "601899", "name": "紫金矿业", "date": "2022-11-06 17:12:34", "sentiment_score": 0.7597}
+{"news_id": "news_20221106_000036", "ts_code": "600276", "name": "恒瑞医药", "date": "2022-11-06 16:41:14", "sentiment_score": 0.7201}
+{"news_id": "news_20221106_000040", "ts_code": "002714", "name": "牧原股份", "date": "2022-11-06 16:28:42", "sentiment_score": 0.8252}
+{"news_id": "news_20221106_000043", "ts_code": "000725", "name": "京东方A", "date": "2022-11-06 16:26:06", "sentiment_score": 0.7428}
+{"news_id": "news_20221106_000046", "ts_code": "300207", "name": "欣旺达", "date": "2022-11-06 16:15:21", "sentiment_score": 0.737}
+{"news_id": "news_20221106_000054", "ts_code": "000725", "name": "京东方科技集团股份有限公司", "date": "2022-11-06 15:48:25", "sentiment_score": 0.7381}
+{"news_id": "news_20221106_000060", "ts_code": "003816", "name": "中国广核", "date": "2022-11-06 12:05:44", "sentiment_score": 0.8278}
+{"news_id": "news_20221106_000061", "ts_code": "002230", "name": "科大讯飞", "date": "2022-11-06 12:00:54", "sentiment_score": 0.6661}
+{"news_id": "news_20221106_000061", "ts_code": "688111", "name": "金山办公", "date": "2022-11-06 12:00:54", "sentiment_score": 0.6661}
+{"news_id": "news_20221106_000062", "ts_code": "600938", "name": "中国海洋石油有限公司", "date": "2022-11-06 11:54:41", "sentiment_score": 0.621}
+{"news_id": "news_20221106_000072", "ts_code": "688111", "name": "金山办公", "date": "2022-11-06 10:49:59", "sentiment_score": 0.5706}

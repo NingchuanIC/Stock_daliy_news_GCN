@@ -1,0 +1,9 @@
+{"news_id": "news_20221007_000029", "ts_code": "600050", "name": "中国联通", "date": "2022-10-07 17:41:44", "sentiment_score": 0.8022}
+{"news_id": "news_20221007_000036", "ts_code": "002460", "name": "赣锋锂业", "date": "2022-10-07 17:12:14", "sentiment_score": 0.8824}
+{"news_id": "news_20221007_000047", "ts_code": "601633", "name": "长城汽车", "date": "2022-10-07 15:22:57", "sentiment_score": 0.8784}
+{"news_id": "news_20221007_000064", "ts_code": "601888", "name": "中国中免", "date": "2022-10-07 11:05:18", "sentiment_score": 0.7763}
+{"news_id": "news_20221007_000070", "ts_code": "600938", "name": "中国海洋石油", "date": "2022-10-07 09:47:34", "sentiment_score": 0.8507}
+{"news_id": "news_20221007_000070", "ts_code": "601857", "name": "中国石油", "date": "2022-10-07 09:47:34", "sentiment_score": 0.8507}
+{"news_id": "news_20221007_000072", "ts_code": "601633", "name": "长城汽车", "date": "2022-10-07 09:43:52", "sentiment_score": 0.853}
+{"news_id": "news_20221007_000072", "ts_code": "002594", "name": "比亚迪", "date": "2022-10-07 09:43:52", "sentiment_score": 0.853}
+{"news_id": "news_20221007_000073", "ts_code": "002594", "name": "比亚迪", "date": "2022-10-07 09:40:34", "sentiment_score": 0.8766}

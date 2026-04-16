@@ -1,0 +1,8 @@
+{"news_id": "news_20190831_000008", "ts_code": "002230", "name": "科大讯飞", "date": "2019-08-31 13:50:39", "sentiment_score": 0.7989}
+{"news_id": "news_20190831_000010", "ts_code": "000651", "name": "格力电器", "date": "2019-08-31 12:59:04", "sentiment_score": 0.6083}
+{"news_id": "news_20190831_000013", "ts_code": "600104", "name": "上汽集团", "date": "2019-08-31 10:54:32", "sentiment_score": 0.6959}
+{"news_id": "news_20190831_000020", "ts_code": "000625", "name": "长安汽车", "date": "2019-08-31 08:09:14", "sentiment_score": 0.4673}
+{"news_id": "news_20190831_000021", "ts_code": "000651", "name": "格力电器", "date": "2019-08-31 05:48:17", "sentiment_score": 0.5802}
+{"news_id": "news_20190831_000021", "ts_code": "000333", "name": "美的集团", "date": "2019-08-31 05:48:17", "sentiment_score": 0.5802}
+{"news_id": "news_20190831_000021", "ts_code": "600690", "name": "海尔智家", "date": "2019-08-31 05:48:17", "sentiment_score": 0.5802}
+{"news_id": "news_20190831_000021", "ts_code": "002594", "name": "比亚迪", "date": "2019-08-31 05:48:17", "sentiment_score": 0.5802}

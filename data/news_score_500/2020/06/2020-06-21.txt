@@ -1,0 +1,3 @@
+{"news_id": "news_20200621_000034", "ts_code": "600519", "name": "贵州茅台", "date": "2020-06-21 16:10:39", "sentiment_score": 0.6738}
+{"news_id": "news_20200621_000040", "ts_code": "300760", "name": "迈瑞医疗", "date": "2020-06-21 12:34:33", "sentiment_score": 0.6628}
+{"news_id": "news_20200621_000044", "ts_code": "601728", "name": "中国电信", "date": "2020-06-21 09:41:46", "sentiment_score": 0.646}

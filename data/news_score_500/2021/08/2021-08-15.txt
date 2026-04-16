@@ -1,0 +1,11 @@
+{"news_id": "news_20210815_000004", "ts_code": "000100", "name": "TCL科技", "date": "2021-08-15 21:17:38", "sentiment_score": 0.6207}
+{"news_id": "news_20210815_000004", "ts_code": "000963", "name": "华东医药", "date": "2021-08-15 21:17:38", "sentiment_score": 0.6207}
+{"news_id": "news_20210815_000004", "ts_code": "300558", "name": "贝达药业", "date": "2021-08-15 21:17:38", "sentiment_score": 0.6207}
+{"news_id": "news_20210815_000004", "ts_code": "002223", "name": "鱼跃医疗", "date": "2021-08-15 21:17:38", "sentiment_score": 0.6207}
+{"news_id": "news_20210815_000004", "ts_code": "002050", "name": "三花智控", "date": "2021-08-15 21:17:38", "sentiment_score": 0.6207}
+{"news_id": "news_20210815_000021", "ts_code": "600745", "name": "闻泰科技", "date": "2021-08-15 17:43:46", "sentiment_score": 0.7417}
+{"news_id": "news_20210815_000027", "ts_code": "600039", "name": "四川路桥", "date": "2021-08-15 16:43:59", "sentiment_score": 0.6965}
+{"news_id": "news_20210815_000049", "ts_code": "600745", "name": "闻泰科技", "date": "2021-08-15 15:39:04", "sentiment_score": 0.6598}
+{"news_id": "news_20210815_000053", "ts_code": "300750", "name": "宁德时代", "date": "2021-08-15 15:22:44", "sentiment_score": 0.6297}
+{"news_id": "news_20210815_000053", "ts_code": "000792", "name": "盐湖股份", "date": "2021-08-15 15:22:44", "sentiment_score": 0.6297}
+{"news_id": "news_20210815_000053", "ts_code": "002594", "name": "比亚迪", "date": "2021-08-15 15:22:44", "sentiment_score": 0.6297}

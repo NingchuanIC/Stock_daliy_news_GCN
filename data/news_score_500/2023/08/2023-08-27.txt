@@ -1,0 +1,14 @@
+{"news_id": "news_20230827_000004", "ts_code": "000625", "name": "长安汽车", "date": "2023-08-27 20:47:45", "sentiment_score": 0.6746}
+{"news_id": "news_20230827_000016", "ts_code": "300750", "name": "宁德时代", "date": "2023-08-27 18:44:33", "sentiment_score": 0.6956}
+{"news_id": "news_20230827_000026", "ts_code": "600028", "name": "中国石化", "date": "2023-08-27 16:48:54", "sentiment_score": 0.7697}
+{"news_id": "news_20230827_000030", "ts_code": "003816", "name": "中国广核", "date": "2023-08-27 16:30:11", "sentiment_score": 0.7507}
+{"news_id": "news_20230827_000031", "ts_code": "600028", "name": "中国石化", "date": "2023-08-27 16:29:05", "sentiment_score": 0.7644}
+{"news_id": "news_20230827_000043", "ts_code": "688041", "name": "海光信息", "date": "2023-08-27 16:06:47", "sentiment_score": 0.8468}
+{"news_id": "news_20230827_000045", "ts_code": "688180", "name": "君实生物", "date": "2023-08-27 16:02:12", "sentiment_score": 0.8035}
+{"news_id": "news_20230827_000046", "ts_code": "002594", "name": "比亚迪", "date": "2023-08-27 16:01:27", "sentiment_score": 0.6533}
+{"news_id": "news_20230827_000048", "ts_code": "601601", "name": "中国太保", "date": "2023-08-27 15:59:48", "sentiment_score": 0.8712}
+{"news_id": "news_20230827_000053", "ts_code": "300308", "name": "中际旭创", "date": "2023-08-27 15:52:18", "sentiment_score": 0.8857}
+{"news_id": "news_20230827_000054", "ts_code": "600028", "name": "中国石化", "date": "2023-08-27 15:51:33", "sentiment_score": 0.7001}
+{"news_id": "news_20230827_000056", "ts_code": "300251", "name": "光线传媒", "date": "2023-08-27 15:51:11", "sentiment_score": 0.8406}
+{"news_id": "news_20230827_000058", "ts_code": "600028", "name": "中国石化", "date": "2023-08-27 15:41:50", "sentiment_score": 0.7839}
+{"news_id": "news_20230827_000062", "ts_code": "000651", "name": "珠海格力电器股份有限公司", "date": "2023-08-27 15:01:01", "sentiment_score": 0.572}

@@ -1,0 +1,3 @@
+{"news_id": "news_20200815_000003", "ts_code": "600104", "name": "上海汽车", "date": "2020-08-15 21:48:06", "sentiment_score": 0.7279}
+{"news_id": "news_20200815_000005", "ts_code": "600050", "name": "中国联通", "date": "2020-08-15 18:22:43", "sentiment_score": 0.7986}
+{"news_id": "news_20200815_000017", "ts_code": "688235", "name": "百济神州", "date": "2020-08-15 10:50:54", "sentiment_score": 0.7662}

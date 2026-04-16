@@ -1,0 +1,6 @@
+{"news_id": "news_20211114_000001", "ts_code": "300274", "name": "阳光电源", "date": "2021-11-14 22:54:14", "sentiment_score": 0.6199}
+{"news_id": "news_20211114_000001", "ts_code": "688599", "name": "天合光能", "date": "2021-11-14 22:54:14", "sentiment_score": 0.6199}
+{"news_id": "news_20211114_000022", "ts_code": "601288", "name": "中国农业银行股份有限公司", "date": "2021-11-14 16:35:36", "sentiment_score": 0.634}
+{"news_id": "news_20211114_000026", "ts_code": "600988", "name": "赤峰黄金", "date": "2021-11-14 16:02:29", "sentiment_score": 0.5786}
+{"news_id": "news_20211114_000033", "ts_code": "601728", "name": "中国电信", "date": "2021-11-14 12:19:06", "sentiment_score": 0.708}
+{"news_id": "news_20211114_000039", "ts_code": "002714", "name": "牧原股份", "date": "2021-11-14 09:51:37", "sentiment_score": 0.74}

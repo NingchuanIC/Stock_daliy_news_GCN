@@ -1,0 +1,17 @@
+{"news_id": "news_20250705_000006", "ts_code": "002714", "name": "牧原股份", "date": "2025-07-05 20:51:32", "sentiment_score": 0.7027}
+{"news_id": "news_20250705_000006", "ts_code": "002475", "name": "立讯精密", "date": "2025-07-05 20:51:32", "sentiment_score": 0.7027}
+{"news_id": "news_20250705_000006", "ts_code": "601899", "name": "紫金矿业", "date": "2025-07-05 20:51:32", "sentiment_score": 0.7027}
+{"news_id": "news_20250705_000006", "ts_code": "600690", "name": "海尔智家", "date": "2025-07-05 20:51:32", "sentiment_score": 0.7027}
+{"news_id": "news_20250705_000006", "ts_code": "300059", "name": "东方财富", "date": "2025-07-05 20:51:32", "sentiment_score": 0.7027}
+{"news_id": "news_20250705_000022", "ts_code": "600079", "name": "人福医药", "date": "2025-07-05 17:44:30", "sentiment_score": 0.7396}
+{"news_id": "news_20250705_000022", "ts_code": "600998", "name": "九州通", "date": "2025-07-05 17:44:30", "sentiment_score": 0.7396}
+{"news_id": "news_20250705_000035", "ts_code": "000063", "name": "中兴通讯", "date": "2025-07-05 15:49:25", "sentiment_score": 0.5217}
+{"news_id": "news_20250705_000043", "ts_code": "688256", "name": "寒武纪-U", "date": "2025-07-05 14:22:10", "sentiment_score": 0.7906}
+{"news_id": "news_20250705_000043", "ts_code": "600519", "name": "贵州茅台", "date": "2025-07-05 14:22:10", "sentiment_score": 0.7906}
+{"news_id": "news_20250705_000043", "ts_code": "300308", "name": "中际旭创", "date": "2025-07-05 14:22:10", "sentiment_score": 0.7906}
+{"news_id": "news_20250705_000043", "ts_code": "603259", "name": "药明康德", "date": "2025-07-05 14:22:10", "sentiment_score": 0.7906}
+{"news_id": "news_20250705_000043", "ts_code": "603501", "name": "豪威集团", "date": "2025-07-05 14:22:10", "sentiment_score": 0.7906}
+{"news_id": "news_20250705_000043", "ts_code": "600415", "name": "小商品城", "date": "2025-07-05 14:22:10", "sentiment_score": 0.7906}
+{"news_id": "news_20250705_000055", "ts_code": "002594", "name": "比亚迪", "date": "2025-07-05 10:43:37", "sentiment_score": 0.5849}
+{"news_id": "news_20250705_000075", "ts_code": "002594", "name": "比亚迪", "date": "2025-07-05 07:14:54", "sentiment_score": 0.7891}
+{"news_id": "news_20250705_000079", "ts_code": "600115", "name": "东方航空", "date": "2025-07-05 04:15:06", "sentiment_score": 0.6129}

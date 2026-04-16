@@ -1,0 +1,8 @@
+{"news_id": "news_20190518_000015", "ts_code": "600031", "name": "三一重工", "date": "2019-05-18 14:14:45", "sentiment_score": 0.6444}
+{"news_id": "news_20190518_000015", "ts_code": "000157", "name": "中联重科", "date": "2019-05-18 14:14:45", "sentiment_score": 0.6444}
+{"news_id": "news_20190518_000018", "ts_code": "000063", "name": "中兴通讯", "date": "2019-05-18 12:00:27", "sentiment_score": 0.7136}
+{"news_id": "news_20190518_000021", "ts_code": "000157", "name": "中联重科", "date": "2019-05-18 10:43:04", "sentiment_score": 0.7784}
+{"news_id": "news_20190518_000025", "ts_code": "000063", "name": "中兴通讯", "date": "2019-05-18 05:36:04", "sentiment_score": 0.6989}
+{"news_id": "news_20190518_000039", "ts_code": "000063", "name": "中兴通讯", "date": "2019-05-18 01:31:08", "sentiment_score": 0.3791}
+{"news_id": "news_20190518_000039", "ts_code": "603501", "name": "韦尔股份", "date": "2019-05-18 01:31:08", "sentiment_score": 0.3791}
+{"news_id": "news_20190518_000039", "ts_code": "300223", "name": "北京君正", "date": "2019-05-18 01:31:08", "sentiment_score": 0.3791}

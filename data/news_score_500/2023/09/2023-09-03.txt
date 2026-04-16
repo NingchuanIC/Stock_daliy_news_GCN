@@ -1,0 +1,17 @@
+{"news_id": "news_20230903_000005", "ts_code": "300750", "name": "宁德时代", "date": "2023-09-03 21:17:07", "sentiment_score": 0.6423}
+{"news_id": "news_20230903_000011", "ts_code": "600039", "name": "四川路桥", "date": "2023-09-03 19:39:22", "sentiment_score": 0.6945}
+{"news_id": "news_20230903_000012", "ts_code": "601328", "name": "交通银行", "date": "2023-09-03 19:39:10", "sentiment_score": 0.6627}
+{"news_id": "news_20230903_000021", "ts_code": "002594", "name": "比亚迪", "date": "2023-09-03 17:18:34", "sentiment_score": 0.8328}
+{"news_id": "news_20230903_000024", "ts_code": "600519", "name": "贵州茅台", "date": "2023-09-03 16:42:14", "sentiment_score": 0.7568}
+{"news_id": "news_20230903_000029", "ts_code": "600519", "name": "贵州茅台", "date": "2023-09-03 16:13:19", "sentiment_score": 0.7267}
+{"news_id": "news_20230903_000036", "ts_code": "300459", "name": "汤姆猫", "date": "2023-09-03 15:42:13", "sentiment_score": 0.6774}
+{"news_id": "news_20230903_000044", "ts_code": "300750", "name": "宁德时代", "date": "2023-09-03 13:46:06", "sentiment_score": 0.7674}
+{"news_id": "news_20230903_000044", "ts_code": "002594", "name": "比亚迪", "date": "2023-09-03 13:46:06", "sentiment_score": 0.7674}
+{"news_id": "news_20230903_000045", "ts_code": "002465", "name": "海格通信", "date": "2023-09-03 13:43:52", "sentiment_score": 0.7952}
+{"news_id": "news_20230903_000051", "ts_code": "002594", "name": "比亚迪", "date": "2023-09-03 12:32:39", "sentiment_score": 0.6659}
+{"news_id": "news_20230903_000052", "ts_code": "601328", "name": "交通银行", "date": "2023-09-03 12:32:19", "sentiment_score": 0.7397}
+{"news_id": "news_20230903_000055", "ts_code": "601390", "name": "中国中铁", "date": "2023-09-03 11:25:08", "sentiment_score": 0.6601}
+{"news_id": "news_20230903_000057", "ts_code": "002001", "name": "新和成", "date": "2023-09-03 11:00:38", "sentiment_score": 0.7699}
+{"news_id": "news_20230903_000058", "ts_code": "000425", "name": "徐工机械", "date": "2023-09-03 10:54:19", "sentiment_score": 0.7498}
+{"news_id": "news_20230903_000068", "ts_code": "600745", "name": "闻泰科技", "date": "2023-09-03 08:07:16", "sentiment_score": 0.7851}
+{"news_id": "news_20230903_000068", "ts_code": "603986", "name": "兆易创新", "date": "2023-09-03 08:07:16", "sentiment_score": 0.7851}

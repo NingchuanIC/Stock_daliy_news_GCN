@@ -1,0 +1,6 @@
+{"news_id": "news_20200111_000001", "ts_code": "300750", "name": "宁德时代", "date": "2020-01-11 23:20:18", "sentiment_score": 0.7136}
+{"news_id": "news_20200111_000003", "ts_code": "002594", "name": "比亚迪", "date": "2020-01-11 19:32:23", "sentiment_score": 0.6878}
+{"news_id": "news_20200111_000010", "ts_code": "000063", "name": "中兴通讯", "date": "2020-01-11 13:19:45", "sentiment_score": 0.8195}
+{"news_id": "news_20200111_000012", "ts_code": "000333", "name": "美的集团", "date": "2020-01-11 12:31:55", "sentiment_score": 0.7143}
+{"news_id": "news_20200111_000023", "ts_code": "600519", "name": "贵州茅台", "date": "2020-01-11 08:09:46", "sentiment_score": 0.7082}
+{"news_id": "news_20200111_000025", "ts_code": "000651", "name": "格力电器", "date": "2020-01-11 07:41:10", "sentiment_score": 0.6268}

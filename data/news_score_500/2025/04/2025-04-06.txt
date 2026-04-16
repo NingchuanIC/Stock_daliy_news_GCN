@@ -1,0 +1,8 @@
+{"news_id": "news_20250406_000005", "ts_code": "002475", "name": "立讯精密", "date": "2025-04-06 22:43:36", "sentiment_score": 0.668}
+{"news_id": "news_20250406_000006", "ts_code": "002475", "name": "立讯精密", "date": "2025-04-06 22:43:29", "sentiment_score": 0.6568}
+{"news_id": "news_20250406_000021", "ts_code": "600988", "name": "赤峰黄金", "date": "2025-04-06 18:11:06", "sentiment_score": 0.8284}
+{"news_id": "news_20250406_000022", "ts_code": "600988", "name": "赤峰黄金", "date": "2025-04-06 18:10:59", "sentiment_score": 0.8123}
+{"news_id": "news_20250406_000040", "ts_code": "601899", "name": "紫金矿业", "date": "2025-04-06 17:07:02", "sentiment_score": 0.5796}
+{"news_id": "news_20250406_000092", "ts_code": "600900", "name": "长江电力", "date": "2025-04-06 14:53:17", "sentiment_score": 0.6198}
+{"news_id": "news_20250406_000127", "ts_code": "300558", "name": "贝达药业", "date": "2025-04-06 08:52:16", "sentiment_score": 0.5806}
+{"news_id": "news_20250406_000128", "ts_code": "300558", "name": "贝达药业", "date": "2025-04-06 08:52:10", "sentiment_score": 0.6482}

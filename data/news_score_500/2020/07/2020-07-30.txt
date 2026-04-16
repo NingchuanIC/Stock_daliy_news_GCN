@@ -1,0 +1,16 @@
+{"news_id": "news_20200730_000005", "ts_code": "000538", "name": "云南白药", "date": "2020-07-30 22:40:28", "sentiment_score": 0.6483}
+{"news_id": "news_20200730_000019", "ts_code": "300750", "name": "宁德时代", "date": "2020-07-30 19:47:27", "sentiment_score": 0.8175}
+{"news_id": "news_20200730_000020", "ts_code": "600690", "name": "海尔智家", "date": "2020-07-30 19:47:17", "sentiment_score": 0.6015}
+{"news_id": "news_20200730_000021", "ts_code": "601857", "name": "中国石油", "date": "2020-07-30 19:43:40", "sentiment_score": 0.8293}
+{"news_id": "news_20200730_000023", "ts_code": "300003", "name": "乐普医疗", "date": "2020-07-30 19:19:27", "sentiment_score": 0.6609}
+{"news_id": "news_20200730_000035", "ts_code": "600988", "name": "赤峰黄金", "date": "2020-07-30 18:13:03", "sentiment_score": 0.849}
+{"news_id": "news_20200730_000043", "ts_code": "601088", "name": "中国神华", "date": "2020-07-30 17:42:05", "sentiment_score": 0.8649}
+{"news_id": "news_20200730_000044", "ts_code": "002008", "name": "大族激光", "date": "2020-07-30 17:40:03", "sentiment_score": 0.7647}
+{"news_id": "news_20200730_000079", "ts_code": "600418", "name": "江淮汽车", "date": "2020-07-30 16:23:06", "sentiment_score": 0.7941}
+{"news_id": "news_20200730_000101", "ts_code": "300750", "name": "宁德时代", "date": "2020-07-30 14:50:17", "sentiment_score": 0.5821}
+{"news_id": "news_20200730_000107", "ts_code": "600028", "name": "中国石化", "date": "2020-07-30 13:28:14", "sentiment_score": 0.6448}
+{"news_id": "news_20200730_000145", "ts_code": "000039", "name": "中集集团", "date": "2020-07-30 09:58:55", "sentiment_score": 0.7604}
+{"news_id": "news_20200730_000151", "ts_code": "002049", "name": "紫光国微", "date": "2020-07-30 09:34:37", "sentiment_score": 0.6779}
+{"news_id": "news_20200730_000156", "ts_code": "000063", "name": "中兴通讯", "date": "2020-07-30 09:27:04", "sentiment_score": 0.8645}
+{"news_id": "news_20200730_000165", "ts_code": "600699", "name": "均胜电子", "date": "2020-07-30 08:28:41", "sentiment_score": 0.2719}
+{"news_id": "news_20200730_000171", "ts_code": "600690", "name": "海尔智家", "date": "2020-07-30 08:07:55", "sentiment_score": 0.8648}

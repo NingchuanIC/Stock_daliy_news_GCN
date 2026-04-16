@@ -1,0 +1,8 @@
+{"news_id": "news_20230101_000008", "ts_code": "002244", "name": "滨江集团", "date": "2023-01-01 19:01:57", "sentiment_score": 0.8102}
+{"news_id": "news_20230101_000020", "ts_code": "688111", "name": "金山办公", "date": "2023-01-01 15:07:24", "sentiment_score": 0.7096}
+{"news_id": "news_20230101_000021", "ts_code": "600115", "name": "中国东航", "date": "2023-01-01 15:06:04", "sentiment_score": 0.813}
+{"news_id": "news_20230101_000023", "ts_code": "002353", "name": "杰瑞股份", "date": "2023-01-01 14:57:28", "sentiment_score": 0.7254}
+{"news_id": "news_20230101_000033", "ts_code": "600115", "name": "中国东航", "date": "2023-01-01 10:50:27", "sentiment_score": 0.7857}
+{"news_id": "news_20230101_000037", "ts_code": "601857", "name": "中国石油", "date": "2023-01-01 09:03:32", "sentiment_score": 0.7586}
+{"news_id": "news_20230101_000041", "ts_code": "601628", "name": "中国人寿", "date": "2023-01-01 08:26:10", "sentiment_score": 0.6975}
+{"news_id": "news_20230101_000042", "ts_code": "000651", "name": "格力电器", "date": "2023-01-01 07:47:16", "sentiment_score": 0.7453}

@@ -1,0 +1,4 @@
+{"news_id": "news_20201213_000020", "ts_code": "603993", "name": "洛阳钼业", "date": "2020-12-13 16:16:42", "sentiment_score": 0.6982}
+{"news_id": "news_20201213_000026", "ts_code": "688180", "name": "君实生物", "date": "2020-12-13 14:17:39", "sentiment_score": 0.6126}
+{"news_id": "news_20201213_000036", "ts_code": "000651", "name": "格力电器", "date": "2020-12-13 09:00:40", "sentiment_score": 0.8387}
+{"news_id": "news_20201213_000038", "ts_code": "601211", "name": "国泰君安", "date": "2020-12-13 08:13:34", "sentiment_score": 0.7357}

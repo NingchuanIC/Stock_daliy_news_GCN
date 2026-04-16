@@ -1,0 +1,6 @@
+{"news_id": "news_20231111_000008", "ts_code": "601728", "name": "中国电信", "date": "2023-11-11 20:32:27", "sentiment_score": 0.7116}
+{"news_id": "news_20231111_000010", "ts_code": "601728", "name": "中国电信", "date": "2023-11-11 20:22:08", "sentiment_score": 0.7385}
+{"news_id": "news_20231111_000026", "ts_code": "601728", "name": "中国电信", "date": "2023-11-11 15:54:48", "sentiment_score": 0.7718}
+{"news_id": "news_20231111_000040", "ts_code": "000333", "name": "美的集团", "date": "2023-11-11 11:43:36", "sentiment_score": 0.6285}
+{"news_id": "news_20231111_000040", "ts_code": "601728", "name": "中国电信", "date": "2023-11-11 11:43:36", "sentiment_score": 0.6285}
+{"news_id": "news_20231111_000048", "ts_code": "688223", "name": "晶科能源", "date": "2023-11-11 09:19:12", "sentiment_score": 0.8134}

@@ -1,0 +1,10 @@
+{"news_id": "news_20231216_000005", "ts_code": "600028", "name": "中国石化", "date": "2023-12-16 22:46:50", "sentiment_score": 0.7214}
+{"news_id": "news_20231216_000005", "ts_code": "300015", "name": "爱尔眼科", "date": "2023-12-16 22:46:50", "sentiment_score": 0.7214}
+{"news_id": "news_20231216_000005", "ts_code": "601186", "name": "中国铁建", "date": "2023-12-16 22:46:50", "sentiment_score": 0.7214}
+{"news_id": "news_20231216_000005", "ts_code": "002594", "name": "比亚迪", "date": "2023-12-16 22:46:50", "sentiment_score": 0.7214}
+{"news_id": "news_20231216_000050", "ts_code": "002129", "name": "TCL中环", "date": "2023-12-16 15:05:27", "sentiment_score": 0.6588}
+{"news_id": "news_20231216_000050", "ts_code": "600438", "name": "通威股份", "date": "2023-12-16 15:05:27", "sentiment_score": 0.6588}
+{"news_id": "news_20231216_000050", "ts_code": "688599", "name": "天合光能", "date": "2023-12-16 15:05:27", "sentiment_score": 0.6588}
+{"news_id": "news_20231216_000072", "ts_code": "688180", "name": "君实生物", "date": "2023-12-16 11:32:58", "sentiment_score": 0.7076}
+{"news_id": "news_20231216_000082", "ts_code": "601668", "name": "中国建筑股份有限公司", "date": "2023-12-16 10:04:48", "sentiment_score": 0.6447}
+{"news_id": "news_20231216_000093", "ts_code": "002384", "name": "东山精密", "date": "2023-12-16 08:45:03", "sentiment_score": 0.6455}

@@ -1,0 +1,3 @@
+{"news_id": "news_20201219_000006", "ts_code": "688256", "name": "寒武纪", "date": "2020-12-19 16:48:55", "sentiment_score": 0.7131}
+{"news_id": "news_20201219_000011", "ts_code": "601728", "name": "中国电信", "date": "2020-12-19 14:57:45", "sentiment_score": 0.6475}
+{"news_id": "news_20201219_000011", "ts_code": "600050", "name": "中国联通", "date": "2020-12-19 14:57:45", "sentiment_score": 0.6475}

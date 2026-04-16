@@ -1,0 +1,8 @@
+{"news_id": "news_20250130_000171", "ts_code": "600519", "name": "贵州茅台", "date": "2025-01-30 13:18:11", "sentiment_score": 0.8145}
+{"news_id": "news_20250130_000172", "ts_code": "600519", "name": "贵州茅台", "date": "2025-01-30 13:18:11", "sentiment_score": 0.8463}
+{"news_id": "news_20250130_000173", "ts_code": "300750", "name": "宁德时代", "date": "2025-01-30 13:16:02", "sentiment_score": 0.617}
+{"news_id": "news_20250130_000173", "ts_code": "601398", "name": "工商银行", "date": "2025-01-30 13:16:02", "sentiment_score": 0.617}
+{"news_id": "news_20250130_000173", "ts_code": "601318", "name": "中国平安", "date": "2025-01-30 13:16:02", "sentiment_score": 0.617}
+{"news_id": "news_20250130_000173", "ts_code": "601988", "name": "中国银行", "date": "2025-01-30 13:16:02", "sentiment_score": 0.617}
+{"news_id": "news_20250130_000173", "ts_code": "002594", "name": "比亚迪", "date": "2025-01-30 13:16:02", "sentiment_score": 0.617}
+{"news_id": "news_20250130_000232", "ts_code": "601318", "name": "中国平安", "date": "2025-01-30 07:53:13", "sentiment_score": 0.6335}

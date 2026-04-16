@@ -1,0 +1,10 @@
+{"news_id": "news_20240224_000007", "ts_code": "002594", "name": "比亚迪", "date": "2024-02-24 22:03:58", "sentiment_score": 0.7283}
+{"news_id": "news_20240224_000027", "ts_code": "601238", "name": "广汽集团", "date": "2024-02-24 20:37:41", "sentiment_score": 0.8565}
+{"news_id": "news_20240224_000031", "ts_code": "601238", "name": "广州汽车集团股份有限公司", "date": "2024-02-24 19:12:03", "sentiment_score": 0.6655}
+{"news_id": "news_20240224_000034", "ts_code": "600438", "name": "通威股份", "date": "2024-02-24 18:21:36", "sentiment_score": 0.6869}
+{"news_id": "news_20240224_000035", "ts_code": "601766", "name": "中国中车", "date": "2024-02-24 16:51:49", "sentiment_score": 0.6972}
+{"news_id": "news_20240224_000041", "ts_code": "600153", "name": "厦门建发", "date": "2024-02-24 15:05:30", "sentiment_score": 0.6406}
+{"news_id": "news_20240224_000043", "ts_code": "600019", "name": "宝钢股份", "date": "2024-02-24 14:35:03", "sentiment_score": 0.639}
+{"news_id": "news_20240224_000061", "ts_code": "601398", "name": "工商银行", "date": "2024-02-24 11:33:22", "sentiment_score": 0.6318}
+{"news_id": "news_20240224_000063", "ts_code": "300750", "name": "宁德时代", "date": "2024-02-24 11:28:04", "sentiment_score": 0.816}
+{"news_id": "news_20240224_000094", "ts_code": "300750", "name": "宁德时代", "date": "2024-02-24 04:36:09", "sentiment_score": 0.7691}

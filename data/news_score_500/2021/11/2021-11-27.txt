@@ -1,0 +1,4 @@
+{"news_id": "news_20211127_000002", "ts_code": "002714", "name": "牧原股份", "date": "2021-11-27 22:21:20", "sentiment_score": 0.7996}
+{"news_id": "news_20211127_000013", "ts_code": "601238", "name": "广汽集团", "date": "2021-11-27 14:35:12", "sentiment_score": 0.6799}
+{"news_id": "news_20211127_000013", "ts_code": "002594", "name": "比亚迪", "date": "2021-11-27 14:35:12", "sentiment_score": 0.6799}
+{"news_id": "news_20211127_000018", "ts_code": "300760", "name": "迈瑞医疗", "date": "2021-11-27 11:12:54", "sentiment_score": 0.4933}

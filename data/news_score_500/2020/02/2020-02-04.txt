@@ -1,0 +1,10 @@
+{"news_id": "news_20200204_000061", "ts_code": "300750", "name": "宁德时代", "date": "2020-02-04 19:05:44", "sentiment_score": 0.8487}
+{"news_id": "news_20200204_000075", "ts_code": "600900", "name": "长江电力", "date": "2020-02-04 18:35:25", "sentiment_score": 0.7474}
+{"news_id": "news_20200204_000086", "ts_code": "600019", "name": "宝钢股份", "date": "2020-02-04 18:17:13", "sentiment_score": 0.7817}
+{"news_id": "news_20200204_000142", "ts_code": "600938", "name": "中国海油", "date": "2020-02-04 15:53:21", "sentiment_score": 0.5873}
+{"news_id": "news_20200204_000162", "ts_code": "601211", "name": "国泰君安", "date": "2020-02-04 14:41:20", "sentiment_score": 0.8273}
+{"news_id": "news_20200204_000180", "ts_code": "601607", "name": "上海医药", "date": "2020-02-04 13:44:50", "sentiment_score": 0.7658}
+{"news_id": "news_20200204_000213", "ts_code": "000999", "name": "华润三九", "date": "2020-02-04 11:55:39", "sentiment_score": 0.5801}
+{"news_id": "news_20200204_000225", "ts_code": "002466", "name": "天齐锂业", "date": "2020-02-04 10:58:27", "sentiment_score": 0.806}
+{"news_id": "news_20200204_000230", "ts_code": "000338", "name": "潍柴动力", "date": "2020-02-04 10:27:09", "sentiment_score": 0.5685}
+{"news_id": "news_20200204_000242", "ts_code": "002294", "name": "信立泰", "date": "2020-02-04 08:13:42", "sentiment_score": 0.7173}

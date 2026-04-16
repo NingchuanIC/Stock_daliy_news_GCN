@@ -1,0 +1,6 @@
+{"news_id": "news_20200802_000008", "ts_code": "002460", "name": "赣锋锂业", "date": "2020-08-02 18:14:45", "sentiment_score": 0.6988}
+{"news_id": "news_20200802_000014", "ts_code": "000651", "name": "格力电器", "date": "2020-08-02 16:37:56", "sentiment_score": 0.824}
+{"news_id": "news_20200802_000018", "ts_code": "601012", "name": "隆基股份", "date": "2020-08-02 16:06:41", "sentiment_score": 0.7991}
+{"news_id": "news_20200802_000025", "ts_code": "601012", "name": "隆基股份", "date": "2020-08-02 14:04:16", "sentiment_score": 0.7217}
+{"news_id": "news_20200802_000026", "ts_code": "002415", "name": "海康威视", "date": "2020-08-02 12:29:00", "sentiment_score": 0.7114}
+{"news_id": "news_20200802_000029", "ts_code": "601766", "name": "中国中车", "date": "2020-08-02 10:31:15", "sentiment_score": 0.5814}

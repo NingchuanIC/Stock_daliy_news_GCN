@@ -1,0 +1,11 @@
+{"news_id": "news_20241116_000008", "ts_code": "601728", "name": "中国电信", "date": "2024-11-16 22:03:11", "sentiment_score": 0.6685}
+{"news_id": "news_20241116_000011", "ts_code": "002916", "name": "深南电路", "date": "2024-11-16 19:05:32", "sentiment_score": 0.7411}
+{"news_id": "news_20241116_000024", "ts_code": "688180", "name": "君实生物", "date": "2024-11-16 16:26:32", "sentiment_score": 0.0995}
+{"news_id": "news_20241116_000044", "ts_code": "600115", "name": "中国东航", "date": "2024-11-16 14:12:47", "sentiment_score": 0.745}
+{"news_id": "news_20241116_000067", "ts_code": "000333", "name": "美的集团", "date": "2024-11-16 12:20:27", "sentiment_score": 0.7204}
+{"news_id": "news_20241116_000071", "ts_code": "000100", "name": "TCL科技", "date": "2024-11-16 11:38:11", "sentiment_score": 0.7781}
+{"news_id": "news_20241116_000089", "ts_code": "002594", "name": "比亚迪", "date": "2024-11-16 10:40:44", "sentiment_score": 0.7916}
+{"news_id": "news_20241116_000090", "ts_code": "601398", "name": "工商银行", "date": "2024-11-16 10:40:24", "sentiment_score": 0.7532}
+{"news_id": "news_20241116_000090", "ts_code": "601988", "name": "中国银行", "date": "2024-11-16 10:40:24", "sentiment_score": 0.7532}
+{"news_id": "news_20241116_000099", "ts_code": "600028", "name": "中国石化", "date": "2024-11-16 10:14:37", "sentiment_score": 0.6926}
+{"news_id": "news_20241116_000105", "ts_code": "600196", "name": "复星医药", "date": "2024-11-16 09:37:31", "sentiment_score": 0.7793}

@@ -1,0 +1,5 @@
+{"news_id": "news_20201227_000001", "ts_code": "300750", "name": "宁德时代", "date": "2020-12-27 22:08:16", "sentiment_score": 0.6272}
+{"news_id": "news_20201227_000029", "ts_code": "000002", "name": "万科A", "date": "2020-12-27 16:36:24", "sentiment_score": 0.7426}
+{"news_id": "news_20201227_000030", "ts_code": "000651", "name": "格力电器", "date": "2020-12-27 16:32:59", "sentiment_score": 0.6987}
+{"news_id": "news_20201227_000031", "ts_code": "600030", "name": "中信证券", "date": "2020-12-27 16:07:34", "sentiment_score": 0.6908}
+{"news_id": "news_20201227_000040", "ts_code": "601088", "name": "中国神华", "date": "2020-12-27 15:24:38", "sentiment_score": 0.5586}

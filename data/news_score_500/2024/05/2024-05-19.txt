@@ -1,0 +1,5 @@
+{"news_id": "news_20240519_000013", "ts_code": "002223", "name": "鱼跃医疗", "date": "2024-05-19 17:24:02", "sentiment_score": 0.7686}
+{"news_id": "news_20240519_000030", "ts_code": "002244", "name": "滨江集团", "date": "2024-05-19 15:52:16", "sentiment_score": 0.6727}
+{"news_id": "news_20240519_000059", "ts_code": "600276", "name": "恒瑞医药", "date": "2024-05-19 10:35:19", "sentiment_score": 0.8421}
+{"news_id": "news_20240519_000063", "ts_code": "002594", "name": "比亚迪", "date": "2024-05-19 07:26:21", "sentiment_score": 0.8386}
+{"news_id": "news_20240519_000064", "ts_code": "002352", "name": "顺丰控股", "date": "2024-05-19 05:29:31", "sentiment_score": 0.8161}

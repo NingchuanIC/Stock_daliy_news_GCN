@@ -1,0 +1,13 @@
+{"news_id": "news_20220703_000001", "ts_code": "300750", "name": "宁德时代", "date": "2022-07-03 21:43:58", "sentiment_score": 0.7753}
+{"news_id": "news_20220703_000001", "ts_code": "601012", "name": "隆基绿能", "date": "2022-07-03 21:43:58", "sentiment_score": 0.7753}
+{"news_id": "news_20220703_000003", "ts_code": "002460", "name": "赣锋锂业", "date": "2022-07-03 20:48:27", "sentiment_score": 0.7021}
+{"news_id": "news_20220703_000005", "ts_code": "002460", "name": "赣锋锂业", "date": "2022-07-03 19:40:07", "sentiment_score": 0.6515}
+{"news_id": "news_20220703_000020", "ts_code": "600028", "name": "中国石化", "date": "2022-07-03 16:47:38", "sentiment_score": 0.7732}
+{"news_id": "news_20220703_000023", "ts_code": "000651", "name": "格力电器", "date": "2022-07-03 16:35:05", "sentiment_score": 0.3526}
+{"news_id": "news_20220703_000027", "ts_code": "002460", "name": "赣锋锂业", "date": "2022-07-03 16:22:04", "sentiment_score": 0.6975}
+{"news_id": "news_20220703_000028", "ts_code": "002594", "name": "比亚迪", "date": "2022-07-03 16:20:14", "sentiment_score": 0.8241}
+{"news_id": "news_20220703_000029", "ts_code": "002230", "name": "科大讯飞", "date": "2022-07-03 16:16:02", "sentiment_score": 0.8384}
+{"news_id": "news_20220703_000035", "ts_code": "688180", "name": "君实生物", "date": "2022-07-03 15:54:20", "sentiment_score": 0.5909}
+{"news_id": "news_20220703_000052", "ts_code": "601633", "name": "长城汽车", "date": "2022-07-03 09:49:42", "sentiment_score": 0.7145}
+{"news_id": "news_20220703_000052", "ts_code": "002594", "name": "比亚迪", "date": "2022-07-03 09:49:42", "sentiment_score": 0.7145}
+{"news_id": "news_20220703_000055", "ts_code": "600028", "name": "中国石化", "date": "2022-07-03 01:58:08", "sentiment_score": 0.6632}

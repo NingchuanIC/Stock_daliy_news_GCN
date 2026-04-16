@@ -1,0 +1,3 @@
+{"news_id": "news_20200523_000016", "ts_code": "300558", "name": "贝达药业", "date": "2020-05-23 12:52:28", "sentiment_score": 0.4962}
+{"news_id": "news_20200523_000022", "ts_code": "002230", "name": "科大讯飞", "date": "2020-05-23 10:05:53", "sentiment_score": 0.7029}
+{"news_id": "news_20200523_000032", "ts_code": "002294", "name": "信立泰", "date": "2020-05-23 05:11:10", "sentiment_score": 0.6694}

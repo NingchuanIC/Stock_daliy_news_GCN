@@ -1,0 +1,4 @@
+{"news_id": "news_20221006_000041", "ts_code": "600029", "name": "南方航空", "date": "2022-10-06 14:50:05", "sentiment_score": 0.7831}
+{"news_id": "news_20221006_000062", "ts_code": "600029", "name": "南方航空", "date": "2022-10-06 09:59:23", "sentiment_score": 0.8743}
+{"news_id": "news_20221006_000062", "ts_code": "600115", "name": "东方航空", "date": "2022-10-06 09:59:23", "sentiment_score": 0.8743}
+{"news_id": "news_20221006_000073", "ts_code": "600030", "name": "中信证券", "date": "2022-10-06 09:10:38", "sentiment_score": 0.7161}

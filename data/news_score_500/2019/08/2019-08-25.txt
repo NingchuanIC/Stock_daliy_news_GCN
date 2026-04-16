@@ -1,0 +1,12 @@
+{"news_id": "news_20190825_000001", "ts_code": "002405", "name": "四维图新", "date": "2019-08-25 23:00:54", "sentiment_score": 0.7636}
+{"news_id": "news_20190825_000003", "ts_code": "002415", "name": "海康威视", "date": "2019-08-25 21:56:05", "sentiment_score": 0.7056}
+{"news_id": "news_20190825_000008", "ts_code": "600050", "name": "中国联通", "date": "2019-08-25 20:21:53", "sentiment_score": 0.7789}
+{"news_id": "news_20190825_000010", "ts_code": "601390", "name": "中国中铁", "date": "2019-08-25 19:25:43", "sentiment_score": 0.6238}
+{"news_id": "news_20190825_000021", "ts_code": "601390", "name": "中国中铁", "date": "2019-08-25 17:02:52", "sentiment_score": 0.2949}
+{"news_id": "news_20190825_000023", "ts_code": "000661", "name": "长春高新", "date": "2019-08-25 17:01:55", "sentiment_score": 0.7365}
+{"news_id": "news_20190825_000037", "ts_code": "003816", "name": "中国广核", "date": "2019-08-25 16:15:16", "sentiment_score": 0.7251}
+{"news_id": "news_20190825_000047", "ts_code": "601857", "name": "中国石油", "date": "2019-08-25 14:25:06", "sentiment_score": 0.6967}
+{"news_id": "news_20190825_000049", "ts_code": "600886", "name": "国投电力", "date": "2019-08-25 14:14:42", "sentiment_score": 0.8764}
+{"news_id": "news_20190825_000050", "ts_code": "601601", "name": "中国太保", "date": "2019-08-25 14:12:10", "sentiment_score": 0.766}
+{"news_id": "news_20190825_000053", "ts_code": "600028", "name": "中国石化", "date": "2019-08-25 14:06:25", "sentiment_score": 0.8402}
+{"news_id": "news_20190825_000063", "ts_code": "000568", "name": "泸州老窖", "date": "2019-08-25 05:21:10", "sentiment_score": 0.6462}

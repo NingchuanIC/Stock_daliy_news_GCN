@@ -1,0 +1,9 @@
+{"news_id": "news_20240811_000004", "ts_code": "002230", "name": "科大讯飞", "date": "2024-08-11 22:25:58", "sentiment_score": 0.5726}
+{"news_id": "news_20240811_000004", "ts_code": "002594", "name": "比亚迪", "date": "2024-08-11 22:25:58", "sentiment_score": 0.5726}
+{"news_id": "news_20240811_000021", "ts_code": "002001", "name": "新和成", "date": "2024-08-11 19:27:15", "sentiment_score": 0.7141}
+{"news_id": "news_20240811_000025", "ts_code": "002074", "name": "国轩高科", "date": "2024-08-11 17:57:10", "sentiment_score": 0.731}
+{"news_id": "news_20240811_000049", "ts_code": "600276", "name": "恒瑞医药", "date": "2024-08-11 15:44:03", "sentiment_score": 0.6623}
+{"news_id": "news_20240811_000077", "ts_code": "002594", "name": "比亚迪", "date": "2024-08-11 11:05:55", "sentiment_score": 0.7718}
+{"news_id": "news_20240811_000083", "ts_code": "000998", "name": "隆平高科", "date": "2024-08-11 10:31:04", "sentiment_score": 0.6695}
+{"news_id": "news_20240811_000086", "ts_code": "002001", "name": "新和成", "date": "2024-08-11 09:38:04", "sentiment_score": 0.7003}
+{"news_id": "news_20240811_000088", "ts_code": "002459", "name": "晶澳科技", "date": "2024-08-11 09:10:32", "sentiment_score": 0.6892}

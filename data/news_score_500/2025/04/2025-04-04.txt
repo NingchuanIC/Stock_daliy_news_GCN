@@ -1,0 +1,9 @@
+{"news_id": "news_20250404_000162", "ts_code": "002594", "name": "比亚迪", "date": "2025-04-04 14:18:17", "sentiment_score": 0.8788}
+{"news_id": "news_20250404_000163", "ts_code": "002594", "name": "比亚迪", "date": "2025-04-04 14:15:24", "sentiment_score": 0.8734}
+{"news_id": "news_20250404_000193", "ts_code": "600030", "name": "中信证券", "date": "2025-04-04 10:56:59", "sentiment_score": 0.7252}
+{"news_id": "news_20250404_000194", "ts_code": "600030", "name": "中信证券", "date": "2025-04-04 10:56:54", "sentiment_score": 0.7174}
+{"news_id": "news_20250404_000195", "ts_code": "600030", "name": "中信证券", "date": "2025-04-04 10:44:51", "sentiment_score": 0.3851}
+{"news_id": "news_20250404_000196", "ts_code": "600030", "name": "中信证券", "date": "2025-04-04 10:44:45", "sentiment_score": 0.5909}
+{"news_id": "news_20250404_000207", "ts_code": "300760", "name": "迈瑞医疗", "date": "2025-04-04 09:57:54", "sentiment_score": 0.6889}
+{"news_id": "news_20250404_000208", "ts_code": "300760", "name": "迈瑞医疗", "date": "2025-04-04 09:57:48", "sentiment_score": 0.6875}
+{"news_id": "news_20250404_000310", "ts_code": "002594", "name": "比亚迪", "date": "2025-04-04 00:07:26", "sentiment_score": 0.7571}

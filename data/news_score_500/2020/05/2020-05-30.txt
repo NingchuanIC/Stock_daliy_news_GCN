@@ -1,0 +1,3 @@
+{"news_id": "news_20200530_000002", "ts_code": "002415", "name": "海康威视", "date": "2020-05-30 22:36:42", "sentiment_score": 0.6284}
+{"news_id": "news_20200530_000017", "ts_code": "002074", "name": "国轩高科", "date": "2020-05-30 07:38:47", "sentiment_score": 0.3988}
+{"news_id": "news_20200530_000017", "ts_code": "600418", "name": "江淮汽车", "date": "2020-05-30 07:38:47", "sentiment_score": 0.3988}

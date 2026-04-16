@@ -1,0 +1,4 @@
+{"news_id": "news_20201001_000038", "ts_code": "002466", "name": "天齐锂业", "date": "2020-10-01 11:23:25", "sentiment_score": 0.8283}
+{"news_id": "news_20201001_000041", "ts_code": "300750", "name": "宁德时代", "date": "2020-10-01 10:21:33", "sentiment_score": 0.3932}
+{"news_id": "news_20201001_000045", "ts_code": "300750", "name": "宁德时代", "date": "2020-10-01 09:50:42", "sentiment_score": 0.8435}
+{"news_id": "news_20201001_000048", "ts_code": "601988", "name": "中国银行股份有限公司", "date": "2020-10-01 09:39:12", "sentiment_score": 0.6519}

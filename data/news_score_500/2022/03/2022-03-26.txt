@@ -1,0 +1,16 @@
+{"news_id": "news_20220326_000004", "ts_code": "000858", "name": "五粮液", "date": "2022-03-26 23:05:48", "sentiment_score": 0.778}
+{"news_id": "news_20220326_000008", "ts_code": "600019", "name": "宝钢股份", "date": "2022-03-26 21:03:35", "sentiment_score": 0.747}
+{"news_id": "news_20220326_000012", "ts_code": "300750", "name": "宁德时代", "date": "2022-03-26 19:14:13", "sentiment_score": 0.6782}
+{"news_id": "news_20220326_000014", "ts_code": "300750", "name": "宁德时代", "date": "2022-03-26 19:07:52", "sentiment_score": 0.7088}
+{"news_id": "news_20220326_000016", "ts_code": "002594", "name": "比亚迪", "date": "2022-03-26 18:53:13", "sentiment_score": 0.6029}
+{"news_id": "news_20220326_000017", "ts_code": "002594", "name": "比亚迪", "date": "2022-03-26 18:52:58", "sentiment_score": 0.5416}
+{"news_id": "news_20220326_000018", "ts_code": "300750", "name": "宁德时代", "date": "2022-03-26 18:32:19", "sentiment_score": 0.7691}
+{"news_id": "news_20220326_000019", "ts_code": "000625", "name": "长安汽车", "date": "2022-03-26 18:16:10", "sentiment_score": 0.7675}
+{"news_id": "news_20220326_000022", "ts_code": "002594", "name": "比亚迪", "date": "2022-03-26 17:35:35", "sentiment_score": 0.8218}
+{"news_id": "news_20220326_000023", "ts_code": "000625", "name": "长安汽车", "date": "2022-03-26 17:31:34", "sentiment_score": 0.6605}
+{"news_id": "news_20220326_000032", "ts_code": "000858", "name": "五粮液", "date": "2022-03-26 13:57:19", "sentiment_score": 0.7293}
+{"news_id": "news_20220326_000033", "ts_code": "002074", "name": "国轩高科", "date": "2022-03-26 13:55:56", "sentiment_score": 0.7433}
+{"news_id": "news_20220326_000034", "ts_code": "000792", "name": "青海盐湖工业股份有限公司", "date": "2022-03-26 13:17:03", "sentiment_score": 0.166}
+{"news_id": "news_20220326_000035", "ts_code": "601728", "name": "中国电信", "date": "2022-03-26 13:13:12", "sentiment_score": 0.6957}
+{"news_id": "news_20220326_000040", "ts_code": "002340", "name": "格林美", "date": "2022-03-26 12:13:25", "sentiment_score": 0.579}
+{"news_id": "news_20220326_000043", "ts_code": "000039", "name": "中集集团", "date": "2022-03-26 10:08:56", "sentiment_score": 0.5959}

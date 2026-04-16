@@ -1,0 +1,7 @@
+{"news_id": "news_20220605_000005", "ts_code": "600111", "name": "北方稀土", "date": "2022-06-05 17:52:02", "sentiment_score": 0.6723}
+{"news_id": "news_20220605_000008", "ts_code": "600111", "name": "北方稀土", "date": "2022-06-05 17:05:18", "sentiment_score": 0.5852}
+{"news_id": "news_20220605_000011", "ts_code": "002294", "name": "信立泰", "date": "2022-06-05 16:40:12", "sentiment_score": 0.7633}
+{"news_id": "news_20220605_000017", "ts_code": "603259", "name": "无锡药明康德新药开发股份有限公司", "date": "2022-06-05 16:21:12", "sentiment_score": 0.7402}
+{"news_id": "news_20220605_000019", "ts_code": "002294", "name": "信立泰", "date": "2022-06-05 16:19:24", "sentiment_score": 0.7112}
+{"news_id": "news_20220605_000043", "ts_code": "601985", "name": "中国核电", "date": "2022-06-05 05:27:24", "sentiment_score": 0.7263}
+{"news_id": "news_20220605_000044", "ts_code": "600050", "name": "中国联通", "date": "2022-06-05 05:11:38", "sentiment_score": 0.7139}

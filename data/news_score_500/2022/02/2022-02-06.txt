@@ -1,0 +1,5 @@
+{"news_id": "news_20220206_000014", "ts_code": "601668", "name": "中国建筑", "date": "2022-02-06 18:14:23", "sentiment_score": 0.7327}
+{"news_id": "news_20220206_000022", "ts_code": "300014", "name": "亿纬锂能", "date": "2022-02-06 16:48:18", "sentiment_score": 0.6731}
+{"news_id": "news_20220206_000023", "ts_code": "002594", "name": "比亚迪", "date": "2022-02-06 16:42:20", "sentiment_score": 0.8736}
+{"news_id": "news_20220206_000027", "ts_code": "601857", "name": "中国石油", "date": "2022-02-06 16:11:20", "sentiment_score": 0.6814}
+{"news_id": "news_20220206_000037", "ts_code": "601766", "name": "中国中车", "date": "2022-02-06 06:23:19", "sentiment_score": 0.7011}

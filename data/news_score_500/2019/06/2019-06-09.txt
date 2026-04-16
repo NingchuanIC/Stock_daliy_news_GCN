@@ -1,0 +1,7 @@
+{"news_id": "news_20190609_000008", "ts_code": "300750", "name": "宁德时代", "date": "2019-06-09 19:21:27", "sentiment_score": 0.8271}
+{"news_id": "news_20190609_000011", "ts_code": "600938", "name": "中国海洋石油", "date": "2019-06-09 19:09:35", "sentiment_score": 0.7317}
+{"news_id": "news_20190609_000013", "ts_code": "600519", "name": "贵州茅台", "date": "2019-06-09 19:08:37", "sentiment_score": 0.6889}
+{"news_id": "news_20190609_000015", "ts_code": "000568", "name": "泸州老窖", "date": "2019-06-09 19:01:32", "sentiment_score": 0.3804}
+{"news_id": "news_20190609_000024", "ts_code": "601857", "name": "中国石油", "date": "2019-06-09 17:26:08", "sentiment_score": 0.7151}
+{"news_id": "news_20190609_000035", "ts_code": "000100", "name": "TCL集团", "date": "2019-06-09 16:47:07", "sentiment_score": 0.8225}
+{"news_id": "news_20190609_000054", "ts_code": "600050", "name": "中国联通", "date": "2019-06-09 09:19:50", "sentiment_score": 0.755}

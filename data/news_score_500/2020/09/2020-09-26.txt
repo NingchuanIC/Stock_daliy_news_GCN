@@ -1,0 +1,6 @@
+{"news_id": "news_20200926_000002", "ts_code": "601318", "name": "中国平安", "date": "2020-09-26 22:44:31", "sentiment_score": 0.7751}
+{"news_id": "news_20200926_000003", "ts_code": "601633", "name": "长城汽车", "date": "2020-09-26 22:35:00", "sentiment_score": 0.7704}
+{"news_id": "news_20200926_000020", "ts_code": "601238", "name": "广汽集团", "date": "2020-09-26 13:43:39", "sentiment_score": 0.6701}
+{"news_id": "news_20200926_000021", "ts_code": "003816", "name": "中国广核", "date": "2020-09-26 13:33:31", "sentiment_score": 0.7253}
+{"news_id": "news_20200926_000026", "ts_code": "300750", "name": "宁德时代", "date": "2020-09-26 11:18:58", "sentiment_score": 0.8186}
+{"news_id": "news_20200926_000031", "ts_code": "000063", "name": "中兴通讯", "date": "2020-09-26 08:22:00", "sentiment_score": 0.6626}

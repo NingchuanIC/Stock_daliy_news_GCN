@@ -1,0 +1,3 @@
+{"news_id": "news_20190720_000001", "ts_code": "002230", "name": "科大讯飞", "date": "2019-07-20 22:27:03", "sentiment_score": 0.6473}
+{"news_id": "news_20190720_000011", "ts_code": "600050", "name": "中国联通", "date": "2019-07-20 13:06:30", "sentiment_score": 0.6255}
+{"news_id": "news_20190720_000017", "ts_code": "600332", "name": "白云山", "date": "2019-07-20 08:42:37", "sentiment_score": 0.469}

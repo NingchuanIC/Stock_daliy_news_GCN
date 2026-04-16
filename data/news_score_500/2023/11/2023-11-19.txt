@@ -1,0 +1,13 @@
+{"news_id": "news_20231119_000006", "ts_code": "002459", "name": "晶澳科技", "date": "2023-11-19 21:48:14", "sentiment_score": 0.7418}
+{"news_id": "news_20231119_000010", "ts_code": "300459", "name": "汤姆猫", "date": "2023-11-19 19:29:47", "sentiment_score": 0.663}
+{"news_id": "news_20231119_000015", "ts_code": "600276", "name": "恒瑞医药", "date": "2023-11-19 18:39:58", "sentiment_score": 0.6298}
+{"news_id": "news_20231119_000034", "ts_code": "300750", "name": "宁德时代", "date": "2023-11-19 16:26:07", "sentiment_score": 0.8433}
+{"news_id": "news_20231119_000047", "ts_code": "002294", "name": "信立泰", "date": "2023-11-19 14:35:11", "sentiment_score": 0.6606}
+{"news_id": "news_20231119_000055", "ts_code": "600276", "name": "恒瑞医药", "date": "2023-11-19 13:05:44", "sentiment_score": 0.6572}
+{"news_id": "news_20231119_000055", "ts_code": "688235", "name": "百济神州", "date": "2023-11-19 13:05:44", "sentiment_score": 0.6572}
+{"news_id": "news_20231119_000062", "ts_code": "601186", "name": "中国铁建股份有限公司", "date": "2023-11-19 10:57:36", "sentiment_score": 0.7043}
+{"news_id": "news_20231119_000068", "ts_code": "000425", "name": "徐工机械", "date": "2023-11-19 10:19:06", "sentiment_score": 0.7209}
+{"news_id": "news_20231119_000073", "ts_code": "688111", "name": "金山办公", "date": "2023-11-19 09:06:43", "sentiment_score": 0.7549}
+{"news_id": "news_20231119_000073", "ts_code": "002594", "name": "比亚迪", "date": "2023-11-19 09:06:43", "sentiment_score": 0.7549}
+{"news_id": "news_20231119_000075", "ts_code": "600166", "name": "福田汽车", "date": "2023-11-19 08:58:57", "sentiment_score": 0.6469}
+{"news_id": "news_20231119_000086", "ts_code": "688111", "name": "金山办公", "date": "2023-11-19 07:23:55", "sentiment_score": 0.7188}

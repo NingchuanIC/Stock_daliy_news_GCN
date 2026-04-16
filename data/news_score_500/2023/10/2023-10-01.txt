@@ -1,0 +1,4 @@
+{"news_id": "news_20231001_000002", "ts_code": "002594", "name": "比亚迪", "date": "2023-10-01 21:55:06", "sentiment_score": 0.5635}
+{"news_id": "news_20231001_000010", "ts_code": "000625", "name": "长安汽车", "date": "2023-10-01 18:08:26", "sentiment_score": 0.7419}
+{"news_id": "news_20231001_000020", "ts_code": "000625", "name": "长安汽车", "date": "2023-10-01 16:10:17", "sentiment_score": 0.8115}
+{"news_id": "news_20231001_000044", "ts_code": "600938", "name": "中国海洋石油", "date": "2023-10-01 08:34:54", "sentiment_score": 0.7688}

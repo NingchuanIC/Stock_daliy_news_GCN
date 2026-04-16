@@ -1,0 +1,13 @@
+{"news_id": "news_20220108_000003", "ts_code": "688223", "name": "晶科能源", "date": "2022-01-08 21:05:36", "sentiment_score": 0.7336}
+{"news_id": "news_20220108_000006", "ts_code": "300750", "name": "宁德时代", "date": "2022-01-08 19:59:25", "sentiment_score": 0.7154}
+{"news_id": "news_20220108_000007", "ts_code": "600745", "name": "闻泰科技", "date": "2022-01-08 19:33:27", "sentiment_score": 0.6442}
+{"news_id": "news_20220108_000008", "ts_code": "300760", "name": "迈瑞医疗", "date": "2022-01-08 18:47:35", "sentiment_score": 0.6541}
+{"news_id": "news_20220108_000012", "ts_code": "600519", "name": "贵州茅台", "date": "2022-01-08 16:30:52", "sentiment_score": 0.6881}
+{"news_id": "news_20220108_000014", "ts_code": "002460", "name": "赣锋锂业", "date": "2022-01-08 13:18:28", "sentiment_score": 0.6709}
+{"news_id": "news_20220108_000015", "ts_code": "601628", "name": "中国人寿", "date": "2022-01-08 13:02:32", "sentiment_score": 0.6736}
+{"news_id": "news_20220108_000017", "ts_code": "000338", "name": "潍柴动力", "date": "2022-01-08 12:31:07", "sentiment_score": 0.7788}
+{"news_id": "news_20220108_000018", "ts_code": "600030", "name": "中信证券", "date": "2022-01-08 11:58:39", "sentiment_score": 0.7093}
+{"news_id": "news_20220108_000022", "ts_code": "000651", "name": "格力电器", "date": "2022-01-08 10:12:42", "sentiment_score": 0.6993}
+{"news_id": "news_20220108_000022", "ts_code": "000002", "name": "万科A", "date": "2022-01-08 10:12:42", "sentiment_score": 0.6993}
+{"news_id": "news_20220108_000026", "ts_code": "601127", "name": "小康股份", "date": "2022-01-08 08:47:57", "sentiment_score": 0.7218}
+{"news_id": "news_20220108_000040", "ts_code": "601600", "name": "中国铝业", "date": "2022-01-08 02:40:28", "sentiment_score": 0.8786}

@@ -1,0 +1,4 @@
+{"news_id": "news_20191208_000028", "ts_code": "600048", "name": "保利地产", "date": "2019-12-08 14:04:14", "sentiment_score": 0.8437}
+{"news_id": "news_20191208_000031", "ts_code": "688012", "name": "中微公司", "date": "2019-12-08 11:40:20", "sentiment_score": 0.7555}
+{"news_id": "news_20191208_000032", "ts_code": "000651", "name": "格力电器", "date": "2019-12-08 11:28:05", "sentiment_score": 0.6466}
+{"news_id": "news_20191208_000034", "ts_code": "601728", "name": "中国电信", "date": "2019-12-08 09:07:56", "sentiment_score": 0.6633}

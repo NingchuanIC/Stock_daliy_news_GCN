@@ -1,0 +1,2 @@
+{"news_id": "news_20190206_000041", "ts_code": "601728", "name": "中国电信", "date": "2019-02-06 09:37:28", "sentiment_score": 0.73}
+{"news_id": "news_20190206_000042", "ts_code": "601728", "name": "中国电信", "date": "2019-02-06 08:05:13", "sentiment_score": 0.7186}

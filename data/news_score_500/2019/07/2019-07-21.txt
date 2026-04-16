@@ -1,0 +1,6 @@
+{"news_id": "news_20190721_000001", "ts_code": "000002", "name": "万科企业股份有限公司", "date": "2019-07-21 21:36:25", "sentiment_score": 0.5502}
+{"news_id": "news_20190721_000004", "ts_code": "688008", "name": "澜起科技", "date": "2019-07-21 19:52:07", "sentiment_score": 0.7197}
+{"news_id": "news_20190721_000008", "ts_code": "600029", "name": "南方航空", "date": "2019-07-21 17:42:45", "sentiment_score": 0.6875}
+{"news_id": "news_20190721_000013", "ts_code": "002008", "name": "大族激光", "date": "2019-07-21 16:39:40", "sentiment_score": 0.4704}
+{"news_id": "news_20190721_000019", "ts_code": "600519", "name": "贵州茅台", "date": "2019-07-21 16:31:51", "sentiment_score": 0.791}
+{"news_id": "news_20190721_000033", "ts_code": "600332", "name": "广州白云山医药集团股份有限公司", "date": "2019-07-21 04:45:11", "sentiment_score": 0.7039}

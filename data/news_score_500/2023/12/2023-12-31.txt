@@ -1,0 +1,7 @@
+{"news_id": "news_20231231_000001", "ts_code": "600519", "name": "贵州茅台", "date": "2023-12-31 23:35:03", "sentiment_score": 0.7364}
+{"news_id": "news_20231231_000013", "ts_code": "002074", "name": "国轩高科", "date": "2023-12-31 17:10:53", "sentiment_score": 0.6258}
+{"news_id": "news_20231231_000017", "ts_code": "601633", "name": "长城汽车", "date": "2023-12-31 16:21:16", "sentiment_score": 0.7328}
+{"news_id": "news_20231231_000027", "ts_code": "300274", "name": "阳光电源", "date": "2023-12-31 14:03:21", "sentiment_score": 0.7608}
+{"news_id": "news_20231231_000031", "ts_code": "300832", "name": "新产业", "date": "2023-12-31 13:14:37", "sentiment_score": 0.6083}
+{"news_id": "news_20231231_000069", "ts_code": "002594", "name": "比亚迪", "date": "2023-12-31 08:49:15", "sentiment_score": 0.6301}
+{"news_id": "news_20231231_000083", "ts_code": "300459", "name": "汤姆猫", "date": "2023-12-31 06:33:54", "sentiment_score": 0.6939}

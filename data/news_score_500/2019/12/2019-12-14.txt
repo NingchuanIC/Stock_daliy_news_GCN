@@ -1,0 +1,6 @@
+{"news_id": "news_20191214_000001", "ts_code": "000063", "name": "中兴通讯", "date": "2019-12-14 22:11:04", "sentiment_score": 0.7343}
+{"news_id": "news_20191214_000004", "ts_code": "300832", "name": "新产业", "date": "2019-12-14 20:30:04", "sentiment_score": 0.4007}
+{"news_id": "news_20191214_000008", "ts_code": "600050", "name": "中国联通", "date": "2019-12-14 18:58:58", "sentiment_score": 0.7755}
+{"news_id": "news_20191214_000022", "ts_code": "000002", "name": "万科A", "date": "2019-12-14 03:52:14", "sentiment_score": 0.6763}
+{"news_id": "news_20191214_000023", "ts_code": "000651", "name": "格力电器", "date": "2019-12-14 03:51:51", "sentiment_score": 0.7364}
+{"news_id": "news_20191214_000023", "ts_code": "000333", "name": "美的集团", "date": "2019-12-14 03:51:51", "sentiment_score": 0.7364}

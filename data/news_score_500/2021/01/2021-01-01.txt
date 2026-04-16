@@ -1,0 +1,8 @@
+{"news_id": "news_20210101_000017", "ts_code": "300015", "name": "爱尔眼科", "date": "2021-01-01 17:08:40", "sentiment_score": 0.6686}
+{"news_id": "news_20210101_000018", "ts_code": "601728", "name": "中国电信", "date": "2021-01-01 16:54:52", "sentiment_score": 0.6305}
+{"news_id": "news_20210101_000020", "ts_code": "600030", "name": "中信证券", "date": "2021-01-01 16:02:17", "sentiment_score": 0.5215}
+{"news_id": "news_20210101_000022", "ts_code": "601857", "name": "中国石油", "date": "2021-01-01 14:49:49", "sentiment_score": 0.7506}
+{"news_id": "news_20210101_000036", "ts_code": "601728", "name": "中国电信股份有限公司", "date": "2021-01-01 10:15:21", "sentiment_score": 0.727}
+{"news_id": "news_20210101_000036", "ts_code": "600050", "name": "中国联通", "date": "2021-01-01 10:15:21", "sentiment_score": 0.727}
+{"news_id": "news_20210101_000051", "ts_code": "600050", "name": "中国联通", "date": "2021-01-01 00:48:48", "sentiment_score": 0.7683}
+{"news_id": "news_20210101_000052", "ts_code": "688223", "name": "晶科能源", "date": "2021-01-01 00:44:54", "sentiment_score": 0.8086}

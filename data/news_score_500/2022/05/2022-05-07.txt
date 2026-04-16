@@ -1,0 +1,11 @@
+{"news_id": "news_20220507_000006", "ts_code": "002594", "name": "比亚迪", "date": "2022-05-07 22:28:21", "sentiment_score": 0.6546}
+{"news_id": "news_20220507_000020", "ts_code": "002594", "name": "比亚迪", "date": "2022-05-07 19:45:15", "sentiment_score": 0.8825}
+{"news_id": "news_20220507_000021", "ts_code": "002074", "name": "国轩高科", "date": "2022-05-07 18:59:02", "sentiment_score": 0.7582}
+{"news_id": "news_20220507_000024", "ts_code": "601211", "name": "国泰君安", "date": "2022-05-07 17:51:46", "sentiment_score": 0.7387}
+{"news_id": "news_20220507_000025", "ts_code": "002415", "name": "海康威视", "date": "2022-05-07 17:42:28", "sentiment_score": 0.6962}
+{"news_id": "news_20220507_000055", "ts_code": "600030", "name": "中信证券", "date": "2022-05-07 12:33:24", "sentiment_score": 0.5783}
+{"news_id": "news_20220507_000062", "ts_code": "002475", "name": "立讯精密", "date": "2022-05-07 11:52:59", "sentiment_score": 0.7027}
+{"news_id": "news_20220507_000064", "ts_code": "000538", "name": "云南白药", "date": "2022-05-07 11:39:48", "sentiment_score": 0.7097}
+{"news_id": "news_20220507_000065", "ts_code": "002466", "name": "天齐锂业", "date": "2022-05-07 11:27:42", "sentiment_score": 0.6963}
+{"news_id": "news_20220507_000069", "ts_code": "300750", "name": "宁德时代", "date": "2022-05-07 11:10:48", "sentiment_score": 0.4884}
+{"news_id": "news_20220507_000079", "ts_code": "002594", "name": "比亚迪", "date": "2022-05-07 09:37:44", "sentiment_score": 0.8235}

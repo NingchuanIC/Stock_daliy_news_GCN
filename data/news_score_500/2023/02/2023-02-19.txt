@@ -1,0 +1,16 @@
+{"news_id": "news_20230219_000005", "ts_code": "000625", "name": "长安汽车", "date": "2023-02-19 22:07:45", "sentiment_score": 0.6798}
+{"news_id": "news_20230219_000007", "ts_code": "300433", "name": "蓝思科技", "date": "2023-02-19 21:56:06", "sentiment_score": 0.7244}
+{"news_id": "news_20230219_000012", "ts_code": "002352", "name": "顺丰控股", "date": "2023-02-19 20:14:18", "sentiment_score": 0.71}
+{"news_id": "news_20230219_000014", "ts_code": "688599", "name": "天合光能", "date": "2023-02-19 20:01:16", "sentiment_score": 0.6948}
+{"news_id": "news_20230219_000020", "ts_code": "300308", "name": "中际旭创", "date": "2023-02-19 19:10:37", "sentiment_score": 0.807}
+{"news_id": "news_20230219_000036", "ts_code": "601988", "name": "中国银行股份有限公司", "date": "2023-02-19 17:03:34", "sentiment_score": 0.7407}
+{"news_id": "news_20230219_000047", "ts_code": "002352", "name": "顺丰控股", "date": "2023-02-19 16:30:17", "sentiment_score": 0.8518}
+{"news_id": "news_20230219_000069", "ts_code": "002594", "name": "比亚迪", "date": "2023-02-19 15:03:41", "sentiment_score": 0.6347}
+{"news_id": "news_20230219_000070", "ts_code": "002074", "name": "国轩高科股份有限公司", "date": "2023-02-19 15:00:19", "sentiment_score": 0.5443}
+{"news_id": "news_20230219_000078", "ts_code": "002594", "name": "比亚迪", "date": "2023-02-19 13:30:39", "sentiment_score": 0.6688}
+{"news_id": "news_20230219_000079", "ts_code": "003816", "name": "中国广核", "date": "2023-02-19 13:28:34", "sentiment_score": 0.6462}
+{"news_id": "news_20230219_000083", "ts_code": "600938", "name": "中国海油", "date": "2023-02-19 12:57:34", "sentiment_score": 0.7368}
+{"news_id": "news_20230219_000092", "ts_code": "300015", "name": "爱尔眼科", "date": "2023-02-19 11:17:35", "sentiment_score": 0.6034}
+{"news_id": "news_20230219_000094", "ts_code": "688599", "name": "天合光能", "date": "2023-02-19 11:01:41", "sentiment_score": 0.637}
+{"news_id": "news_20230219_000108", "ts_code": "601398", "name": "中国工商银行股份有限公司", "date": "2023-02-19 08:21:06", "sentiment_score": 0.5904}
+{"news_id": "news_20230219_000115", "ts_code": "601288", "name": "农业银行", "date": "2023-02-19 07:34:13", "sentiment_score": 0.3548}

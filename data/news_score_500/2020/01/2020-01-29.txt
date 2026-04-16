@@ -1,0 +1,8 @@
+{"news_id": "news_20200129_000004", "ts_code": "600418", "name": "江淮汽车", "date": "2020-01-29 22:33:43", "sentiment_score": 0.757}
+{"news_id": "news_20200129_000021", "ts_code": "600028", "name": "中国石化", "date": "2020-01-29 17:50:02", "sentiment_score": 0.6705}
+{"news_id": "news_20200129_000049", "ts_code": "601728", "name": "中国电信", "date": "2020-01-29 13:43:04", "sentiment_score": 0.6392}
+{"news_id": "news_20200129_000061", "ts_code": "601728", "name": "中国电信", "date": "2020-01-29 12:31:25", "sentiment_score": 0.7584}
+{"news_id": "news_20200129_000062", "ts_code": "002603", "name": "以岭药业", "date": "2020-01-29 12:19:39", "sentiment_score": 0.6037}
+{"news_id": "news_20200129_000066", "ts_code": "600050", "name": "中国联通", "date": "2020-01-29 11:19:18", "sentiment_score": 0.7333}
+{"news_id": "news_20200129_000078", "ts_code": "600029", "name": "南方航空", "date": "2020-01-29 09:24:09", "sentiment_score": 0.8359}
+{"news_id": "news_20200129_000078", "ts_code": "600115", "name": "东方航空", "date": "2020-01-29 09:24:09", "sentiment_score": 0.8359}

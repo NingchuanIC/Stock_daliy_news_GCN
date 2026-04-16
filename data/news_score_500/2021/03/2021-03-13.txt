@@ -1,0 +1,4 @@
+{"news_id": "news_20210313_000002", "ts_code": "002475", "name": "立讯精密", "date": "2021-03-13 22:39:32", "sentiment_score": 0.7141}
+{"news_id": "news_20210313_000008", "ts_code": "300750", "name": "宁德时代", "date": "2021-03-13 20:31:24", "sentiment_score": 0.353}
+{"news_id": "news_20210313_000010", "ts_code": "000063", "name": "中兴通讯股份有限公司", "date": "2021-03-13 19:48:21", "sentiment_score": 0.5886}
+{"news_id": "news_20210313_000010", "ts_code": "002415", "name": "海康威视", "date": "2021-03-13 19:48:21", "sentiment_score": 0.5886}

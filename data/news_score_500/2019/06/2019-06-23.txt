@@ -1,0 +1,4 @@
+{"news_id": "news_20190623_000013", "ts_code": "000039", "name": "中集集团", "date": "2019-06-23 17:39:44", "sentiment_score": 0.7724}
+{"news_id": "news_20190623_000017", "ts_code": "601628", "name": "中国人寿", "date": "2019-06-23 17:07:25", "sentiment_score": 0.7837}
+{"news_id": "news_20190623_000025", "ts_code": "601601", "name": "中国太保", "date": "2019-06-23 16:09:47", "sentiment_score": 0.6772}
+{"news_id": "news_20190623_000039", "ts_code": "601186", "name": "中国铁建", "date": "2019-06-23 11:47:19", "sentiment_score": 0.6953}

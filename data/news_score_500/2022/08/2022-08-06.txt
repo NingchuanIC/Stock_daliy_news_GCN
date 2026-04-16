@@ -1,0 +1,6 @@
+{"news_id": "news_20220806_000028", "ts_code": "600029", "name": "南方航空", "date": "2022-08-06 13:02:26", "sentiment_score": 0.6473}
+{"news_id": "news_20220806_000028", "ts_code": "600115", "name": "东方航空", "date": "2022-08-06 13:02:26", "sentiment_score": 0.6473}
+{"news_id": "news_20220806_000030", "ts_code": "000338", "name": "潍柴动力", "date": "2022-08-06 12:24:33", "sentiment_score": 0.7817}
+{"news_id": "news_20220806_000031", "ts_code": "000568", "name": "泸州老窖", "date": "2022-08-06 12:24:10", "sentiment_score": 0.7448}
+{"news_id": "news_20220806_000033", "ts_code": "002156", "name": "通富微电", "date": "2022-08-06 12:13:54", "sentiment_score": 0.5143}
+{"news_id": "news_20220806_000057", "ts_code": "601211", "name": "国泰君安", "date": "2022-08-06 02:13:52", "sentiment_score": 0.7224}

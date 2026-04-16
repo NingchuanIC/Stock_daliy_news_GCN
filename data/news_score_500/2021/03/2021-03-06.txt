@@ -1,0 +1,2 @@
+{"news_id": "news_20210306_000018", "ts_code": "688599", "name": "天合光能", "date": "2021-03-06 08:26:34", "sentiment_score": 0.7096}
+{"news_id": "news_20210306_000019", "ts_code": "688235", "name": "百济神州", "date": "2021-03-06 07:43:31", "sentiment_score": 0.67}

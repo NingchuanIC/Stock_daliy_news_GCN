@@ -1,0 +1,6 @@
+{"news_id": "news_20190202_000018", "ts_code": "601728", "name": "中国电信", "date": "2019-02-02 08:38:32", "sentiment_score": 0.7256}
+{"news_id": "news_20190202_000019", "ts_code": "000333", "name": "美的集团", "date": "2019-02-02 07:50:29", "sentiment_score": 0.709}
+{"news_id": "news_20190202_000032", "ts_code": "601633", "name": "长城汽车", "date": "2019-02-02 01:44:58", "sentiment_score": 0.6967}
+{"news_id": "news_20190202_000032", "ts_code": "000333", "name": "美的集团", "date": "2019-02-02 01:44:58", "sentiment_score": 0.6967}
+{"news_id": "news_20190202_000032", "ts_code": "601155", "name": "新城控股", "date": "2019-02-02 01:44:58", "sentiment_score": 0.6967}
+{"news_id": "news_20190202_000038", "ts_code": "000651", "name": "格力电器", "date": "2019-02-02 00:01:11", "sentiment_score": 0.5427}

@@ -1,0 +1,4 @@
+{"news_id": "news_20220430_000028", "ts_code": "300274", "name": "阳光电源", "date": "2022-04-30 13:25:14", "sentiment_score": 0.7236}
+{"news_id": "news_20220430_000030", "ts_code": "600104", "name": "上汽集团", "date": "2022-04-30 10:28:25", "sentiment_score": 0.7211}
+{"news_id": "news_20220430_000034", "ts_code": "600030", "name": "中信证券", "date": "2022-04-30 07:53:40", "sentiment_score": 0.7101}
+{"news_id": "news_20220430_000050", "ts_code": "601318", "name": "中国平安", "date": "2022-04-30 02:45:14", "sentiment_score": 0.6362}

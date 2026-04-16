@@ -1,0 +1,8 @@
+{"news_id": "news_20220604_000001", "ts_code": "601398", "name": "工商银行", "date": "2022-06-04 22:56:58", "sentiment_score": 0.7226}
+{"news_id": "news_20220604_000008", "ts_code": "600019", "name": "宝钢股份", "date": "2022-06-04 19:58:39", "sentiment_score": 0.746}
+{"news_id": "news_20220604_000009", "ts_code": "601601", "name": "中国太保", "date": "2022-06-04 19:52:09", "sentiment_score": 0.6839}
+{"news_id": "news_20220604_000010", "ts_code": "300832", "name": "新产业", "date": "2022-06-04 19:45:28", "sentiment_score": 0.696}
+{"news_id": "news_20220604_000024", "ts_code": "600028", "name": "中国石化", "date": "2022-06-04 13:46:38", "sentiment_score": 0.6879}
+{"news_id": "news_20220604_000025", "ts_code": "600028", "name": "中国石化", "date": "2022-06-04 13:42:16", "sentiment_score": 0.6879}
+{"news_id": "news_20220604_000026", "ts_code": "002594", "name": "比亚迪", "date": "2022-06-04 13:33:46", "sentiment_score": 0.6671}
+{"news_id": "news_20220604_000037", "ts_code": "600030", "name": "中信证券", "date": "2022-06-04 09:20:32", "sentiment_score": 0.6988}

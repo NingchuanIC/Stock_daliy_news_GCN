@@ -1,0 +1,6 @@
+{"news_id": "news_20220313_000006", "ts_code": "600998", "name": "九州通", "date": "2022-03-13 21:41:14", "sentiment_score": 0.666}
+{"news_id": "news_20220313_000010", "ts_code": "600519", "name": "贵州茅台", "date": "2022-03-13 20:40:21", "sentiment_score": 0.7055}
+{"news_id": "news_20220313_000010", "ts_code": "002812", "name": "恩捷股份", "date": "2022-03-13 20:40:21", "sentiment_score": 0.7055}
+{"news_id": "news_20220313_000010", "ts_code": "603259", "name": "药明康德", "date": "2022-03-13 20:40:21", "sentiment_score": 0.7055}
+{"news_id": "news_20220313_000010", "ts_code": "601318", "name": "中国平安", "date": "2022-03-13 20:40:21", "sentiment_score": 0.7055}
+{"news_id": "news_20220313_000022", "ts_code": "002271", "name": "东方雨虹", "date": "2022-03-13 16:33:04", "sentiment_score": 0.8742}

@@ -1,0 +1,13 @@
+{"news_id": "news_20231210_000018", "ts_code": "300459", "name": "汤姆猫", "date": "2023-12-10 20:31:41", "sentiment_score": 0.6225}
+{"news_id": "news_20231210_000024", "ts_code": "002594", "name": "比亚迪", "date": "2023-12-10 19:37:00", "sentiment_score": 0.6786}
+{"news_id": "news_20231210_000025", "ts_code": "300308", "name": "中际旭创", "date": "2023-12-10 19:34:28", "sentiment_score": 0.8264}
+{"news_id": "news_20231210_000046", "ts_code": "002714", "name": "牧原股份", "date": "2023-12-10 18:26:40", "sentiment_score": 0.7049}
+{"news_id": "news_20231210_000047", "ts_code": "000338", "name": "潍柴动力", "date": "2023-12-10 18:23:53", "sentiment_score": 0.6882}
+{"news_id": "news_20231210_000062", "ts_code": "300014", "name": "亿纬锂能", "date": "2023-12-10 17:14:16", "sentiment_score": 0.703}
+{"news_id": "news_20231210_000103", "ts_code": "002709", "name": "天赐材料", "date": "2023-12-10 15:46:29", "sentiment_score": 0.8341}
+{"news_id": "news_20231210_000117", "ts_code": "300014", "name": "亿纬锂能", "date": "2023-12-10 15:39:11", "sentiment_score": 0.7848}
+{"news_id": "news_20231210_000136", "ts_code": "002074", "name": "国轩高科", "date": "2023-12-10 13:45:18", "sentiment_score": 0.6129}
+{"news_id": "news_20231210_000137", "ts_code": "688180", "name": "上海君实生物医药科技股份有限公司", "date": "2023-12-10 13:43:52", "sentiment_score": 0.6716}
+{"news_id": "news_20231210_000152", "ts_code": "600019", "name": "宝钢股份", "date": "2023-12-10 10:20:46", "sentiment_score": 0.6646}
+{"news_id": "news_20231210_000154", "ts_code": "002714", "name": "牧原股份", "date": "2023-12-10 09:23:51", "sentiment_score": 0.6803}
+{"news_id": "news_20231210_000157", "ts_code": "002353", "name": "杰瑞股份", "date": "2023-12-10 08:16:44", "sentiment_score": 0.6756}

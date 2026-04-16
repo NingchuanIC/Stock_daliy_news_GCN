@@ -1,0 +1,3 @@
+{"news_id": "news_20210919_000002", "ts_code": "601211", "name": "国泰君安", "date": "2021-09-19 22:55:25", "sentiment_score": 0.6905}
+{"news_id": "news_20210919_000013", "ts_code": "601628", "name": "中国人寿", "date": "2021-09-19 18:59:21", "sentiment_score": 0.3105}
+{"news_id": "news_20210919_000024", "ts_code": "000338", "name": "潍柴动力", "date": "2021-09-19 14:27:21", "sentiment_score": 0.6394}

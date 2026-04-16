@@ -1,0 +1,14 @@
+{"news_id": "news_20251214_000015", "ts_code": "601328", "name": "交通银行", "date": "2025-12-14 20:24:05", "sentiment_score": 0.6716}
+{"news_id": "news_20251214_000015", "ts_code": "601988", "name": "中国银行", "date": "2025-12-14 20:24:05", "sentiment_score": 0.6716}
+{"news_id": "news_20251214_000017", "ts_code": "600030", "name": "中信证券", "date": "2025-12-14 19:49:32", "sentiment_score": 0.5557}
+{"news_id": "news_20251214_000019", "ts_code": "600104", "name": "上汽集团", "date": "2025-12-14 18:56:08", "sentiment_score": 0.6618}
+{"news_id": "news_20251214_000019", "ts_code": "300308", "name": "中际旭创", "date": "2025-12-14 18:56:08", "sentiment_score": 0.6618}
+{"news_id": "news_20251214_000019", "ts_code": "600111", "name": "北方稀土", "date": "2025-12-14 18:56:08", "sentiment_score": 0.6618}
+{"news_id": "news_20251214_000019", "ts_code": "603019", "name": "中科曙光", "date": "2025-12-14 18:56:08", "sentiment_score": 0.6618}
+{"news_id": "news_20251214_000025", "ts_code": "000625", "name": "长安汽车", "date": "2025-12-14 17:59:54", "sentiment_score": 0.698}
+{"news_id": "news_20251214_000028", "ts_code": "603019", "name": "中科曙光", "date": "2025-12-14 17:43:35", "sentiment_score": 0.6864}
+{"news_id": "news_20251214_000028", "ts_code": "688041", "name": "海光信息", "date": "2025-12-14 17:43:35", "sentiment_score": 0.6864}
+{"news_id": "news_20251214_000028", "ts_code": "688521", "name": "芯原股份", "date": "2025-12-14 17:43:35", "sentiment_score": 0.6864}
+{"news_id": "news_20251214_000060", "ts_code": "688180", "name": "君实生物", "date": "2025-12-14 15:49:04", "sentiment_score": 0.7197}
+{"news_id": "news_20251214_000089", "ts_code": "603019", "name": "中科曙光", "date": "2025-12-14 08:26:47", "sentiment_score": 0.6598}
+{"news_id": "news_20251214_000089", "ts_code": "688041", "name": "海光信息", "date": "2025-12-14 08:26:47", "sentiment_score": 0.6598}

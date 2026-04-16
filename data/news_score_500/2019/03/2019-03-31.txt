@@ -1,0 +1,9 @@
+{"news_id": "news_20190331_000005", "ts_code": "600050", "name": "中国联通", "date": "2019-03-31 21:27:16", "sentiment_score": 0.6718}
+{"news_id": "news_20190331_000011", "ts_code": "601288", "name": "农业银行", "date": "2019-03-31 19:26:55", "sentiment_score": 0.6254}
+{"news_id": "news_20190331_000015", "ts_code": "000039", "name": "中集集团", "date": "2019-03-31 18:16:22", "sentiment_score": 0.6006}
+{"news_id": "news_20190331_000016", "ts_code": "600031", "name": "三一重工", "date": "2019-03-31 18:07:11", "sentiment_score": 0.5236}
+{"news_id": "news_20190331_000016", "ts_code": "000063", "name": "中兴通讯", "date": "2019-03-31 18:07:11", "sentiment_score": 0.5236}
+{"news_id": "news_20190331_000018", "ts_code": "000932", "name": "华菱钢铁", "date": "2019-03-31 17:47:29", "sentiment_score": 0.8645}
+{"news_id": "news_20190331_000023", "ts_code": "002466", "name": "天齐锂业", "date": "2019-03-31 17:34:17", "sentiment_score": 0.6743}
+{"news_id": "news_20190331_000033", "ts_code": "002001", "name": "新和成", "date": "2019-03-31 16:54:43", "sentiment_score": 0.8743}
+{"news_id": "news_20190331_000056", "ts_code": "600031", "name": "三一重工", "date": "2019-03-31 14:07:57", "sentiment_score": 0.8624}

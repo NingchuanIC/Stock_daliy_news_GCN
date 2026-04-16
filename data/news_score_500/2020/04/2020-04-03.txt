@@ -1,0 +1,14 @@
+{"news_id": "news_20200403_000014", "ts_code": "601601", "name": "中国太保", "date": "2020-04-03 21:16:22", "sentiment_score": 0.6635}
+{"news_id": "news_20200403_000014", "ts_code": "601318", "name": "中国平安", "date": "2020-04-03 21:16:22", "sentiment_score": 0.6635}
+{"news_id": "news_20200403_000021", "ts_code": "601601", "name": "中国太保", "date": "2020-04-03 20:29:29", "sentiment_score": 0.795}
+{"news_id": "news_20200403_000027", "ts_code": "601238", "name": "广汽集团", "date": "2020-04-03 19:37:56", "sentiment_score": 0.6591}
+{"news_id": "news_20200403_000029", "ts_code": "601988", "name": "中国银行", "date": "2020-04-03 19:30:47", "sentiment_score": 0.777}
+{"news_id": "news_20200403_000030", "ts_code": "600166", "name": "福田汽车", "date": "2020-04-03 19:21:21", "sentiment_score": 0.8513}
+{"news_id": "news_20200403_000044", "ts_code": "600519", "name": "贵州茅台", "date": "2020-04-03 18:24:58", "sentiment_score": 0.8062}
+{"news_id": "news_20200403_000045", "ts_code": "600066", "name": "宇通客车", "date": "2020-04-03 18:22:35", "sentiment_score": 0.849}
+{"news_id": "news_20200403_000053", "ts_code": "300122", "name": "智飞生物", "date": "2020-04-03 17:41:33", "sentiment_score": 0.8747}
+{"news_id": "news_20200403_000058", "ts_code": "600050", "name": "中国联通", "date": "2020-04-03 17:17:13", "sentiment_score": 0.8249}
+{"news_id": "news_20200403_000060", "ts_code": "600900", "name": "长江电力", "date": "2020-04-03 17:14:19", "sentiment_score": 0.8554}
+{"news_id": "news_20200403_000068", "ts_code": "601728", "name": "中国电信", "date": "2020-04-03 16:46:52", "sentiment_score": 0.841}
+{"news_id": "news_20200403_000068", "ts_code": "600050", "name": "中国联通", "date": "2020-04-03 16:46:52", "sentiment_score": 0.841}
+{"news_id": "news_20200403_000132", "ts_code": "600988", "name": "赤峰黄金", "date": "2020-04-03 10:54:10", "sentiment_score": 0.8577}

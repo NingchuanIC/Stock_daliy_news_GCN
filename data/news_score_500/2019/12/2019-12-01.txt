@@ -1,0 +1,5 @@
+{"news_id": "news_20191201_000003", "ts_code": "601318", "name": "中国平安", "date": "2019-12-01 21:30:58", "sentiment_score": 0.7566}
+{"news_id": "news_20191201_000004", "ts_code": "300223", "name": "北京君正", "date": "2019-12-01 20:46:11", "sentiment_score": 0.8009}
+{"news_id": "news_20191201_000012", "ts_code": "600938", "name": "中国海洋石油", "date": "2019-12-01 17:16:07", "sentiment_score": 0.733}
+{"news_id": "news_20191201_000013", "ts_code": "002920", "name": "德赛西威", "date": "2019-12-01 16:45:50", "sentiment_score": 0.7103}
+{"news_id": "news_20191201_000029", "ts_code": "601328", "name": "交通银行", "date": "2019-12-01 10:58:57", "sentiment_score": 0.6218}

@@ -1,0 +1,5 @@
+{"news_id": "news_20220528_000007", "ts_code": "601398", "name": "工商银行", "date": "2022-05-28 18:57:04", "sentiment_score": 0.4116}
+{"news_id": "news_20220528_000018", "ts_code": "600938", "name": "中国海油", "date": "2022-05-28 15:07:49", "sentiment_score": 0.7178}
+{"news_id": "news_20220528_000021", "ts_code": "003816", "name": "中国广核", "date": "2022-05-28 14:47:03", "sentiment_score": 0.6945}
+{"news_id": "news_20220528_000025", "ts_code": "000858", "name": "五粮液", "date": "2022-05-28 13:08:22", "sentiment_score": 0.6448}
+{"news_id": "news_20220528_000044", "ts_code": "601012", "name": "隆基股份", "date": "2022-05-28 00:10:16", "sentiment_score": 0.839}

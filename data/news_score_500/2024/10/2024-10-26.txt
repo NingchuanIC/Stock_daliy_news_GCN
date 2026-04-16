@@ -1,0 +1,15 @@
+{"news_id": "news_20241026_000005", "ts_code": "601211", "name": "国泰君安", "date": "2024-10-26 21:02:36", "sentiment_score": 0.4561}
+{"news_id": "news_20241026_000023", "ts_code": "301236", "name": "软通动力", "date": "2024-10-26 17:17:22", "sentiment_score": 0.6556}
+{"news_id": "news_20241026_000023", "ts_code": "603019", "name": "中科曙光", "date": "2024-10-26 17:17:22", "sentiment_score": 0.6556}
+{"news_id": "news_20241026_000024", "ts_code": "600028", "name": "中国石化", "date": "2024-10-26 17:17:03", "sentiment_score": 0.6716}
+{"news_id": "news_20241026_000024", "ts_code": "601857", "name": "中国石油", "date": "2024-10-26 17:17:03", "sentiment_score": 0.6716}
+{"news_id": "news_20241026_000033", "ts_code": "300014", "name": "亿纬锂能", "date": "2024-10-26 15:38:48", "sentiment_score": 0.7529}
+{"news_id": "news_20241026_000039", "ts_code": "601238", "name": "广汽集团", "date": "2024-10-26 15:22:41", "sentiment_score": 0.5909}
+{"news_id": "news_20241026_000051", "ts_code": "300628", "name": "亿联网络", "date": "2024-10-26 14:00:12", "sentiment_score": 0.8719}
+{"news_id": "news_20241026_000056", "ts_code": "300059", "name": "东方财富", "date": "2024-10-26 13:11:03", "sentiment_score": 0.7117}
+{"news_id": "news_20241026_000058", "ts_code": "601398", "name": "工商银行", "date": "2024-10-26 12:25:42", "sentiment_score": 0.6534}
+{"news_id": "news_20241026_000064", "ts_code": "600887", "name": "内蒙古伊利实业集团股份有限公司", "date": "2024-10-26 11:26:50", "sentiment_score": 0.5248}
+{"news_id": "news_20241026_000080", "ts_code": "002460", "name": "赣锋锂业", "date": "2024-10-26 08:44:21", "sentiment_score": 0.6999}
+{"news_id": "news_20241026_000081", "ts_code": "688235", "name": "百济神州", "date": "2024-10-26 08:34:43", "sentiment_score": 0.8133}
+{"news_id": "news_20241026_000192", "ts_code": "600519", "name": "贵州茅台", "date": "2024-10-26 00:18:29", "sentiment_score": 0.7985}
+{"news_id": "news_20241026_000193", "ts_code": "600519", "name": "贵州茅台", "date": "2024-10-26 00:18:23", "sentiment_score": 0.7997}

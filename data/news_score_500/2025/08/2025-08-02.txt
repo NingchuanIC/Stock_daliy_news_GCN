@@ -1,0 +1,12 @@
+{"news_id": "news_20250802_000005", "ts_code": "002415", "name": "海康威视", "date": "2025-08-02 21:21:51", "sentiment_score": 0.7412}
+{"news_id": "news_20250802_000027", "ts_code": "300832", "name": "新产业", "date": "2025-08-02 17:49:19", "sentiment_score": 0.6642}
+{"news_id": "news_20250802_000031", "ts_code": "601127", "name": "赛力斯", "date": "2025-08-02 17:24:42", "sentiment_score": 0.7596}
+{"news_id": "news_20250802_000032", "ts_code": "600332", "name": "白云山", "date": "2025-08-02 17:22:09", "sentiment_score": 0.6538}
+{"news_id": "news_20250802_000046", "ts_code": "600029", "name": "南方航空", "date": "2025-08-02 15:53:44", "sentiment_score": 0.6724}
+{"news_id": "news_20250802_000074", "ts_code": "688256", "name": "寒武纪", "date": "2025-08-02 11:49:42", "sentiment_score": 0.8357}
+{"news_id": "news_20250802_000091", "ts_code": "600309", "name": "万华化学", "date": "2025-08-02 08:12:20", "sentiment_score": 0.7073}
+{"news_id": "news_20250802_000091", "ts_code": "605499", "name": "东鹏饮料", "date": "2025-08-02 08:12:20", "sentiment_score": 0.7073}
+{"news_id": "news_20250802_000091", "ts_code": "603993", "name": "洛阳钼业", "date": "2025-08-02 08:12:20", "sentiment_score": 0.7073}
+{"news_id": "news_20250802_000091", "ts_code": "002463", "name": "沪电股份", "date": "2025-08-02 08:12:20", "sentiment_score": 0.7073}
+{"news_id": "news_20250802_000091", "ts_code": "300059", "name": "东方财富", "date": "2025-08-02 08:12:20", "sentiment_score": 0.7073}
+{"news_id": "news_20250802_000127", "ts_code": "601088", "name": "中国神华能源股份有限公司", "date": "2025-08-02 01:10:43", "sentiment_score": 0.4271}

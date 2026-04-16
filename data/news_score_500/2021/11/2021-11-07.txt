@@ -1,0 +1,5 @@
+{"news_id": "news_20211107_000025", "ts_code": "601155", "name": "新城控股集团股份有限公司", "date": "2021-11-07 15:35:39", "sentiment_score": 0.7656}
+{"news_id": "news_20211107_000026", "ts_code": "601601", "name": "中国太保", "date": "2021-11-07 13:19:16", "sentiment_score": 0.5372}
+{"news_id": "news_20211107_000028", "ts_code": "601728", "name": "中国电信", "date": "2021-11-07 13:09:22", "sentiment_score": 0.7582}
+{"news_id": "news_20211107_000032", "ts_code": "000063", "name": "中兴通讯", "date": "2021-11-07 11:39:29", "sentiment_score": 0.6844}
+{"news_id": "news_20211107_000040", "ts_code": "600196", "name": "复星医药", "date": "2021-11-07 07:35:51", "sentiment_score": 0.6275}

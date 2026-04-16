@@ -1,0 +1,16 @@
+{"news_id": "news_20230917_000001", "ts_code": "688008", "name": "澜起科技", "date": "2023-09-17 23:56:39", "sentiment_score": 0.7114}
+{"news_id": "news_20230917_000004", "ts_code": "601211", "name": "国泰君安", "date": "2023-09-17 23:00:25", "sentiment_score": 0.6375}
+{"news_id": "news_20230917_000008", "ts_code": "002074", "name": "国轩高科", "date": "2023-09-17 22:15:02", "sentiment_score": 0.5669}
+{"news_id": "news_20230917_000012", "ts_code": "003816", "name": "中国广核", "date": "2023-09-17 21:34:16", "sentiment_score": 0.7232}
+{"news_id": "news_20230917_000016", "ts_code": "002074", "name": "国轩高科", "date": "2023-09-17 20:15:43", "sentiment_score": 0.7255}
+{"news_id": "news_20230917_000017", "ts_code": "002074", "name": "国轩高科", "date": "2023-09-17 20:14:03", "sentiment_score": 0.6553}
+{"news_id": "news_20230917_000020", "ts_code": "002074", "name": "国轩高科", "date": "2023-09-17 19:39:45", "sentiment_score": 0.452}
+{"news_id": "news_20230917_000023", "ts_code": "600039", "name": "四川路桥", "date": "2023-09-17 19:07:07", "sentiment_score": 0.7472}
+{"news_id": "news_20230917_000031", "ts_code": "002371", "name": "北方华创", "date": "2023-09-17 17:38:30", "sentiment_score": 0.8367}
+{"news_id": "news_20230917_000033", "ts_code": "002371", "name": "北方华创", "date": "2023-09-17 17:36:24", "sentiment_score": 0.6417}
+{"news_id": "news_20230917_000037", "ts_code": "600039", "name": "四川路桥", "date": "2023-09-17 17:03:28", "sentiment_score": 0.7605}
+{"news_id": "news_20230917_000043", "ts_code": "000568", "name": "泸州老窖", "date": "2023-09-17 16:52:30", "sentiment_score": 0.5456}
+{"news_id": "news_20230917_000070", "ts_code": "600104", "name": "上汽集团", "date": "2023-09-17 15:35:32", "sentiment_score": 0.7453}
+{"news_id": "news_20230917_000077", "ts_code": "002008", "name": "大族激光", "date": "2023-09-17 14:05:03", "sentiment_score": 0.6896}
+{"news_id": "news_20230917_000079", "ts_code": "300308", "name": "中际旭创", "date": "2023-09-17 14:04:37", "sentiment_score": 0.7935}
+{"news_id": "news_20230917_000086", "ts_code": "600030", "name": "中信证券", "date": "2023-09-17 09:41:36", "sentiment_score": 0.6117}

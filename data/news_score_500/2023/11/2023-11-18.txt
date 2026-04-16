@@ -1,0 +1,12 @@
+{"news_id": "news_20231118_000003", "ts_code": "000625", "name": "长安汽车", "date": "2023-11-18 22:35:51", "sentiment_score": 0.6958}
+{"news_id": "news_20231118_000007", "ts_code": "688223", "name": "晶科能源", "date": "2023-11-18 20:02:55", "sentiment_score": 0.3064}
+{"news_id": "news_20231118_000010", "ts_code": "601398", "name": "工商银行", "date": "2023-11-18 19:48:33", "sentiment_score": 0.7183}
+{"news_id": "news_20231118_000013", "ts_code": "601988", "name": "中国银行", "date": "2023-11-18 18:58:17", "sentiment_score": 0.6887}
+{"news_id": "news_20231118_000025", "ts_code": "002271", "name": "东方雨虹", "date": "2023-11-18 16:02:36", "sentiment_score": 0.7978}
+{"news_id": "news_20231118_000037", "ts_code": "688235", "name": "百济神州", "date": "2023-11-18 14:46:12", "sentiment_score": 0.3176}
+{"news_id": "news_20231118_000045", "ts_code": "002594", "name": "比亚迪", "date": "2023-11-18 13:22:31", "sentiment_score": 0.8301}
+{"news_id": "news_20231118_000049", "ts_code": "002594", "name": "比亚迪", "date": "2023-11-18 12:40:18", "sentiment_score": 0.6307}
+{"news_id": "news_20231118_000050", "ts_code": "601988", "name": "中国银行", "date": "2023-11-18 12:35:21", "sentiment_score": 0.5942}
+{"news_id": "news_20231118_000054", "ts_code": "000651", "name": "格力电器", "date": "2023-11-18 11:58:48", "sentiment_score": 0.6973}
+{"news_id": "news_20231118_000063", "ts_code": "600276", "name": "恒瑞医药", "date": "2023-11-18 10:09:21", "sentiment_score": 0.6151}
+{"news_id": "news_20231118_000067", "ts_code": "601857", "name": "中国石油", "date": "2023-11-18 09:23:44", "sentiment_score": 0.6197}

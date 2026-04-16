@@ -1,0 +1,8 @@
+{"news_id": "news_20210912_000001", "ts_code": "601238", "name": "广汽集团", "date": "2021-09-12 23:35:10", "sentiment_score": 0.7754}
+{"news_id": "news_20210912_000003", "ts_code": "600048", "name": "保利发展", "date": "2021-09-12 22:32:04", "sentiment_score": 0.6385}
+{"news_id": "news_20210912_000008", "ts_code": "600048", "name": "保利发展", "date": "2021-09-12 18:33:05", "sentiment_score": 0.8532}
+{"news_id": "news_20210912_000018", "ts_code": "000651", "name": "格力电器", "date": "2021-09-12 16:46:19", "sentiment_score": 0.7816}
+{"news_id": "news_20210912_000023", "ts_code": "000625", "name": "长安汽车", "date": "2021-09-12 16:29:38", "sentiment_score": 0.6447}
+{"news_id": "news_20210912_000024", "ts_code": "601288", "name": "中国农业银行股份有限公司", "date": "2021-09-12 16:27:40", "sentiment_score": 0.7793}
+{"news_id": "news_20210912_000031", "ts_code": "600547", "name": "山东黄金", "date": "2021-09-12 15:51:53", "sentiment_score": 0.729}
+{"news_id": "news_20210912_000044", "ts_code": "002340", "name": "格林美", "date": "2021-09-12 08:56:03", "sentiment_score": 0.6709}

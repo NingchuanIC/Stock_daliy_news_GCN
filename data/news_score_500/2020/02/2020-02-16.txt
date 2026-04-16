@@ -1,0 +1,6 @@
+{"news_id": "news_20200216_000001", "ts_code": "000651", "name": "格力电器", "date": "2020-02-16 23:25:30", "sentiment_score": 0.7502}
+{"news_id": "news_20200216_000024", "ts_code": "000651", "name": "格力电器", "date": "2020-02-16 16:49:21", "sentiment_score": 0.8322}
+{"news_id": "news_20200216_000026", "ts_code": "000858", "name": "五粮液", "date": "2020-02-16 16:30:04", "sentiment_score": 0.6913}
+{"news_id": "news_20200216_000034", "ts_code": "688169", "name": "石头科技", "date": "2020-02-16 15:15:03", "sentiment_score": 0.811}
+{"news_id": "news_20200216_000037", "ts_code": "601766", "name": "中国中车", "date": "2020-02-16 14:33:49", "sentiment_score": 0.5638}
+{"news_id": "news_20200216_000047", "ts_code": "000100", "name": "TCL科技", "date": "2020-02-16 10:40:14", "sentiment_score": 0.7581}

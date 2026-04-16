@@ -1,0 +1,8 @@
+{"news_id": "news_20240216_000046", "ts_code": "601601", "name": "中国太保", "date": "2024-02-16 13:58:42", "sentiment_score": 0.7641}
+{"news_id": "news_20240216_000046", "ts_code": "601318", "name": "中国平安", "date": "2024-02-16 13:58:42", "sentiment_score": 0.7641}
+{"news_id": "news_20240216_000046", "ts_code": "601628", "name": "中国人寿", "date": "2024-02-16 13:58:42", "sentiment_score": 0.7641}
+{"news_id": "news_20240216_000048", "ts_code": "601633", "name": "长城汽车", "date": "2024-02-16 13:43:06", "sentiment_score": 0.8649}
+{"news_id": "news_20240216_000048", "ts_code": "002594", "name": "比亚迪", "date": "2024-02-16 13:43:06", "sentiment_score": 0.8649}
+{"news_id": "news_20240216_000076", "ts_code": "002594", "name": "比亚迪", "date": "2024-02-16 09:27:07", "sentiment_score": 0.852}
+{"news_id": "news_20240216_000079", "ts_code": "688235", "name": "百济神州", "date": "2024-02-16 09:02:19", "sentiment_score": 0.65}
+{"news_id": "news_20240216_000084", "ts_code": "600031", "name": "三一重工", "date": "2024-02-16 07:43:30", "sentiment_score": 0.7833}

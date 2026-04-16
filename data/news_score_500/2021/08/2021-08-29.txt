@@ -1,0 +1,17 @@
+{"news_id": "news_20210829_000003", "ts_code": "688180", "name": "君实生物", "date": "2021-08-29 20:38:44", "sentiment_score": 0.6237}
+{"news_id": "news_20210829_000017", "ts_code": "688521", "name": "芯原股份", "date": "2021-08-29 18:16:23", "sentiment_score": 0.8085}
+{"news_id": "news_20210829_000018", "ts_code": "000792", "name": "盐湖股份", "date": "2021-08-29 18:14:25", "sentiment_score": 0.8956}
+{"news_id": "news_20210829_000029", "ts_code": "300750", "name": "宁德时代", "date": "2021-08-29 17:42:23", "sentiment_score": 0.2139}
+{"news_id": "news_20210829_000030", "ts_code": "300122", "name": "智飞生物", "date": "2021-08-29 17:41:37", "sentiment_score": 0.8265}
+{"news_id": "news_20210829_000033", "ts_code": "300750", "name": "宁德时代", "date": "2021-08-29 17:24:04", "sentiment_score": 0.5684}
+{"news_id": "news_20210829_000033", "ts_code": "002074", "name": "国轩高科", "date": "2021-08-29 17:24:04", "sentiment_score": 0.5684}
+{"news_id": "news_20210829_000035", "ts_code": "002466", "name": "天齐锂业", "date": "2021-08-29 17:18:23", "sentiment_score": 0.8115}
+{"news_id": "news_20210829_000036", "ts_code": "600031", "name": "三一重工", "date": "2021-08-29 17:12:18", "sentiment_score": 0.8312}
+{"news_id": "news_20210829_000037", "ts_code": "600028", "name": "中国石化", "date": "2021-08-29 17:09:48", "sentiment_score": 0.831}
+{"news_id": "news_20210829_000038", "ts_code": "000858", "name": "五粮液", "date": "2021-08-29 17:06:05", "sentiment_score": 0.8814}
+{"news_id": "news_20210829_000040", "ts_code": "601601", "name": "中国太保", "date": "2021-08-29 17:03:54", "sentiment_score": 0.8693}
+{"news_id": "news_20210829_000053", "ts_code": "002156", "name": "通富微电", "date": "2021-08-29 16:22:40", "sentiment_score": 0.807}
+{"news_id": "news_20210829_000055", "ts_code": "000002", "name": "万科A", "date": "2021-08-29 16:21:04", "sentiment_score": 0.8058}
+{"news_id": "news_20210829_000062", "ts_code": "000002", "name": "万科A", "date": "2021-08-29 16:06:33", "sentiment_score": 0.8508}
+{"news_id": "news_20210829_000063", "ts_code": "000002", "name": "万科A", "date": "2021-08-29 16:06:14", "sentiment_score": 0.8605}
+{"news_id": "news_20210829_000064", "ts_code": "002049", "name": "紫光国微", "date": "2021-08-29 14:15:33", "sentiment_score": 0.7679}

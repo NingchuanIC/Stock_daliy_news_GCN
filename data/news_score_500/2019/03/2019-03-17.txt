@@ -1,0 +1,5 @@
+{"news_id": "news_20190317_000021", "ts_code": "000858", "name": "五粮液", "date": "2019-03-17 17:36:50", "sentiment_score": 0.7059}
+{"news_id": "news_20190317_000026", "ts_code": "300014", "name": "亿纬锂能", "date": "2019-03-17 17:14:38", "sentiment_score": 0.6633}
+{"news_id": "news_20190317_000050", "ts_code": "600332", "name": "白云山", "date": "2019-03-17 14:09:28", "sentiment_score": 0.8394}
+{"news_id": "news_20190317_000055", "ts_code": "300014", "name": "亿纬锂能", "date": "2019-03-17 12:00:08", "sentiment_score": 0.6384}
+{"news_id": "news_20190317_000060", "ts_code": "300014", "name": "亿纬锂能", "date": "2019-03-17 08:36:23", "sentiment_score": 0.6571}

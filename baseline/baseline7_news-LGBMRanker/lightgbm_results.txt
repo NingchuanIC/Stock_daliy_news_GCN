@@ -1,0 +1,32 @@
+LightGBM Regression (no shuffling, fixed year split)
+train years: [2019, 2020, 2021, 2022, 2023]
+val years: [2024]
+test years: [2025]
+target: future_ret_5
+n_estimators: 300
+learning_rate: 0.05
+num_leaves: 63
+feature_fraction: 0.9
+bagging_fraction: 0.9
+bagging_freq: 1
+min_child_samples: 100
+reg_alpha: 0.0
+reg_lambda: 1.0
+random_state: 42
+topk_list: [10, 30, 50]
+features (28): ['ret_1', 'ret_5', 'ret_10', 'ret_20', 'hl_spread', 'co_ret', 'log_vol', 'turnover_rate', 'volume_ratio', 'pb', 'ma5_gap', 'ma10_gap', 'ma20_gap', 'volatility_5', 'volatility_20', 'news_cnt_1d', 'news_cnt_3d', 'news_cnt_7d', 'news_sent_mean_1d', 'news_sent_mean_3d', 'news_sent_mean_7d', 'news_sent_std_7d', 'news_sent_max_3d', 'news_sent_min_3d', 'news_pos_cnt_3d', 'news_neg_cnt_3d', 'news_risk_cnt_7d', 'days_since_last_news']
+[train] samples=567032
+[train] IC=0.31304242 | RankIC=0.21361919 | SignAcc=0.54973617 | Sharpe=2.72233197 | MSE=0.00400696
+[train] Top10 IRR=3173981.86331608 | Top10 Sharpe=15.82482767
+[train] Top30 IRR=10303.99196842 | Top30 Sharpe=13.03236658
+[train] Top50 IRR=1304.56541324 | Top50 Sharpe=11.23814270
+[validation] samples=120935
+[validation] IC=0.05034100 | RankIC=0.04575385 | SignAcc=0.49711829 | Sharpe=0.86944787 | MSE=0.00533777
+[validation] Top10 IRR=6.32166644 | Top10 Sharpe=2.21523936
+[validation] Top30 IRR=2.65244520 | Top30 Sharpe=1.70383007
+[validation] Top50 IRR=1.87467437 | Top50 Sharpe=1.50904600
+[test] samples=118840
+[test] IC=0.05116316 | RankIC=0.01545951 | SignAcc=0.49462302 | Sharpe=0.43092772 | MSE=0.00330726
+[test] Top10 IRR=21.65137187 | Top10 Sharpe=4.57824458
+[test] Top30 IRR=13.21309678 | Top30 Sharpe=4.84635056
+[test] Top50 IRR=10.03509227 | Top50 Sharpe=4.72459068

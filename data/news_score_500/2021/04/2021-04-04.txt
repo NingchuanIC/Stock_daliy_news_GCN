@@ -1,0 +1,6 @@
+{"news_id": "news_20210404_000003", "ts_code": "600519", "name": "贵州茅台", "date": "2021-04-04 20:42:14", "sentiment_score": 0.4674}
+{"news_id": "news_20210404_000003", "ts_code": "601318", "name": "中国平安", "date": "2021-04-04 20:42:14", "sentiment_score": 0.4674}
+{"news_id": "news_20210404_000004", "ts_code": "002352", "name": "顺丰控股", "date": "2021-04-04 20:36:01", "sentiment_score": 0.6612}
+{"news_id": "news_20210404_000017", "ts_code": "000338", "name": "潍柴动力", "date": "2021-04-04 10:49:37", "sentiment_score": 0.5643}
+{"news_id": "news_20210404_000018", "ts_code": "601988", "name": "中国银行", "date": "2021-04-04 10:44:18", "sentiment_score": 0.69}
+{"news_id": "news_20210404_000020", "ts_code": "601615", "name": "明阳智能", "date": "2021-04-04 10:31:15", "sentiment_score": 0.6718}

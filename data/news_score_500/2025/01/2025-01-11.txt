@@ -1,0 +1,9 @@
+{"news_id": "news_20250111_000031", "ts_code": "600066", "name": "宇通客车股份有限公司", "date": "2025-01-11 15:51:25", "sentiment_score": 0.5847}
+{"news_id": "news_20250111_000065", "ts_code": "601318", "name": "中国平安保险(集团)股份有限公司", "date": "2025-01-11 09:41:46", "sentiment_score": 0.8081}
+{"news_id": "news_20250111_000065", "ts_code": "601288", "name": "农业银行", "date": "2025-01-11 09:41:46", "sentiment_score": 0.8081}
+{"news_id": "news_20250111_000067", "ts_code": "002594", "name": "比亚迪", "date": "2025-01-11 09:41:31", "sentiment_score": 0.7021}
+{"news_id": "news_20250111_000068", "ts_code": "002594", "name": "比亚迪", "date": "2025-01-11 09:41:25", "sentiment_score": 0.7139}
+{"news_id": "news_20250111_000072", "ts_code": "002594", "name": "比亚迪", "date": "2025-01-11 08:56:43", "sentiment_score": 0.7866}
+{"news_id": "news_20250111_000103", "ts_code": "300308", "name": "中际旭创", "date": "2025-01-11 05:04:37", "sentiment_score": 0.6922}
+{"news_id": "news_20250111_000105", "ts_code": "002460", "name": "赣锋锂业", "date": "2025-01-11 04:15:56", "sentiment_score": 0.8291}
+{"news_id": "news_20250111_000105", "ts_code": "002466", "name": "天齐锂业", "date": "2025-01-11 04:15:56", "sentiment_score": 0.8291}

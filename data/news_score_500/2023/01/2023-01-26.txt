@@ -1,0 +1,13 @@
+{"news_id": "news_20230126_000081", "ts_code": "000157", "name": "中联重科", "date": "2023-01-26 17:36:27", "sentiment_score": 0.8586}
+{"news_id": "news_20230126_000082", "ts_code": "002202", "name": "金风科技", "date": "2023-01-26 17:36:06", "sentiment_score": 0.8267}
+{"news_id": "news_20230126_000108", "ts_code": "600030", "name": "中信证券", "date": "2023-01-26 15:18:41", "sentiment_score": 0.6772}
+{"news_id": "news_20230126_000120", "ts_code": "002460", "name": "赣锋锂业", "date": "2023-01-26 14:16:33", "sentiment_score": 0.8756}
+{"news_id": "news_20230126_000120", "ts_code": "600660", "name": "福耀玻璃", "date": "2023-01-26 14:16:33", "sentiment_score": 0.8756}
+{"news_id": "news_20230126_000127", "ts_code": "002594", "name": "比亚迪", "date": "2023-01-26 13:48:41", "sentiment_score": 0.8769}
+{"news_id": "news_20230126_000140", "ts_code": "002371", "name": "北方华创", "date": "2023-01-26 11:55:32", "sentiment_score": 0.78}
+{"news_id": "news_20230126_000142", "ts_code": "601888", "name": "中国中免", "date": "2023-01-26 11:48:43", "sentiment_score": 0.8494}
+{"news_id": "news_20230126_000145", "ts_code": "601888", "name": "中国中免", "date": "2023-01-26 11:08:42", "sentiment_score": 0.8648}
+{"news_id": "news_20230126_000162", "ts_code": "002594", "name": "比亚迪", "date": "2023-01-26 09:35:55", "sentiment_score": 0.8385}
+{"news_id": "news_20230126_000173", "ts_code": "002594", "name": "比亚迪", "date": "2023-01-26 08:53:40", "sentiment_score": 0.6136}
+{"news_id": "news_20230126_000186", "ts_code": "600153", "name": "厦门建发", "date": "2023-01-26 07:34:53", "sentiment_score": 0.7883}
+{"news_id": "news_20230126_000239", "ts_code": "601127", "name": "赛力斯", "date": "2023-01-26 01:55:32", "sentiment_score": 0.702}

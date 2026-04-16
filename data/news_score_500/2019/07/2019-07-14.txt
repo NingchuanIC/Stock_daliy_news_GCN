@@ -1,0 +1,11 @@
+{"news_id": "news_20190714_000003", "ts_code": "002709", "name": "天赐材料", "date": "2019-07-14 22:31:05", "sentiment_score": 0.508}
+{"news_id": "news_20190714_000020", "ts_code": "300251", "name": "光线传媒", "date": "2019-07-14 17:07:29", "sentiment_score": 0.743}
+{"news_id": "news_20190714_000022", "ts_code": "002714", "name": "牧原股份", "date": "2019-07-14 16:59:04", "sentiment_score": 0.8439}
+{"news_id": "news_20190714_000023", "ts_code": "000932", "name": "华菱钢铁", "date": "2019-07-14 16:57:36", "sentiment_score": 0.8239}
+{"news_id": "news_20190714_000025", "ts_code": "300068", "name": "南都电源", "date": "2019-07-14 16:55:58", "sentiment_score": 0.6655}
+{"news_id": "news_20190714_000026", "ts_code": "000425", "name": "徐工机械", "date": "2019-07-14 16:51:02", "sentiment_score": 0.8665}
+{"news_id": "news_20190714_000033", "ts_code": "002920", "name": "德赛西威", "date": "2019-07-14 16:44:53", "sentiment_score": 0.7537}
+{"news_id": "news_20190714_000074", "ts_code": "000725", "name": "京东方科技集团股份有限公司", "date": "2019-07-14 10:30:27", "sentiment_score": 0.6061}
+{"news_id": "news_20190714_000079", "ts_code": "000425", "name": "徐工机械", "date": "2019-07-14 10:04:03", "sentiment_score": 0.5953}
+{"news_id": "news_20190714_000084", "ts_code": "600050", "name": "中国联通", "date": "2019-07-14 08:40:23", "sentiment_score": 0.6899}
+{"news_id": "news_20190714_000091", "ts_code": "600519", "name": "贵州茅台", "date": "2019-07-14 04:16:14", "sentiment_score": 0.7566}

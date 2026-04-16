@@ -1,0 +1,9 @@
+{"news_id": "news_20210320_000014", "ts_code": "601633", "name": "长城汽车", "date": "2021-03-20 18:26:11", "sentiment_score": 0.7569}
+{"news_id": "news_20210320_000016", "ts_code": "002475", "name": "立讯精密", "date": "2021-03-20 18:00:58", "sentiment_score": 0.6886}
+{"news_id": "news_20210320_000018", "ts_code": "000651", "name": "格力电器", "date": "2021-03-20 17:11:03", "sentiment_score": 0.7769}
+{"news_id": "news_20210320_000018", "ts_code": "600519", "name": "贵州茅台", "date": "2021-03-20 17:11:03", "sentiment_score": 0.7769}
+{"news_id": "news_20210320_000018", "ts_code": "601012", "name": "隆基股份", "date": "2021-03-20 17:11:03", "sentiment_score": 0.7769}
+{"news_id": "news_20210320_000018", "ts_code": "600031", "name": "三一重工", "date": "2021-03-20 17:11:03", "sentiment_score": 0.7769}
+{"news_id": "news_20210320_000018", "ts_code": "601318", "name": "中国平安", "date": "2021-03-20 17:11:03", "sentiment_score": 0.7769}
+{"news_id": "news_20210320_000018", "ts_code": "000568", "name": "泸州老窖", "date": "2021-03-20 17:11:03", "sentiment_score": 0.7769}
+{"news_id": "news_20210320_000027", "ts_code": "000725", "name": "京东方A", "date": "2021-03-20 12:41:13", "sentiment_score": 0.6478}

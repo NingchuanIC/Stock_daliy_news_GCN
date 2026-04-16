@@ -1,0 +1,3 @@
+{"news_id": "news_20190501_000044", "ts_code": "601988", "name": "中国银行", "date": "2019-05-01 13:48:22", "sentiment_score": 0.56}
+{"news_id": "news_20190501_000062", "ts_code": "601728", "name": "中国电信", "date": "2019-05-01 07:47:55", "sentiment_score": 0.6291}
+{"news_id": "news_20190501_000062", "ts_code": "600050", "name": "中国联通", "date": "2019-05-01 07:47:55", "sentiment_score": 0.6291}

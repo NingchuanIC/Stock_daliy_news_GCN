@@ -1,0 +1,4 @@
+{"news_id": "news_20200308_000007", "ts_code": "601857", "name": "中国石油", "date": "2020-03-08 19:30:01", "sentiment_score": 0.6198}
+{"news_id": "news_20200308_000017", "ts_code": "300014", "name": "亿纬锂能", "date": "2020-03-08 17:53:16", "sentiment_score": 0.608}
+{"news_id": "news_20200308_000028", "ts_code": "603019", "name": "中科曙光", "date": "2020-03-08 16:00:05", "sentiment_score": 0.7136}
+{"news_id": "news_20200308_000030", "ts_code": "600048", "name": "保利地产", "date": "2020-03-08 15:56:21", "sentiment_score": 0.8355}

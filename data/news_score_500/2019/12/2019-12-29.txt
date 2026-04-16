@@ -1,0 +1,4 @@
+{"news_id": "news_20191229_000020", "ts_code": "002152", "name": "广电运通", "date": "2019-12-29 16:50:28", "sentiment_score": 0.8015}
+{"news_id": "news_20191229_000039", "ts_code": "600030", "name": "中信证券", "date": "2019-12-29 15:24:01", "sentiment_score": 0.7717}
+{"news_id": "news_20191229_000059", "ts_code": "601857", "name": "中国石油", "date": "2019-12-29 09:34:50", "sentiment_score": 0.7964}
+{"news_id": "news_20191229_000063", "ts_code": "688235", "name": "百济神州", "date": "2019-12-29 08:13:52", "sentiment_score": 0.7578}

@@ -1,0 +1,3 @@
+{"news_id": "news_20240210_000009", "ts_code": "000333", "name": "美的集团", "date": "2024-02-10 17:04:56", "sentiment_score": 0.5048}
+{"news_id": "news_20240210_000030", "ts_code": "002812", "name": "恩捷股份", "date": "2024-02-10 08:51:14", "sentiment_score": 0.685}
+{"news_id": "news_20240210_000038", "ts_code": "600030", "name": "中信证券", "date": "2024-02-10 07:29:12", "sentiment_score": 0.8229}

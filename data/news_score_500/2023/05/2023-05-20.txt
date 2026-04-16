@@ -1,0 +1,10 @@
+{"news_id": "news_20230520_000008", "ts_code": "002603", "name": "以岭药业", "date": "2023-05-20 20:35:40", "sentiment_score": 0.6262}
+{"news_id": "news_20230520_000020", "ts_code": "002352", "name": "顺丰控股", "date": "2023-05-20 14:00:38", "sentiment_score": 0.7715}
+{"news_id": "news_20230520_000023", "ts_code": "000333", "name": "美的集团", "date": "2023-05-20 13:40:04", "sentiment_score": 0.7514}
+{"news_id": "news_20230520_000024", "ts_code": "000333", "name": "美的集团", "date": "2023-05-20 13:38:54", "sentiment_score": 0.7078}
+{"news_id": "news_20230520_000025", "ts_code": "000333", "name": "美的集团", "date": "2023-05-20 13:38:18", "sentiment_score": 0.6954}
+{"news_id": "news_20230520_000026", "ts_code": "000333", "name": "美的集团", "date": "2023-05-20 13:37:40", "sentiment_score": 0.6718}
+{"news_id": "news_20230520_000035", "ts_code": "601601", "name": "中国太保", "date": "2023-05-20 10:19:16", "sentiment_score": 0.6546}
+{"news_id": "news_20230520_000035", "ts_code": "002415", "name": "海康威视", "date": "2023-05-20 10:19:16", "sentiment_score": 0.6546}
+{"news_id": "news_20230520_000044", "ts_code": "601186", "name": "中国铁建", "date": "2023-05-20 08:25:25", "sentiment_score": 0.7214}
+{"news_id": "news_20230520_000045", "ts_code": "600938", "name": "中国海油", "date": "2023-05-20 08:24:07", "sentiment_score": 0.7641}

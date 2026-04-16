@@ -1,0 +1,5 @@
+{"news_id": "news_20230709_000014", "ts_code": "002129", "name": "TCL中环", "date": "2023-07-09 17:51:32", "sentiment_score": 0.8581}
+{"news_id": "news_20230709_000044", "ts_code": "600111", "name": "北方稀土", "date": "2023-07-09 15:36:41", "sentiment_score": 0.75}
+{"news_id": "news_20230709_000049", "ts_code": "601633", "name": "长城汽车", "date": "2023-07-09 14:39:16", "sentiment_score": 0.6477}
+{"news_id": "news_20230709_000053", "ts_code": "601857", "name": "中国石油", "date": "2023-07-09 12:08:43", "sentiment_score": 0.7733}
+{"news_id": "news_20230709_000062", "ts_code": "601985", "name": "中国核电", "date": "2023-07-09 09:04:08", "sentiment_score": 0.5026}

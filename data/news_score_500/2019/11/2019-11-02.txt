@@ -1,0 +1,4 @@
+{"news_id": "news_20191102_000003", "ts_code": "601857", "name": "中国石油", "date": "2019-11-02 22:41:42", "sentiment_score": 0.664}
+{"news_id": "news_20191102_000005", "ts_code": "002230", "name": "科大讯飞", "date": "2019-11-02 21:27:53", "sentiment_score": 0.6609}
+{"news_id": "news_20191102_000007", "ts_code": "000063", "name": "中兴通讯", "date": "2019-11-02 20:29:29", "sentiment_score": 0.7507}
+{"news_id": "news_20191102_000013", "ts_code": "000063", "name": "中兴通讯", "date": "2019-11-02 12:06:22", "sentiment_score": 0.7633}

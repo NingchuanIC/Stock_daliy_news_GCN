@@ -1,0 +1,17 @@
+{"news_id": "news_20250824_000001", "ts_code": "600031", "name": "三一重工", "date": "2025-08-24 23:46:19", "sentiment_score": 0.8455}
+{"news_id": "news_20250824_000010", "ts_code": "002648", "name": "卫星化学", "date": "2025-08-24 20:50:22", "sentiment_score": 0.6946}
+{"news_id": "news_20250824_000010", "ts_code": "002353", "name": "杰瑞股份", "date": "2025-08-24 20:50:22", "sentiment_score": 0.6946}
+{"news_id": "news_20250824_000010", "ts_code": "002223", "name": "鱼跃医疗", "date": "2025-08-24 20:50:22", "sentiment_score": 0.6946}
+{"news_id": "news_20250824_000011", "ts_code": "002405", "name": "四维图新", "date": "2025-08-24 20:38:32", "sentiment_score": 0.7223}
+{"news_id": "news_20250824_000012", "ts_code": "002460", "name": "赣锋锂业", "date": "2025-08-24 20:21:55", "sentiment_score": 0.6883}
+{"news_id": "news_20250824_000025", "ts_code": "600030", "name": "中信证券", "date": "2025-08-24 16:51:04", "sentiment_score": 0.7416}
+{"news_id": "news_20250824_000027", "ts_code": "600030", "name": "中信证券", "date": "2025-08-24 16:27:28", "sentiment_score": 0.7199}
+{"news_id": "news_20250824_000028", "ts_code": "002340", "name": "格林美", "date": "2025-08-24 16:27:17", "sentiment_score": 0.5123}
+{"news_id": "news_20250824_000030", "ts_code": "601390", "name": "中国中铁", "date": "2025-08-24 16:15:54", "sentiment_score": 0.6823}
+{"news_id": "news_20250824_000057", "ts_code": "300558", "name": "贝达药业", "date": "2025-08-24 14:50:30", "sentiment_score": 0.7131}
+{"news_id": "news_20250824_000063", "ts_code": "688256", "name": "寒武纪", "date": "2025-08-24 14:22:12", "sentiment_score": 0.7212}
+{"news_id": "news_20250824_000070", "ts_code": "000625", "name": "长安汽车", "date": "2025-08-24 12:21:15", "sentiment_score": 0.7334}
+{"news_id": "news_20250824_000070", "ts_code": "601766", "name": "中国中车", "date": "2025-08-24 12:21:15", "sentiment_score": 0.7334}
+{"news_id": "news_20250824_000079", "ts_code": "600276", "name": "恒瑞医药", "date": "2025-08-24 11:15:22", "sentiment_score": 0.7761}
+{"news_id": "news_20250824_000083", "ts_code": "601211", "name": "国泰君安", "date": "2025-08-24 10:37:55", "sentiment_score": 0.7578}
+{"news_id": "news_20250824_000089", "ts_code": "300832", "name": "新产业", "date": "2025-08-24 09:29:27", "sentiment_score": 0.7081}

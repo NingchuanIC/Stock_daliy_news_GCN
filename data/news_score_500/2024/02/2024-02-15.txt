@@ -1,0 +1,5 @@
+{"news_id": "news_20240215_000026", "ts_code": "600276", "name": "恒瑞医药", "date": "2024-02-15 16:50:59", "sentiment_score": 0.7706}
+{"news_id": "news_20240215_000045", "ts_code": "601668", "name": "中国建筑", "date": "2024-02-15 12:45:52", "sentiment_score": 0.5218}
+{"news_id": "news_20240215_000052", "ts_code": "002594", "name": "比亚迪", "date": "2024-02-15 11:10:31", "sentiment_score": 0.8432}
+{"news_id": "news_20240215_000055", "ts_code": "603259", "name": "药明康德", "date": "2024-02-15 10:59:10", "sentiment_score": 0.8391}
+{"news_id": "news_20240215_000057", "ts_code": "601328", "name": "交通银行", "date": "2024-02-15 10:58:33", "sentiment_score": 0.8727}

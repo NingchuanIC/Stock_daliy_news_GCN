@@ -1,0 +1,5 @@
+{"news_id": "news_20230318_000002", "ts_code": "601766", "name": "中国中车", "date": "2023-03-18 22:51:21", "sentiment_score": 0.6912}
+{"news_id": "news_20230318_000029", "ts_code": "002594", "name": "比亚迪", "date": "2023-03-18 13:52:37", "sentiment_score": 0.7396}
+{"news_id": "news_20230318_000036", "ts_code": "601857", "name": "中国石油", "date": "2023-03-18 12:32:19", "sentiment_score": 0.6435}
+{"news_id": "news_20230318_000052", "ts_code": "002594", "name": "比亚迪", "date": "2023-03-18 07:55:00", "sentiment_score": 0.6826}
+{"news_id": "news_20230318_000101", "ts_code": "688223", "name": "晶科能源", "date": "2023-03-18 00:57:50", "sentiment_score": 0.889}

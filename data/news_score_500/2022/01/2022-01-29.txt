@@ -1,0 +1,5 @@
+{"news_id": "news_20220129_000011", "ts_code": "002594", "name": "比亚迪", "date": "2022-01-29 18:11:44", "sentiment_score": 0.7528}
+{"news_id": "news_20220129_000013", "ts_code": "300750", "name": "宁德时代", "date": "2022-01-29 17:00:45", "sentiment_score": 0.697}
+{"news_id": "news_20220129_000013", "ts_code": "300207", "name": "欣旺达", "date": "2022-01-29 17:00:45", "sentiment_score": 0.697}
+{"news_id": "news_20220129_000030", "ts_code": "002812", "name": "Lee", "date": "2022-01-29 08:26:24", "sentiment_score": 0.3314}
+{"news_id": "news_20220129_000031", "ts_code": "601628", "name": "中国人寿", "date": "2022-01-29 07:50:40", "sentiment_score": 0.7458}

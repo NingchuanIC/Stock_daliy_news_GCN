@@ -1,0 +1,11 @@
+{"news_id": "news_20250216_000009", "ts_code": "002739", "name": "万达电影", "date": "2025-02-16 22:03:44", "sentiment_score": 0.6979}
+{"news_id": "news_20250216_000010", "ts_code": "002739", "name": "万达电影", "date": "2025-02-16 22:03:38", "sentiment_score": 0.7637}
+{"news_id": "news_20250216_000022", "ts_code": "002739", "name": "万达电影", "date": "2025-02-16 20:01:51", "sentiment_score": 0.7288}
+{"news_id": "news_20250216_000027", "ts_code": "300308", "name": "中际旭创", "date": "2025-02-16 18:45:01", "sentiment_score": 0.6929}
+{"news_id": "news_20250216_000035", "ts_code": "600276", "name": "恒瑞医药", "date": "2025-02-16 17:03:54", "sentiment_score": 0.5392}
+{"news_id": "news_20250216_000051", "ts_code": "300308", "name": "中际旭创", "date": "2025-02-16 16:03:20", "sentiment_score": 0.7101}
+{"news_id": "news_20250216_000065", "ts_code": "300308", "name": "中际旭创", "date": "2025-02-16 15:04:17", "sentiment_score": 0.7442}
+{"news_id": "news_20250216_000070", "ts_code": "002812", "name": "恩捷股份", "date": "2025-02-16 12:53:02", "sentiment_score": 0.6259}
+{"news_id": "news_20250216_000086", "ts_code": "600438", "name": "通威股份", "date": "2025-02-16 10:52:22", "sentiment_score": 0.8362}
+{"news_id": "news_20250216_000087", "ts_code": "600030", "name": "中信证券", "date": "2025-02-16 10:31:47", "sentiment_score": 0.6932}
+{"news_id": "news_20250216_000116", "ts_code": "600859", "name": "王府井集团股份有限公司", "date": "2025-02-16 00:05:31", "sentiment_score": 0.4036}

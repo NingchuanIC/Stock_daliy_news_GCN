@@ -1,0 +1,4 @@
+{"news_id": "news_20190913_000028", "ts_code": "600029", "name": "南方航空", "date": "2019-09-13 15:53:48", "sentiment_score": 0.8776}
+{"news_id": "news_20190913_000028", "ts_code": "600115", "name": "东方航空", "date": "2019-09-13 15:53:48", "sentiment_score": 0.8776}
+{"news_id": "news_20190913_000039", "ts_code": "601238", "name": "广汽集团", "date": "2019-09-13 10:54:38", "sentiment_score": 0.8773}
+{"news_id": "news_20190913_000039", "ts_code": "002594", "name": "比亚迪", "date": "2019-09-13 10:54:38", "sentiment_score": 0.8773}

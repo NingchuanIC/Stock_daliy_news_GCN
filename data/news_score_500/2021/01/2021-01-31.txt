@@ -1,0 +1,4 @@
+{"news_id": "news_20210131_000021", "ts_code": "002812", "name": "恩捷股份", "date": "2021-01-31 17:11:04", "sentiment_score": 0.5312}
+{"news_id": "news_20210131_000030", "ts_code": "002422", "name": "科伦药业", "date": "2021-01-31 16:18:19", "sentiment_score": 0.5382}
+{"news_id": "news_20210131_000046", "ts_code": "002352", "name": "顺丰控股", "date": "2021-01-31 10:28:29", "sentiment_score": 0.6827}
+{"news_id": "news_20210131_000047", "ts_code": "601318", "name": "中国平安", "date": "2021-01-31 10:18:42", "sentiment_score": 0.6171}

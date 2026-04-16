@@ -1,0 +1,12 @@
+{"news_id": "news_20251129_000005", "ts_code": "600115", "name": "中国东航", "date": "2025-11-29 22:09:41", "sentiment_score": 0.3818}
+{"news_id": "news_20251129_000008", "ts_code": "600438", "name": "通威股份", "date": "2025-11-29 21:28:22", "sentiment_score": 0.6393}
+{"news_id": "news_20251129_000012", "ts_code": "300750", "name": "宁德时代", "date": "2025-11-29 20:36:30", "sentiment_score": 0.6866}
+{"news_id": "news_20251129_000043", "ts_code": "600030", "name": "中信证券股份有限公司", "date": "2025-11-29 14:49:05", "sentiment_score": 0.562}
+{"news_id": "news_20251129_000059", "ts_code": "002340", "name": "格林美", "date": "2025-11-29 12:15:59", "sentiment_score": 0.6026}
+{"news_id": "news_20251129_000061", "ts_code": "002340", "name": "格林美", "date": "2025-11-29 12:14:04", "sentiment_score": 0.623}
+{"news_id": "news_20251129_000063", "ts_code": "002353", "name": "杰瑞股份", "date": "2025-11-29 12:10:27", "sentiment_score": 0.6655}
+{"news_id": "news_20251129_000078", "ts_code": "600030", "name": "中信证券", "date": "2025-11-29 09:47:10", "sentiment_score": 0.6191}
+{"news_id": "news_20251129_000087", "ts_code": "600019", "name": "宝钢股份", "date": "2025-11-29 08:22:50", "sentiment_score": 0.586}
+{"news_id": "news_20251129_000090", "ts_code": "002353", "name": "杰瑞股份", "date": "2025-11-29 08:13:23", "sentiment_score": 0.7451}
+{"news_id": "news_20251129_000094", "ts_code": "002353", "name": "杰瑞股份", "date": "2025-11-29 06:28:33", "sentiment_score": 0.7546}
+{"news_id": "news_20251129_000148", "ts_code": "601899", "name": "紫金矿业", "date": "2025-11-29 00:25:09", "sentiment_score": 0.6435}

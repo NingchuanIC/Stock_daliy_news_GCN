@@ -1,0 +1,5 @@
+{"news_id": "news_20221224_000012", "ts_code": "300750", "name": "宁德时代", "date": "2022-12-24 20:01:58", "sentiment_score": 0.7306}
+{"news_id": "news_20221224_000025", "ts_code": "601398", "name": "工商银行", "date": "2022-12-24 15:18:34", "sentiment_score": 0.6745}
+{"news_id": "news_20221224_000032", "ts_code": "601988", "name": "中国银行", "date": "2022-12-24 13:31:20", "sentiment_score": 0.619}
+{"news_id": "news_20221224_000052", "ts_code": "600030", "name": "中信证券", "date": "2022-12-24 10:03:18", "sentiment_score": 0.6144}
+{"news_id": "news_20221224_000089", "ts_code": "600115", "name": "东方航空", "date": "2022-12-24 00:27:01", "sentiment_score": 0.7927}

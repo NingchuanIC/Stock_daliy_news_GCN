@@ -1,0 +1,15 @@
+{"news_id": "news_20210504_000015", "ts_code": "601600", "name": "中国铝业", "date": "2021-05-04 21:38:47", "sentiment_score": 0.881}
+{"news_id": "news_20210504_000086", "ts_code": "600196", "name": "复星医药", "date": "2021-05-04 13:58:15", "sentiment_score": 0.8531}
+{"news_id": "news_20210504_000093", "ts_code": "601899", "name": "紫金矿业", "date": "2021-05-04 13:08:43", "sentiment_score": 0.8747}
+{"news_id": "news_20210504_000105", "ts_code": "600196", "name": "复星医药", "date": "2021-05-04 10:35:00", "sentiment_score": 0.8832}
+{"news_id": "news_20210504_000106", "ts_code": "300750", "name": "宁德时代", "date": "2021-05-04 10:34:41", "sentiment_score": 0.4631}
+{"news_id": "news_20210504_000108", "ts_code": "601899", "name": "紫金矿业", "date": "2021-05-04 10:21:12", "sentiment_score": 0.8002}
+{"news_id": "news_20210504_000108", "ts_code": "601600", "name": "中国铝业", "date": "2021-05-04 10:21:12", "sentiment_score": 0.8002}
+{"news_id": "news_20210504_000108", "ts_code": "603993", "name": "洛阳钼业", "date": "2021-05-04 10:21:12", "sentiment_score": 0.8002}
+{"news_id": "news_20210504_000111", "ts_code": "600196", "name": "复星医药", "date": "2021-05-04 10:01:10", "sentiment_score": 0.8378}
+{"news_id": "news_20210504_000112", "ts_code": "601899", "name": "紫金矿业", "date": "2021-05-04 09:56:56", "sentiment_score": 0.8836}
+{"news_id": "news_20210504_000112", "ts_code": "600547", "name": "山东黄金", "date": "2021-05-04 09:56:56", "sentiment_score": 0.8836}
+{"news_id": "news_20210504_000113", "ts_code": "600938", "name": "中国海洋石油", "date": "2021-05-04 09:53:32", "sentiment_score": 0.8686}
+{"news_id": "news_20210504_000113", "ts_code": "601857", "name": "中国石油", "date": "2021-05-04 09:53:32", "sentiment_score": 0.8686}
+{"news_id": "news_20210504_000115", "ts_code": "600196", "name": "复星医药", "date": "2021-05-04 09:38:05", "sentiment_score": 0.8759}
+{"news_id": "news_20210504_000119", "ts_code": "601288", "name": "农业银行", "date": "2021-05-04 07:46:16", "sentiment_score": 0.8294}

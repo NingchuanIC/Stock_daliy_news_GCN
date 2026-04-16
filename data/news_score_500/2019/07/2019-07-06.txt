@@ -1,0 +1,10 @@
+{"news_id": "news_20190706_000006", "ts_code": "002463", "name": "沪电股份", "date": "2019-07-06 18:08:57", "sentiment_score": 0.7708}
+{"news_id": "news_20190706_000022", "ts_code": "600028", "name": "中国石化", "date": "2019-07-06 07:30:16", "sentiment_score": 0.488}
+{"news_id": "news_20190706_000022", "ts_code": "601857", "name": "中国石油", "date": "2019-07-06 07:30:16", "sentiment_score": 0.488}
+{"news_id": "news_20190706_000022", "ts_code": "601398", "name": "工商银行", "date": "2019-07-06 07:30:16", "sentiment_score": 0.488}
+{"news_id": "news_20190706_000022", "ts_code": "601628", "name": "中国人寿", "date": "2019-07-06 07:30:16", "sentiment_score": 0.488}
+{"news_id": "news_20190706_000022", "ts_code": "601288", "name": "农业银行", "date": "2019-07-06 07:30:16", "sentiment_score": 0.488}
+{"news_id": "news_20190706_000028", "ts_code": "601318", "name": "中国平安", "date": "2019-07-06 03:07:45", "sentiment_score": 0.683}
+{"news_id": "news_20190706_000028", "ts_code": "002415", "name": "海康威视", "date": "2019-07-06 03:07:45", "sentiment_score": 0.683}
+{"news_id": "news_20190706_000029", "ts_code": "000999", "name": "华润三九", "date": "2019-07-06 03:07:20", "sentiment_score": 0.6453}
+{"news_id": "news_20190706_000033", "ts_code": "601155", "name": "新城控股", "date": "2019-07-06 01:17:43", "sentiment_score": 0.8455}

@@ -1,0 +1,11 @@
+{"news_id": "news_20250810_000007", "ts_code": "000625", "name": "长安汽车", "date": "2025-08-10 21:22:03", "sentiment_score": 0.6954}
+{"news_id": "news_20250810_000008", "ts_code": "300308", "name": "中际旭创", "date": "2025-08-10 21:14:18", "sentiment_score": 0.7919}
+{"news_id": "news_20250810_000013", "ts_code": "002241", "name": "歌尔股份", "date": "2025-08-10 20:47:09", "sentiment_score": 0.6809}
+{"news_id": "news_20250810_000025", "ts_code": "300750", "name": "宁德时代", "date": "2025-08-10 19:23:21", "sentiment_score": 0.7033}
+{"news_id": "news_20250810_000025", "ts_code": "603259", "name": "药明康德", "date": "2025-08-10 19:23:21", "sentiment_score": 0.7033}
+{"news_id": "news_20250810_000025", "ts_code": "605499", "name": "东鹏饮料", "date": "2025-08-10 19:23:21", "sentiment_score": 0.7033}
+{"news_id": "news_20250810_000064", "ts_code": "300750", "name": "宁德时代新能源科技股份有限公司", "date": "2025-08-10 16:14:56", "sentiment_score": 0.6698}
+{"news_id": "news_20250810_000065", "ts_code": "601985", "name": "中国核电", "date": "2025-08-10 16:08:29", "sentiment_score": 0.7766}
+{"news_id": "news_20250810_000085", "ts_code": "601390", "name": "中国中铁股份有限公司", "date": "2025-08-10 14:33:43", "sentiment_score": 0.7142}
+{"news_id": "news_20250810_000102", "ts_code": "002415", "name": "海康威视", "date": "2025-08-10 08:14:57", "sentiment_score": 0.7261}
+{"news_id": "news_20250810_000103", "ts_code": "002415", "name": "海康威视", "date": "2025-08-10 08:14:44", "sentiment_score": 0.6977}

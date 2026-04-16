@@ -1,0 +1,10 @@
+{"news_id": "news_20190929_000002", "ts_code": "300750", "name": "宁德时代", "date": "2019-09-29 22:39:43", "sentiment_score": 0.5566}
+{"news_id": "news_20190929_000028", "ts_code": "688036", "name": "传音控股", "date": "2019-09-29 16:48:40", "sentiment_score": 0.7111}
+{"news_id": "news_20190929_000035", "ts_code": "601857", "name": "中国石油", "date": "2019-09-29 16:23:31", "sentiment_score": 0.8451}
+{"news_id": "news_20190929_000044", "ts_code": "000100", "name": "TCL集团", "date": "2019-09-29 15:15:59", "sentiment_score": 0.6019}
+{"news_id": "news_20190929_000056", "ts_code": "000063", "name": "中兴通讯", "date": "2019-09-29 12:51:01", "sentiment_score": 0.7455}
+{"news_id": "news_20190929_000057", "ts_code": "000063", "name": "中兴通讯", "date": "2019-09-29 11:57:36", "sentiment_score": 0.7743}
+{"news_id": "news_20190929_000069", "ts_code": "600028", "name": "中国石化", "date": "2019-09-29 09:03:05", "sentiment_score": 0.7472}
+{"news_id": "news_20190929_000070", "ts_code": "300750", "name": "宁德时代", "date": "2019-09-29 08:38:05", "sentiment_score": 0.747}
+{"news_id": "news_20190929_000070", "ts_code": "600104", "name": "上汽集团", "date": "2019-09-29 08:38:05", "sentiment_score": 0.747}
+{"news_id": "news_20190929_000080", "ts_code": "601211", "name": "国泰君安", "date": "2019-09-29 02:06:53", "sentiment_score": 0.5541}

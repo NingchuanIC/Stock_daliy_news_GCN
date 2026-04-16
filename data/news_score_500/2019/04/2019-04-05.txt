@@ -1,0 +1,5 @@
+{"news_id": "news_20190405_000013", "ts_code": "002460", "name": "赣锋锂业", "date": "2019-04-05 17:51:19", "sentiment_score": 0.8159}
+{"news_id": "news_20190405_000017", "ts_code": "601601", "name": "中国太保", "date": "2019-04-05 16:21:15", "sentiment_score": 0.7947}
+{"news_id": "news_20190405_000035", "ts_code": "000858", "name": "五粮液", "date": "2019-04-05 11:21:29", "sentiment_score": 0.7488}
+{"news_id": "news_20190405_000065", "ts_code": "600029", "name": "南方航空", "date": "2019-04-05 04:00:24", "sentiment_score": 0.8496}
+{"news_id": "news_20190405_000065", "ts_code": "600115", "name": "东方航空", "date": "2019-04-05 04:00:24", "sentiment_score": 0.8496}

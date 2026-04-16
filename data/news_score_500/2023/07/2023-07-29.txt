@@ -1,0 +1,8 @@
+{"news_id": "news_20230729_000004", "ts_code": "002714", "name": "牧原股份", "date": "2023-07-29 22:19:26", "sentiment_score": 0.703}
+{"news_id": "news_20230729_000005", "ts_code": "002129", "name": "TCL中环", "date": "2023-07-29 22:12:50", "sentiment_score": 0.8018}
+{"news_id": "news_20230729_000009", "ts_code": "688599", "name": "天合光能", "date": "2023-07-29 21:10:43", "sentiment_score": 0.6672}
+{"news_id": "news_20230729_000020", "ts_code": "002129", "name": "TCL中环", "date": "2023-07-29 18:53:34", "sentiment_score": 0.8538}
+{"news_id": "news_20230729_000022", "ts_code": "603019", "name": "中科曙光", "date": "2023-07-29 18:17:09", "sentiment_score": 0.5702}
+{"news_id": "news_20230729_000049", "ts_code": "601728", "name": "中国电信股份有限公司", "date": "2023-07-29 11:11:17", "sentiment_score": 0.6711}
+{"news_id": "news_20230729_000052", "ts_code": "002594", "name": "比亚迪", "date": "2023-07-29 10:46:30", "sentiment_score": 0.3637}
+{"news_id": "news_20230729_000065", "ts_code": "000333", "name": "美的集团", "date": "2023-07-29 07:24:07", "sentiment_score": 0.6323}

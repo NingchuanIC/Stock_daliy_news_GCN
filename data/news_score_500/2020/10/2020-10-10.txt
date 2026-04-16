@@ -1,0 +1,9 @@
+{"news_id": "news_20201010_000003", "ts_code": "600028", "name": "中国石化", "date": "2020-10-10 21:29:09", "sentiment_score": 0.3762}
+{"news_id": "news_20201010_000004", "ts_code": "600115", "name": "东方航空", "date": "2020-10-10 21:18:25", "sentiment_score": 0.4728}
+{"news_id": "news_20201010_000009", "ts_code": "600519", "name": "贵州茅台", "date": "2020-10-10 19:53:42", "sentiment_score": 0.798}
+{"news_id": "news_20201010_000023", "ts_code": "000725", "name": "京东方A", "date": "2020-10-10 14:21:52", "sentiment_score": 0.6523}
+{"news_id": "news_20201010_000023", "ts_code": "688036", "name": "传音控股", "date": "2020-10-10 14:21:52", "sentiment_score": 0.6523}
+{"news_id": "news_20201010_000023", "ts_code": "002920", "name": "德赛西威", "date": "2020-10-10 14:21:52", "sentiment_score": 0.6523}
+{"news_id": "news_20201010_000023", "ts_code": "300760", "name": "迈瑞医疗", "date": "2020-10-10 14:21:52", "sentiment_score": 0.6523}
+{"news_id": "news_20201010_000045", "ts_code": "000651", "name": "格力电器", "date": "2020-10-10 07:40:27", "sentiment_score": 0.6263}
+{"news_id": "news_20201010_000047", "ts_code": "300832", "name": "新产业", "date": "2020-10-10 07:36:32", "sentiment_score": 0.7332}

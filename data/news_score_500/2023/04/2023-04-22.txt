@@ -1,0 +1,15 @@
+{"news_id": "news_20230422_000004", "ts_code": "300750", "name": "宁德时代新能源科技股份有限公司", "date": "2023-04-22 21:43:09", "sentiment_score": 0.5022}
+{"news_id": "news_20230422_000008", "ts_code": "002415", "name": "海康威视", "date": "2023-04-22 19:15:16", "sentiment_score": 0.601}
+{"news_id": "news_20230422_000021", "ts_code": "002129", "name": "TCL中环", "date": "2023-04-22 14:31:57", "sentiment_score": 0.7657}
+{"news_id": "news_20230422_000023", "ts_code": "002594", "name": "比亚迪", "date": "2023-04-22 14:02:05", "sentiment_score": 0.598}
+{"news_id": "news_20230422_000028", "ts_code": "002594", "name": "比亚迪", "date": "2023-04-22 13:18:36", "sentiment_score": 0.7316}
+{"news_id": "news_20230422_000046", "ts_code": "600276", "name": "恒瑞医药", "date": "2023-04-22 09:43:20", "sentiment_score": 0.7471}
+{"news_id": "news_20230422_000046", "ts_code": "000963", "name": "华东医药", "date": "2023-04-22 09:43:20", "sentiment_score": 0.7471}
+{"news_id": "news_20230422_000046", "ts_code": "603259", "name": "药明康德", "date": "2023-04-22 09:43:20", "sentiment_score": 0.7471}
+{"news_id": "news_20230422_000046", "ts_code": "300015", "name": "爱尔眼科", "date": "2023-04-22 09:43:20", "sentiment_score": 0.7471}
+{"news_id": "news_20230422_000046", "ts_code": "300760", "name": "迈瑞医疗", "date": "2023-04-22 09:43:20", "sentiment_score": 0.7471}
+{"news_id": "news_20230422_000059", "ts_code": "300207", "name": "欣旺达", "date": "2023-04-22 08:08:56", "sentiment_score": 0.6905}
+{"news_id": "news_20230422_000061", "ts_code": "600028", "name": "中国石化", "date": "2023-04-22 07:37:34", "sentiment_score": 0.653}
+{"news_id": "news_20230422_000061", "ts_code": "600309", "name": "万华化学", "date": "2023-04-22 07:37:34", "sentiment_score": 0.653}
+{"news_id": "news_20230422_000061", "ts_code": "600104", "name": "上海汽车", "date": "2023-04-22 07:37:34", "sentiment_score": 0.653}
+{"news_id": "news_20230422_000061", "ts_code": "600938", "name": "中国海油", "date": "2023-04-22 07:37:34", "sentiment_score": 0.653}

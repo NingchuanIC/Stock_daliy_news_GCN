@@ -1,0 +1,4 @@
+{"news_id": "news_20191003_000038", "ts_code": "600938", "name": "中国海洋石油", "date": "2019-10-03 09:39:49", "sentiment_score": 0.8082}
+{"news_id": "news_20191003_000039", "ts_code": "601238", "name": "广汽集团", "date": "2019-10-03 09:28:07", "sentiment_score": 0.8333}
+{"news_id": "news_20191003_000039", "ts_code": "601633", "name": "长城汽车", "date": "2019-10-03 09:28:07", "sentiment_score": 0.8333}
+{"news_id": "news_20191003_000039", "ts_code": "600104", "name": "上汽集团", "date": "2019-10-03 09:28:07", "sentiment_score": 0.8333}

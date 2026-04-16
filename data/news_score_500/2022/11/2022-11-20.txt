@@ -1,0 +1,5 @@
+{"news_id": "news_20221120_000020", "ts_code": "300750", "name": "宁德时代", "date": "2022-11-20 16:23:58", "sentiment_score": 0.7436}
+{"news_id": "news_20221120_000022", "ts_code": "601567", "name": "三星医疗", "date": "2022-11-20 16:21:56", "sentiment_score": 0.777}
+{"news_id": "news_20221120_000030", "ts_code": "601628", "name": "中国人寿", "date": "2022-11-20 12:07:33", "sentiment_score": 0.704}
+{"news_id": "news_20221120_000031", "ts_code": "002202", "name": "金风科技", "date": "2022-11-20 12:05:06", "sentiment_score": 0.5799}
+{"news_id": "news_20221120_000041", "ts_code": "600050", "name": "中国联通", "date": "2022-11-20 07:42:15", "sentiment_score": 0.5963}

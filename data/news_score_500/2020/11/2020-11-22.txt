@@ -1,0 +1,6 @@
+{"news_id": "news_20201122_000005", "ts_code": "600030", "name": "中信证券", "date": "2020-11-22 20:45:07", "sentiment_score": 0.8357}
+{"news_id": "news_20201122_000008", "ts_code": "601238", "name": "广汽集团", "date": "2020-11-22 18:30:42", "sentiment_score": 0.4942}
+{"news_id": "news_20201122_000018", "ts_code": "002156", "name": "通富微电", "date": "2020-11-22 16:30:49", "sentiment_score": 0.7741}
+{"news_id": "news_20201122_000025", "ts_code": "000063", "name": "中兴通讯", "date": "2020-11-22 15:06:01", "sentiment_score": 0.7835}
+{"news_id": "news_20201122_000035", "ts_code": "600030", "name": "中信证券", "date": "2020-11-22 14:16:15", "sentiment_score": 0.6927}
+{"news_id": "news_20201122_000037", "ts_code": "000063", "name": "中兴通讯股份有限公司", "date": "2020-11-22 11:35:05", "sentiment_score": 0.6042}

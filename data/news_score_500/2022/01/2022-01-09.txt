@@ -1,0 +1,5 @@
+{"news_id": "news_20220109_000008", "ts_code": "300015", "name": "爱尔眼科", "date": "2022-01-09 20:01:05", "sentiment_score": 0.6341}
+{"news_id": "news_20220109_000009", "ts_code": "600048", "name": "保利发展", "date": "2022-01-09 19:40:55", "sentiment_score": 0.8236}
+{"news_id": "news_20220109_000022", "ts_code": "000625", "name": "长安汽车", "date": "2022-01-09 16:36:26", "sentiment_score": 0.8758}
+{"news_id": "news_20220109_000033", "ts_code": "600048", "name": "保利发展", "date": "2022-01-09 15:39:57", "sentiment_score": 0.8701}
+{"news_id": "news_20220109_000035", "ts_code": "601628", "name": "中国人寿", "date": "2022-01-09 08:14:48", "sentiment_score": 0.6039}

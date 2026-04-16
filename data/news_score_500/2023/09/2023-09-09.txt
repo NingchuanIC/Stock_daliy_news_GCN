@@ -1,0 +1,11 @@
+{"news_id": "news_20230909_000004", "ts_code": "002594", "name": "比亚迪", "date": "2023-09-09 20:50:55", "sentiment_score": 0.7483}
+{"news_id": "news_20230909_000005", "ts_code": "002594", "name": "比亚迪", "date": "2023-09-09 20:39:41", "sentiment_score": 0.7182}
+{"news_id": "news_20230909_000006", "ts_code": "601668", "name": "中国建筑", "date": "2023-09-09 20:11:36", "sentiment_score": 0.635}
+{"news_id": "news_20230909_000009", "ts_code": "600028", "name": "中国石化", "date": "2023-09-09 19:10:29", "sentiment_score": 0.6705}
+{"news_id": "news_20230909_000009", "ts_code": "601857", "name": "中国石油", "date": "2023-09-09 19:10:29", "sentiment_score": 0.6705}
+{"news_id": "news_20230909_000009", "ts_code": "600938", "name": "中国海油", "date": "2023-09-09 19:10:29", "sentiment_score": 0.6705}
+{"news_id": "news_20230909_000010", "ts_code": "002074", "name": "国轩高科", "date": "2023-09-09 18:49:06", "sentiment_score": 0.6814}
+{"news_id": "news_20230909_000014", "ts_code": "601988", "name": "中国银行", "date": "2023-09-09 17:07:41", "sentiment_score": 0.6671}
+{"news_id": "news_20230909_000020", "ts_code": "601390", "name": "中国中铁", "date": "2023-09-09 13:14:39", "sentiment_score": 0.5668}
+{"news_id": "news_20230909_000023", "ts_code": "601633", "name": "长城汽车", "date": "2023-09-09 12:17:07", "sentiment_score": 0.5612}
+{"news_id": "news_20230909_000042", "ts_code": "002074", "name": "国轩高科", "date": "2023-09-09 09:21:59", "sentiment_score": 0.7411}

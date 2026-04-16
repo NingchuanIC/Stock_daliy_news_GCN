@@ -1,0 +1,14 @@
+{"news_id": "news_20241215_000015", "ts_code": "300308", "name": "中际旭创", "date": "2024-12-15 20:10:32", "sentiment_score": 0.8361}
+{"news_id": "news_20241215_000031", "ts_code": "002460", "name": "赣锋锂业", "date": "2024-12-15 17:27:02", "sentiment_score": 0.7963}
+{"news_id": "news_20241215_000070", "ts_code": "601868", "name": "中国能建", "date": "2024-12-15 15:13:20", "sentiment_score": 0.7164}
+{"news_id": "news_20241215_000084", "ts_code": "601868", "name": "中国能源建设股份有限公司", "date": "2024-12-15 14:18:57", "sentiment_score": 0.726}
+{"news_id": "news_20241215_000095", "ts_code": "300750", "name": "宁德时代", "date": "2024-12-15 12:47:09", "sentiment_score": 0.6945}
+{"news_id": "news_20241215_000095", "ts_code": "601211", "name": "国泰君安", "date": "2024-12-15 12:47:09", "sentiment_score": 0.6945}
+{"news_id": "news_20241215_000095", "ts_code": "300059", "name": "东方财富", "date": "2024-12-15 12:47:09", "sentiment_score": 0.6945}
+{"news_id": "news_20241215_000099", "ts_code": "002594", "name": "比亚迪", "date": "2024-12-15 12:25:53", "sentiment_score": 0.5832}
+{"news_id": "news_20241215_000120", "ts_code": "300251", "name": "光线传媒", "date": "2024-12-15 09:34:26", "sentiment_score": 0.6276}
+{"news_id": "news_20241215_000121", "ts_code": "300251", "name": "光线传媒", "date": "2024-12-15 09:34:21", "sentiment_score": 0.6367}
+{"news_id": "news_20241215_000123", "ts_code": "601288", "name": "农业银行", "date": "2024-12-15 09:15:34", "sentiment_score": 0.6204}
+{"news_id": "news_20241215_000124", "ts_code": "601288", "name": "农业银行", "date": "2024-12-15 09:15:15", "sentiment_score": 0.5752}
+{"news_id": "news_20241215_000133", "ts_code": "601211", "name": "国泰君安", "date": "2024-12-15 02:24:25", "sentiment_score": 0.6797}
+{"news_id": "news_20241215_000134", "ts_code": "601211", "name": "国泰君安", "date": "2024-12-15 02:24:25", "sentiment_score": 0.6148}

@@ -1,0 +1,3 @@
+{"news_id": "news_20200501_000076", "ts_code": "601899", "name": "紫金矿业", "date": "2020-05-01 12:06:09", "sentiment_score": 0.2202}
+{"news_id": "news_20200501_000087", "ts_code": "300750", "name": "宁德时代", "date": "2020-05-01 09:58:25", "sentiment_score": 0.6546}
+{"news_id": "news_20200501_000089", "ts_code": "600104", "name": "上汽集团", "date": "2020-05-01 09:24:38", "sentiment_score": 0.7295}

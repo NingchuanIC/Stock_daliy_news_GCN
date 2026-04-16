@@ -1,0 +1,9 @@
+{"news_id": "news_20190330_000005", "ts_code": "600030", "name": "中信证券", "date": "2019-03-30 20:20:39", "sentiment_score": 0.646}
+{"news_id": "news_20190330_000006", "ts_code": "601390", "name": "中国中铁", "date": "2019-03-30 20:16:22", "sentiment_score": 0.6384}
+{"news_id": "news_20190330_000007", "ts_code": "600030", "name": "中信证券", "date": "2019-03-30 19:48:44", "sentiment_score": 0.6417}
+{"news_id": "news_20190330_000010", "ts_code": "601318", "name": "中国平安", "date": "2019-03-30 18:42:54", "sentiment_score": 0.5555}
+{"news_id": "news_20190330_000011", "ts_code": "600519", "name": "贵州茅台", "date": "2019-03-30 18:16:58", "sentiment_score": 0.675}
+{"news_id": "news_20190330_000017", "ts_code": "600030", "name": "中信证券", "date": "2019-03-30 16:16:16", "sentiment_score": 0.6764}
+{"news_id": "news_20190330_000022", "ts_code": "601398", "name": "工商银行", "date": "2019-03-30 09:43:13", "sentiment_score": 0.6961}
+{"news_id": "news_20190330_000025", "ts_code": "601288", "name": "农业银行", "date": "2019-03-30 07:14:55", "sentiment_score": 0.6726}
+{"news_id": "news_20190330_000025", "ts_code": "601988", "name": "中国银行", "date": "2019-03-30 07:14:55", "sentiment_score": 0.6726}

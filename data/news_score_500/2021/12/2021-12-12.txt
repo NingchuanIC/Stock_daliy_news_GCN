@@ -1,0 +1,7 @@
+{"news_id": "news_20211212_000005", "ts_code": "601398", "name": "工商银行", "date": "2021-12-12 18:50:06", "sentiment_score": 0.6411}
+{"news_id": "news_20211212_000009", "ts_code": "002709", "name": "天赐材料", "date": "2021-12-12 17:20:41", "sentiment_score": 0.8036}
+{"news_id": "news_20211212_000010", "ts_code": "600988", "name": "赤峰黄金", "date": "2021-12-12 17:09:29", "sentiment_score": 0.6076}
+{"news_id": "news_20211212_000020", "ts_code": "300750", "name": "宁德时代", "date": "2021-12-12 16:37:32", "sentiment_score": 0.6679}
+{"news_id": "news_20211212_000030", "ts_code": "600988", "name": "赤峰黄金", "date": "2021-12-12 15:45:25", "sentiment_score": 0.6765}
+{"news_id": "news_20211212_000031", "ts_code": "300750", "name": "宁德时代新能源科技股份有限公司", "date": "2021-12-12 15:36:48", "sentiment_score": 0.7492}
+{"news_id": "news_20211212_000048", "ts_code": "600031", "name": "三一重工", "date": "2021-12-12 03:11:27", "sentiment_score": 0.6173}

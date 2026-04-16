@@ -1,0 +1,6 @@
+{"news_id": "news_20220904_000004", "ts_code": "300750", "name": "宁德时代", "date": "2022-09-04 21:06:13", "sentiment_score": 0.5663}
+{"news_id": "news_20220904_000004", "ts_code": "300274", "name": "阳光电源", "date": "2022-09-04 21:06:13", "sentiment_score": 0.5663}
+{"news_id": "news_20220904_000009", "ts_code": "002074", "name": "国轩高科", "date": "2022-09-04 17:55:38", "sentiment_score": 0.5904}
+{"news_id": "news_20220904_000031", "ts_code": "601127", "name": "赛力斯", "date": "2022-09-04 15:13:33", "sentiment_score": 0.8375}
+{"news_id": "news_20220904_000037", "ts_code": "000792", "name": "盐湖股份", "date": "2022-09-04 12:13:07", "sentiment_score": 0.6426}
+{"news_id": "news_20220904_000044", "ts_code": "002714", "name": "牧原股份", "date": "2022-09-04 08:01:09", "sentiment_score": 0.67}

@@ -1,0 +1,6 @@
+{"news_id": "news_20200510_000015", "ts_code": "600028", "name": "中国石化", "date": "2020-05-10 18:23:32", "sentiment_score": 0.6841}
+{"news_id": "news_20200510_000018", "ts_code": "000651", "name": "格力电器", "date": "2020-05-10 17:22:30", "sentiment_score": 0.7277}
+{"news_id": "news_20200510_000026", "ts_code": "300558", "name": "贝达药业", "date": "2020-05-10 16:55:34", "sentiment_score": 0.872}
+{"news_id": "news_20200510_000049", "ts_code": "300122", "name": "智飞生物", "date": "2020-05-10 14:41:45", "sentiment_score": 0.6719}
+{"news_id": "news_20200510_000050", "ts_code": "300122", "name": "智飞生物", "date": "2020-05-10 14:34:06", "sentiment_score": 0.6688}
+{"news_id": "news_20200510_000055", "ts_code": "601012", "name": "隆基绿能科技股份有限公司", "date": "2020-05-10 12:22:29", "sentiment_score": 0.7725}

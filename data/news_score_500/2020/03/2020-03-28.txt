@@ -1,0 +1,2 @@
+{"news_id": "news_20200328_000013", "ts_code": "600519", "name": "贵州茅台", "date": "2020-03-28 14:12:20", "sentiment_score": 0.6799}
+{"news_id": "news_20200328_000028", "ts_code": "300750", "name": "宁德时代", "date": "2020-03-28 09:29:04", "sentiment_score": 0.72}

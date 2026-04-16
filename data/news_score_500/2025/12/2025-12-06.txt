@@ -1,0 +1,14 @@
+{"news_id": "news_20251206_000013", "ts_code": "002353", "name": "杰瑞股份", "date": "2025-12-06 17:30:06", "sentiment_score": 0.6844}
+{"news_id": "news_20251206_000019", "ts_code": "601211", "name": "国泰海通", "date": "2025-12-06 16:47:53", "sentiment_score": 0.8337}
+{"news_id": "news_20251206_000037", "ts_code": "601211", "name": "国泰海通", "date": "2025-12-06 15:43:35", "sentiment_score": 0.6239}
+{"news_id": "news_20251206_000044", "ts_code": "601211", "name": "国泰海通", "date": "2025-12-06 15:22:07", "sentiment_score": 0.758}
+{"news_id": "news_20251206_000046", "ts_code": "300832", "name": "新产业", "date": "2025-12-06 15:15:32", "sentiment_score": 0.6382}
+{"news_id": "news_20251206_000054", "ts_code": "601398", "name": "工商银行", "date": "2025-12-06 14:11:21", "sentiment_score": 0.6992}
+{"news_id": "news_20251206_000055", "ts_code": "601857", "name": "中国石油", "date": "2025-12-06 14:09:50", "sentiment_score": 0.6487}
+{"news_id": "news_20251206_000056", "ts_code": "601857", "name": "中国石油", "date": "2025-12-06 14:01:25", "sentiment_score": 0.7037}
+{"news_id": "news_20251206_000058", "ts_code": "000625", "name": "长安汽车", "date": "2025-12-06 13:18:16", "sentiment_score": 0.6382}
+{"news_id": "news_20251206_000063", "ts_code": "300274", "name": "阳光电源", "date": "2025-12-06 12:25:12", "sentiment_score": 0.6067}
+{"news_id": "news_20251206_000063", "ts_code": "688223", "name": "晶科能源", "date": "2025-12-06 12:25:12", "sentiment_score": 0.6067}
+{"news_id": "news_20251206_000089", "ts_code": "600332", "name": "白云山", "date": "2025-12-06 09:10:28", "sentiment_score": 0.6519}
+{"news_id": "news_20251206_000091", "ts_code": "300014", "name": "亿纬锂能", "date": "2025-12-06 08:42:38", "sentiment_score": 0.7624}
+{"news_id": "news_20251206_000098", "ts_code": "600415", "name": "浙江中国小商品城集团股份有限公司", "date": "2025-12-06 08:00:35", "sentiment_score": 0.789}

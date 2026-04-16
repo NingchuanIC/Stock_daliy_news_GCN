@@ -1,0 +1,11 @@
+{"news_id": "news_20240302_000001", "ts_code": "601988", "name": "中国银行", "date": "2024-03-02 22:38:08", "sentiment_score": 0.6624}
+{"news_id": "news_20240302_000003", "ts_code": "601668", "name": "中国建筑", "date": "2024-03-02 22:05:02", "sentiment_score": 0.6445}
+{"news_id": "news_20240302_000006", "ts_code": "601398", "name": "工商银行", "date": "2024-03-02 20:24:07", "sentiment_score": 0.5492}
+{"news_id": "news_20240302_000016", "ts_code": "601238", "name": "广汽集团", "date": "2024-03-02 18:38:43", "sentiment_score": 0.6952}
+{"news_id": "news_20240302_000022", "ts_code": "002594", "name": "比亚迪", "date": "2024-03-02 17:30:29", "sentiment_score": 0.6923}
+{"news_id": "news_20240302_000023", "ts_code": "002594", "name": "比亚迪", "date": "2024-03-02 17:03:02", "sentiment_score": 0.708}
+{"news_id": "news_20240302_000029", "ts_code": "601607", "name": "上海医药", "date": "2024-03-02 15:26:59", "sentiment_score": 0.681}
+{"news_id": "news_20240302_000030", "ts_code": "688599", "name": "天合光能", "date": "2024-03-02 15:12:35", "sentiment_score": 0.4442}
+{"news_id": "news_20240302_000049", "ts_code": "600030", "name": "中信证券", "date": "2024-03-02 11:13:46", "sentiment_score": 0.5012}
+{"news_id": "news_20240302_000050", "ts_code": "000625", "name": "长安汽车", "date": "2024-03-02 11:02:29", "sentiment_score": 0.5364}
+{"news_id": "news_20240302_000068", "ts_code": "600048", "name": "保利发展", "date": "2024-03-02 08:03:10", "sentiment_score": 0.7051}

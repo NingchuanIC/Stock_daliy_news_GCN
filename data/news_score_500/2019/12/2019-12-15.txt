@@ -1,0 +1,9 @@
+{"news_id": "news_20191215_000002", "ts_code": "601766", "name": "中国中车", "date": "2019-12-15 22:04:41", "sentiment_score": 0.7259}
+{"news_id": "news_20191215_000002", "ts_code": "000338", "name": "潍柴动力", "date": "2019-12-15 22:04:41", "sentiment_score": 0.7259}
+{"news_id": "news_20191215_000004", "ts_code": "601633", "name": "长城汽车", "date": "2019-12-15 21:40:26", "sentiment_score": 0.5528}
+{"news_id": "news_20191215_000006", "ts_code": "000651", "name": "格力电器", "date": "2019-12-15 19:54:20", "sentiment_score": 0.6341}
+{"news_id": "news_20191215_000007", "ts_code": "000651", "name": "格力电器", "date": "2019-12-15 18:11:59", "sentiment_score": 0.7781}
+{"news_id": "news_20191215_000017", "ts_code": "601633", "name": "长城汽车", "date": "2019-12-15 15:58:58", "sentiment_score": 0.6168}
+{"news_id": "news_20191215_000019", "ts_code": "600050", "name": "中国联通", "date": "2019-12-15 15:19:21", "sentiment_score": 0.7755}
+{"news_id": "news_20191215_000020", "ts_code": "601318", "name": "中国平安", "date": "2019-12-15 14:58:46", "sentiment_score": 0.8058}
+{"news_id": "news_20191215_000030", "ts_code": "601633", "name": "长城汽车", "date": "2019-12-15 07:20:11", "sentiment_score": 0.6124}

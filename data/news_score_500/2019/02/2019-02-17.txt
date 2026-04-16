@@ -1,0 +1,8 @@
+{"news_id": "news_20190217_000006", "ts_code": "601398", "name": "工商银行", "date": "2019-02-17 19:48:42", "sentiment_score": 0.6884}
+{"news_id": "news_20190217_000025", "ts_code": "601728", "name": "中国电信", "date": "2019-02-17 16:10:13", "sentiment_score": 0.6929}
+{"news_id": "news_20190217_000034", "ts_code": "688235", "name": "百济神州", "date": "2019-02-17 11:49:28", "sentiment_score": 0.6486}
+{"news_id": "news_20190217_000035", "ts_code": "003816", "name": "中国广核", "date": "2019-02-17 11:15:05", "sentiment_score": 0.6815}
+{"news_id": "news_20190217_000036", "ts_code": "002371", "name": "北方华创", "date": "2019-02-17 09:50:13", "sentiment_score": 0.725}
+{"news_id": "news_20190217_000038", "ts_code": "002916", "name": "深南电路", "date": "2019-02-17 08:43:20", "sentiment_score": 0.7967}
+{"news_id": "news_20190217_000039", "ts_code": "601857", "name": "中国石油", "date": "2019-02-17 08:26:59", "sentiment_score": 0.6656}
+{"news_id": "news_20190217_000041", "ts_code": "000333", "name": "美的集团", "date": "2019-02-17 05:37:14", "sentiment_score": 0.79}

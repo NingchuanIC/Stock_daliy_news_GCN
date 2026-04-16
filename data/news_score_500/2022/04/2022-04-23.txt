@@ -1,0 +1,6 @@
+{"news_id": "news_20220423_000001", "ts_code": "002475", "name": "立讯精密", "date": "2022-04-23 23:28:29", "sentiment_score": 0.6622}
+{"news_id": "news_20220423_000012", "ts_code": "600938", "name": "中国海油", "date": "2022-04-23 18:25:38", "sentiment_score": 0.7086}
+{"news_id": "news_20220423_000013", "ts_code": "002340", "name": "格林美", "date": "2022-04-23 18:19:05", "sentiment_score": 0.6365}
+{"news_id": "news_20220423_000016", "ts_code": "000625", "name": "长安汽车", "date": "2022-04-23 16:31:17", "sentiment_score": 0.5134}
+{"news_id": "news_20220423_000020", "ts_code": "002475", "name": "立讯精密", "date": "2022-04-23 14:30:22", "sentiment_score": 0.7662}
+{"news_id": "news_20220423_000029", "ts_code": "601985", "name": "中国核电", "date": "2022-04-23 09:17:25", "sentiment_score": 0.7513}

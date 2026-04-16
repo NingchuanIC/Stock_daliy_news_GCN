@@ -1,0 +1,6 @@
+{"news_id": "news_20231002_000038", "ts_code": "002594", "name": "比亚迪", "date": "2023-10-02 18:51:17", "sentiment_score": 0.7825}
+{"news_id": "news_20231002_000047", "ts_code": "002594", "name": "比亚迪", "date": "2023-10-02 18:11:09", "sentiment_score": 0.8502}
+{"news_id": "news_20231002_000062", "ts_code": "600029", "name": "南方航空", "date": "2023-10-02 15:46:07", "sentiment_score": 0.6985}
+{"news_id": "news_20231002_000070", "ts_code": "300750", "name": "宁德时代", "date": "2023-10-02 14:45:23", "sentiment_score": 0.6466}
+{"news_id": "news_20231002_000078", "ts_code": "601628", "name": "中国人寿", "date": "2023-10-02 13:25:01", "sentiment_score": 0.8387}
+{"news_id": "news_20231002_000081", "ts_code": "003816", "name": "中国广核", "date": "2023-10-02 11:21:26", "sentiment_score": 0.6914}

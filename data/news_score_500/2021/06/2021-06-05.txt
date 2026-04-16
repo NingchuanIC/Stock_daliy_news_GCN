@@ -1,0 +1,10 @@
+{"news_id": "news_20210605_000007", "ts_code": "605499", "name": "东鹏饮料", "date": "2021-06-05 20:06:01", "sentiment_score": 0.5374}
+{"news_id": "news_20210605_000008", "ts_code": "605499", "name": "东鹏饮料", "date": "2021-06-05 20:03:00", "sentiment_score": 0.5389}
+{"news_id": "news_20210605_000020", "ts_code": "600519", "name": "贵州茅台", "date": "2021-06-05 12:16:57", "sentiment_score": 0.7719}
+{"news_id": "news_20210605_000020", "ts_code": "601318", "name": "中国平安", "date": "2021-06-05 12:16:57", "sentiment_score": 0.7719}
+{"news_id": "news_20210605_000020", "ts_code": "000858", "name": "五粮液", "date": "2021-06-05 12:16:57", "sentiment_score": 0.7719}
+{"news_id": "news_20210605_000029", "ts_code": "601012", "name": "隆基股份", "date": "2021-06-05 06:45:46", "sentiment_score": 0.6161}
+{"news_id": "news_20210605_000030", "ts_code": "000661", "name": "长春高新", "date": "2021-06-05 06:24:08", "sentiment_score": 0.703}
+{"news_id": "news_20210605_000030", "ts_code": "300496", "name": "中科创达", "date": "2021-06-05 06:24:08", "sentiment_score": 0.703}
+{"news_id": "news_20210605_000030", "ts_code": "688036", "name": "传音控股", "date": "2021-06-05 06:24:08", "sentiment_score": 0.703}
+{"news_id": "news_20210605_000030", "ts_code": "300760", "name": "迈瑞医疗", "date": "2021-06-05 06:24:08", "sentiment_score": 0.703}

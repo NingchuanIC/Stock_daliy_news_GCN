@@ -1,0 +1,14 @@
+{"news_id": "news_20191007_000012", "ts_code": "300433", "name": "蓝思科技", "date": "2019-10-07 21:52:12", "sentiment_score": 0.683}
+{"news_id": "news_20191007_000012", "ts_code": "002241", "name": "歌尔股份", "date": "2019-10-07 21:52:12", "sentiment_score": 0.683}
+{"news_id": "news_20191007_000023", "ts_code": "002156", "name": "通富微电", "date": "2019-10-07 19:45:55", "sentiment_score": 0.8054}
+{"news_id": "news_20191007_000024", "ts_code": "002384", "name": "东山精密", "date": "2019-10-07 19:38:56", "sentiment_score": 0.7453}
+{"news_id": "news_20191007_000035", "ts_code": "002230", "name": "科大讯飞", "date": "2019-10-07 18:51:24", "sentiment_score": 0.7221}
+{"news_id": "news_20191007_000041", "ts_code": "000625", "name": "长安汽车", "date": "2019-10-07 18:24:50", "sentiment_score": 0.7953}
+{"news_id": "news_20191007_000054", "ts_code": "002294", "name": "信立泰", "date": "2019-10-07 17:05:40", "sentiment_score": 0.8313}
+{"news_id": "news_20191007_000055", "ts_code": "601633", "name": "长城汽车股份有限公司", "date": "2019-10-07 17:05:28", "sentiment_score": 0.7814}
+{"news_id": "news_20191007_000056", "ts_code": "002916", "name": "深南电路", "date": "2019-10-07 16:55:59", "sentiment_score": 0.6551}
+{"news_id": "news_20191007_000057", "ts_code": "002294", "name": "信立泰", "date": "2019-10-07 16:51:12", "sentiment_score": 0.87}
+{"news_id": "news_20191007_000060", "ts_code": "688036", "name": "传音控股", "date": "2019-10-07 16:40:19", "sentiment_score": 0.762}
+{"news_id": "news_20191007_000064", "ts_code": "002594", "name": "比亚迪", "date": "2019-10-07 16:33:30", "sentiment_score": 0.7331}
+{"news_id": "news_20191007_000094", "ts_code": "601728", "name": "中国电信", "date": "2019-10-07 11:49:43", "sentiment_score": 0.7273}
+{"news_id": "news_20191007_000096", "ts_code": "000063", "name": "中兴通讯", "date": "2019-10-07 11:08:32", "sentiment_score": 0.7081}

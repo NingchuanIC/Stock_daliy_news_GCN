@@ -1,0 +1,17 @@
+{"news_id": "news_20200126_000002", "ts_code": "601238", "name": "广汽集团", "date": "2020-01-26 23:41:28", "sentiment_score": 0.6585}
+{"news_id": "news_20200126_000009", "ts_code": "002230", "name": "科大讯飞", "date": "2020-01-26 22:34:14", "sentiment_score": 0.7454}
+{"news_id": "news_20200126_000029", "ts_code": "600029", "name": "南方航空", "date": "2020-01-26 17:53:42", "sentiment_score": 0.6951}
+{"news_id": "news_20200126_000045", "ts_code": "601398", "name": "工商银行", "date": "2020-01-26 16:24:13", "sentiment_score": 0.702}
+{"news_id": "news_20200126_000045", "ts_code": "601288", "name": "农业银行", "date": "2020-01-26 16:24:13", "sentiment_score": 0.702}
+{"news_id": "news_20200126_000045", "ts_code": "601328", "name": "交通银行", "date": "2020-01-26 16:24:13", "sentiment_score": 0.702}
+{"news_id": "news_20200126_000045", "ts_code": "601988", "name": "中国银行", "date": "2020-01-26 16:24:13", "sentiment_score": 0.702}
+{"news_id": "news_20200126_000049", "ts_code": "601288", "name": "农业银行", "date": "2020-01-26 15:41:14", "sentiment_score": 0.8071}
+{"news_id": "news_20200126_000050", "ts_code": "601398", "name": "工商银行", "date": "2020-01-26 15:38:31", "sentiment_score": 0.6487}
+{"news_id": "news_20200126_000052", "ts_code": "601988", "name": "中国银行", "date": "2020-01-26 15:18:53", "sentiment_score": 0.673}
+{"news_id": "news_20200126_000054", "ts_code": "000333", "name": "美的集团", "date": "2020-01-26 15:07:07", "sentiment_score": 0.7011}
+{"news_id": "news_20200126_000058", "ts_code": "600332", "name": "白云山", "date": "2020-01-26 14:37:50", "sentiment_score": 0.6916}
+{"news_id": "news_20200126_000068", "ts_code": "600332", "name": "白云山", "date": "2020-01-26 13:04:57", "sentiment_score": 0.5726}
+{"news_id": "news_20200126_000071", "ts_code": "600028", "name": "中国石化", "date": "2020-01-26 13:02:32", "sentiment_score": 0.7203}
+{"news_id": "news_20200126_000086", "ts_code": "601601", "name": "中国太保", "date": "2020-01-26 11:43:54", "sentiment_score": 0.6866}
+{"news_id": "news_20200126_000087", "ts_code": "600030", "name": "中信证券", "date": "2020-01-26 11:28:55", "sentiment_score": 0.719}
+{"news_id": "news_20200126_000091", "ts_code": "601012", "name": "隆基股份", "date": "2020-01-26 10:55:48", "sentiment_score": 0.6545}

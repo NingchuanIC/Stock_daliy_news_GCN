@@ -1,0 +1,5 @@
+{"news_id": "news_20191110_000003", "ts_code": "300433", "name": "蓝思科技", "date": "2019-11-10 21:23:30", "sentiment_score": 0.8305}
+{"news_id": "news_20191110_000016", "ts_code": "688111", "name": "金山办公", "date": "2019-11-10 15:10:35", "sentiment_score": 0.8396}
+{"news_id": "news_20191110_000017", "ts_code": "601601", "name": "中国太保", "date": "2019-11-10 15:00:39", "sentiment_score": 0.6406}
+{"news_id": "news_20191110_000018", "ts_code": "300073", "name": "当升科技", "date": "2019-11-10 13:50:53", "sentiment_score": 0.6586}
+{"news_id": "news_20191110_000024", "ts_code": "601633", "name": "长城汽车", "date": "2019-11-10 10:10:16", "sentiment_score": 0.7562}

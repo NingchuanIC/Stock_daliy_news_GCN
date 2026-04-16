@@ -1,0 +1,12 @@
+{"news_id": "news_20240922_000001", "ts_code": "600519", "name": "贵州茅台", "date": "2024-09-22 23:38:32", "sentiment_score": 0.6986}
+{"news_id": "news_20240922_000008", "ts_code": "300750", "name": "宁德时代", "date": "2024-09-22 21:04:48", "sentiment_score": 0.6046}
+{"news_id": "news_20240922_000010", "ts_code": "600111", "name": "北方稀土", "date": "2024-09-22 20:39:40", "sentiment_score": 0.6642}
+{"news_id": "news_20240922_000023", "ts_code": "600998", "name": "九州通", "date": "2024-09-22 17:09:29", "sentiment_score": 0.7384}
+{"news_id": "news_20240922_000024", "ts_code": "600438", "name": "通威股份", "date": "2024-09-22 16:59:50", "sentiment_score": 0.7001}
+{"news_id": "news_20240922_000029", "ts_code": "601899", "name": "紫金矿业", "date": "2024-09-22 16:14:19", "sentiment_score": 0.6017}
+{"news_id": "news_20240922_000032", "ts_code": "688506", "name": "百利天恒", "date": "2024-09-22 15:46:51", "sentiment_score": 0.7648}
+{"news_id": "news_20240922_000069", "ts_code": "600115", "name": "中国东航", "date": "2024-09-22 09:59:32", "sentiment_score": 0.6892}
+{"news_id": "news_20240922_000070", "ts_code": "000157", "name": "中联重科", "date": "2024-09-22 09:45:37", "sentiment_score": 0.8441}
+{"news_id": "news_20240922_000072", "ts_code": "002594", "name": "比亚迪", "date": "2024-09-22 09:36:33", "sentiment_score": 0.7804}
+{"news_id": "news_20240922_000079", "ts_code": "600111", "name": "包钢稀土", "date": "2024-09-22 08:14:26", "sentiment_score": 0.5588}
+{"news_id": "news_20240922_000080", "ts_code": "601633", "name": "长城汽车", "date": "2024-09-22 07:58:09", "sentiment_score": 0.6964}

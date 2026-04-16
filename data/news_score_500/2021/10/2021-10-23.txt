@@ -1,0 +1,4 @@
+{"news_id": "news_20211023_000013", "ts_code": "300750", "name": "宁德时代", "date": "2021-10-23 16:03:34", "sentiment_score": 0.6753}
+{"news_id": "news_20211023_000025", "ts_code": "002460", "name": "赣锋锂业", "date": "2021-10-23 10:54:42", "sentiment_score": 0.7353}
+{"news_id": "news_20211023_000032", "ts_code": "002049", "name": "紫光国微", "date": "2021-10-23 09:07:32", "sentiment_score": 0.6489}
+{"news_id": "news_20211023_000034", "ts_code": "601211", "name": "国泰君安", "date": "2021-10-23 07:34:52", "sentiment_score": 0.6917}

@@ -1,0 +1,4 @@
+{"news_id": "news_20250202_000013", "ts_code": "002594", "name": "比亚迪", "date": "2025-02-02 18:26:07", "sentiment_score": 0.8275}
+{"news_id": "news_20250202_000014", "ts_code": "002594", "name": "比亚迪", "date": "2025-02-02 18:25:50", "sentiment_score": 0.8279}
+{"news_id": "news_20250202_000020", "ts_code": "600166", "name": "福田汽车", "date": "2025-02-02 11:14:37", "sentiment_score": 0.7131}
+{"news_id": "news_20250202_000020", "ts_code": "600418", "name": "江淮汽车", "date": "2025-02-02 11:14:37", "sentiment_score": 0.7131}

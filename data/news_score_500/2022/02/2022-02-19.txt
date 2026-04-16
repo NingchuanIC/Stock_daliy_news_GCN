@@ -1,0 +1,7 @@
+{"news_id": "news_20220219_000008", "ts_code": "002050", "name": "三花智控", "date": "2022-02-19 21:31:10", "sentiment_score": 0.6811}
+{"news_id": "news_20220219_000010", "ts_code": "600519", "name": "贵州茅台", "date": "2022-02-19 21:25:20", "sentiment_score": 0.7284}
+{"news_id": "news_20220219_000011", "ts_code": "600998", "name": "九州通", "date": "2022-02-19 21:17:02", "sentiment_score": 0.7154}
+{"news_id": "news_20220219_000014", "ts_code": "002714", "name": "牧原股份", "date": "2022-02-19 19:33:46", "sentiment_score": 0.8132}
+{"news_id": "news_20220219_000021", "ts_code": "601238", "name": "广汽集团", "date": "2022-02-19 16:25:19", "sentiment_score": 0.6523}
+{"news_id": "news_20220219_000023", "ts_code": "600050", "name": "中国联通", "date": "2022-02-19 13:55:15", "sentiment_score": 0.6437}
+{"news_id": "news_20220219_000026", "ts_code": "300014", "name": "亿纬锂能", "date": "2022-02-19 12:56:32", "sentiment_score": 0.7251}

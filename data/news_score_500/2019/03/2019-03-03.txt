@@ -1,0 +1,7 @@
+{"news_id": "news_20190303_000008", "ts_code": "000651", "name": "格力电器", "date": "2019-03-03 17:39:50", "sentiment_score": 0.698}
+{"news_id": "news_20190303_000021", "ts_code": "300558", "name": "贝达药业", "date": "2019-03-03 17:06:57", "sentiment_score": 0.6879}
+{"news_id": "news_20190303_000039", "ts_code": "000651", "name": "格力电器", "date": "2019-03-03 13:52:05", "sentiment_score": 0.6822}
+{"news_id": "news_20190303_000040", "ts_code": "000651", "name": "格力电器", "date": "2019-03-03 13:42:13", "sentiment_score": 0.6325}
+{"news_id": "news_20190303_000041", "ts_code": "000651", "name": "格力电器", "date": "2019-03-03 13:39:30", "sentiment_score": 0.7287}
+{"news_id": "news_20190303_000047", "ts_code": "600115", "name": "东方航空", "date": "2019-03-03 10:36:32", "sentiment_score": 0.7148}
+{"news_id": "news_20190303_000049", "ts_code": "000651", "name": "格力电器", "date": "2019-03-03 10:23:06", "sentiment_score": 0.705}

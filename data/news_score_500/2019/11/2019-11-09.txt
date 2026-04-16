@@ -1,0 +1,6 @@
+{"news_id": "news_20191109_000001", "ts_code": "601628", "name": "中国人寿", "date": "2019-11-09 23:30:26", "sentiment_score": 0.698}
+{"news_id": "news_20191109_000004", "ts_code": "000651", "name": "格力电器", "date": "2019-11-09 21:17:47", "sentiment_score": 0.6743}
+{"news_id": "news_20191109_000007", "ts_code": "600104", "name": "上汽集团", "date": "2019-11-09 20:54:24", "sentiment_score": 0.6983}
+{"news_id": "news_20191109_000018", "ts_code": "601398", "name": "工商银行", "date": "2019-11-09 12:12:22", "sentiment_score": 0.7182}
+{"news_id": "news_20191109_000018", "ts_code": "601288", "name": "农业银行", "date": "2019-11-09 12:12:22", "sentiment_score": 0.7182}
+{"news_id": "news_20191109_000022", "ts_code": "688036", "name": "传音控股", "date": "2019-11-09 08:02:30", "sentiment_score": 0.749}

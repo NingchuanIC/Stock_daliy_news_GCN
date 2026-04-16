@@ -1,0 +1,8 @@
+{"news_id": "news_20190421_000008", "ts_code": "002466", "name": "天齐锂业", "date": "2019-04-21 22:09:49", "sentiment_score": 0.6673}
+{"news_id": "news_20190421_000012", "ts_code": "000858", "name": "五粮液", "date": "2019-04-21 20:23:17", "sentiment_score": 0.6488}
+{"news_id": "news_20190421_000015", "ts_code": "600029", "name": "南方航空", "date": "2019-04-21 20:09:39", "sentiment_score": 0.6662}
+{"news_id": "news_20190421_000016", "ts_code": "300068", "name": "南都电源", "date": "2019-04-21 19:24:01", "sentiment_score": 0.8371}
+{"news_id": "news_20190421_000018", "ts_code": "002415", "name": "海康威视", "date": "2019-04-21 18:26:01", "sentiment_score": 0.6681}
+{"news_id": "news_20190421_000025", "ts_code": "601390", "name": "中国中铁", "date": "2019-04-21 17:19:55", "sentiment_score": 0.594}
+{"news_id": "news_20190421_000039", "ts_code": "603993", "name": "洛阳钼业", "date": "2019-04-21 16:21:47", "sentiment_score": 0.8609}
+{"news_id": "news_20190421_000062", "ts_code": "600519", "name": "贵州茅台", "date": "2019-04-21 06:11:02", "sentiment_score": 0.5248}

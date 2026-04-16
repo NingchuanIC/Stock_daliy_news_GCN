@@ -1,0 +1,17 @@
+{"news_id": "news_20250118_000006", "ts_code": "002739", "name": "万达电影", "date": "2025-01-18 22:35:33", "sentiment_score": 0.7669}
+{"news_id": "news_20250118_000012", "ts_code": "300750", "name": "宁德时代", "date": "2025-01-18 21:21:07", "sentiment_score": 0.689}
+{"news_id": "news_20250118_000019", "ts_code": "000425", "name": "徐工机械", "date": "2025-01-18 20:29:43", "sentiment_score": 0.6756}
+{"news_id": "news_20250118_000020", "ts_code": "000425", "name": "徐工机械", "date": "2025-01-18 20:29:35", "sentiment_score": 0.6896}
+{"news_id": "news_20250118_000033", "ts_code": "601899", "name": "紫金矿业", "date": "2025-01-18 19:26:48", "sentiment_score": 0.6574}
+{"news_id": "news_20250118_000035", "ts_code": "002353", "name": "杰瑞股份", "date": "2025-01-18 18:38:03", "sentiment_score": 0.68}
+{"news_id": "news_20250118_000058", "ts_code": "300750", "name": "宁德时代", "date": "2025-01-18 15:47:26", "sentiment_score": 0.6957}
+{"news_id": "news_20250118_000058", "ts_code": "002594", "name": "比亚迪", "date": "2025-01-18 15:47:26", "sentiment_score": 0.6957}
+{"news_id": "news_20250118_000059", "ts_code": "300750", "name": "宁德时代", "date": "2025-01-18 15:47:20", "sentiment_score": 0.6729}
+{"news_id": "news_20250118_000059", "ts_code": "002594", "name": "比亚迪", "date": "2025-01-18 15:47:20", "sentiment_score": 0.6729}
+{"news_id": "news_20250118_000071", "ts_code": "002594", "name": "比亚迪", "date": "2025-01-18 13:54:22", "sentiment_score": 0.6775}
+{"news_id": "news_20250118_000109", "ts_code": "688223", "name": "晶科能源", "date": "2025-01-18 08:50:32", "sentiment_score": 0.8433}
+{"news_id": "news_20250118_000110", "ts_code": "688223", "name": "晶科能源", "date": "2025-01-18 08:50:27", "sentiment_score": 0.8386}
+{"news_id": "news_20250118_000111", "ts_code": "300207", "name": "欣旺达", "date": "2025-01-18 08:49:24", "sentiment_score": 0.6552}
+{"news_id": "news_20250118_000156", "ts_code": "601601", "name": "中国太保", "date": "2025-01-18 04:38:13", "sentiment_score": 0.7895}
+{"news_id": "news_20250118_000156", "ts_code": "601318", "name": "中国平安", "date": "2025-01-18 04:38:13", "sentiment_score": 0.7895}
+{"news_id": "news_20250118_000156", "ts_code": "601628", "name": "中国人寿", "date": "2025-01-18 04:38:13", "sentiment_score": 0.7895}

@@ -1,0 +1,4 @@
+{"news_id": "news_20190113_000007", "ts_code": "002714", "name": "牧原股份", "date": "2019-01-13 19:01:01", "sentiment_score": 0.6757}
+{"news_id": "news_20190113_000007", "ts_code": "601988", "name": "中国银行", "date": "2019-01-13 19:01:01", "sentiment_score": 0.6757}
+{"news_id": "news_20190113_000013", "ts_code": "002475", "name": "立讯精密", "date": "2019-01-13 17:49:48", "sentiment_score": 0.7695}
+{"news_id": "news_20190113_000040", "ts_code": "601601", "name": "中国太保", "date": "2019-01-13 13:53:01", "sentiment_score": 0.6918}

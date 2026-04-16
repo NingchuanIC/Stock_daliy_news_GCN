@@ -1,0 +1,5 @@
+{"news_id": "news_20210522_000004", "ts_code": "600332", "name": "白云山", "date": "2021-05-22 15:44:29", "sentiment_score": 0.2301}
+{"news_id": "news_20210522_000005", "ts_code": "000998", "name": "隆平高科", "date": "2021-05-22 15:19:32", "sentiment_score": 0.414}
+{"news_id": "news_20210522_000007", "ts_code": "601318", "name": "中国平安", "date": "2021-05-22 11:13:39", "sentiment_score": 0.6371}
+{"news_id": "news_20210522_000010", "ts_code": "002466", "name": "天齐锂业", "date": "2021-05-22 09:04:53", "sentiment_score": 0.7141}
+{"news_id": "news_20210522_000017", "ts_code": "000651", "name": "格力电器", "date": "2021-05-22 06:07:41", "sentiment_score": 0.703}

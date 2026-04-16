@@ -1,0 +1,7 @@
+{"news_id": "news_20230305_000004", "ts_code": "002594", "name": "比亚迪", "date": "2023-03-05 21:28:20", "sentiment_score": 0.8627}
+{"news_id": "news_20230305_000015", "ts_code": "002460", "name": "赣锋锂业", "date": "2023-03-05 19:22:17", "sentiment_score": 0.3076}
+{"news_id": "news_20230305_000039", "ts_code": "002001", "name": "新和成", "date": "2023-03-05 17:09:53", "sentiment_score": 0.7362}
+{"news_id": "news_20230305_000065", "ts_code": "600521", "name": "华海药业", "date": "2023-03-05 15:51:33", "sentiment_score": 0.6786}
+{"news_id": "news_20230305_000069", "ts_code": "600276", "name": "恒瑞医药", "date": "2023-03-05 15:46:12", "sentiment_score": 0.696}
+{"news_id": "news_20230305_000083", "ts_code": "002230", "name": "科大讯飞", "date": "2023-03-05 14:52:37", "sentiment_score": 0.5769}
+{"news_id": "news_20230305_000094", "ts_code": "000425", "name": "徐工集团工程机械股份有限公司", "date": "2023-03-05 08:34:26", "sentiment_score": 0.6886}

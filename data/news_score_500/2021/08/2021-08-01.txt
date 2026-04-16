@@ -1,0 +1,5 @@
+{"news_id": "news_20210801_000004", "ts_code": "600031", "name": "三一重工", "date": "2021-08-01 22:54:22", "sentiment_score": 0.7104}
+{"news_id": "news_20210801_000020", "ts_code": "000963", "name": "华东医药", "date": "2021-08-01 16:18:30", "sentiment_score": 0.8102}
+{"news_id": "news_20210801_000033", "ts_code": "003816", "name": "中国广核", "date": "2021-08-01 12:04:25", "sentiment_score": 0.6655}
+{"news_id": "news_20210801_000034", "ts_code": "003816", "name": "中国广核", "date": "2021-08-01 12:03:53", "sentiment_score": 0.6871}
+{"news_id": "news_20210801_000037", "ts_code": "002415", "name": "海康威视", "date": "2021-08-01 08:41:44", "sentiment_score": 0.4435}

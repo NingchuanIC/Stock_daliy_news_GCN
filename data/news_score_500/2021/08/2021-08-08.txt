@@ -1,0 +1,8 @@
+{"news_id": "news_20210808_000007", "ts_code": "002415", "name": "海康威视", "date": "2021-08-08 19:34:04", "sentiment_score": 0.6629}
+{"news_id": "news_20210808_000008", "ts_code": "002594", "name": "比亚迪", "date": "2021-08-08 18:57:05", "sentiment_score": 0.7729}
+{"news_id": "news_20210808_000009", "ts_code": "601728", "name": "中国电信", "date": "2021-08-08 18:35:29", "sentiment_score": 0.7172}
+{"news_id": "news_20210808_000010", "ts_code": "000661", "name": "长春高新", "date": "2021-08-08 18:17:18", "sentiment_score": 0.7179}
+{"news_id": "news_20210808_000015", "ts_code": "600699", "name": "均胜电子", "date": "2021-08-08 17:06:16", "sentiment_score": 0.7069}
+{"news_id": "news_20210808_000018", "ts_code": "600795", "name": "国电电力", "date": "2021-08-08 17:00:06", "sentiment_score": 0.7538}
+{"news_id": "news_20210808_000031", "ts_code": "002459", "name": "晶澳太阳能科技股份有限公司", "date": "2021-08-08 15:59:06", "sentiment_score": 0.8195}
+{"news_id": "news_20210808_000032", "ts_code": "002594", "name": "比亚迪", "date": "2021-08-08 15:50:57", "sentiment_score": 0.6931}

@@ -1,0 +1,4 @@
+{"news_id": "news_20220102_000013", "ts_code": "002475", "name": "立讯精密", "date": "2022-01-02 18:46:12", "sentiment_score": 0.6363}
+{"news_id": "news_20220102_000013", "ts_code": "002241", "name": "歌尔股份", "date": "2022-01-02 18:46:12", "sentiment_score": 0.6363}
+{"news_id": "news_20220102_000013", "ts_code": "603986", "name": "兆易创新", "date": "2022-01-02 18:46:12", "sentiment_score": 0.6363}
+{"news_id": "news_20220102_000029", "ts_code": "600887", "name": "伊利股份", "date": "2022-01-02 03:43:49", "sentiment_score": 0.6623}

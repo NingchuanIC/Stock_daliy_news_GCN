@@ -1,0 +1,8 @@
+{"news_id": "news_20230610_000010", "ts_code": "600048", "name": "保利发展", "date": "2023-06-10 20:09:55", "sentiment_score": 0.6528}
+{"news_id": "news_20230610_000011", "ts_code": "300251", "name": "光线传媒", "date": "2023-06-10 19:31:00", "sentiment_score": 0.6891}
+{"news_id": "news_20230610_000027", "ts_code": "300750", "name": "宁德时代新能源科技股份有限公司", "date": "2023-06-10 16:03:33", "sentiment_score": 0.5462}
+{"news_id": "news_20230610_000032", "ts_code": "601988", "name": "中国银行", "date": "2023-06-10 15:08:53", "sentiment_score": 0.673}
+{"news_id": "news_20230610_000050", "ts_code": "601398", "name": "工商银行", "date": "2023-06-10 11:29:35", "sentiment_score": 0.7154}
+{"news_id": "news_20230610_000051", "ts_code": "300750", "name": "宁德时代", "date": "2023-06-10 11:28:28", "sentiment_score": 0.3123}
+{"news_id": "news_20230610_000051", "ts_code": "601238", "name": "广汽集团", "date": "2023-06-10 11:28:28", "sentiment_score": 0.3123}
+{"news_id": "news_20230610_000068", "ts_code": "300207", "name": "欣旺达", "date": "2023-06-10 09:34:02", "sentiment_score": 0.7403}

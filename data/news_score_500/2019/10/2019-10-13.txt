@@ -1,0 +1,5 @@
+{"news_id": "news_20191013_000009", "ts_code": "300832", "name": "新产业", "date": "2019-10-13 18:21:07", "sentiment_score": 0.74}
+{"news_id": "news_20191013_000016", "ts_code": "300760", "name": "迈瑞医疗", "date": "2019-10-13 17:51:16", "sentiment_score": 0.879}
+{"news_id": "news_20191013_000052", "ts_code": "300003", "name": "乐普医疗", "date": "2019-10-13 12:50:48", "sentiment_score": 0.7556}
+{"news_id": "news_20191013_000056", "ts_code": "601988", "name": "中国银行", "date": "2019-10-13 10:53:52", "sentiment_score": 0.7436}
+{"news_id": "news_20191013_000058", "ts_code": "601988", "name": "中国银行", "date": "2019-10-13 10:39:07", "sentiment_score": 0.5498}

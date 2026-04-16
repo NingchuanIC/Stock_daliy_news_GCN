@@ -1,0 +1,5 @@
+{"news_id": "news_20190616_000001", "ts_code": "600519", "name": "贵州茅台", "date": "2019-06-16 23:49:54", "sentiment_score": 0.6967}
+{"news_id": "news_20190616_000009", "ts_code": "601398", "name": "工商银行", "date": "2019-06-16 17:20:57", "sentiment_score": 0.7844}
+{"news_id": "news_20190616_000010", "ts_code": "601988", "name": "中国银行", "date": "2019-06-16 17:20:29", "sentiment_score": 0.8304}
+{"news_id": "news_20190616_000017", "ts_code": "601857", "name": "中国石油", "date": "2019-06-16 16:39:19", "sentiment_score": 0.4411}
+{"news_id": "news_20190616_000024", "ts_code": "002459", "name": "ST天业", "date": "2019-06-16 15:33:57", "sentiment_score": 0.6952}

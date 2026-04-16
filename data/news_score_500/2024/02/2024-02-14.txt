@@ -1,0 +1,17 @@
+{"news_id": "news_20240214_000024", "ts_code": "601398", "name": "工商银行", "date": "2024-02-14 18:42:11", "sentiment_score": 0.649}
+{"news_id": "news_20240214_000024", "ts_code": "601288", "name": "农业银行", "date": "2024-02-14 18:42:11", "sentiment_score": 0.649}
+{"news_id": "news_20240214_000024", "ts_code": "601988", "name": "中国银行", "date": "2024-02-14 18:42:11", "sentiment_score": 0.649}
+{"news_id": "news_20240214_000047", "ts_code": "601398", "name": "工商银行", "date": "2024-02-14 14:49:02", "sentiment_score": 0.8125}
+{"news_id": "news_20240214_000047", "ts_code": "601288", "name": "农业银行", "date": "2024-02-14 14:49:02", "sentiment_score": 0.8125}
+{"news_id": "news_20240214_000047", "ts_code": "601988", "name": "中国银行", "date": "2024-02-14 14:49:02", "sentiment_score": 0.8125}
+{"news_id": "news_20240214_000053", "ts_code": "600050", "name": "中国联通", "date": "2024-02-14 14:01:37", "sentiment_score": 0.7964}
+{"news_id": "news_20240214_000065", "ts_code": "603259", "name": "药明康德", "date": "2024-02-14 12:02:43", "sentiment_score": 0.8086}
+{"news_id": "news_20240214_000066", "ts_code": "601328", "name": "交通银行", "date": "2024-02-14 12:02:32", "sentiment_score": 0.6819}
+{"news_id": "news_20240214_000070", "ts_code": "603259", "name": "药明康德", "date": "2024-02-14 10:54:20", "sentiment_score": 0.8342}
+{"news_id": "news_20240214_000081", "ts_code": "603259", "name": "药明康德", "date": "2024-02-14 09:57:18", "sentiment_score": 0.8276}
+{"news_id": "news_20240214_000085", "ts_code": "603259", "name": "药明康德", "date": "2024-02-14 09:41:01", "sentiment_score": 0.7934}
+{"news_id": "news_20240214_000086", "ts_code": "000333", "name": "美的集团", "date": "2024-02-14 09:37:02", "sentiment_score": 0.7039}
+{"news_id": "news_20240214_000092", "ts_code": "000333", "name": "美的集团", "date": "2024-02-14 09:27:48", "sentiment_score": 0.7958}
+{"news_id": "news_20240214_000094", "ts_code": "603259", "name": "无锡药明康德新药开发股份有限公司", "date": "2024-02-14 09:23:47", "sentiment_score": 0.7991}
+{"news_id": "news_20240214_000096", "ts_code": "002001", "name": "新和成", "date": "2024-02-14 09:20:03", "sentiment_score": 0.5527}
+{"news_id": "news_20240214_000119", "ts_code": "603259", "name": "无锡药明康德新药开发股份有限公司", "date": "2024-02-14 07:06:51", "sentiment_score": 0.6623}

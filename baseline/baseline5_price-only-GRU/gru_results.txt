@@ -1,0 +1,78 @@
+Price-only GRU Baseline (no shuffling, fixed year split)
+train years: [2019, 2020, 2021, 2022, 2023]
+val years: [2024]
+test years: [2025]
+task: regression
+target: future_ret_5
+model_type: gru
+seq_len: 30
+hidden_size: 128
+num_layers: 2
+dropout: 0.1
+optimizer: adam
+lr: 0.001
+batch_size: 512
+epochs: 200
+epochs_ran: 24
+early_stopping_patience: 20
+early_stopping_min_delta: 0.0
+best_epoch: 4
+best_val_ic: 0.02025095
+feature_norm: max
+seed: 42
+device_arg: cuda
+gpu_id: 0
+device: cuda:0
+amp: False
+num_workers: 2
+load_model_path: None
+save_model_path: baseline5_price-only-GRU
+load_status: not loaded
+save_status: saved checkpoint to baseline5_price-only-GRU\gru_model.pt
+topk_list: [10, 30, 50]
+features (15): ['ret_1', 'ret_5', 'ret_10', 'ret_20', 'hl_spread', 'co_ret', 'log_vol', 'turnover_rate', 'volume_ratio', 'pb', 'ma5_gap', 'ma10_gap', 'ma20_gap', 'volatility_5', 'volatility_20']
+train sequences: 552532
+val sequences: 106435
+test sequences: 104340
+gpu_name: NVIDIA GeForce RTX 4060 Laptop GPU
+[epoch 001/200] train_loss=0.00425061 | val_proxy_loss=0.00530680 | val_ic=0.00945033
+[epoch 002/200] train_loss=0.00421073 | val_proxy_loss=0.00527632 | val_ic=0.01797514
+[epoch 003/200] train_loss=0.00414672 | val_proxy_loss=0.00535129 | val_ic=-0.00176601
+[epoch 004/200] train_loss=0.00407419 | val_proxy_loss=0.00543689 | val_ic=0.02025095
+[epoch 005/200] train_loss=0.00398519 | val_proxy_loss=0.00541424 | val_ic=0.00698112
+[epoch 006/200] train_loss=0.00388597 | val_proxy_loss=0.00551859 | val_ic=-0.01625217
+[epoch 007/200] train_loss=0.00377398 | val_proxy_loss=0.00562428 | val_ic=-0.02989170
+[epoch 008/200] train_loss=0.00363679 | val_proxy_loss=0.00601285 | val_ic=-0.00792589
+[epoch 009/200] train_loss=0.00348082 | val_proxy_loss=0.00588919 | val_ic=-0.02560202
+[epoch 010/200] train_loss=0.00330576 | val_proxy_loss=0.00582097 | val_ic=-0.00191649
+[epoch 011/200] train_loss=0.00314004 | val_proxy_loss=0.00615665 | val_ic=0.01837213
+[epoch 012/200] train_loss=0.00299056 | val_proxy_loss=0.00612502 | val_ic=-0.00293659
+[epoch 013/200] train_loss=0.00285321 | val_proxy_loss=0.00637818 | val_ic=0.01228223
+[epoch 014/200] train_loss=0.00272950 | val_proxy_loss=0.00616868 | val_ic=0.00355535
+[epoch 015/200] train_loss=0.00261499 | val_proxy_loss=0.00654425 | val_ic=-0.00364540
+[epoch 016/200] train_loss=0.00251449 | val_proxy_loss=0.00634019 | val_ic=0.00178766
+[epoch 017/200] train_loss=0.00241366 | val_proxy_loss=0.00669359 | val_ic=-0.00514271
+[epoch 018/200] train_loss=0.00233572 | val_proxy_loss=0.00649951 | val_ic=-0.01350126
+[epoch 019/200] train_loss=0.00226357 | val_proxy_loss=0.00671108 | val_ic=-0.00338595
+[epoch 020/200] train_loss=0.00220055 | val_proxy_loss=0.00661232 | val_ic=-0.00738809
+[epoch 021/200] train_loss=0.00213540 | val_proxy_loss=0.00697800 | val_ic=-0.01473124
+[epoch 022/200] train_loss=0.00208627 | val_proxy_loss=0.00679566 | val_ic=-0.00937991
+[epoch 023/200] train_loss=0.00203536 | val_proxy_loss=0.00677830 | val_ic=-0.01787416
+[epoch 024/200] train_loss=0.00198811 | val_proxy_loss=0.00693004 | val_ic=-0.01702436
+[early_stopping] stop at epoch 024 | best_epoch=004 | best_val_ic=0.02025095
+[early_stopping] restored best model at epoch 004 with val_ic=0.02025095
+[train] samples=552532
+[train] IC=0.24785654 | RankIC=0.19777419 | SignAcc=0.55346840 | Sharpe=2.33057860 | MSE=0.00400653
+[train] Top10 IRR=112.33611351 | Top10 Sharpe=6.85811513
+[train] Top30 IRR=40.63011684 | Top30 Sharpe=6.57698180
+[train] Top50 IRR=21.89441949 | Top50 Sharpe=5.86987296
+[validation] samples=106435
+[validation] IC=0.02025095 | RankIC=0.01706711 | SignAcc=0.49167097 | Sharpe=0.25214672 | MSE=0.00543689
+[validation] Top10 IRR=2.04010601 | Top10 Sharpe=1.58896975
+[validation] Top30 IRR=1.82130589 | Top30 Sharpe=1.63608868
+[validation] Top50 IRR=1.73264486 | Top50 Sharpe=1.63050793
+[test] samples=104340
+[test] IC=0.05160307 | RankIC=0.04237023 | SignAcc=0.50824228 | Sharpe=0.68874570 | MSE=0.00329126
+[test] Top10 IRR=10.22445788 | Top10 Sharpe=4.41701568
+[test] Top30 IRR=5.05005854 | Top30 Sharpe=4.00921982
+[test] Top50 IRR=3.46193167 | Top50 Sharpe=3.59448304

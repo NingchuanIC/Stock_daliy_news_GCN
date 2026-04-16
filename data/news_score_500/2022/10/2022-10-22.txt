@@ -1,0 +1,3 @@
+{"news_id": "news_20221022_000006", "ts_code": "002594", "name": "比亚迪", "date": "2022-10-22 12:06:56", "sentiment_score": 0.7018}
+{"news_id": "news_20221022_000010", "ts_code": "300750", "name": "宁德时代", "date": "2022-10-22 08:28:49", "sentiment_score": 0.6717}
+{"news_id": "news_20221022_000034", "ts_code": "688111", "name": "金山办公", "date": "2022-10-22 00:47:04", "sentiment_score": 0.8546}

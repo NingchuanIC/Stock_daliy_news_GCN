@@ -1,0 +1,11 @@
+{"news_id": "news_20211211_000011", "ts_code": "002008", "name": "大族激光", "date": "2021-12-11 20:57:22", "sentiment_score": 0.6982}
+{"news_id": "news_20211211_000014", "ts_code": "600519", "name": "贵州茅台", "date": "2021-12-11 18:25:02", "sentiment_score": 0.7517}
+{"news_id": "news_20211211_000014", "ts_code": "000858", "name": "五粮液", "date": "2021-12-11 18:25:02", "sentiment_score": 0.7517}
+{"news_id": "news_20211211_000016", "ts_code": "300750", "name": "宁德时代", "date": "2021-12-11 17:04:40", "sentiment_score": 0.7778}
+{"news_id": "news_20211211_000016", "ts_code": "600519", "name": "贵州茅台", "date": "2021-12-11 17:04:40", "sentiment_score": 0.7778}
+{"news_id": "news_20211211_000016", "ts_code": "300059", "name": "东方财富", "date": "2021-12-11 17:04:40", "sentiment_score": 0.7778}
+{"news_id": "news_20211211_000016", "ts_code": "300760", "name": "迈瑞医疗", "date": "2021-12-11 17:04:40", "sentiment_score": 0.7778}
+{"news_id": "news_20211211_000026", "ts_code": "002916", "name": "深南电路", "date": "2021-12-11 10:27:40", "sentiment_score": 0.6918}
+{"news_id": "news_20211211_000027", "ts_code": "601127", "name": "赛力斯", "date": "2021-12-11 10:10:06", "sentiment_score": 0.7084}
+{"news_id": "news_20211211_000033", "ts_code": "600519", "name": "贵州茅台", "date": "2021-12-11 08:04:07", "sentiment_score": 0.5473}
+{"news_id": "news_20211211_000033", "ts_code": "000858", "name": "五粮液", "date": "2021-12-11 08:04:07", "sentiment_score": 0.5473}

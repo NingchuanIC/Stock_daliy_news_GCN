@@ -1,0 +1,4 @@
+{"news_id": "news_20250504_000053", "ts_code": "002594", "name": "比亚迪", "date": "2025-05-04 16:09:53", "sentiment_score": 0.6809}
+{"news_id": "news_20250504_000054", "ts_code": "002594", "name": "比亚迪", "date": "2025-05-04 16:09:46", "sentiment_score": 0.6621}
+{"news_id": "news_20250504_000079", "ts_code": "000425", "name": "徐工机械", "date": "2025-05-04 09:57:19", "sentiment_score": 0.6814}
+{"news_id": "news_20250504_000079", "ts_code": "002594", "name": "比亚迪", "date": "2025-05-04 09:57:19", "sentiment_score": 0.6814}

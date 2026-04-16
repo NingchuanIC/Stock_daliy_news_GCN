@@ -1,0 +1,4 @@
+{"news_id": "news_20210124_000013", "ts_code": "002459", "name": "晶澳科技", "date": "2021-01-24 16:46:56", "sentiment_score": 0.6757}
+{"news_id": "news_20210124_000016", "ts_code": "002475", "name": "立讯精密", "date": "2021-01-24 16:41:26", "sentiment_score": 0.71}
+{"news_id": "news_20210124_000018", "ts_code": "002371", "name": "北方华创", "date": "2021-01-24 16:37:29", "sentiment_score": 0.7903}
+{"news_id": "news_20210124_000027", "ts_code": "002008", "name": "大族激光", "date": "2021-01-24 16:07:21", "sentiment_score": 0.7949}

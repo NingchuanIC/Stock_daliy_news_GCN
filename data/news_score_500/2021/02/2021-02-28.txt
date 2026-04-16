@@ -1,0 +1,6 @@
+{"news_id": "news_20210228_000016", "ts_code": "688180", "name": "君实生物", "date": "2021-02-28 16:54:09", "sentiment_score": 0.694}
+{"news_id": "news_20210228_000020", "ts_code": "002459", "name": "晶澳科技", "date": "2021-02-28 16:41:22", "sentiment_score": 0.8212}
+{"news_id": "news_20210228_000036", "ts_code": "601615", "name": "明阳智能", "date": "2021-02-28 13:59:41", "sentiment_score": 0.2717}
+{"news_id": "news_20210228_000042", "ts_code": "601601", "name": "中国太保", "date": "2021-02-28 12:12:22", "sentiment_score": 0.6308}
+{"news_id": "news_20210228_000047", "ts_code": "601857", "name": "中国石油", "date": "2021-02-28 08:56:21", "sentiment_score": 0.6541}
+{"news_id": "news_20210228_000049", "ts_code": "300015", "name": "爱尔眼科", "date": "2021-02-28 08:35:10", "sentiment_score": 0.729}

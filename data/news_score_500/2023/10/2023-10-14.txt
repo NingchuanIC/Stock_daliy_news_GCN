@@ -1,0 +1,4 @@
+{"news_id": "news_20231014_000002", "ts_code": "601012", "name": "隆基绿能", "date": "2023-10-14 22:31:47", "sentiment_score": 0.76}
+{"news_id": "news_20231014_000004", "ts_code": "300750", "name": "宁德时代", "date": "2023-10-14 19:54:35", "sentiment_score": 0.6862}
+{"news_id": "news_20231014_000010", "ts_code": "601857", "name": "中国石油", "date": "2023-10-14 16:41:20", "sentiment_score": 0.731}
+{"news_id": "news_20231014_000031", "ts_code": "002812", "name": "恩捷股份", "date": "2023-10-14 10:54:49", "sentiment_score": 0.7951}

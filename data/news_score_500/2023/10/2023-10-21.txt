@@ -1,0 +1,6 @@
+{"news_id": "news_20231021_000009", "ts_code": "601012", "name": "隆基绿能", "date": "2023-10-21 21:42:07", "sentiment_score": 0.6951}
+{"news_id": "news_20231021_000012", "ts_code": "002714", "name": "牧原股份", "date": "2023-10-21 20:19:54", "sentiment_score": 0.6593}
+{"news_id": "news_20231021_000014", "ts_code": "600938", "name": "中国海油", "date": "2023-10-21 19:51:58", "sentiment_score": 0.5622}
+{"news_id": "news_20231021_000020", "ts_code": "300014", "name": "惠州亿纬锂能股份有限公司", "date": "2023-10-21 18:06:58", "sentiment_score": 0.3919}
+{"news_id": "news_20231021_000030", "ts_code": "601857", "name": "中国石油", "date": "2023-10-21 15:49:13", "sentiment_score": 0.6693}
+{"news_id": "news_20231021_000043", "ts_code": "002594", "name": "比亚迪", "date": "2023-10-21 11:45:54", "sentiment_score": 0.8146}

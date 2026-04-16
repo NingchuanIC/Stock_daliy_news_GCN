@@ -1,0 +1,12 @@
+{"news_id": "news_20240501_000030", "ts_code": "000625", "name": "长安汽车", "date": "2024-05-01 21:08:40", "sentiment_score": 0.7888}
+{"news_id": "news_20240501_000043", "ts_code": "002594", "name": "比亚迪", "date": "2024-05-01 19:14:15", "sentiment_score": 0.7917}
+{"news_id": "news_20240501_000044", "ts_code": "002594", "name": "比亚迪", "date": "2024-05-01 19:14:15", "sentiment_score": 0.8232}
+{"news_id": "news_20240501_000057", "ts_code": "600104", "name": "上汽集团", "date": "2024-05-01 18:07:19", "sentiment_score": 0.8735}
+{"news_id": "news_20240501_000069", "ts_code": "600029", "name": "南方航空", "date": "2024-05-01 16:59:56", "sentiment_score": 0.7874}
+{"news_id": "news_20240501_000070", "ts_code": "600029", "name": "南方航空", "date": "2024-05-01 16:59:56", "sentiment_score": 0.7894}
+{"news_id": "news_20240501_000092", "ts_code": "002594", "name": "比亚迪", "date": "2024-05-01 14:15:51", "sentiment_score": 0.7287}
+{"news_id": "news_20240501_000093", "ts_code": "002594", "name": "比亚迪", "date": "2024-05-01 14:15:51", "sentiment_score": 0.7122}
+{"news_id": "news_20240501_000094", "ts_code": "002594", "name": "比亚迪", "date": "2024-05-01 14:14:02", "sentiment_score": 0.6971}
+{"news_id": "news_20240501_000095", "ts_code": "002594", "name": "比亚迪", "date": "2024-05-01 14:14:02", "sentiment_score": 0.5908}
+{"news_id": "news_20240501_000111", "ts_code": "002594", "name": "比亚迪", "date": "2024-05-01 11:49:39", "sentiment_score": 0.6795}
+{"news_id": "news_20240501_000149", "ts_code": "000651", "name": "格力电器", "date": "2024-05-01 06:08:57", "sentiment_score": 0.8257}

@@ -1,0 +1,4 @@
+{"news_id": "news_20201024_000001", "ts_code": "601288", "name": "农业银行", "date": "2020-10-24 23:55:09", "sentiment_score": 0.6957}
+{"news_id": "news_20201024_000003", "ts_code": "601601", "name": "中国太保", "date": "2020-10-24 22:47:32", "sentiment_score": 0.6713}
+{"news_id": "news_20201024_000004", "ts_code": "300001", "name": "特锐德", "date": "2020-10-24 22:20:09", "sentiment_score": 0.7137}
+{"news_id": "news_20201024_000011", "ts_code": "300001", "name": "特锐德", "date": "2020-10-24 18:40:24", "sentiment_score": 0.7469}

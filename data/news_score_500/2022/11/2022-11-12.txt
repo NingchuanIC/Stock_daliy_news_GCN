@@ -1,0 +1,2 @@
+{"news_id": "news_20221112_000002", "ts_code": "600029", "name": "南方航空", "date": "2022-11-12 22:56:10", "sentiment_score": 0.6718}
+{"news_id": "news_20221112_000040", "ts_code": "002812", "name": "Lee", "date": "2022-11-12 04:38:47", "sentiment_score": 0.7951}

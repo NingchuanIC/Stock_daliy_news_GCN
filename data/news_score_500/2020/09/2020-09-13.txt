@@ -1,0 +1,14 @@
+{"news_id": "news_20200913_000004", "ts_code": "002714", "name": "牧原股份", "date": "2020-09-13 22:04:53", "sentiment_score": 0.7977}
+{"news_id": "news_20200913_000012", "ts_code": "001979", "name": "招商蛇口", "date": "2020-09-13 17:30:41", "sentiment_score": 0.6836}
+{"news_id": "news_20200913_000017", "ts_code": "002714", "name": "牧原股份", "date": "2020-09-13 17:01:26", "sentiment_score": 0.691}
+{"news_id": "news_20200913_000020", "ts_code": "000100", "name": "TCL科技", "date": "2020-09-13 16:51:42", "sentiment_score": 0.7379}
+{"news_id": "news_20200913_000023", "ts_code": "601985", "name": "中国核电", "date": "2020-09-13 16:46:42", "sentiment_score": 0.715}
+{"news_id": "news_20200913_000030", "ts_code": "600104", "name": "上汽集团", "date": "2020-09-13 15:28:37", "sentiment_score": 0.6943}
+{"news_id": "news_20200913_000031", "ts_code": "000651", "name": "格力电器", "date": "2020-09-13 15:25:15", "sentiment_score": 0.7216}
+{"news_id": "news_20200913_000032", "ts_code": "000651", "name": "格力电器", "date": "2020-09-13 15:23:54", "sentiment_score": 0.7815}
+{"news_id": "news_20200913_000035", "ts_code": "001979", "name": "招商蛇口", "date": "2020-09-13 14:42:24", "sentiment_score": 0.699}
+{"news_id": "news_20200913_000035", "ts_code": "601318", "name": "中国平安", "date": "2020-09-13 14:42:24", "sentiment_score": 0.699}
+{"news_id": "news_20200913_000036", "ts_code": "601669", "name": "中国电建", "date": "2020-09-13 14:32:16", "sentiment_score": 0.7524}
+{"news_id": "news_20200913_000041", "ts_code": "601988", "name": "中国银行", "date": "2020-09-13 12:12:59", "sentiment_score": 0.6903}
+{"news_id": "news_20200913_000044", "ts_code": "601211", "name": "国泰君安", "date": "2020-09-13 11:38:08", "sentiment_score": 0.6197}
+{"news_id": "news_20200913_000044", "ts_code": "600030", "name": "中信证券", "date": "2020-09-13 11:38:08", "sentiment_score": 0.6197}

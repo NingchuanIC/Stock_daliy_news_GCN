@@ -1,0 +1,11 @@
+{"news_id": "news_20250517_000003", "ts_code": "300750", "name": "宁德时代", "date": "2025-05-17 22:04:04", "sentiment_score": 0.6972}
+{"news_id": "news_20250517_000010", "ts_code": "002074", "name": "国轩高科", "date": "2025-05-17 18:41:04", "sentiment_score": 0.5416}
+{"news_id": "news_20250517_000011", "ts_code": "600660", "name": "福耀玻璃工业集团股份有限公司", "date": "2025-05-17 18:19:55", "sentiment_score": 0.6957}
+{"news_id": "news_20250517_000012", "ts_code": "601728", "name": "中国电信", "date": "2025-05-17 18:12:36", "sentiment_score": 0.7192}
+{"news_id": "news_20250517_000018", "ts_code": "601868", "name": "中国能建", "date": "2025-05-17 17:04:44", "sentiment_score": 0.6973}
+{"news_id": "news_20250517_000023", "ts_code": "002714", "name": "牧原股份", "date": "2025-05-17 16:30:56", "sentiment_score": 0.6336}
+{"news_id": "news_20250517_000028", "ts_code": "000858", "name": "五粮液", "date": "2025-05-17 15:04:34", "sentiment_score": 0.6088}
+{"news_id": "news_20250517_000047", "ts_code": "600011", "name": "华能国际", "date": "2025-05-17 11:10:43", "sentiment_score": 0.6673}
+{"news_id": "news_20250517_000048", "ts_code": "600011", "name": "华能国际", "date": "2025-05-17 11:10:36", "sentiment_score": 0.6726}
+{"news_id": "news_20250517_000053", "ts_code": "002594", "name": "比亚迪", "date": "2025-05-17 10:03:00", "sentiment_score": 0.8453}
+{"news_id": "news_20250517_000054", "ts_code": "002594", "name": "比亚迪", "date": "2025-05-17 10:01:30", "sentiment_score": 0.8371}

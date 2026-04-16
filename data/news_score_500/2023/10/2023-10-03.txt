@@ -1,0 +1,5 @@
+{"news_id": "news_20231003_000088", "ts_code": "603993", "name": "洛阳钼业", "date": "2023-10-03 10:31:05", "sentiment_score": 0.6187}
+{"news_id": "news_20231003_000097", "ts_code": "688180", "name": "君实生物", "date": "2023-10-03 09:43:15", "sentiment_score": 0.8709}
+{"news_id": "news_20231003_000101", "ts_code": "002812", "name": "恩捷股份", "date": "2023-10-03 09:31:42", "sentiment_score": 0.5223}
+{"news_id": "news_20231003_000107", "ts_code": "002594", "name": "比亚迪", "date": "2023-10-03 09:13:19", "sentiment_score": 0.7835}
+{"news_id": "news_20231003_000120", "ts_code": "688235", "name": "百济神州", "date": "2023-10-03 07:55:14", "sentiment_score": 0.8003}

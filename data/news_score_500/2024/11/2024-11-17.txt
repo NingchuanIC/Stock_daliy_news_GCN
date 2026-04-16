@@ -1,0 +1,8 @@
+{"news_id": "news_20241117_000036", "ts_code": "601899", "name": "紫金矿业", "date": "2024-11-17 19:44:31", "sentiment_score": 0.7409}
+{"news_id": "news_20241117_000039", "ts_code": "000568", "name": "泸州老窖", "date": "2024-11-17 19:22:31", "sentiment_score": 0.7146}
+{"news_id": "news_20241117_000049", "ts_code": "601985", "name": "中国核电", "date": "2024-11-17 18:13:10", "sentiment_score": 0.7059}
+{"news_id": "news_20241117_000050", "ts_code": "601985", "name": "中国核电", "date": "2024-11-17 18:13:10", "sentiment_score": 0.5462}
+{"news_id": "news_20241117_000070", "ts_code": "601398", "name": "工商银行", "date": "2024-11-17 16:28:29", "sentiment_score": 0.769}
+{"news_id": "news_20241117_000085", "ts_code": "601398", "name": "中国工商银行股份有限公司", "date": "2024-11-17 15:43:15", "sentiment_score": 0.7454}
+{"news_id": "news_20241117_000090", "ts_code": "688180", "name": "君实生物", "date": "2024-11-17 15:40:39", "sentiment_score": 0.7569}
+{"news_id": "news_20241117_000119", "ts_code": "002405", "name": "四维图新", "date": "2024-11-17 08:47:14", "sentiment_score": 0.7464}

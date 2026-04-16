@@ -1,0 +1,6 @@
+{"news_id": "news_20210116_000003", "ts_code": "300750", "name": "宁德时代新能源科技股份有限公司", "date": "2021-01-16 21:42:37", "sentiment_score": 0.7149}
+{"news_id": "news_20210116_000004", "ts_code": "601211", "name": "国泰君安", "date": "2021-01-16 21:02:14", "sentiment_score": 0.589}
+{"news_id": "news_20210116_000005", "ts_code": "002594", "name": "比亚迪股份有限公司", "date": "2021-01-16 20:51:15", "sentiment_score": 0.7279}
+{"news_id": "news_20210116_000009", "ts_code": "601238", "name": "广汽集团", "date": "2021-01-16 17:52:33", "sentiment_score": 0.6564}
+{"news_id": "news_20210116_000016", "ts_code": "688012", "name": "中微公司", "date": "2021-01-16 16:12:13", "sentiment_score": 0.6598}
+{"news_id": "news_20210116_000017", "ts_code": "000651", "name": "格力电器", "date": "2021-01-16 16:06:40", "sentiment_score": 0.5441}

@@ -1,0 +1,12 @@
+{"news_id": "news_20200607_000006", "ts_code": "002049", "name": "紫光国微", "date": "2020-06-07 21:34:54", "sentiment_score": 0.7291}
+{"news_id": "news_20200607_000008", "ts_code": "002594", "name": "比亚迪", "date": "2020-06-07 20:34:05", "sentiment_score": 0.7124}
+{"news_id": "news_20200607_000017", "ts_code": "601211", "name": "国泰君安", "date": "2020-06-07 17:52:16", "sentiment_score": 0.6651}
+{"news_id": "news_20200607_000018", "ts_code": "601899", "name": "紫金矿业", "date": "2020-06-07 17:47:39", "sentiment_score": 0.7687}
+{"news_id": "news_20200607_000019", "ts_code": "001979", "name": "招商蛇口", "date": "2020-06-07 17:39:09", "sentiment_score": 0.5642}
+{"news_id": "news_20200607_000021", "ts_code": "600050", "name": "中国联通", "date": "2020-06-07 17:22:35", "sentiment_score": 0.7162}
+{"news_id": "news_20200607_000031", "ts_code": "002049", "name": "紫光国微", "date": "2020-06-07 16:19:37", "sentiment_score": 0.746}
+{"news_id": "news_20200607_000034", "ts_code": "001979", "name": "招商蛇口", "date": "2020-06-07 16:06:44", "sentiment_score": 0.5188}
+{"news_id": "news_20200607_000037", "ts_code": "001979", "name": "招商蛇口", "date": "2020-06-07 15:44:59", "sentiment_score": 0.6071}
+{"news_id": "news_20200607_000037", "ts_code": "601318", "name": "中国平安", "date": "2020-06-07 15:44:59", "sentiment_score": 0.6071}
+{"news_id": "news_20200607_000038", "ts_code": "601211", "name": "国泰君安", "date": "2020-06-07 15:41:47", "sentiment_score": 0.8356}
+{"news_id": "news_20200607_000050", "ts_code": "600859", "name": "王府井", "date": "2020-06-07 13:27:04", "sentiment_score": 0.5418}

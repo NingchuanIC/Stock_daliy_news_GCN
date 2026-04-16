@@ -1,0 +1,12 @@
+{"news_id": "news_20240114_000003", "ts_code": "300750", "name": "宁德时代", "date": "2024-01-14 22:24:31", "sentiment_score": 0.6717}
+{"news_id": "news_20240114_000021", "ts_code": "002594", "name": "比亚迪", "date": "2024-01-14 19:12:06", "sentiment_score": 0.7055}
+{"news_id": "news_20240114_000023", "ts_code": "000538", "name": "云南白药", "date": "2024-01-14 19:05:24", "sentiment_score": 0.616}
+{"news_id": "news_20240114_000030", "ts_code": "300308", "name": "中际旭创", "date": "2024-01-14 17:20:50", "sentiment_score": 0.8184}
+{"news_id": "news_20240114_000048", "ts_code": "601088", "name": "中国神华", "date": "2024-01-14 16:11:23", "sentiment_score": 0.7582}
+{"news_id": "news_20240114_000049", "ts_code": "600415", "name": "小商品城", "date": "2024-01-14 16:06:20", "sentiment_score": 0.7586}
+{"news_id": "news_20240114_000059", "ts_code": "688012", "name": "中微公司", "date": "2024-01-14 15:40:03", "sentiment_score": 0.838}
+{"news_id": "news_20240114_000067", "ts_code": "601628", "name": "中国人寿", "date": "2024-01-14 14:52:28", "sentiment_score": 0.6621}
+{"news_id": "news_20240114_000069", "ts_code": "000661", "name": "长春高新", "date": "2024-01-14 13:56:44", "sentiment_score": 0.7146}
+{"news_id": "news_20240114_000073", "ts_code": "002594", "name": "比亚迪", "date": "2024-01-14 13:15:17", "sentiment_score": 0.8177}
+{"news_id": "news_20240114_000084", "ts_code": "000661", "name": "长春高新", "date": "2024-01-14 09:34:06", "sentiment_score": 0.6417}
+{"news_id": "news_20240114_000095", "ts_code": "601633", "name": "长城汽车", "date": "2024-01-14 07:36:05", "sentiment_score": 0.7386}

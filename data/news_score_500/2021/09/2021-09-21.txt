@@ -1,0 +1,11 @@
+{"news_id": "news_20210921_000079", "ts_code": "600166", "name": "福田汽车", "date": "2021-09-21 18:57:52", "sentiment_score": 0.7156}
+{"news_id": "news_20210921_000119", "ts_code": "600438", "name": "通威股份", "date": "2021-09-21 16:48:18", "sentiment_score": 0.744}
+{"news_id": "news_20210921_000128", "ts_code": "300001", "name": "特锐德", "date": "2021-09-21 16:31:51", "sentiment_score": 0.7975}
+{"news_id": "news_20210921_000129", "ts_code": "002202", "name": "金风科技", "date": "2021-09-21 16:30:07", "sentiment_score": 0.8745}
+{"news_id": "news_20210921_000133", "ts_code": "601728", "name": "中国电信", "date": "2021-09-21 16:19:05", "sentiment_score": 0.8491}
+{"news_id": "news_20210921_000144", "ts_code": "003816", "name": "中国广核", "date": "2021-09-21 15:37:20", "sentiment_score": 0.637}
+{"news_id": "news_20210921_000145", "ts_code": "600079", "name": "人福医药", "date": "2021-09-21 15:36:38", "sentiment_score": 0.6438}
+{"news_id": "news_20210921_000181", "ts_code": "601238", "name": "广汽集团", "date": "2021-09-21 09:27:59", "sentiment_score": 0.8546}
+{"news_id": "news_20210921_000181", "ts_code": "601633", "name": "长城汽车", "date": "2021-09-21 09:27:59", "sentiment_score": 0.8546}
+{"news_id": "news_20210921_000181", "ts_code": "002594", "name": "比亚迪", "date": "2021-09-21 09:27:59", "sentiment_score": 0.8546}
+{"news_id": "news_20210921_000193", "ts_code": "600031", "name": "三一重工", "date": "2021-09-21 07:34:40", "sentiment_score": 0.6462}

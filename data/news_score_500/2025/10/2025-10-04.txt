@@ -1,0 +1,5 @@
+{"news_id": "news_20251004_000011", "ts_code": "000538", "name": "云南白药", "date": "2025-10-04 21:15:40", "sentiment_score": 0.6135}
+{"news_id": "news_20251004_000026", "ts_code": "603993", "name": "洛阳钼业", "date": "2025-10-04 13:53:25", "sentiment_score": 0.6934}
+{"news_id": "news_20251004_000028", "ts_code": "002594", "name": "比亚迪", "date": "2025-10-04 12:08:15", "sentiment_score": 0.637}
+{"news_id": "news_20251004_000039", "ts_code": "688256", "name": "寒武纪-U", "date": "2025-10-04 08:31:29", "sentiment_score": 0.7479}
+{"news_id": "news_20251004_000039", "ts_code": "002920", "name": "德赛西威", "date": "2025-10-04 08:31:29", "sentiment_score": 0.7479}

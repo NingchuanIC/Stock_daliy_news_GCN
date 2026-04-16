@@ -1,0 +1,5 @@
+{"news_id": "news_20191006_000003", "ts_code": "688111", "name": "北京金山办公软件股份有限公司", "date": "2019-10-06 18:46:53", "sentiment_score": 0.7767}
+{"news_id": "news_20191006_000010", "ts_code": "688036", "name": "传音控股", "date": "2019-10-06 12:21:52", "sentiment_score": 0.7549}
+{"news_id": "news_20191006_000013", "ts_code": "600745", "name": "闻泰科技", "date": "2019-10-06 09:42:18", "sentiment_score": 0.6979}
+{"news_id": "news_20191006_000018", "ts_code": "600900", "name": "长江电力", "date": "2019-10-06 02:47:45", "sentiment_score": 0.7367}
+{"news_id": "news_20191006_000020", "ts_code": "601318", "name": "中国平安", "date": "2019-10-06 01:40:13", "sentiment_score": 0.7638}

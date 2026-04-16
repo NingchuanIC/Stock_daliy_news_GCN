@@ -1,0 +1,16 @@
+{"news_id": "news_20220827_000009", "ts_code": "300750", "name": "宁德时代新能源科技股份有限公司", "date": "2022-08-27 16:25:37", "sentiment_score": 0.6189}
+{"news_id": "news_20220827_000009", "ts_code": "601127", "name": "赛力斯集团股份有限公司", "date": "2022-08-27 16:25:37", "sentiment_score": 0.6189}
+{"news_id": "news_20220827_000010", "ts_code": "000651", "name": "格力电器", "date": "2022-08-27 16:14:41", "sentiment_score": 0.7169}
+{"news_id": "news_20220827_000011", "ts_code": "300750", "name": "宁德时代新能源科技股份有限公司", "date": "2022-08-27 16:11:27", "sentiment_score": 0.6899}
+{"news_id": "news_20220827_000012", "ts_code": "601288", "name": "农业银行", "date": "2022-08-27 16:05:54", "sentiment_score": 0.5212}
+{"news_id": "news_20220827_000013", "ts_code": "601390", "name": "中国中铁", "date": "2022-08-27 15:57:07", "sentiment_score": 0.6326}
+{"news_id": "news_20220827_000014", "ts_code": "600745", "name": "闻泰科技", "date": "2022-08-27 15:52:45", "sentiment_score": 0.7817}
+{"news_id": "news_20220827_000015", "ts_code": "000625", "name": "长安汽车", "date": "2022-08-27 15:44:21", "sentiment_score": 0.6743}
+{"news_id": "news_20220827_000016", "ts_code": "300750", "name": "宁德时代", "date": "2022-08-27 15:15:17", "sentiment_score": 0.7992}
+{"news_id": "news_20220827_000017", "ts_code": "300750", "name": "宁德时代", "date": "2022-08-27 14:54:22", "sentiment_score": 0.6914}
+{"news_id": "news_20220827_000018", "ts_code": "300750", "name": "宁德时代", "date": "2022-08-27 14:33:12", "sentiment_score": 0.6134}
+{"news_id": "news_20220827_000019", "ts_code": "601988", "name": "中国银行", "date": "2022-08-27 13:52:41", "sentiment_score": 0.7298}
+{"news_id": "news_20220827_000021", "ts_code": "300750", "name": "宁德时代", "date": "2022-08-27 12:47:26", "sentiment_score": 0.3716}
+{"news_id": "news_20220827_000022", "ts_code": "002459", "name": "晶澳科技", "date": "2022-08-27 12:17:11", "sentiment_score": 0.6772}
+{"news_id": "news_20220827_000029", "ts_code": "603259", "name": "药明康德", "date": "2022-08-27 07:52:13", "sentiment_score": 0.7142}
+{"news_id": "news_20220827_000029", "ts_code": "600079", "name": "人福医药", "date": "2022-08-27 07:52:13", "sentiment_score": 0.7142}

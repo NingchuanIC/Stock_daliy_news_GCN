@@ -1,0 +1,13 @@
+{"news_id": "news_20220213_000006", "ts_code": "002230", "name": "科大讯飞", "date": "2022-02-13 19:52:38", "sentiment_score": 0.6917}
+{"news_id": "news_20220213_000007", "ts_code": "300750", "name": "宁德时代", "date": "2022-02-13 19:08:07", "sentiment_score": 0.6424}
+{"news_id": "news_20220213_000009", "ts_code": "000963", "name": "华东医药", "date": "2022-02-13 18:54:46", "sentiment_score": 0.6992}
+{"news_id": "news_20220213_000009", "ts_code": "300760", "name": "迈瑞医疗", "date": "2022-02-13 18:54:46", "sentiment_score": 0.6992}
+{"news_id": "news_20220213_000017", "ts_code": "002230", "name": "科大讯飞", "date": "2022-02-13 17:24:32", "sentiment_score": 0.552}
+{"news_id": "news_20220213_000024", "ts_code": "000651", "name": "格力电器", "date": "2022-02-13 16:44:21", "sentiment_score": 0.7109}
+{"news_id": "news_20220213_000039", "ts_code": "600438", "name": "通威股份", "date": "2022-02-13 15:35:12", "sentiment_score": 0.8608}
+{"news_id": "news_20220213_000040", "ts_code": "300750", "name": "宁德时代", "date": "2022-02-13 15:21:00", "sentiment_score": 0.6819}
+{"news_id": "news_20220213_000044", "ts_code": "300750", "name": "宁德时代", "date": "2022-02-13 12:38:14", "sentiment_score": 0.6859}
+{"news_id": "news_20220213_000049", "ts_code": "601211", "name": "国泰君安", "date": "2022-02-13 10:25:09", "sentiment_score": 0.6919}
+{"news_id": "news_20220213_000055", "ts_code": "600332", "name": "白云山", "date": "2022-02-13 09:02:32", "sentiment_score": 0.7353}
+{"news_id": "news_20220213_000057", "ts_code": "300750", "name": "宁德时代", "date": "2022-02-13 08:07:41", "sentiment_score": 0.7372}
+{"news_id": "news_20220213_000059", "ts_code": "002594", "name": "比亚迪", "date": "2022-02-13 04:21:21", "sentiment_score": 0.7133}

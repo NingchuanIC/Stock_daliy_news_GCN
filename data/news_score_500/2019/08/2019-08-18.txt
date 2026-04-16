@@ -1,0 +1,11 @@
+{"news_id": "news_20190818_000001", "ts_code": "000792", "name": "*ST盐湖", "date": "2019-08-18 23:23:51", "sentiment_score": 0.7055}
+{"news_id": "news_20190818_000002", "ts_code": "000039", "name": "中集集团", "date": "2019-08-18 22:02:41", "sentiment_score": 0.7361}
+{"news_id": "news_20190818_000007", "ts_code": "002008", "name": "大族激光", "date": "2019-08-18 19:35:54", "sentiment_score": 0.5303}
+{"news_id": "news_20190818_000013", "ts_code": "300251", "name": "光线传媒", "date": "2019-08-18 17:34:28", "sentiment_score": 0.7001}
+{"news_id": "news_20190818_000015", "ts_code": "601398", "name": "工商银行", "date": "2019-08-18 17:31:28", "sentiment_score": 0.7456}
+{"news_id": "news_20190818_000020", "ts_code": "001979", "name": "招商蛇口", "date": "2019-08-18 17:13:34", "sentiment_score": 0.697}
+{"news_id": "news_20190818_000022", "ts_code": "002008", "name": "大族激光", "date": "2019-08-18 16:25:23", "sentiment_score": 0.7051}
+{"news_id": "news_20190818_000029", "ts_code": "002008", "name": "大族激光", "date": "2019-08-18 16:04:37", "sentiment_score": 0.8601}
+{"news_id": "news_20190818_000042", "ts_code": "000568", "name": "泸州老窖", "date": "2019-08-18 13:53:24", "sentiment_score": 0.676}
+{"news_id": "news_20190818_000042", "ts_code": "000858", "name": "五粮液", "date": "2019-08-18 13:53:24", "sentiment_score": 0.676}
+{"news_id": "news_20190818_000053", "ts_code": "601211", "name": "国泰君安", "date": "2019-08-18 08:45:51", "sentiment_score": 0.7213}

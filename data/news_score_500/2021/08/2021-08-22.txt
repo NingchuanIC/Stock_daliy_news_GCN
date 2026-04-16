@@ -1,0 +1,7 @@
+{"news_id": "news_20210822_000001", "ts_code": "000651", "name": "格力电器", "date": "2021-08-22 23:08:28", "sentiment_score": 0.7938}
+{"news_id": "news_20210822_000029", "ts_code": "300251", "name": "光线传媒", "date": "2021-08-22 16:12:24", "sentiment_score": 0.8856}
+{"news_id": "news_20210822_000030", "ts_code": "002466", "name": "天齐锂业", "date": "2021-08-22 16:10:29", "sentiment_score": 0.5855}
+{"news_id": "news_20210822_000032", "ts_code": "000651", "name": "格力电器", "date": "2021-08-22 16:03:39", "sentiment_score": 0.8848}
+{"news_id": "news_20210822_000033", "ts_code": "002352", "name": "顺丰控股", "date": "2021-08-22 16:03:15", "sentiment_score": 0.8627}
+{"news_id": "news_20210822_000039", "ts_code": "601615", "name": "明阳智能", "date": "2021-08-22 15:47:50", "sentiment_score": 0.554}
+{"news_id": "news_20210822_000044", "ts_code": "603993", "name": "洛阳钼业", "date": "2021-08-22 15:39:40", "sentiment_score": 0.8798}

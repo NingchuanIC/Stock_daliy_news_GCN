@@ -1,0 +1,13 @@
+{"news_id": "news_20191027_000009", "ts_code": "601211", "name": "国泰君安", "date": "2019-10-27 19:25:00", "sentiment_score": 0.7922}
+{"news_id": "news_20191027_000009", "ts_code": "688012", "name": "中微公司", "date": "2019-10-27 19:25:00", "sentiment_score": 0.7922}
+{"news_id": "news_20191027_000009", "ts_code": "600030", "name": "中信证券", "date": "2019-10-27 19:25:00", "sentiment_score": 0.7922}
+{"news_id": "news_20191027_000009", "ts_code": "688008", "name": "澜起科技", "date": "2019-10-27 19:25:00", "sentiment_score": 0.7922}
+{"news_id": "news_20191027_000026", "ts_code": "600104", "name": "上汽集团", "date": "2019-10-27 16:52:50", "sentiment_score": 0.6427}
+{"news_id": "news_20191027_000032", "ts_code": "600104", "name": "上汽集团", "date": "2019-10-27 16:27:42", "sentiment_score": 0.6999}
+{"news_id": "news_20191027_000033", "ts_code": "600196", "name": "复星医药", "date": "2019-10-27 16:23:19", "sentiment_score": 0.5803}
+{"news_id": "news_20191027_000066", "ts_code": "600519", "name": "贵州茅台", "date": "2019-10-27 08:14:30", "sentiment_score": 0.5851}
+{"news_id": "news_20191027_000066", "ts_code": "000568", "name": "泸州老窖", "date": "2019-10-27 08:14:30", "sentiment_score": 0.5851}
+{"news_id": "news_20191027_000066", "ts_code": "000858", "name": "五粮液", "date": "2019-10-27 08:14:30", "sentiment_score": 0.5851}
+{"news_id": "news_20191027_000068", "ts_code": "600519", "name": "贵州茅台", "date": "2019-10-27 06:13:23", "sentiment_score": 0.5851}
+{"news_id": "news_20191027_000068", "ts_code": "000568", "name": "泸州老窖", "date": "2019-10-27 06:13:23", "sentiment_score": 0.5851}
+{"news_id": "news_20191027_000068", "ts_code": "000858", "name": "五粮液", "date": "2019-10-27 06:13:23", "sentiment_score": 0.5851}

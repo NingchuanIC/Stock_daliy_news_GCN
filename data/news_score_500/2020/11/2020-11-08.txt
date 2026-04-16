@@ -1,0 +1,5 @@
+{"news_id": "news_20201108_000005", "ts_code": "300122", "name": "智飞生物", "date": "2020-11-08 19:52:31", "sentiment_score": 0.6912}
+{"news_id": "news_20201108_000018", "ts_code": "002459", "name": "晶澳科技", "date": "2020-11-08 16:47:08", "sentiment_score": 0.7013}
+{"news_id": "news_20201108_000025", "ts_code": "600104", "name": "上汽集团", "date": "2020-11-08 15:53:20", "sentiment_score": 0.6922}
+{"news_id": "news_20201108_000026", "ts_code": "600104", "name": "上汽集团", "date": "2020-11-08 15:40:26", "sentiment_score": 0.7095}
+{"news_id": "news_20201108_000032", "ts_code": "601728", "name": "中国电信", "date": "2020-11-08 14:23:04", "sentiment_score": 0.697}

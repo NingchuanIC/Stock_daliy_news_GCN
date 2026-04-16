@@ -1,0 +1,8 @@
+{"news_id": "news_20210314_000005", "ts_code": "600519", "name": "贵州茅台", "date": "2021-03-14 20:03:22", "sentiment_score": 0.714}
+{"news_id": "news_20210314_000020", "ts_code": "002648", "name": "卫星石化", "date": "2021-03-14 16:52:05", "sentiment_score": 0.2842}
+{"news_id": "news_20210314_000024", "ts_code": "000063", "name": "中兴通讯", "date": "2021-03-14 16:25:26", "sentiment_score": 0.6565}
+{"news_id": "news_20210314_000032", "ts_code": "600030", "name": "中信证券", "date": "2021-03-14 14:51:18", "sentiment_score": 0.5901}
+{"news_id": "news_20210314_000032", "ts_code": "000858", "name": "五粮液", "date": "2021-03-14 14:51:18", "sentiment_score": 0.5901}
+{"news_id": "news_20210314_000039", "ts_code": "600028", "name": "中国石化", "date": "2021-03-14 13:46:05", "sentiment_score": 0.7703}
+{"news_id": "news_20210314_000048", "ts_code": "601857", "name": "中国石油", "date": "2021-03-14 08:12:04", "sentiment_score": 0.6176}
+{"news_id": "news_20210314_000048", "ts_code": "000858", "name": "五粮液", "date": "2021-03-14 08:12:04", "sentiment_score": 0.6176}

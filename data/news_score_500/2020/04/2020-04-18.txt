@@ -1,0 +1,4 @@
+{"news_id": "news_20200418_000011", "ts_code": "000063", "name": "中兴通讯", "date": "2020-04-18 13:23:02", "sentiment_score": 0.8438}
+{"news_id": "news_20200418_000011", "ts_code": "600050", "name": "中国联通", "date": "2020-04-18 13:23:02", "sentiment_score": 0.8438}
+{"news_id": "news_20200418_000014", "ts_code": "002603", "name": "以岭药业", "date": "2020-04-18 12:43:33", "sentiment_score": 0.764}
+{"news_id": "news_20200418_000018", "ts_code": "300628", "name": "亿联网络", "date": "2020-04-18 11:09:59", "sentiment_score": 0.6138}

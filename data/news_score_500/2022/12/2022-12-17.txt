@@ -1,0 +1,3 @@
+{"news_id": "news_20221217_000004", "ts_code": "600050", "name": "中国联通", "date": "2022-12-17 23:18:49", "sentiment_score": 0.8196}
+{"news_id": "news_20221217_000018", "ts_code": "600019", "name": "宝钢股份", "date": "2022-12-17 16:15:45", "sentiment_score": 0.6442}
+{"news_id": "news_20221217_000047", "ts_code": "601186", "name": "中国铁建", "date": "2022-12-17 03:13:00", "sentiment_score": 0.6256}

@@ -1,0 +1,16 @@
+{"news_id": "news_20240707_000010", "ts_code": "601766", "name": "中国中车", "date": "2024-07-07 20:38:27", "sentiment_score": 0.5786}
+{"news_id": "news_20240707_000018", "ts_code": "601628", "name": "中国人寿", "date": "2024-07-07 18:23:53", "sentiment_score": 0.6643}
+{"news_id": "news_20240707_000028", "ts_code": "300001", "name": "特锐德", "date": "2024-07-07 16:54:11", "sentiment_score": 0.733}
+{"news_id": "news_20240707_000043", "ts_code": "600166", "name": "福田汽车", "date": "2024-07-07 15:48:04", "sentiment_score": 0.7879}
+{"news_id": "news_20240707_000055", "ts_code": "600276", "name": "恒瑞医药", "date": "2024-07-07 15:34:44", "sentiment_score": 0.7763}
+{"news_id": "news_20240707_000057", "ts_code": "300496", "name": "中科创达", "date": "2024-07-07 15:33:27", "sentiment_score": 0.6976}
+{"news_id": "news_20240707_000063", "ts_code": "601088", "name": "中国神华", "date": "2024-07-07 14:51:24", "sentiment_score": 0.6385}
+{"news_id": "news_20240707_000081", "ts_code": "000157", "name": "中联重科", "date": "2024-07-07 10:08:22", "sentiment_score": 0.6102}
+{"news_id": "news_20240707_000085", "ts_code": "300059", "name": "东方财富", "date": "2024-07-07 09:05:14", "sentiment_score": 0.7041}
+{"news_id": "news_20240707_000088", "ts_code": "300059", "name": "东方财富", "date": "2024-07-07 09:03:27", "sentiment_score": 0.7328}
+{"news_id": "news_20240707_000089", "ts_code": "300496", "name": "中科创达", "date": "2024-07-07 09:00:38", "sentiment_score": 0.6325}
+{"news_id": "news_20240707_000091", "ts_code": "002594", "name": "比亚迪", "date": "2024-07-07 08:18:38", "sentiment_score": 0.6645}
+{"news_id": "news_20240707_000094", "ts_code": "601669", "name": "中国电建", "date": "2024-07-07 07:33:38", "sentiment_score": 0.7451}
+{"news_id": "news_20240707_000095", "ts_code": "601669", "name": "中国电建", "date": "2024-07-07 07:33:23", "sentiment_score": 0.698}
+{"news_id": "news_20240707_000096", "ts_code": "600104", "name": "上汽集团", "date": "2024-07-07 06:29:55", "sentiment_score": 0.6609}
+{"news_id": "news_20240707_000104", "ts_code": "002594", "name": "比亚迪", "date": "2024-07-07 00:55:02", "sentiment_score": 0.7438}

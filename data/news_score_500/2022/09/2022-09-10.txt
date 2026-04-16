@@ -1,0 +1,3 @@
+{"news_id": "news_20220910_000019", "ts_code": "600438", "name": "通威股份", "date": "2022-09-10 08:26:26", "sentiment_score": 0.6673}
+{"news_id": "news_20220910_000019", "ts_code": "688223", "name": "晶科能源", "date": "2022-09-10 08:26:26", "sentiment_score": 0.6673}
+{"news_id": "news_20220910_000027", "ts_code": "601600", "name": "中国铝业", "date": "2022-09-10 04:10:10", "sentiment_score": 0.8188}

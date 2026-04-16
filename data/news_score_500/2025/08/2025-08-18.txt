@@ -1,0 +1,14 @@
+{"news_id": "news_20250818_000004", "ts_code": "601668", "name": "中国建筑", "date": "2025-08-18 17:41:05", "sentiment_score": 0.7913}
+{"news_id": "news_20250818_000008", "ts_code": "003816", "name": "中国广核", "date": "2025-08-18 17:36:36", "sentiment_score": 0.702}
+{"news_id": "news_20250818_000014", "ts_code": "600795", "name": "国电电力", "date": "2025-08-18 17:30:46", "sentiment_score": 0.8405}
+{"news_id": "news_20250818_000036", "ts_code": "601668", "name": "中国建筑", "date": "2025-08-18 17:14:24", "sentiment_score": 0.7121}
+{"news_id": "news_20250818_000038", "ts_code": "000063", "name": "中兴通讯", "date": "2025-08-18 17:13:25", "sentiment_score": 0.8683}
+{"news_id": "news_20250818_000041", "ts_code": "300750", "name": "宁德时代新能源科技股份有限公司", "date": "2025-08-18 17:10:11", "sentiment_score": 0.5957}
+{"news_id": "news_20250818_000080", "ts_code": "300433", "name": "蓝思科技", "date": "2025-08-18 15:28:39", "sentiment_score": 0.7306}
+{"news_id": "news_20250818_000096", "ts_code": "600547", "name": "山东黄金", "date": "2025-08-18 15:01:41", "sentiment_score": 0.8044}
+{"news_id": "news_20250818_000108", "ts_code": "600050", "name": "中国联通", "date": "2025-08-18 14:34:54", "sentiment_score": 0.7197}
+{"news_id": "news_20250818_000118", "ts_code": "002594", "name": "比亚迪", "date": "2025-08-18 13:18:41", "sentiment_score": 0.6884}
+{"news_id": "news_20250818_000125", "ts_code": "600028", "name": "中国石化", "date": "2025-08-18 13:01:08", "sentiment_score": 0.6044}
+{"news_id": "news_20250818_000127", "ts_code": "601211", "name": "国泰海通", "date": "2025-08-18 12:42:42", "sentiment_score": 0.757}
+{"news_id": "news_20250818_000128", "ts_code": "600011", "name": "华能国际", "date": "2025-08-18 12:40:52", "sentiment_score": 0.7065}
+{"news_id": "news_20250818_000141", "ts_code": "300001", "name": "特锐德", "date": "2025-08-18 12:08:06", "sentiment_score": 0.6956}

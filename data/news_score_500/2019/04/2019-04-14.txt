@@ -1,0 +1,9 @@
+{"news_id": "news_20190414_000004", "ts_code": "600104", "name": "上汽集团", "date": "2019-04-14 22:37:44", "sentiment_score": 0.6807}
+{"news_id": "news_20190414_000004", "ts_code": "600418", "name": "江淮汽车", "date": "2019-04-14 22:37:44", "sentiment_score": 0.6807}
+{"news_id": "news_20190414_000024", "ts_code": "000792", "name": "盐湖股份", "date": "2019-04-14 17:47:00", "sentiment_score": 0.7861}
+{"news_id": "news_20190414_000035", "ts_code": "000425", "name": "徐工机械", "date": "2019-04-14 17:14:42", "sentiment_score": 0.8552}
+{"news_id": "news_20190414_000036", "ts_code": "000625", "name": "长安汽车", "date": "2019-04-14 17:12:05", "sentiment_score": 0.7891}
+{"news_id": "news_20190414_000047", "ts_code": "600031", "name": "三一重工", "date": "2019-04-14 15:19:33", "sentiment_score": 0.8051}
+{"news_id": "news_20190414_000051", "ts_code": "601800", "name": "中国交建", "date": "2019-04-14 14:39:22", "sentiment_score": 0.5948}
+{"news_id": "news_20190414_000062", "ts_code": "000858", "name": "五粮液", "date": "2019-04-14 08:44:13", "sentiment_score": 0.704}
+{"news_id": "news_20190414_000064", "ts_code": "002230", "name": "科大讯飞", "date": "2019-04-14 08:08:08", "sentiment_score": 0.6173}

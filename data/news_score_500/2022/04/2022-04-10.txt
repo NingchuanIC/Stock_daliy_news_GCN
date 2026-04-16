@@ -1,0 +1,8 @@
+{"news_id": "news_20220410_000008", "ts_code": "002594", "name": "比亚迪", "date": "2022-04-10 17:49:38", "sentiment_score": 0.7986}
+{"news_id": "news_20220410_000025", "ts_code": "600030", "name": "中信证券", "date": "2022-04-10 16:34:29", "sentiment_score": 0.6956}
+{"news_id": "news_20220410_000030", "ts_code": "300073", "name": "当升科技", "date": "2022-04-10 16:21:48", "sentiment_score": 0.838}
+{"news_id": "news_20220410_000037", "ts_code": "600521", "name": "华海药业", "date": "2022-04-10 16:03:14", "sentiment_score": 0.6676}
+{"news_id": "news_20220410_000041", "ts_code": "002422", "name": "科伦药业", "date": "2022-04-10 15:58:51", "sentiment_score": 0.8285}
+{"news_id": "news_20220410_000042", "ts_code": "601633", "name": "长城汽车", "date": "2022-04-10 15:58:43", "sentiment_score": 0.8784}
+{"news_id": "news_20220410_000043", "ts_code": "300750", "name": "宁德时代", "date": "2022-04-10 15:57:32", "sentiment_score": 0.633}
+{"news_id": "news_20220410_000052", "ts_code": "603259", "name": "药明康德", "date": "2022-04-10 15:44:59", "sentiment_score": 0.7908}

@@ -1,0 +1,14 @@
+{"news_id": "news_20250223_000007", "ts_code": "600196", "name": "复星医药", "date": "2025-02-23 21:10:04", "sentiment_score": 0.744}
+{"news_id": "news_20250223_000011", "ts_code": "301236", "name": "软通动力", "date": "2025-02-23 20:20:54", "sentiment_score": 0.6488}
+{"news_id": "news_20250223_000012", "ts_code": "601766", "name": "中国中车", "date": "2025-02-23 20:19:20", "sentiment_score": 0.7301}
+{"news_id": "news_20250223_000023", "ts_code": "600030", "name": "中信证券", "date": "2025-02-23 17:33:28", "sentiment_score": 0.2878}
+{"news_id": "news_20250223_000024", "ts_code": "600030", "name": "中信证券", "date": "2025-02-23 17:24:53", "sentiment_score": 0.6259}
+{"news_id": "news_20250223_000027", "ts_code": "600196", "name": "复星医药", "date": "2025-02-23 16:51:36", "sentiment_score": 0.6775}
+{"news_id": "news_20250223_000042", "ts_code": "600276", "name": "恒瑞医药", "date": "2025-02-23 15:34:53", "sentiment_score": 0.1672}
+{"news_id": "news_20250223_000056", "ts_code": "601211", "name": "国泰君安", "date": "2025-02-23 13:42:39", "sentiment_score": 0.8319}
+{"news_id": "news_20250223_000062", "ts_code": "300750", "name": "宁德时代", "date": "2025-02-23 12:51:52", "sentiment_score": 0.6821}
+{"news_id": "news_20250223_000062", "ts_code": "002594", "name": "比亚迪", "date": "2025-02-23 12:51:52", "sentiment_score": 0.6821}
+{"news_id": "news_20250223_000065", "ts_code": "600998", "name": "九州通", "date": "2025-02-23 12:15:03", "sentiment_score": 0.6754}
+{"news_id": "news_20250223_000070", "ts_code": "600519", "name": "贵州茅台", "date": "2025-02-23 11:57:26", "sentiment_score": 0.647}
+{"news_id": "news_20250223_000076", "ts_code": "600519", "name": "贵州茅台", "date": "2025-02-23 11:10:16", "sentiment_score": 0.6677}
+{"news_id": "news_20250223_000076", "ts_code": "000858", "name": "五粮液", "date": "2025-02-23 11:10:16", "sentiment_score": 0.6677}

@@ -1,0 +1,7 @@
+{"news_id": "news_20230929_000021", "ts_code": "300750", "name": "宁德时代", "date": "2023-09-29 20:51:13", "sentiment_score": 0.3912}
+{"news_id": "news_20230929_000044", "ts_code": "600115", "name": "中国东航", "date": "2023-09-29 14:25:21", "sentiment_score": 0.5447}
+{"news_id": "news_20230929_000045", "ts_code": "600438", "name": "通威股份", "date": "2023-09-29 14:19:30", "sentiment_score": 0.7223}
+{"news_id": "news_20230929_000056", "ts_code": "300750", "name": "宁德时代新能源科技股份有限公司", "date": "2023-09-29 12:22:22", "sentiment_score": 0.5946}
+{"news_id": "news_20230929_000056", "ts_code": "002223", "name": "鱼跃医疗", "date": "2023-09-29 12:22:22", "sentiment_score": 0.5946}
+{"news_id": "news_20230929_000068", "ts_code": "002460", "name": "赣锋锂业", "date": "2023-09-29 10:28:02", "sentiment_score": 0.8554}
+{"news_id": "news_20230929_000085", "ts_code": "601857", "name": "中国石油", "date": "2023-09-29 07:22:05", "sentiment_score": 0.5501}

@@ -1,0 +1,7 @@
+{"news_id": "news_20210718_000001", "ts_code": "000063", "name": "中兴通讯", "date": "2021-07-18 19:25:20", "sentiment_score": 0.7628}
+{"news_id": "news_20210718_000002", "ts_code": "002230", "name": "科大讯飞", "date": "2021-07-18 18:26:49", "sentiment_score": 0.681}
+{"news_id": "news_20210718_000007", "ts_code": "601633", "name": "长城汽车", "date": "2021-07-18 16:59:51", "sentiment_score": 0.6584}
+{"news_id": "news_20210718_000013", "ts_code": "002594", "name": "比亚迪", "date": "2021-07-18 16:33:18", "sentiment_score": 0.775}
+{"news_id": "news_20210718_000018", "ts_code": "601398", "name": "中国工商银行股份有限公司", "date": "2021-07-18 16:23:52", "sentiment_score": 0.6251}
+{"news_id": "news_20210718_000023", "ts_code": "600276", "name": "恒瑞医药", "date": "2021-07-18 15:49:05", "sentiment_score": 0.2844}
+{"news_id": "news_20210718_000033", "ts_code": "002594", "name": "比亚迪", "date": "2021-07-18 12:27:28", "sentiment_score": 0.7101}

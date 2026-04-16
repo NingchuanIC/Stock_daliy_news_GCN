@@ -1,0 +1,5 @@
+{"news_id": "news_20230125_000052", "ts_code": "002594", "name": "比亚迪", "date": "2023-01-25 18:38:11", "sentiment_score": 0.7073}
+{"news_id": "news_20230125_000108", "ts_code": "002594", "name": "比亚迪", "date": "2023-01-25 09:19:23", "sentiment_score": 0.7045}
+{"news_id": "news_20230125_000111", "ts_code": "601899", "name": "紫金矿业", "date": "2023-01-25 09:12:50", "sentiment_score": 0.6851}
+{"news_id": "news_20230125_000111", "ts_code": "002352", "name": "顺丰控股", "date": "2023-01-25 09:12:50", "sentiment_score": 0.6851}
+{"news_id": "news_20230125_000111", "ts_code": "603259", "name": "药明康德", "date": "2023-01-25 09:12:50", "sentiment_score": 0.6851}

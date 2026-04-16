@@ -1,0 +1,13 @@
+{"news_id": "news_20230405_000001", "ts_code": "002273", "name": "水晶光电", "date": "2023-04-05 23:59:35", "sentiment_score": 0.6041}
+{"news_id": "news_20230405_000007", "ts_code": "002273", "name": "水晶光电", "date": "2023-04-05 22:24:25", "sentiment_score": 0.2996}
+{"news_id": "news_20230405_000043", "ts_code": "002594", "name": "比亚迪", "date": "2023-04-05 19:11:57", "sentiment_score": 0.6803}
+{"news_id": "news_20230405_000068", "ts_code": "002236", "name": "大华股份", "date": "2023-04-05 17:35:02", "sentiment_score": 0.3228}
+{"news_id": "news_20230405_000070", "ts_code": "000333", "name": "美的集团", "date": "2023-04-05 17:33:24", "sentiment_score": 0.8415}
+{"news_id": "news_20230405_000092", "ts_code": "002603", "name": "以岭药业", "date": "2023-04-05 16:32:46", "sentiment_score": 0.7373}
+{"news_id": "news_20230405_000135", "ts_code": "301358", "name": "湖南裕能", "date": "2023-04-05 14:57:19", "sentiment_score": 0.602}
+{"news_id": "news_20230405_000159", "ts_code": "600028", "name": "中国石化", "date": "2023-04-05 12:15:39", "sentiment_score": 0.5171}
+{"news_id": "news_20230405_000159", "ts_code": "601857", "name": "中国石油", "date": "2023-04-05 12:15:39", "sentiment_score": 0.5171}
+{"news_id": "news_20230405_000159", "ts_code": "600938", "name": "中国海油", "date": "2023-04-05 12:15:39", "sentiment_score": 0.5171}
+{"news_id": "news_20230405_000169", "ts_code": "601398", "name": "工商银行", "date": "2023-04-05 11:07:15", "sentiment_score": 0.746}
+{"news_id": "news_20230405_000175", "ts_code": "600048", "name": "保利发展", "date": "2023-04-05 09:55:03", "sentiment_score": 0.7951}
+{"news_id": "news_20230405_000183", "ts_code": "600196", "name": "复星医药", "date": "2023-04-05 09:27:14", "sentiment_score": 0.6379}

@@ -1,0 +1,13 @@
+{"news_id": "news_20230902_000001", "ts_code": "002594", "name": "比亚迪", "date": "2023-09-02 23:11:58", "sentiment_score": 0.7667}
+{"news_id": "news_20230902_000002", "ts_code": "601988", "name": "中国银行", "date": "2023-09-02 22:42:54", "sentiment_score": 0.7267}
+{"news_id": "news_20230902_000003", "ts_code": "601988", "name": "中国银行", "date": "2023-09-02 22:15:13", "sentiment_score": 0.7142}
+{"news_id": "news_20230902_000008", "ts_code": "000425", "name": "徐工机械", "date": "2023-09-02 21:47:36", "sentiment_score": 0.6581}
+{"news_id": "news_20230902_000009", "ts_code": "600690", "name": "海尔智家", "date": "2023-09-02 21:43:56", "sentiment_score": 0.7475}
+{"news_id": "news_20230902_000021", "ts_code": "002594", "name": "比亚迪", "date": "2023-09-02 18:20:54", "sentiment_score": 0.6717}
+{"news_id": "news_20230902_000032", "ts_code": "601607", "name": "上海医药集团股份有限公司", "date": "2023-09-02 16:54:51", "sentiment_score": 0.5805}
+{"news_id": "news_20230902_000051", "ts_code": "002594", "name": "比亚迪", "date": "2023-09-02 12:08:34", "sentiment_score": 0.6827}
+{"news_id": "news_20230902_000057", "ts_code": "600030", "name": "中信证券", "date": "2023-09-02 10:29:25", "sentiment_score": 0.7043}
+{"news_id": "news_20230902_000063", "ts_code": "002340", "name": "格林美", "date": "2023-09-02 09:02:34", "sentiment_score": 0.6222}
+{"news_id": "news_20230902_000064", "ts_code": "300760", "name": "迈瑞医疗", "date": "2023-09-02 08:55:09", "sentiment_score": 0.7146}
+{"news_id": "news_20230902_000068", "ts_code": "601288", "name": "农业银行", "date": "2023-09-02 08:21:14", "sentiment_score": 0.7039}
+{"news_id": "news_20230902_000073", "ts_code": "600519", "name": "贵州茅台", "date": "2023-09-02 05:17:18", "sentiment_score": 0.6806}

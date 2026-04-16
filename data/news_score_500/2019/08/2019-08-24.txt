@@ -1,0 +1,10 @@
+{"news_id": "news_20190824_000004", "ts_code": "000651", "name": "格力电器", "date": "2019-08-24 18:57:37", "sentiment_score": 0.314}
+{"news_id": "news_20190824_000008", "ts_code": "002594", "name": "比亚迪", "date": "2019-08-24 13:20:00", "sentiment_score": 0.7336}
+{"news_id": "news_20190824_000016", "ts_code": "601398", "name": "工商银行", "date": "2019-08-24 10:38:35", "sentiment_score": 0.6172}
+{"news_id": "news_20190824_000016", "ts_code": "601288", "name": "农业银行", "date": "2019-08-24 10:38:35", "sentiment_score": 0.6172}
+{"news_id": "news_20190824_000016", "ts_code": "601328", "name": "交通银行", "date": "2019-08-24 10:38:35", "sentiment_score": 0.6172}
+{"news_id": "news_20190824_000016", "ts_code": "601988", "name": "中国银行", "date": "2019-08-24 10:38:35", "sentiment_score": 0.6172}
+{"news_id": "news_20190824_000017", "ts_code": "601398", "name": "工商银行", "date": "2019-08-24 09:32:27", "sentiment_score": 0.7886}
+{"news_id": "news_20190824_000017", "ts_code": "600030", "name": "中信证券", "date": "2019-08-24 09:32:27", "sentiment_score": 0.7886}
+{"news_id": "news_20190824_000017", "ts_code": "601328", "name": "交通银行", "date": "2019-08-24 09:32:27", "sentiment_score": 0.7886}
+{"news_id": "news_20190824_000017", "ts_code": "601988", "name": "中国银行", "date": "2019-08-24 09:32:27", "sentiment_score": 0.7886}

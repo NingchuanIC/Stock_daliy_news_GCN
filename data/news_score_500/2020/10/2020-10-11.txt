@@ -1,0 +1,10 @@
+{"news_id": "news_20201011_000001", "ts_code": "002594", "name": "比亚迪", "date": "2020-10-11 22:54:38", "sentiment_score": 0.6709}
+{"news_id": "news_20201011_000007", "ts_code": "000651", "name": "珠海格力电器股份有限公司", "date": "2020-10-11 20:55:15", "sentiment_score": 0.7314}
+{"news_id": "news_20201011_000008", "ts_code": "300433", "name": "蓝思科技股份有限公司", "date": "2020-10-11 20:50:35", "sentiment_score": 0.7063}
+{"news_id": "news_20201011_000025", "ts_code": "002340", "name": "格林美", "date": "2020-10-11 17:17:08", "sentiment_score": 0.71}
+{"news_id": "news_20201011_000039", "ts_code": "000002", "name": "万科A", "date": "2020-10-11 16:36:26", "sentiment_score": 0.7923}
+{"news_id": "news_20201011_000049", "ts_code": "600048", "name": "保利地产", "date": "2020-10-11 15:39:50", "sentiment_score": 0.8157}
+{"news_id": "news_20201011_000050", "ts_code": "300832", "name": "新产业", "date": "2020-10-11 15:38:13", "sentiment_score": 0.6007}
+{"news_id": "news_20201011_000062", "ts_code": "601211", "name": "国泰君安", "date": "2020-10-11 13:02:30", "sentiment_score": 0.5782}
+{"news_id": "news_20201011_000063", "ts_code": "000063", "name": "中兴通讯", "date": "2020-10-11 10:59:13", "sentiment_score": 0.7436}
+{"news_id": "news_20201011_000064", "ts_code": "000063", "name": "中兴通讯", "date": "2020-10-11 10:58:22", "sentiment_score": 0.7614}

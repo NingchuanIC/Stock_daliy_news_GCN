@@ -1,0 +1,12 @@
+{"news_id": "news_20230924_000009", "ts_code": "002739", "name": "万达电影", "date": "2023-09-24 21:05:07", "sentiment_score": 0.6667}
+{"news_id": "news_20230924_000026", "ts_code": "002916", "name": "深南电路", "date": "2023-09-24 18:16:48", "sentiment_score": 0.6322}
+{"news_id": "news_20230924_000027", "ts_code": "000792", "name": "盐湖股份", "date": "2023-09-24 18:16:25", "sentiment_score": 0.6335}
+{"news_id": "news_20230924_000029", "ts_code": "300896", "name": "爱美客", "date": "2023-09-24 18:11:43", "sentiment_score": 0.6534}
+{"news_id": "news_20230924_000045", "ts_code": "300308", "name": "中际旭创", "date": "2023-09-24 17:34:50", "sentiment_score": 0.8314}
+{"news_id": "news_20230924_000050", "ts_code": "002739", "name": "万达电影", "date": "2023-09-24 17:01:54", "sentiment_score": 0.7349}
+{"news_id": "news_20230924_000055", "ts_code": "600039", "name": "四川路桥", "date": "2023-09-24 16:45:57", "sentiment_score": 0.5947}
+{"news_id": "news_20230924_000075", "ts_code": "600998", "name": "九州通", "date": "2023-09-24 16:01:17", "sentiment_score": 0.7323}
+{"news_id": "news_20230924_000089", "ts_code": "600019", "name": "宝钢股份", "date": "2023-09-24 15:24:54", "sentiment_score": 0.306}
+{"news_id": "news_20230924_000091", "ts_code": "002008", "name": "大族激光", "date": "2023-09-24 15:17:45", "sentiment_score": 0.79}
+{"news_id": "news_20230924_000092", "ts_code": "002049", "name": "紫光国微", "date": "2023-09-24 15:17:11", "sentiment_score": 0.6541}
+{"news_id": "news_20230924_000111", "ts_code": "000538", "name": "云南白药", "date": "2023-09-24 08:39:51", "sentiment_score": 0.5696}

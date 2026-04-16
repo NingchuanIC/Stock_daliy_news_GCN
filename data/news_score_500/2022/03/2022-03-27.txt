@@ -1,0 +1,9 @@
+{"news_id": "news_20220327_000004", "ts_code": "002594", "name": "比亚迪", "date": "2022-03-27 19:49:15", "sentiment_score": 0.6945}
+{"news_id": "news_20220327_000021", "ts_code": "600276", "name": "恒瑞医药", "date": "2022-03-27 16:55:21", "sentiment_score": 0.817}
+{"news_id": "news_20220327_000027", "ts_code": "600519", "name": "贵州茅台", "date": "2022-03-27 16:41:42", "sentiment_score": 0.6961}
+{"news_id": "news_20220327_000036", "ts_code": "601601", "name": "中国太保", "date": "2022-03-27 16:10:16", "sentiment_score": 0.8169}
+{"news_id": "news_20220327_000042", "ts_code": "600438", "name": "通威股份", "date": "2022-03-27 15:45:13", "sentiment_score": 0.794}
+{"news_id": "news_20220327_000053", "ts_code": "601238", "name": "广汽集团", "date": "2022-03-27 11:42:44", "sentiment_score": 0.7941}
+{"news_id": "news_20220327_000056", "ts_code": "300207", "name": "欣旺达", "date": "2022-03-27 11:18:25", "sentiment_score": 0.696}
+{"news_id": "news_20220327_000057", "ts_code": "688256", "name": "寒武纪", "date": "2022-03-27 11:12:00", "sentiment_score": 0.47}
+{"news_id": "news_20220327_000059", "ts_code": "300014", "name": "亿纬锂能", "date": "2022-03-27 10:51:03", "sentiment_score": 0.6843}

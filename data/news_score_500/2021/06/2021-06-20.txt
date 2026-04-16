@@ -1,0 +1,11 @@
+{"news_id": "news_20210620_000006", "ts_code": "002129", "name": "中环股份", "date": "2021-06-20 20:42:48", "sentiment_score": 0.8004}
+{"news_id": "news_20210620_000008", "ts_code": "000651", "name": "格力电器", "date": "2021-06-20 17:52:34", "sentiment_score": 0.7807}
+{"news_id": "news_20210620_000010", "ts_code": "600519", "name": "贵州茅台", "date": "2021-06-20 16:58:10", "sentiment_score": 0.7782}
+{"news_id": "news_20210620_000011", "ts_code": "600519", "name": "贵州茅台", "date": "2021-06-20 16:46:50", "sentiment_score": 0.7898}
+{"news_id": "news_20210620_000012", "ts_code": "002129", "name": "中环股份", "date": "2021-06-20 16:40:30", "sentiment_score": 0.8589}
+{"news_id": "news_20210620_000015", "ts_code": "300001", "name": "特锐德", "date": "2021-06-20 16:29:55", "sentiment_score": 0.7864}
+{"news_id": "news_20210620_000016", "ts_code": "601988", "name": "中国银行", "date": "2021-06-20 16:27:23", "sentiment_score": 0.704}
+{"news_id": "news_20210620_000018", "ts_code": "300014", "name": "亿纬锂能", "date": "2021-06-20 16:26:38", "sentiment_score": 0.8101}
+{"news_id": "news_20210620_000018", "ts_code": "300001", "name": "特锐德", "date": "2021-06-20 16:26:38", "sentiment_score": 0.8101}
+{"news_id": "news_20210620_000024", "ts_code": "601857", "name": "中国石油", "date": "2021-06-20 13:52:29", "sentiment_score": 0.679}
+{"news_id": "news_20210620_000031", "ts_code": "300750", "name": "宁德时代", "date": "2021-06-20 10:20:04", "sentiment_score": 0.694}

@@ -1,0 +1,7 @@
+{"news_id": "news_20210619_000001", "ts_code": "000651", "name": "珠海格力电器股份有限公司", "date": "2021-06-19 20:53:39", "sentiment_score": 0.6713}
+{"news_id": "news_20210619_000006", "ts_code": "002405", "name": "四维图新", "date": "2021-06-19 19:04:04", "sentiment_score": 0.4683}
+{"news_id": "news_20210619_000011", "ts_code": "000568", "name": "泸州老窖", "date": "2021-06-19 13:47:48", "sentiment_score": 0.7786}
+{"news_id": "news_20210619_000014", "ts_code": "300750", "name": "宁德时代", "date": "2021-06-19 12:22:10", "sentiment_score": 0.6316}
+{"news_id": "news_20210619_000026", "ts_code": "000333", "name": "美的集团", "date": "2021-06-19 09:31:20", "sentiment_score": 0.7316}
+{"news_id": "news_20210619_000031", "ts_code": "000858", "name": "五粮液", "date": "2021-06-19 06:22:59", "sentiment_score": 0.6912}
+{"news_id": "news_20210619_000052", "ts_code": "688223", "name": "晶科能源", "date": "2021-06-19 00:36:31", "sentiment_score": 0.8782}

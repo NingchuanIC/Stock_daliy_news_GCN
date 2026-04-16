@@ -1,0 +1,6 @@
+{"news_id": "news_20220203_000062", "ts_code": "002594", "name": "比亚迪", "date": "2022-02-03 18:17:09", "sentiment_score": 0.8297}
+{"news_id": "news_20220203_000063", "ts_code": "002594", "name": "比亚迪", "date": "2022-02-03 18:16:17", "sentiment_score": 0.8696}
+{"news_id": "news_20220203_000083", "ts_code": "600690", "name": "海尔智家", "date": "2022-02-03 17:22:57", "sentiment_score": 0.71}
+{"news_id": "news_20220203_000127", "ts_code": "688223", "name": "晶科能源", "date": "2022-02-03 11:44:16", "sentiment_score": 0.8877}
+{"news_id": "news_20220203_000129", "ts_code": "600050", "name": "中国联通", "date": "2022-02-03 11:02:12", "sentiment_score": 0.7052}
+{"news_id": "news_20220203_000132", "ts_code": "600050", "name": "中国联通", "date": "2022-02-03 09:06:39", "sentiment_score": 0.6509}

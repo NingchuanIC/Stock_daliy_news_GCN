@@ -1,0 +1,10 @@
+{"news_id": "news_20190324_000002", "ts_code": "601012", "name": "隆基股份", "date": "2019-03-24 21:06:13", "sentiment_score": 0.6535}
+{"news_id": "news_20190324_000002", "ts_code": "002202", "name": "金风科技", "date": "2019-03-24 21:06:13", "sentiment_score": 0.6535}
+{"news_id": "news_20190324_000006", "ts_code": "601899", "name": "紫金矿业", "date": "2019-03-24 18:15:29", "sentiment_score": 0.8253}
+{"news_id": "news_20190324_000012", "ts_code": "000100", "name": "TCL集团", "date": "2019-03-24 17:23:27", "sentiment_score": 0.7374}
+{"news_id": "news_20190324_000012", "ts_code": "300750", "name": "宁德时代", "date": "2019-03-24 17:23:27", "sentiment_score": 0.7374}
+{"news_id": "news_20190324_000012", "ts_code": "688256", "name": "寒武纪", "date": "2019-03-24 17:23:27", "sentiment_score": 0.7374}
+{"news_id": "news_20190324_000015", "ts_code": "601211", "name": "国泰君安", "date": "2019-03-24 17:01:51", "sentiment_score": 0.6913}
+{"news_id": "news_20190324_000019", "ts_code": "601668", "name": "中国建筑", "date": "2019-03-24 16:46:22", "sentiment_score": 0.7633}
+{"news_id": "news_20190324_000025", "ts_code": "000100", "name": "TCL集团", "date": "2019-03-24 16:07:37", "sentiment_score": 0.5151}
+{"news_id": "news_20190324_000033", "ts_code": "601601", "name": "中国太保", "date": "2019-03-24 14:15:14", "sentiment_score": 0.845}

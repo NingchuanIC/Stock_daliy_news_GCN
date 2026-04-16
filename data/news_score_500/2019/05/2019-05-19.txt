@@ -1,0 +1,9 @@
+{"news_id": "news_20190519_000007", "ts_code": "688169", "name": "石头科技", "date": "2019-05-19 20:19:26", "sentiment_score": 0.6806}
+{"news_id": "news_20190519_000011", "ts_code": "601601", "name": "中国太保", "date": "2019-05-19 19:19:08", "sentiment_score": 0.6727}
+{"news_id": "news_20190519_000016", "ts_code": "601728", "name": "中国电信", "date": "2019-05-19 17:56:45", "sentiment_score": 0.6464}
+{"news_id": "news_20190519_000017", "ts_code": "601211", "name": "国泰君安", "date": "2019-05-19 17:56:22", "sentiment_score": 0.7772}
+{"news_id": "news_20190519_000024", "ts_code": "002812", "name": "恩捷股份", "date": "2019-05-19 17:01:30", "sentiment_score": 0.7466}
+{"news_id": "news_20190519_000040", "ts_code": "600030", "name": "中信证券", "date": "2019-05-19 15:25:40", "sentiment_score": 0.7598}
+{"news_id": "news_20190519_000042", "ts_code": "000063", "name": "中兴通讯", "date": "2019-05-19 14:58:09", "sentiment_score": 0.7112}
+{"news_id": "news_20190519_000055", "ts_code": "000858", "name": "五粮液", "date": "2019-05-19 10:44:31", "sentiment_score": 0.5416}
+{"news_id": "news_20190519_000057", "ts_code": "000651", "name": "格力电器", "date": "2019-05-19 10:25:20", "sentiment_score": 0.7565}

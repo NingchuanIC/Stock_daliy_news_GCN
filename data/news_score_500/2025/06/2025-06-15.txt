@@ -1,0 +1,15 @@
+{"news_id": "news_20250615_000023", "ts_code": "603019", "name": "中科曙光", "date": "2025-06-15 19:26:22", "sentiment_score": 0.7066}
+{"news_id": "news_20250615_000023", "ts_code": "688041", "name": "海光信息", "date": "2025-06-15 19:26:22", "sentiment_score": 0.7066}
+{"news_id": "news_20250615_000023", "ts_code": "002384", "name": "东山精密", "date": "2025-06-15 19:26:22", "sentiment_score": 0.7066}
+{"news_id": "news_20250615_000024", "ts_code": "603019", "name": "中科曙光", "date": "2025-06-15 19:23:08", "sentiment_score": 0.7175}
+{"news_id": "news_20250615_000024", "ts_code": "688041", "name": "海光信息", "date": "2025-06-15 19:23:08", "sentiment_score": 0.7175}
+{"news_id": "news_20250615_000024", "ts_code": "002384", "name": "东山精密", "date": "2025-06-15 19:23:08", "sentiment_score": 0.7175}
+{"news_id": "news_20250615_000028", "ts_code": "600276", "name": "恒瑞医药", "date": "2025-06-15 19:04:35", "sentiment_score": 0.8106}
+{"news_id": "news_20250615_000040", "ts_code": "600030", "name": "中信证券", "date": "2025-06-15 18:02:15", "sentiment_score": 0.696}
+{"news_id": "news_20250615_000041", "ts_code": "600030", "name": "中信证券", "date": "2025-06-15 18:02:06", "sentiment_score": 0.713}
+{"news_id": "news_20250615_000048", "ts_code": "600276", "name": "恒瑞医药", "date": "2025-06-15 16:44:43", "sentiment_score": 0.7629}
+{"news_id": "news_20250615_000065", "ts_code": "600521", "name": "华海药业", "date": "2025-06-15 16:01:48", "sentiment_score": 0.7702}
+{"news_id": "news_20250615_000077", "ts_code": "300832", "name": "新产业", "date": "2025-06-15 14:21:17", "sentiment_score": 0.7095}
+{"news_id": "news_20250615_000089", "ts_code": "600660", "name": "福耀玻璃", "date": "2025-06-15 11:50:23", "sentiment_score": 0.683}
+{"news_id": "news_20250615_000100", "ts_code": "002594", "name": "比亚迪", "date": "2025-06-15 08:54:20", "sentiment_score": 0.7742}
+{"news_id": "news_20250615_000101", "ts_code": "002594", "name": "比亚迪", "date": "2025-06-15 08:54:12", "sentiment_score": 0.7739}

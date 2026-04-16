@@ -1,0 +1,11 @@
+{"news_id": "news_20220821_000006", "ts_code": "002465", "name": "海格通信", "date": "2022-08-21 19:58:56", "sentiment_score": 0.6362}
+{"news_id": "news_20220821_000007", "ts_code": "002594", "name": "比亚迪", "date": "2022-08-21 19:54:16", "sentiment_score": 0.782}
+{"news_id": "news_20220821_000010", "ts_code": "002236", "name": "大华股份", "date": "2022-08-21 19:03:25", "sentiment_score": 0.6124}
+{"news_id": "news_20220821_000011", "ts_code": "000333", "name": "美的集团", "date": "2022-08-21 18:40:46", "sentiment_score": 0.683}
+{"news_id": "news_20220821_000020", "ts_code": "600030", "name": "中信证券", "date": "2022-08-21 17:38:30", "sentiment_score": 0.6655}
+{"news_id": "news_20220821_000027", "ts_code": "688223", "name": "晶科能源", "date": "2022-08-21 17:05:26", "sentiment_score": 0.5756}
+{"news_id": "news_20220821_000029", "ts_code": "603993", "name": "洛阳钼业", "date": "2022-08-21 17:00:38", "sentiment_score": 0.7531}
+{"news_id": "news_20220821_000035", "ts_code": "002340", "name": "格林美", "date": "2022-08-21 16:34:18", "sentiment_score": 0.7301}
+{"news_id": "news_20220821_000036", "ts_code": "300068", "name": "南都电源", "date": "2022-08-21 16:34:00", "sentiment_score": 0.8176}
+{"news_id": "news_20220821_000050", "ts_code": "600938", "name": "中国海油", "date": "2022-08-21 15:46:59", "sentiment_score": 0.7312}
+{"news_id": "news_20220821_000055", "ts_code": "601012", "name": "隆基绿能", "date": "2022-08-21 15:35:18", "sentiment_score": 0.6147}

@@ -1,0 +1,8 @@
+{"news_id": "news_20200223_000007", "ts_code": "600115", "name": "东方航空", "date": "2020-02-23 20:31:58", "sentiment_score": 0.6943}
+{"news_id": "news_20200223_000010", "ts_code": "601607", "name": "上海医药", "date": "2020-02-23 18:44:49", "sentiment_score": 0.5328}
+{"news_id": "news_20200223_000018", "ts_code": "601012", "name": "隆基股份", "date": "2020-02-23 17:36:32", "sentiment_score": 0.7946}
+{"news_id": "news_20200223_000025", "ts_code": "002230", "name": "科大讯飞", "date": "2020-02-23 17:14:22", "sentiment_score": 0.7495}
+{"news_id": "news_20200223_000029", "ts_code": "601088", "name": "中国神华", "date": "2020-02-23 17:02:50", "sentiment_score": 0.7261}
+{"news_id": "news_20200223_000033", "ts_code": "601728", "name": "中国电信", "date": "2020-02-23 16:12:09", "sentiment_score": 0.7946}
+{"news_id": "news_20200223_000033", "ts_code": "600050", "name": "中国联通", "date": "2020-02-23 16:12:09", "sentiment_score": 0.7946}
+{"news_id": "news_20200223_000050", "ts_code": "300832", "name": "新产业", "date": "2020-02-23 09:54:10", "sentiment_score": 0.6389}

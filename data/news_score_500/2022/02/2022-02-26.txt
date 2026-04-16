@@ -1,0 +1,5 @@
+{"news_id": "news_20220226_000001", "ts_code": "002594", "name": "比亚迪", "date": "2022-02-26 23:31:55", "sentiment_score": 0.7982}
+{"news_id": "news_20220226_000005", "ts_code": "600332", "name": "白云山", "date": "2022-02-26 21:50:23", "sentiment_score": 0.7242}
+{"news_id": "news_20220226_000012", "ts_code": "600418", "name": "江淮汽车", "date": "2022-02-26 20:16:20", "sentiment_score": 0.5542}
+{"news_id": "news_20220226_000012", "ts_code": "300496", "name": "中科创达", "date": "2022-02-26 20:16:20", "sentiment_score": 0.5542}
+{"news_id": "news_20220226_000029", "ts_code": "600519", "name": "贵州茅台", "date": "2022-02-26 08:12:12", "sentiment_score": 0.6375}

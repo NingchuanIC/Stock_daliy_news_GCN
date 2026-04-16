@@ -1,0 +1,13 @@
+{"news_id": "news_20200131_000001", "ts_code": "300760", "name": "迈瑞医疗", "date": "2020-01-31 22:33:02", "sentiment_score": 0.2192}
+{"news_id": "news_20200131_000003", "ts_code": "601155", "name": "新城控股", "date": "2020-01-31 21:02:03", "sentiment_score": 0.6162}
+{"news_id": "news_20200131_000012", "ts_code": "601238", "name": "广汽集团", "date": "2020-01-31 19:24:54", "sentiment_score": 0.592}
+{"news_id": "news_20200131_000037", "ts_code": "600028", "name": "中国石化", "date": "2020-01-31 16:48:23", "sentiment_score": 0.7791}
+{"news_id": "news_20200131_000039", "ts_code": "000858", "name": "五粮液", "date": "2020-01-31 16:37:19", "sentiment_score": 0.7671}
+{"news_id": "news_20200131_000046", "ts_code": "601186", "name": "中国铁建股份有限公司", "date": "2020-01-31 15:51:02", "sentiment_score": 0.7231}
+{"news_id": "news_20200131_000049", "ts_code": "601766", "name": "中国中车", "date": "2020-01-31 15:38:59", "sentiment_score": 0.6926}
+{"news_id": "news_20200131_000060", "ts_code": "002460", "name": "赣锋锂业", "date": "2020-01-31 14:39:26", "sentiment_score": 0.7067}
+{"news_id": "news_20200131_000068", "ts_code": "002422", "name": "科伦药业", "date": "2020-01-31 12:40:06", "sentiment_score": 0.729}
+{"news_id": "news_20200131_000071", "ts_code": "600104", "name": "上汽集团", "date": "2020-01-31 12:24:53", "sentiment_score": 0.664}
+{"news_id": "news_20200131_000081", "ts_code": "300001", "name": "特锐德", "date": "2020-01-31 10:02:08", "sentiment_score": 0.6714}
+{"news_id": "news_20200131_000083", "ts_code": "000063", "name": "中兴通讯", "date": "2020-01-31 09:35:31", "sentiment_score": 0.7692}
+{"news_id": "news_20200131_000083", "ts_code": "002594", "name": "比亚迪", "date": "2020-01-31 09:35:31", "sentiment_score": 0.7692}

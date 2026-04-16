@@ -1,0 +1,14 @@
+{"news_id": "news_20230429_000012", "ts_code": "300750", "name": "宁德时代", "date": "2023-04-29 18:38:49", "sentiment_score": 0.6832}
+{"news_id": "news_20230429_000012", "ts_code": "002074", "name": "国轩高科", "date": "2023-04-29 18:38:49", "sentiment_score": 0.6832}
+{"news_id": "news_20230429_000012", "ts_code": "300274", "name": "阳光电源", "date": "2023-04-29 18:38:49", "sentiment_score": 0.6832}
+{"news_id": "news_20230429_000014", "ts_code": "600104", "name": "上海汽车", "date": "2023-04-29 18:20:37", "sentiment_score": 0.7417}
+{"news_id": "news_20230429_000025", "ts_code": "002603", "name": "以岭药业", "date": "2023-04-29 15:20:10", "sentiment_score": 0.6971}
+{"news_id": "news_20230429_000030", "ts_code": "600028", "name": "中国石化", "date": "2023-04-29 14:40:47", "sentiment_score": 0.7488}
+{"news_id": "news_20230429_000030", "ts_code": "601857", "name": "中国石油", "date": "2023-04-29 14:40:47", "sentiment_score": 0.7488}
+{"news_id": "news_20230429_000030", "ts_code": "600938", "name": "中国海油", "date": "2023-04-29 14:40:47", "sentiment_score": 0.7488}
+{"news_id": "news_20230429_000033", "ts_code": "300014", "name": "亿纬锂能", "date": "2023-04-29 13:51:09", "sentiment_score": 0.6466}
+{"news_id": "news_20230429_000042", "ts_code": "002236", "name": "大华股份", "date": "2023-04-29 11:48:36", "sentiment_score": 0.3347}
+{"news_id": "news_20230429_000044", "ts_code": "002236", "name": "大华股份", "date": "2023-04-29 11:29:01", "sentiment_score": 0.5149}
+{"news_id": "news_20230429_000046", "ts_code": "601857", "name": "中国石油", "date": "2023-04-29 11:12:38", "sentiment_score": 0.6834}
+{"news_id": "news_20230429_000066", "ts_code": "300750", "name": "宁德时代", "date": "2023-04-29 08:04:00", "sentiment_score": 0.5419}
+{"news_id": "news_20230429_000066", "ts_code": "600166", "name": "福田汽车", "date": "2023-04-29 08:04:00", "sentiment_score": 0.5419}

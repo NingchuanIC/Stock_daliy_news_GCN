@@ -1,0 +1,5 @@
+{"news_id": "news_20230701_000001", "ts_code": "601633", "name": "长城汽车", "date": "2023-07-01 22:58:02", "sentiment_score": 0.7994}
+{"news_id": "news_20230701_000007", "ts_code": "601127", "name": "赛力斯", "date": "2023-07-01 20:32:14", "sentiment_score": 0.7952}
+{"news_id": "news_20230701_000010", "ts_code": "600196", "name": "复星医药", "date": "2023-07-01 19:04:28", "sentiment_score": 0.6232}
+{"news_id": "news_20230701_000011", "ts_code": "601633", "name": "长城汽车", "date": "2023-07-01 18:33:44", "sentiment_score": 0.8326}
+{"news_id": "news_20230701_000023", "ts_code": "002812", "name": "恩捷股份", "date": "2023-07-01 13:44:28", "sentiment_score": 0.7256}

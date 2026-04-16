@@ -1,0 +1,12 @@
+{"news_id": "news_20251116_000021", "ts_code": "600030", "name": "中信证券", "date": "2025-11-16 18:13:51", "sentiment_score": 0.7839}
+{"news_id": "news_20251116_000023", "ts_code": "601238", "name": "广汽集团", "date": "2025-11-16 18:13:12", "sentiment_score": 0.6467}
+{"news_id": "news_20251116_000049", "ts_code": "601728", "name": "中国电信", "date": "2025-11-16 15:57:31", "sentiment_score": 0.664}
+{"news_id": "news_20251116_000054", "ts_code": "601600", "name": "中国铝业", "date": "2025-11-16 15:43:32", "sentiment_score": 0.7755}
+{"news_id": "news_20251116_000056", "ts_code": "600998", "name": "九州通", "date": "2025-11-16 15:43:09", "sentiment_score": 0.8149}
+{"news_id": "news_20251116_000060", "ts_code": "300750", "name": "宁德时代", "date": "2025-11-16 15:42:47", "sentiment_score": 0.583}
+{"news_id": "news_20251116_000062", "ts_code": "601567", "name": "三星医疗", "date": "2025-11-16 15:38:36", "sentiment_score": 0.8131}
+{"news_id": "news_20251116_000073", "ts_code": "002129", "name": "TCL中环", "date": "2025-11-16 12:28:11", "sentiment_score": 0.6913}
+{"news_id": "news_20251116_000073", "ts_code": "000651", "name": "格力电器", "date": "2025-11-16 12:28:11", "sentiment_score": 0.6913}
+{"news_id": "news_20251116_000073", "ts_code": "601398", "name": "工商银行", "date": "2025-11-16 12:28:11", "sentiment_score": 0.6913}
+{"news_id": "news_20251116_000073", "ts_code": "603019", "name": "中科曙光", "date": "2025-11-16 12:28:11", "sentiment_score": 0.6913}
+{"news_id": "news_20251116_000089", "ts_code": "688235", "name": "百济神州", "date": "2025-11-16 00:48:09", "sentiment_score": 0.6421}

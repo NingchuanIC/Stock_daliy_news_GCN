@@ -1,0 +1,4 @@
+{"news_id": "news_20201212_000002", "ts_code": "000538", "name": "云南白药", "date": "2020-12-12 20:36:14", "sentiment_score": 0.7731}
+{"news_id": "news_20201212_000016", "ts_code": "601186", "name": "中国铁建", "date": "2020-12-12 12:12:00", "sentiment_score": 0.6443}
+{"news_id": "news_20201212_000021", "ts_code": "601857", "name": "中国石油", "date": "2020-12-12 10:25:05", "sentiment_score": 0.6608}
+{"news_id": "news_20201212_000030", "ts_code": "000039", "name": "中集集团", "date": "2020-12-12 08:34:51", "sentiment_score": 0.1979}

@@ -1,0 +1,8 @@
+{"news_id": "news_20220227_000023", "ts_code": "601288", "name": "中国农业银行股份有限公司", "date": "2022-02-27 16:53:36", "sentiment_score": 0.2237}
+{"news_id": "news_20220227_000023", "ts_code": "002714", "name": "牧原股份", "date": "2022-02-27 16:53:36", "sentiment_score": 0.2237}
+{"news_id": "news_20220227_000028", "ts_code": "002001", "name": "新和成", "date": "2022-02-27 16:36:44", "sentiment_score": 0.8147}
+{"news_id": "news_20220227_000031", "ts_code": "002340", "name": "格林美", "date": "2022-02-27 16:13:46", "sentiment_score": 0.6848}
+{"news_id": "news_20220227_000032", "ts_code": "002008", "name": "大族激光", "date": "2022-02-27 16:08:34", "sentiment_score": 0.7643}
+{"news_id": "news_20220227_000039", "ts_code": "601899", "name": "紫金矿业", "date": "2022-02-27 15:58:50", "sentiment_score": 0.7077}
+{"news_id": "news_20220227_000041", "ts_code": "605499", "name": "东鹏饮料", "date": "2022-02-27 15:45:10", "sentiment_score": 0.826}
+{"news_id": "news_20220227_000046", "ts_code": "600276", "name": "恒瑞医药", "date": "2022-02-27 13:38:00", "sentiment_score": 0.7746}

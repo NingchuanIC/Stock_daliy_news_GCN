@@ -1,0 +1,15 @@
+{"news_id": "news_20230102_000007", "ts_code": "002074", "name": "国轩高科", "date": "2023-01-02 21:08:28", "sentiment_score": 0.7723}
+{"news_id": "news_20230102_000016", "ts_code": "002594", "name": "比亚迪", "date": "2023-01-02 18:15:09", "sentiment_score": 0.8655}
+{"news_id": "news_20230102_000017", "ts_code": "002594", "name": "比亚迪", "date": "2023-01-02 18:14:22", "sentiment_score": 0.837}
+{"news_id": "news_20230102_000024", "ts_code": "601318", "name": "中国平安", "date": "2023-01-02 17:35:51", "sentiment_score": 0.7375}
+{"news_id": "news_20230102_000024", "ts_code": "601988", "name": "中国银行", "date": "2023-01-02 17:35:51", "sentiment_score": 0.7375}
+{"news_id": "news_20230102_000047", "ts_code": "688180", "name": "君实生物", "date": "2023-01-02 16:02:07", "sentiment_score": 0.7361}
+{"news_id": "news_20230102_000050", "ts_code": "601328", "name": "交通银行", "date": "2023-01-02 15:58:27", "sentiment_score": 0.6771}
+{"news_id": "news_20230102_000050", "ts_code": "601988", "name": "中国银行", "date": "2023-01-02 15:58:27", "sentiment_score": 0.6771}
+{"news_id": "news_20230102_000053", "ts_code": "688180", "name": "君实生物", "date": "2023-01-02 15:54:24", "sentiment_score": 0.6596}
+{"news_id": "news_20230102_000054", "ts_code": "601127", "name": "赛力斯", "date": "2023-01-02 15:50:28", "sentiment_score": 0.8402}
+{"news_id": "news_20230102_000070", "ts_code": "600332", "name": "白云山", "date": "2023-01-02 13:49:10", "sentiment_score": 0.7041}
+{"news_id": "news_20230102_000094", "ts_code": "601628", "name": "中国人寿", "date": "2023-01-02 09:48:14", "sentiment_score": 0.8078}
+{"news_id": "news_20230102_000101", "ts_code": "002475", "name": "立讯精密", "date": "2023-01-02 08:20:48", "sentiment_score": 0.7416}
+{"news_id": "news_20230102_000101", "ts_code": "300496", "name": "中科创达", "date": "2023-01-02 08:20:48", "sentiment_score": 0.7416}
+{"news_id": "news_20230102_000102", "ts_code": "002230", "name": "科大讯飞", "date": "2023-01-02 08:15:54", "sentiment_score": 0.4633}

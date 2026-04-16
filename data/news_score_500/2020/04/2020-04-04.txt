@@ -1,0 +1,3 @@
+{"news_id": "news_20200404_000013", "ts_code": "002230", "name": "科大讯飞", "date": "2020-04-04 16:41:55", "sentiment_score": 0.6963}
+{"news_id": "news_20200404_000015", "ts_code": "601398", "name": "工商银行", "date": "2020-04-04 15:11:43", "sentiment_score": 0.6211}
+{"news_id": "news_20200404_000016", "ts_code": "002352", "name": "顺丰控股", "date": "2020-04-04 15:10:47", "sentiment_score": 0.7419}

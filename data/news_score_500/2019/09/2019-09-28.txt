@@ -1,0 +1,4 @@
+{"news_id": "news_20190928_000009", "ts_code": "688036", "name": "深圳传音控股股份有限公司", "date": "2019-09-28 17:07:28", "sentiment_score": 0.6682}
+{"news_id": "news_20190928_000017", "ts_code": "688111", "name": "金山办公", "date": "2019-09-28 13:30:45", "sentiment_score": 0.7422}
+{"news_id": "news_20190928_000023", "ts_code": "000039", "name": "中集集团", "date": "2019-09-28 10:02:21", "sentiment_score": 0.4506}
+{"news_id": "news_20190928_000026", "ts_code": "000100", "name": "TCL集团", "date": "2019-09-28 08:33:13", "sentiment_score": 0.7052}

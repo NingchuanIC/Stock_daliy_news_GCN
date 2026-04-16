@@ -1,0 +1,8 @@
+{"news_id": "news_20230930_000004", "ts_code": "002812", "name": "恩捷股份", "date": "2023-09-30 21:44:45", "sentiment_score": 0.5028}
+{"news_id": "news_20230930_000011", "ts_code": "600519", "name": "贵州茅台", "date": "2023-09-30 18:13:37", "sentiment_score": 0.5844}
+{"news_id": "news_20230930_000012", "ts_code": "600111", "name": "北方稀土", "date": "2023-09-30 18:09:02", "sentiment_score": 0.7285}
+{"news_id": "news_20230930_000021", "ts_code": "601633", "name": "长城汽车", "date": "2023-09-30 15:32:59", "sentiment_score": 0.7737}
+{"news_id": "news_20230930_000036", "ts_code": "002739", "name": "万达电影", "date": "2023-09-30 12:03:51", "sentiment_score": 0.7083}
+{"news_id": "news_20230930_000036", "ts_code": "300251", "name": "光线传媒", "date": "2023-09-30 12:03:51", "sentiment_score": 0.7083}
+{"news_id": "news_20230930_000052", "ts_code": "002594", "name": "比亚迪", "date": "2023-09-30 08:27:53", "sentiment_score": 0.7747}
+{"news_id": "news_20230930_000055", "ts_code": "300750", "name": "宁德时代新能源科技股份有限公司", "date": "2023-09-30 08:14:24", "sentiment_score": 0.7024}

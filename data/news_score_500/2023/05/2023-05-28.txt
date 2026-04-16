@@ -1,0 +1,16 @@
+{"news_id": "news_20230528_000006", "ts_code": "002466", "name": "天齐锂业", "date": "2023-05-28 21:19:56", "sentiment_score": 0.701}
+{"news_id": "news_20230528_000008", "ts_code": "301358", "name": "湖南裕能", "date": "2023-05-28 19:44:34", "sentiment_score": 0.7104}
+{"news_id": "news_20230528_000015", "ts_code": "002008", "name": "大族激光", "date": "2023-05-28 18:43:15", "sentiment_score": 0.6908}
+{"news_id": "news_20230528_000018", "ts_code": "600115", "name": "中国东航", "date": "2023-05-28 18:29:21", "sentiment_score": 0.7552}
+{"news_id": "news_20230528_000023", "ts_code": "600115", "name": "东方航空", "date": "2023-05-28 18:22:28", "sentiment_score": 0.8389}
+{"news_id": "news_20230528_000025", "ts_code": "002230", "name": "科大讯飞", "date": "2023-05-28 18:18:44", "sentiment_score": 0.7502}
+{"news_id": "news_20230528_000035", "ts_code": "000338", "name": "潍柴动力", "date": "2023-05-28 17:54:00", "sentiment_score": 0.6888}
+{"news_id": "news_20230528_000037", "ts_code": "600938", "name": "中国海油", "date": "2023-05-28 17:49:33", "sentiment_score": 0.7373}
+{"news_id": "news_20230528_000039", "ts_code": "600115", "name": "东方航空", "date": "2023-05-28 17:46:50", "sentiment_score": 0.7854}
+{"news_id": "news_20230528_000066", "ts_code": "300015", "name": "爱尔眼科", "date": "2023-05-28 16:18:52", "sentiment_score": 0.8366}
+{"news_id": "news_20230528_000071", "ts_code": "600438", "name": "通威股份", "date": "2023-05-28 16:00:16", "sentiment_score": 0.7495}
+{"news_id": "news_20230528_000071", "ts_code": "603259", "name": "药明康德", "date": "2023-05-28 16:00:16", "sentiment_score": 0.7495}
+{"news_id": "news_20230528_000079", "ts_code": "600309", "name": "万华化学", "date": "2023-05-28 15:42:03", "sentiment_score": 0.7768}
+{"news_id": "news_20230528_000092", "ts_code": "600115", "name": "东方航空", "date": "2023-05-28 14:22:04", "sentiment_score": 0.7712}
+{"news_id": "news_20230528_000093", "ts_code": "300832", "name": "新产业", "date": "2023-05-28 14:14:12", "sentiment_score": 0.6695}
+{"news_id": "news_20230528_000095", "ts_code": "600839", "name": "四川长虹", "date": "2023-05-28 14:02:46", "sentiment_score": 0.782}

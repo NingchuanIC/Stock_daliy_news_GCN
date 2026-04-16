@@ -1,0 +1,8 @@
+{"news_id": "news_20190615_000002", "ts_code": "300059", "name": "东方财富", "date": "2019-06-15 23:36:34", "sentiment_score": 0.6895}
+{"news_id": "news_20190615_000005", "ts_code": "601601", "name": "中国太保", "date": "2019-06-15 21:50:08", "sentiment_score": 0.7485}
+{"news_id": "news_20190615_000014", "ts_code": "601766", "name": "中国中车", "date": "2019-06-15 17:03:01", "sentiment_score": 0.6647}
+{"news_id": "news_20190615_000017", "ts_code": "300394", "name": "天孚通信", "date": "2019-06-15 16:05:47", "sentiment_score": 0.7408}
+{"news_id": "news_20190615_000028", "ts_code": "002352", "name": "顺丰控股", "date": "2019-06-15 09:39:15", "sentiment_score": 0.6723}
+{"news_id": "news_20190615_000029", "ts_code": "600050", "name": "中国联通", "date": "2019-06-15 09:38:43", "sentiment_score": 0.3354}
+{"news_id": "news_20190615_000036", "ts_code": "600050", "name": "中国联通", "date": "2019-06-15 08:26:42", "sentiment_score": 0.6035}
+{"news_id": "news_20190615_000042", "ts_code": "600276", "name": "恒瑞医药", "date": "2019-06-15 00:10:33", "sentiment_score": 0.6677}

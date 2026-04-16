@@ -1,0 +1,5 @@
+{"news_id": "news_20220702_000005", "ts_code": "002465", "name": "海格通信", "date": "2022-07-02 21:32:08", "sentiment_score": 0.7855}
+{"news_id": "news_20220702_000019", "ts_code": "600028", "name": "中国石化", "date": "2022-07-02 15:34:39", "sentiment_score": 0.7067}
+{"news_id": "news_20220702_000030", "ts_code": "601288", "name": "农业银行", "date": "2022-07-02 10:58:08", "sentiment_score": 0.6667}
+{"news_id": "news_20220702_000039", "ts_code": "601127", "name": "赛力斯", "date": "2022-07-02 08:22:28", "sentiment_score": 0.7702}
+{"news_id": "news_20220702_000061", "ts_code": "601857", "name": "中国石油", "date": "2022-07-02 00:01:21", "sentiment_score": 0.7426}

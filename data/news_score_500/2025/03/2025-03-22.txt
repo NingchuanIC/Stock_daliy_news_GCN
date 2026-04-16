@@ -1,0 +1,11 @@
+{"news_id": "news_20250322_000032", "ts_code": "600690", "name": "海尔智家股份有限公司", "date": "2025-03-22 13:51:38", "sentiment_score": 0.6755}
+{"news_id": "news_20250322_000033", "ts_code": "001979", "name": "招商局蛇口工业区控股股份有限公司", "date": "2025-03-22 13:48:20", "sentiment_score": 0.6758}
+{"news_id": "news_20250322_000037", "ts_code": "601899", "name": "紫金矿业", "date": "2025-03-22 13:07:07", "sentiment_score": 0.6253}
+{"news_id": "news_20250322_000037", "ts_code": "601088", "name": "中国神华", "date": "2025-03-22 13:07:07", "sentiment_score": 0.6253}
+{"news_id": "news_20250322_000052", "ts_code": "600030", "name": "中信证券", "date": "2025-03-22 09:16:08", "sentiment_score": 0.7233}
+{"news_id": "news_20250322_000053", "ts_code": "600030", "name": "中信证券", "date": "2025-03-22 09:14:56", "sentiment_score": 0.7489}
+{"news_id": "news_20250322_000059", "ts_code": "300015", "name": "爱尔眼科", "date": "2025-03-22 08:10:41", "sentiment_score": 0.7479}
+{"news_id": "news_20250322_000105", "ts_code": "688506", "name": "百利天恒-U", "date": "2025-03-22 00:10:40", "sentiment_score": 0.7393}
+{"news_id": "news_20250322_000105", "ts_code": "300750", "name": "宁德时代", "date": "2025-03-22 00:10:40", "sentiment_score": 0.7393}
+{"news_id": "news_20250322_000105", "ts_code": "002241", "name": "歌尔股份", "date": "2025-03-22 00:10:40", "sentiment_score": 0.7393}
+{"news_id": "news_20250322_000105", "ts_code": "688012", "name": "中微公司", "date": "2025-03-22 00:10:40", "sentiment_score": 0.7393}

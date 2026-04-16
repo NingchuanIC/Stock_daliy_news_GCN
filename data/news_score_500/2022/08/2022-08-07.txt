@@ -1,0 +1,6 @@
+{"news_id": "news_20220807_000027", "ts_code": "002594", "name": "比亚迪", "date": "2022-08-07 16:14:15", "sentiment_score": 0.6486}
+{"news_id": "news_20220807_000032", "ts_code": "600048", "name": "保利发展", "date": "2022-08-07 15:53:28", "sentiment_score": 0.7922}
+{"news_id": "news_20220807_000033", "ts_code": "600332", "name": "白云山", "date": "2022-08-07 15:51:49", "sentiment_score": 0.7887}
+{"news_id": "news_20220807_000034", "ts_code": "688521", "name": "芯原股份", "date": "2022-08-07 15:46:12", "sentiment_score": 0.7946}
+{"news_id": "news_20220807_000044", "ts_code": "300750", "name": "宁德时代", "date": "2022-08-07 11:55:44", "sentiment_score": 0.679}
+{"news_id": "news_20220807_000044", "ts_code": "000625", "name": "长安汽车", "date": "2022-08-07 11:55:44", "sentiment_score": 0.679}

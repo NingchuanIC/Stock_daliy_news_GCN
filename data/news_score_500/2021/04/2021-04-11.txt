@@ -1,0 +1,8 @@
+{"news_id": "news_20210411_000024", "ts_code": "601211", "name": "国泰君安", "date": "2021-04-11 19:05:15", "sentiment_score": 0.7742}
+{"news_id": "news_20210411_000028", "ts_code": "002352", "name": "顺丰控股", "date": "2021-04-11 18:48:28", "sentiment_score": 0.6764}
+{"news_id": "news_20210411_000029", "ts_code": "002352", "name": "顺丰控股", "date": "2021-04-11 18:32:38", "sentiment_score": 0.6528}
+{"news_id": "news_20210411_000050", "ts_code": "002371", "name": "北方华创", "date": "2021-04-11 16:38:42", "sentiment_score": 0.8355}
+{"news_id": "news_20210411_000052", "ts_code": "000725", "name": "京东方A", "date": "2021-04-11 16:34:12", "sentiment_score": 0.6861}
+{"news_id": "news_20210411_000066", "ts_code": "300750", "name": "宁德时代", "date": "2021-04-11 15:38:49", "sentiment_score": 0.6513}
+{"news_id": "news_20210411_000066", "ts_code": "603993", "name": "洛阳钼业", "date": "2021-04-11 15:38:49", "sentiment_score": 0.6513}
+{"news_id": "news_20210411_000075", "ts_code": "603019", "name": "中科曙光", "date": "2021-04-11 14:18:51", "sentiment_score": 0.8158}

@@ -1,0 +1,6 @@
+{"news_id": "news_20201005_000028", "ts_code": "300750", "name": "宁德时代", "date": "2020-10-05 13:17:13", "sentiment_score": 0.6787}
+{"news_id": "news_20201005_000028", "ts_code": "601633", "name": "长城汽车", "date": "2020-10-05 13:17:13", "sentiment_score": 0.6787}
+{"news_id": "news_20201005_000028", "ts_code": "601012", "name": "隆基股份", "date": "2020-10-05 13:17:13", "sentiment_score": 0.6787}
+{"news_id": "news_20201005_000028", "ts_code": "600031", "name": "三一重工", "date": "2020-10-05 13:17:13", "sentiment_score": 0.6787}
+{"news_id": "news_20201005_000030", "ts_code": "300750", "name": "宁德时代", "date": "2020-10-05 11:24:59", "sentiment_score": 0.6414}
+{"news_id": "news_20201005_000038", "ts_code": "002594", "name": "比亚迪", "date": "2020-10-05 10:01:42", "sentiment_score": 0.8745}

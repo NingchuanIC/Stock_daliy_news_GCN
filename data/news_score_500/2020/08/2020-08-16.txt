@@ -1,0 +1,7 @@
+{"news_id": "news_20200816_000001", "ts_code": "002594", "name": "比亚迪", "date": "2020-08-16 22:43:22", "sentiment_score": 0.7859}
+{"news_id": "news_20200816_000017", "ts_code": "300251", "name": "光线传媒", "date": "2020-08-16 16:42:32", "sentiment_score": 0.6199}
+{"news_id": "news_20200816_000024", "ts_code": "002466", "name": "天齐锂业", "date": "2020-08-16 13:22:50", "sentiment_score": 0.6592}
+{"news_id": "news_20200816_000025", "ts_code": "601857", "name": "中国石油", "date": "2020-08-16 12:51:12", "sentiment_score": 0.7668}
+{"news_id": "news_20200816_000027", "ts_code": "002466", "name": "天齐锂业", "date": "2020-08-16 12:40:21", "sentiment_score": 0.749}
+{"news_id": "news_20200816_000030", "ts_code": "601728", "name": "中国电信", "date": "2020-08-16 11:59:25", "sentiment_score": 0.6734}
+{"news_id": "news_20200816_000031", "ts_code": "002415", "name": "海康威视", "date": "2020-08-16 11:58:50", "sentiment_score": 0.6655}

@@ -1,0 +1,16 @@
+{"news_id": "news_20231005_000067", "ts_code": "601888", "name": "中国中免", "date": "2023-10-05 15:39:29", "sentiment_score": 0.8253}
+{"news_id": "news_20231005_000075", "ts_code": "000157", "name": "中联重科", "date": "2023-10-05 14:55:21", "sentiment_score": 0.7738}
+{"news_id": "news_20231005_000076", "ts_code": "601628", "name": "中国人寿", "date": "2023-10-05 14:51:12", "sentiment_score": 0.7751}
+{"news_id": "news_20231005_000082", "ts_code": "002594", "name": "比亚迪", "date": "2023-10-05 13:48:13", "sentiment_score": 0.7688}
+{"news_id": "news_20231005_000083", "ts_code": "601601", "name": "中国太保", "date": "2023-10-05 13:30:14", "sentiment_score": 0.7455}
+{"news_id": "news_20231005_000087", "ts_code": "601600", "name": "中国铝业", "date": "2023-10-05 13:14:11", "sentiment_score": 0.7608}
+{"news_id": "news_20231005_000088", "ts_code": "600276", "name": "恒瑞医药", "date": "2023-10-05 12:57:31", "sentiment_score": 0.424}
+{"news_id": "news_20231005_000088", "ts_code": "000333", "name": "美的集团", "date": "2023-10-05 12:57:31", "sentiment_score": 0.424}
+{"news_id": "news_20231005_000088", "ts_code": "000725", "name": "京东方A", "date": "2023-10-05 12:57:31", "sentiment_score": 0.424}
+{"news_id": "news_20231005_000088", "ts_code": "300014", "name": "亿纬锂能", "date": "2023-10-05 12:57:31", "sentiment_score": 0.424}
+{"news_id": "news_20231005_000088", "ts_code": "601668", "name": "中国建筑", "date": "2023-10-05 12:57:31", "sentiment_score": 0.424}
+{"news_id": "news_20231005_000088", "ts_code": "600887", "name": "伊利股份", "date": "2023-10-05 12:57:31", "sentiment_score": 0.424}
+{"news_id": "news_20231005_000088", "ts_code": "002709", "name": "天赐材料", "date": "2023-10-05 12:57:31", "sentiment_score": 0.424}
+{"news_id": "news_20231005_000088", "ts_code": "600690", "name": "海尔智家", "date": "2023-10-05 12:57:31", "sentiment_score": 0.424}
+{"news_id": "news_20231005_000088", "ts_code": "002050", "name": "三花智控", "date": "2023-10-05 12:57:31", "sentiment_score": 0.424}
+{"news_id": "news_20231005_000089", "ts_code": "600418", "name": "江淮汽车", "date": "2023-10-05 12:42:17", "sentiment_score": 0.4788}

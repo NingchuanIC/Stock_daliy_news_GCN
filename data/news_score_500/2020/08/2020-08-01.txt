@@ -1,0 +1,4 @@
+{"news_id": "news_20200801_000011", "ts_code": "600050", "name": "中国联通", "date": "2020-08-01 16:08:17", "sentiment_score": 0.7127}
+{"news_id": "news_20200801_000020", "ts_code": "600030", "name": "中信证券", "date": "2020-08-01 10:44:21", "sentiment_score": 0.7015}
+{"news_id": "news_20200801_000022", "ts_code": "601857", "name": "中国石油", "date": "2020-08-01 10:01:22", "sentiment_score": 0.6419}
+{"news_id": "news_20200801_000025", "ts_code": "600050", "name": "中国联通", "date": "2020-08-01 09:44:54", "sentiment_score": 0.708}

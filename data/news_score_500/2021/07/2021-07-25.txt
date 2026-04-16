@@ -1,0 +1,6 @@
+{"news_id": "news_20210725_000002", "ts_code": "600030", "name": "中信证券", "date": "2021-07-25 22:59:53", "sentiment_score": 0.6928}
+{"news_id": "news_20210725_000024", "ts_code": "002294", "name": "信立泰", "date": "2021-07-25 17:34:57", "sentiment_score": 0.7301}
+{"news_id": "news_20210725_000033", "ts_code": "002340", "name": "格林美", "date": "2021-07-25 17:03:03", "sentiment_score": 0.7388}
+{"news_id": "news_20210725_000041", "ts_code": "600745", "name": "闻泰科技", "date": "2021-07-25 16:20:29", "sentiment_score": 0.558}
+{"news_id": "news_20210725_000056", "ts_code": "300433", "name": "蓝思科技", "date": "2021-07-25 09:51:34", "sentiment_score": 0.7509}
+{"news_id": "news_20210725_000056", "ts_code": "600745", "name": "闻泰科技", "date": "2021-07-25 09:51:34", "sentiment_score": 0.7509}

@@ -1,0 +1,9 @@
+{"news_id": "news_20251123_000008", "ts_code": "000625", "name": "长安汽车", "date": "2025-11-23 20:44:39", "sentiment_score": 0.7642}
+{"news_id": "news_20251123_000024", "ts_code": "600745", "name": "闻泰科技", "date": "2025-11-23 18:48:06", "sentiment_score": 0.5204}
+{"news_id": "news_20251123_000028", "ts_code": "600030", "name": "中信证券", "date": "2025-11-23 17:30:08", "sentiment_score": 0.6952}
+{"news_id": "news_20251123_000034", "ts_code": "002475", "name": "立讯精密", "date": "2025-11-23 16:26:27", "sentiment_score": 0.8086}
+{"news_id": "news_20251123_000044", "ts_code": "688223", "name": "晶科能源", "date": "2025-11-23 16:11:16", "sentiment_score": 0.7618}
+{"news_id": "news_20251123_000048", "ts_code": "688506", "name": "百利天恒", "date": "2025-11-23 15:44:38", "sentiment_score": 0.7072}
+{"news_id": "news_20251123_000063", "ts_code": "601633", "name": "长城汽车", "date": "2025-11-23 14:22:01", "sentiment_score": 0.567}
+{"news_id": "news_20251123_000087", "ts_code": "601398", "name": "工商银行", "date": "2025-11-23 10:57:29", "sentiment_score": 0.6663}
+{"news_id": "news_20251123_000087", "ts_code": "601988", "name": "中国银行", "date": "2025-11-23 10:57:29", "sentiment_score": 0.6663}

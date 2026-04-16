@@ -1,0 +1,14 @@
+{"news_id": "news_20250712_000013", "ts_code": "000039", "name": "中集集团", "date": "2025-07-12 18:31:16", "sentiment_score": 0.6269}
+{"news_id": "news_20250712_000028", "ts_code": "002812", "name": "创新股份", "date": "2025-07-12 13:58:20", "sentiment_score": 0.4903}
+{"news_id": "news_20250712_000038", "ts_code": "002714", "name": "牧原股份", "date": "2025-07-12 11:04:33", "sentiment_score": 0.7111}
+{"news_id": "news_20250712_000042", "ts_code": "600104", "name": "上海汽车集团股份有限公司", "date": "2025-07-12 10:25:57", "sentiment_score": 0.6752}
+{"news_id": "news_20250712_000065", "ts_code": "600111", "name": "北方稀土", "date": "2025-07-12 07:42:04", "sentiment_score": 0.6533}
+{"news_id": "news_20250712_000073", "ts_code": "002230", "name": "科大讯飞", "date": "2025-07-12 06:07:08", "sentiment_score": 0.5944}
+{"news_id": "news_20250712_000073", "ts_code": "000333", "name": "美的集团", "date": "2025-07-12 06:07:08", "sentiment_score": 0.5944}
+{"news_id": "news_20250712_000073", "ts_code": "601899", "name": "紫金矿业", "date": "2025-07-12 06:07:08", "sentiment_score": 0.5944}
+{"news_id": "news_20250712_000073", "ts_code": "002241", "name": "歌尔股份", "date": "2025-07-12 06:07:08", "sentiment_score": 0.5944}
+{"news_id": "news_20250712_000073", "ts_code": "600029", "name": "南方航空", "date": "2025-07-12 06:07:08", "sentiment_score": 0.5944}
+{"news_id": "news_20250712_000073", "ts_code": "000338", "name": "潍柴动力", "date": "2025-07-12 06:07:08", "sentiment_score": 0.5944}
+{"news_id": "news_20250712_000075", "ts_code": "601211", "name": "国泰海通", "date": "2025-07-12 06:04:14", "sentiment_score": 0.7307}
+{"news_id": "news_20250712_000075", "ts_code": "600030", "name": "中信证券", "date": "2025-07-12 06:04:14", "sentiment_score": 0.7307}
+{"news_id": "news_20250712_000075", "ts_code": "601988", "name": "中国银行", "date": "2025-07-12 06:04:14", "sentiment_score": 0.7307}

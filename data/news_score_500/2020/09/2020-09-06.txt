@@ -1,0 +1,4 @@
+{"news_id": "news_20200906_000017", "ts_code": "000333", "name": "美的集团", "date": "2020-09-06 15:22:28", "sentiment_score": 0.7666}
+{"news_id": "news_20200906_000021", "ts_code": "601615", "name": "明阳智能", "date": "2020-09-06 14:12:17", "sentiment_score": 0.728}
+{"news_id": "news_20200906_000034", "ts_code": "601601", "name": "中国太保", "date": "2020-09-06 09:38:16", "sentiment_score": 0.7357}
+{"news_id": "news_20200906_000036", "ts_code": "600521", "name": "华海药业", "date": "2020-09-06 08:55:22", "sentiment_score": 0.741}

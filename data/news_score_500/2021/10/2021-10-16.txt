@@ -1,0 +1,5 @@
+{"news_id": "news_20211016_000001", "ts_code": "600030", "name": "中信证券", "date": "2021-10-16 22:35:13", "sentiment_score": 0.7105}
+{"news_id": "news_20211016_000003", "ts_code": "300750", "name": "宁德时代", "date": "2021-10-16 22:13:26", "sentiment_score": 0.5606}
+{"news_id": "news_20211016_000003", "ts_code": "300207", "name": "欣旺达", "date": "2021-10-16 22:13:26", "sentiment_score": 0.5606}
+{"news_id": "news_20211016_000004", "ts_code": "600019", "name": "宝钢股份", "date": "2021-10-16 21:56:45", "sentiment_score": 0.3731}
+{"news_id": "news_20211016_000015", "ts_code": "601766", "name": "中国中车", "date": "2021-10-16 14:20:20", "sentiment_score": 0.5993}

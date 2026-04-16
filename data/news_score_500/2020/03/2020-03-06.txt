@@ -1,0 +1,16 @@
+{"news_id": "news_20200306_000022", "ts_code": "600166", "name": "福田汽车", "date": "2020-03-06 20:34:36", "sentiment_score": 0.8491}
+{"news_id": "news_20200306_000042", "ts_code": "002594", "name": "比亚迪", "date": "2020-03-06 19:10:45", "sentiment_score": 0.7938}
+{"news_id": "news_20200306_000056", "ts_code": "601155", "name": "新城控股", "date": "2020-03-06 17:57:55", "sentiment_score": 0.8262}
+{"news_id": "news_20200306_000063", "ts_code": "000651", "name": "格力电器", "date": "2020-03-06 17:32:53", "sentiment_score": 0.8266}
+{"news_id": "news_20200306_000063", "ts_code": "600519", "name": "贵州茅台", "date": "2020-03-06 17:32:53", "sentiment_score": 0.8266}
+{"news_id": "news_20200306_000063", "ts_code": "601318", "name": "中国平安", "date": "2020-03-06 17:32:53", "sentiment_score": 0.8266}
+{"news_id": "news_20200306_000063", "ts_code": "300059", "name": "东方财富", "date": "2020-03-06 17:32:53", "sentiment_score": 0.8266}
+{"news_id": "news_20200306_000074", "ts_code": "002594", "name": "比亚迪", "date": "2020-03-06 17:01:38", "sentiment_score": 0.8487}
+{"news_id": "news_20200306_000079", "ts_code": "600104", "name": "上汽集团", "date": "2020-03-06 16:41:14", "sentiment_score": 0.8601}
+{"news_id": "news_20200306_000102", "ts_code": "002130", "name": "沃尔核材", "date": "2020-03-06 14:10:59", "sentiment_score": 0.8146}
+{"news_id": "news_20200306_000113", "ts_code": "601668", "name": "中国建筑股份有限公司", "date": "2020-03-06 12:33:46", "sentiment_score": 0.6912}
+{"news_id": "news_20200306_000132", "ts_code": "601633", "name": "长城汽车", "date": "2020-03-06 10:25:21", "sentiment_score": 0.6581}
+{"news_id": "news_20200306_000134", "ts_code": "600029", "name": "南方航空", "date": "2020-03-06 10:02:50", "sentiment_score": 0.8816}
+{"news_id": "news_20200306_000134", "ts_code": "600115", "name": "东方航空", "date": "2020-03-06 10:02:50", "sentiment_score": 0.8816}
+{"news_id": "news_20200306_000136", "ts_code": "601318", "name": "中国平安", "date": "2020-03-06 08:54:16", "sentiment_score": 0.7036}
+{"news_id": "news_20200306_000138", "ts_code": "601186", "name": "中国铁建", "date": "2020-03-06 08:40:35", "sentiment_score": 0.7171}

@@ -1,0 +1,5 @@
+{"news_id": "news_20201017_000006", "ts_code": "601398", "name": "工商银行", "date": "2020-10-17 19:36:04", "sentiment_score": 0.6428}
+{"news_id": "news_20201017_000015", "ts_code": "600050", "name": "中国联通", "date": "2020-10-17 17:44:33", "sentiment_score": 0.6609}
+{"news_id": "news_20201017_000019", "ts_code": "600745", "name": "闻泰科技", "date": "2020-10-17 16:44:28", "sentiment_score": 0.7381}
+{"news_id": "news_20201017_000020", "ts_code": "601186", "name": "中国铁建股份有限公司", "date": "2020-10-17 15:51:28", "sentiment_score": 0.5358}
+{"news_id": "news_20201017_000055", "ts_code": "600050", "name": "中国联通", "date": "2020-10-17 00:08:33", "sentiment_score": 0.8823}

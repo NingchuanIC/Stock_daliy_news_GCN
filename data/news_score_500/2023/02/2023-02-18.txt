@@ -1,0 +1,10 @@
+{"news_id": "news_20230218_000011", "ts_code": "601728", "name": "中国电信", "date": "2023-02-18 17:46:31", "sentiment_score": 0.6781}
+{"news_id": "news_20230218_000012", "ts_code": "002129", "name": "TCL中环", "date": "2023-02-18 17:01:04", "sentiment_score": 0.7085}
+{"news_id": "news_20230218_000015", "ts_code": "000338", "name": "潍柴动力", "date": "2023-02-18 15:47:00", "sentiment_score": 0.7301}
+{"news_id": "news_20230218_000024", "ts_code": "601186", "name": "中国铁建", "date": "2023-02-18 13:13:48", "sentiment_score": 0.7624}
+{"news_id": "news_20230218_000041", "ts_code": "600028", "name": "中国石油化工股份有限公司", "date": "2023-02-18 10:16:29", "sentiment_score": 0.6918}
+{"news_id": "news_20230218_000041", "ts_code": "601857", "name": "中国石油", "date": "2023-02-18 10:16:29", "sentiment_score": 0.6918}
+{"news_id": "news_20230218_000042", "ts_code": "600028", "name": "中国石化", "date": "2023-02-18 10:15:33", "sentiment_score": 0.7289}
+{"news_id": "news_20230218_000043", "ts_code": "601728", "name": "中国电信", "date": "2023-02-18 10:12:26", "sentiment_score": 0.7114}
+{"news_id": "news_20230218_000052", "ts_code": "600905", "name": "三峡能源", "date": "2023-02-18 08:11:42", "sentiment_score": 0.6443}
+{"news_id": "news_20230218_000083", "ts_code": "601012", "name": "隆基绿能", "date": "2023-02-18 01:39:52", "sentiment_score": 0.6576}

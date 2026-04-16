@@ -1,0 +1,6 @@
+{"news_id": "news_20220618_000005", "ts_code": "002460", "name": "赣锋锂业", "date": "2022-06-18 21:16:18", "sentiment_score": 0.7706}
+{"news_id": "news_20220618_000010", "ts_code": "600519", "name": "贵州茅台", "date": "2022-06-18 20:09:00", "sentiment_score": 0.6085}
+{"news_id": "news_20220618_000012", "ts_code": "600104", "name": "上汽集团", "date": "2022-06-18 19:17:09", "sentiment_score": 0.7332}
+{"news_id": "news_20220618_000016", "ts_code": "300750", "name": "宁德时代", "date": "2022-06-18 17:34:57", "sentiment_score": 0.6813}
+{"news_id": "news_20220618_000040", "ts_code": "601211", "name": "国泰君安", "date": "2022-06-18 09:56:29", "sentiment_score": 0.6391}
+{"news_id": "news_20220618_000050", "ts_code": "000625", "name": "长安汽车", "date": "2022-06-18 08:48:47", "sentiment_score": 0.6814}

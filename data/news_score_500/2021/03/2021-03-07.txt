@@ -1,0 +1,9 @@
+{"news_id": "news_20210307_000007", "ts_code": "688008", "name": "澜起科技", "date": "2021-03-07 18:40:04", "sentiment_score": 0.1655}
+{"news_id": "news_20210307_000008", "ts_code": "601728", "name": "中国电信", "date": "2021-03-07 18:06:14", "sentiment_score": 0.7563}
+{"news_id": "news_20210307_000016", "ts_code": "600332", "name": "白云山", "date": "2021-03-07 16:59:11", "sentiment_score": 0.648}
+{"news_id": "news_20210307_000017", "ts_code": "002714", "name": "牧原股份", "date": "2021-03-07 16:53:26", "sentiment_score": 0.8785}
+{"news_id": "news_20210307_000027", "ts_code": "002460", "name": "赣锋锂业", "date": "2021-03-07 16:20:20", "sentiment_score": 0.7628}
+{"news_id": "news_20210307_000032", "ts_code": "300433", "name": "蓝思科技", "date": "2021-03-07 14:57:34", "sentiment_score": 0.7049}
+{"news_id": "news_20210307_000036", "ts_code": "600111", "name": "北方稀土", "date": "2021-03-07 14:19:58", "sentiment_score": 0.7044}
+{"news_id": "news_20210307_000037", "ts_code": "600104", "name": "上汽集团", "date": "2021-03-07 14:18:54", "sentiment_score": 0.8835}
+{"news_id": "news_20210307_000044", "ts_code": "000651", "name": "格力电器", "date": "2021-03-07 08:25:24", "sentiment_score": 0.6457}

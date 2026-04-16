@@ -1,0 +1,12 @@
+{"news_id": "news_20231223_000001", "ts_code": "600795", "name": "国电电力", "date": "2023-12-23 22:56:13", "sentiment_score": 0.7775}
+{"news_id": "news_20231223_000004", "ts_code": "600079", "name": "人福医药", "date": "2023-12-23 21:15:24", "sentiment_score": 0.6667}
+{"news_id": "news_20231223_000012", "ts_code": "600028", "name": "中国石油化工股份有限公司", "date": "2023-12-23 20:04:01", "sentiment_score": 0.6722}
+{"news_id": "news_20231223_000012", "ts_code": "601857", "name": "中国石油", "date": "2023-12-23 20:04:01", "sentiment_score": 0.6722}
+{"news_id": "news_20231223_000025", "ts_code": "300015", "name": "爱尔眼科", "date": "2023-12-23 16:26:03", "sentiment_score": 0.6659}
+{"news_id": "news_20231223_000035", "ts_code": "002594", "name": "比亚迪", "date": "2023-12-23 14:48:35", "sentiment_score": 0.6637}
+{"news_id": "news_20231223_000039", "ts_code": "601857", "name": "中国石油", "date": "2023-12-23 14:13:28", "sentiment_score": 0.7642}
+{"news_id": "news_20231223_000044", "ts_code": "300207", "name": "欣旺达", "date": "2023-12-23 13:39:11", "sentiment_score": 0.6724}
+{"news_id": "news_20231223_000062", "ts_code": "000625", "name": "长安汽车", "date": "2023-12-23 09:47:22", "sentiment_score": 0.6485}
+{"news_id": "news_20231223_000067", "ts_code": "601288", "name": "农业银行", "date": "2023-12-23 09:03:40", "sentiment_score": 0.6223}
+{"news_id": "news_20231223_000080", "ts_code": "601211", "name": "国泰君安", "date": "2023-12-23 01:39:54", "sentiment_score": 0.2364}
+{"news_id": "news_20231223_000080", "ts_code": "600030", "name": "中信证券", "date": "2023-12-23 01:39:54", "sentiment_score": 0.2364}

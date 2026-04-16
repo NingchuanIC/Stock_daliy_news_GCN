@@ -1,0 +1,13 @@
+{"news_id": "news_20241214_000003", "ts_code": "600028", "name": "中国石化", "date": "2024-12-14 22:43:11", "sentiment_score": 0.4171}
+{"news_id": "news_20241214_000003", "ts_code": "002714", "name": "牧原股份", "date": "2024-12-14 22:43:11", "sentiment_score": 0.4171}
+{"news_id": "news_20241214_000003", "ts_code": "002415", "name": "海康威视", "date": "2024-12-14 22:43:11", "sentiment_score": 0.4171}
+{"news_id": "news_20241214_000004", "ts_code": "600028", "name": "中国石化", "date": "2024-12-14 22:43:05", "sentiment_score": 0.7069}
+{"news_id": "news_20241214_000004", "ts_code": "002714", "name": "牧原股份", "date": "2024-12-14 22:43:05", "sentiment_score": 0.7069}
+{"news_id": "news_20241214_000004", "ts_code": "002415", "name": "海康威视", "date": "2024-12-14 22:43:05", "sentiment_score": 0.7069}
+{"news_id": "news_20241214_000005", "ts_code": "300014", "name": "亿纬锂能", "date": "2024-12-14 22:28:26", "sentiment_score": 0.7246}
+{"news_id": "news_20241214_000007", "ts_code": "601669", "name": "中国电建", "date": "2024-12-14 21:56:39", "sentiment_score": 0.6643}
+{"news_id": "news_20241214_000010", "ts_code": "603019", "name": "中科曙光", "date": "2024-12-14 21:03:33", "sentiment_score": 0.4285}
+{"news_id": "news_20241214_000015", "ts_code": "300001", "name": "特锐德", "date": "2024-12-14 19:07:34", "sentiment_score": 0.7692}
+{"news_id": "news_20241214_000020", "ts_code": "600031", "name": "三一重工", "date": "2024-12-14 18:43:24", "sentiment_score": 0.6835}
+{"news_id": "news_20241214_000024", "ts_code": "300207", "name": "欣旺达", "date": "2024-12-14 17:36:27", "sentiment_score": 0.5257}
+{"news_id": "news_20241214_000025", "ts_code": "300750", "name": "宁德时代", "date": "2024-12-14 16:51:41", "sentiment_score": 0.1113}

@@ -1,0 +1,4 @@
+{"news_id": "news_20230114_000015", "ts_code": "601899", "name": "紫金矿业", "date": "2023-01-14 19:30:38", "sentiment_score": 0.3568}
+{"news_id": "news_20230114_000025", "ts_code": "002594", "name": "比亚迪", "date": "2023-01-14 16:52:08", "sentiment_score": 0.8071}
+{"news_id": "news_20230114_000042", "ts_code": "601628", "name": "中国人寿", "date": "2023-01-14 12:37:23", "sentiment_score": 0.7843}
+{"news_id": "news_20230114_000093", "ts_code": "600153", "name": "建发股份", "date": "2023-01-14 00:29:40", "sentiment_score": 0.7564}

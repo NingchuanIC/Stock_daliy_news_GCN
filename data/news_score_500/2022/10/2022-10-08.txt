@@ -1,0 +1,10 @@
+{"news_id": "news_20221008_000007", "ts_code": "002466", "name": "天齐锂业", "date": "2022-10-08 21:00:26", "sentiment_score": 0.7253}
+{"news_id": "news_20221008_000015", "ts_code": "601186", "name": "中国铁建", "date": "2022-10-08 18:24:11", "sentiment_score": 0.7427}
+{"news_id": "news_20221008_000029", "ts_code": "600900", "name": "中国长江电力股份有限公司", "date": "2022-10-08 15:32:32", "sentiment_score": 0.1976}
+{"news_id": "news_20221008_000029", "ts_code": "600905", "name": "三峡能源", "date": "2022-10-08 15:32:32", "sentiment_score": 0.1976}
+{"news_id": "news_20221008_000030", "ts_code": "002594", "name": "比亚迪股份有限公司", "date": "2022-10-08 15:17:17", "sentiment_score": 0.6323}
+{"news_id": "news_20221008_000031", "ts_code": "600104", "name": "上汽集团", "date": "2022-10-08 15:06:56", "sentiment_score": 0.6218}
+{"news_id": "news_20221008_000037", "ts_code": "600309", "name": "万华化学集团股份有限公司", "date": "2022-10-08 13:44:10", "sentiment_score": 0.3899}
+{"news_id": "news_20221008_000042", "ts_code": "300122", "name": "智飞生物", "date": "2022-10-08 12:11:16", "sentiment_score": 0.6775}
+{"news_id": "news_20221008_000051", "ts_code": "600900", "name": "长江电力", "date": "2022-10-08 09:49:48", "sentiment_score": 0.642}
+{"news_id": "news_20221008_000051", "ts_code": "600905", "name": "三峡能源", "date": "2022-10-08 09:49:48", "sentiment_score": 0.642}

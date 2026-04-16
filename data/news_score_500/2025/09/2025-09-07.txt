@@ -1,0 +1,11 @@
+{"news_id": "news_20250907_000013", "ts_code": "000625", "name": "长安汽车", "date": "2025-09-07 18:52:18", "sentiment_score": 0.6508}
+{"news_id": "news_20250907_000050", "ts_code": "688180", "name": "君实生物", "date": "2025-09-07 15:37:18", "sentiment_score": 0.2389}
+{"news_id": "news_20250907_000066", "ts_code": "600030", "name": "中信证券", "date": "2025-09-07 15:10:39", "sentiment_score": 0.6506}
+{"news_id": "news_20250907_000067", "ts_code": "300308", "name": "中际旭创", "date": "2025-09-07 14:50:11", "sentiment_score": 0.8358}
+{"news_id": "news_20250907_000069", "ts_code": "688256", "name": "寒武纪", "date": "2025-09-07 14:17:01", "sentiment_score": 0.6719}
+{"news_id": "news_20250907_000072", "ts_code": "301236", "name": "软通动力", "date": "2025-09-07 13:24:11", "sentiment_score": 0.5657}
+{"news_id": "news_20250907_000078", "ts_code": "002230", "name": "科大讯飞股份有限公司", "date": "2025-09-07 09:25:17", "sentiment_score": 0.665}
+{"news_id": "news_20250907_000084", "ts_code": "300433", "name": "蓝思科技", "date": "2025-09-07 07:48:53", "sentiment_score": 0.6919}
+{"news_id": "news_20250907_000084", "ts_code": "603501", "name": "豪威集团", "date": "2025-09-07 07:48:53", "sentiment_score": 0.6919}
+{"news_id": "news_20250907_000084", "ts_code": "688012", "name": "中微公司", "date": "2025-09-07 07:48:53", "sentiment_score": 0.6919}
+{"news_id": "news_20250907_000084", "ts_code": "688008", "name": "澜起科技", "date": "2025-09-07 07:48:53", "sentiment_score": 0.6919}

@@ -1,0 +1,16 @@
+{"news_id": "news_20250405_000005", "ts_code": "002594", "name": "比亚迪", "date": "2025-04-05 22:17:33", "sentiment_score": 0.6646}
+{"news_id": "news_20250405_000010", "ts_code": "600415", "name": "小商品城", "date": "2025-04-05 19:14:21", "sentiment_score": 0.6901}
+{"news_id": "news_20250405_000038", "ts_code": "603501", "name": "韦尔股份", "date": "2025-04-05 12:43:13", "sentiment_score": 0.6646}
+{"news_id": "news_20250405_000038", "ts_code": "688041", "name": "海光信息", "date": "2025-04-05 12:43:13", "sentiment_score": 0.6646}
+{"news_id": "news_20250405_000038", "ts_code": "002156", "name": "通富微电", "date": "2025-04-05 12:43:13", "sentiment_score": 0.6646}
+{"news_id": "news_20250405_000038", "ts_code": "002371", "name": "北方华创", "date": "2025-04-05 12:43:13", "sentiment_score": 0.6646}
+{"news_id": "news_20250405_000038", "ts_code": "603986", "name": "兆易创新", "date": "2025-04-05 12:43:13", "sentiment_score": 0.6646}
+{"news_id": "news_20250405_000038", "ts_code": "688008", "name": "澜起科技", "date": "2025-04-05 12:43:13", "sentiment_score": 0.6646}
+{"news_id": "news_20250405_000039", "ts_code": "603501", "name": "韦尔股份", "date": "2025-04-05 12:43:07", "sentiment_score": 0.693}
+{"news_id": "news_20250405_000039", "ts_code": "688041", "name": "海光信息", "date": "2025-04-05 12:43:07", "sentiment_score": 0.693}
+{"news_id": "news_20250405_000039", "ts_code": "002156", "name": "通富微电", "date": "2025-04-05 12:43:07", "sentiment_score": 0.693}
+{"news_id": "news_20250405_000039", "ts_code": "002371", "name": "北方华创", "date": "2025-04-05 12:43:07", "sentiment_score": 0.693}
+{"news_id": "news_20250405_000039", "ts_code": "603986", "name": "兆易创新", "date": "2025-04-05 12:43:07", "sentiment_score": 0.693}
+{"news_id": "news_20250405_000039", "ts_code": "688008", "name": "澜起科技", "date": "2025-04-05 12:43:07", "sentiment_score": 0.693}
+{"news_id": "news_20250405_000056", "ts_code": "601607", "name": "上海医药", "date": "2025-04-05 08:22:57", "sentiment_score": 0.7661}
+{"news_id": "news_20250405_000057", "ts_code": "601607", "name": "上海医药", "date": "2025-04-05 08:22:50", "sentiment_score": 0.7759}

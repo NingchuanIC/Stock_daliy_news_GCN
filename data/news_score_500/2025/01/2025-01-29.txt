@@ -1,0 +1,4 @@
+{"news_id": "news_20250129_000017", "ts_code": "002812", "name": "Lee", "date": "2025-01-29 22:43:57", "sentiment_score": 0.7188}
+{"news_id": "news_20250129_000020", "ts_code": "002812", "name": "Lee", "date": "2025-01-29 22:42:11", "sentiment_score": 0.7111}
+{"news_id": "news_20250129_000073", "ts_code": "600438", "name": "通威股份", "date": "2025-01-29 20:03:04", "sentiment_score": 0.7942}
+{"news_id": "news_20250129_000172", "ts_code": "601127", "name": "赛力斯", "date": "2025-01-29 11:10:28", "sentiment_score": 0.6884}

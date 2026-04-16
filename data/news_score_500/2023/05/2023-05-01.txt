@@ -1,0 +1,16 @@
+{"news_id": "news_20230501_000039", "ts_code": "601398", "name": "中国工商银行股份有限公司", "date": "2023-05-01 19:43:24", "sentiment_score": 0.7247}
+{"news_id": "news_20230501_000039", "ts_code": "601988", "name": "中国银行", "date": "2023-05-01 19:43:24", "sentiment_score": 0.7247}
+{"news_id": "news_20230501_000045", "ts_code": "600019", "name": "宝钢股份", "date": "2023-05-01 18:48:52", "sentiment_score": 0.3789}
+{"news_id": "news_20230501_000051", "ts_code": "600519", "name": "贵州茅台", "date": "2023-05-01 18:17:06", "sentiment_score": 0.748}
+{"news_id": "news_20230501_000051", "ts_code": "601899", "name": "紫金矿业", "date": "2023-05-01 18:17:06", "sentiment_score": 0.748}
+{"news_id": "news_20230501_000051", "ts_code": "601600", "name": "中国铝业", "date": "2023-05-01 18:17:06", "sentiment_score": 0.748}
+{"news_id": "news_20230501_000051", "ts_code": "002415", "name": "海康威视", "date": "2023-05-01 18:17:06", "sentiment_score": 0.748}
+{"news_id": "news_20230501_000051", "ts_code": "300068", "name": "南都电源", "date": "2023-05-01 18:17:06", "sentiment_score": 0.748}
+{"news_id": "news_20230501_000051", "ts_code": "300628", "name": "亿联网络", "date": "2023-05-01 18:17:06", "sentiment_score": 0.748}
+{"news_id": "news_20230501_000051", "ts_code": "002594", "name": "比亚迪", "date": "2023-05-01 18:17:06", "sentiment_score": 0.748}
+{"news_id": "news_20230501_000063", "ts_code": "601238", "name": "广汽集团", "date": "2023-05-01 16:45:22", "sentiment_score": 0.7617}
+{"news_id": "news_20230501_000095", "ts_code": "601211", "name": "国泰君安", "date": "2023-05-01 13:49:26", "sentiment_score": 0.86}
+{"news_id": "news_20230501_000096", "ts_code": "300207", "name": "欣旺达", "date": "2023-05-01 13:44:48", "sentiment_score": 0.7655}
+{"news_id": "news_20230501_000099", "ts_code": "000333", "name": "美的集团", "date": "2023-05-01 13:30:11", "sentiment_score": 0.8553}
+{"news_id": "news_20230501_000101", "ts_code": "000858", "name": "五粮液", "date": "2023-05-01 13:16:34", "sentiment_score": 0.7153}
+{"news_id": "news_20230501_000114", "ts_code": "002475", "name": "立讯精密", "date": "2023-05-01 09:05:22", "sentiment_score": 0.8618}

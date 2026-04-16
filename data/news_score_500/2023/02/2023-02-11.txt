@@ -1,0 +1,15 @@
+{"news_id": "news_20230211_000006", "ts_code": "600690", "name": "海尔智家", "date": "2023-02-11 22:01:43", "sentiment_score": 0.4926}
+{"news_id": "news_20230211_000007", "ts_code": "601857", "name": "中国石油", "date": "2023-02-11 21:34:36", "sentiment_score": 0.6474}
+{"news_id": "news_20230211_000010", "ts_code": "002603", "name": "以岭药业", "date": "2023-02-11 21:20:46", "sentiment_score": 0.6798}
+{"news_id": "news_20230211_000011", "ts_code": "000100", "name": "TCL科技", "date": "2023-02-11 21:16:17", "sentiment_score": 0.6635}
+{"news_id": "news_20230211_000026", "ts_code": "600030", "name": "中信证券", "date": "2023-02-11 19:34:49", "sentiment_score": 0.4983}
+{"news_id": "news_20230211_000032", "ts_code": "300014", "name": "亿纬锂能", "date": "2023-02-11 18:29:33", "sentiment_score": 0.8088}
+{"news_id": "news_20230211_000034", "ts_code": "600028", "name": "中国石化", "date": "2023-02-11 18:18:41", "sentiment_score": 0.5196}
+{"news_id": "news_20230211_000034", "ts_code": "601857", "name": "中国石油", "date": "2023-02-11 18:18:41", "sentiment_score": 0.5196}
+{"news_id": "news_20230211_000046", "ts_code": "300496", "name": "中科创达", "date": "2023-02-11 16:10:06", "sentiment_score": 0.777}
+{"news_id": "news_20230211_000050", "ts_code": "601127", "name": "赛力斯", "date": "2023-02-11 13:49:32", "sentiment_score": 0.7435}
+{"news_id": "news_20230211_000055", "ts_code": "601127", "name": "赛力斯", "date": "2023-02-11 11:45:16", "sentiment_score": 0.6524}
+{"news_id": "news_20230211_000074", "ts_code": "002008", "name": "大族激光", "date": "2023-02-11 07:35:44", "sentiment_score": 0.6645}
+{"news_id": "news_20230211_000075", "ts_code": "002129", "name": "TCL中环", "date": "2023-02-11 06:31:20", "sentiment_score": 0.6813}
+{"news_id": "news_20230211_000075", "ts_code": "600438", "name": "通威股份", "date": "2023-02-11 06:31:20", "sentiment_score": 0.6813}
+{"news_id": "news_20230211_000078", "ts_code": "300750", "name": "宁德时代", "date": "2023-02-11 05:16:23", "sentiment_score": 0.8242}

@@ -1,0 +1,11 @@
+{"news_id": "news_20201121_000003", "ts_code": "600028", "name": "中国石化", "date": "2020-11-21 22:25:20", "sentiment_score": 0.7128}
+{"news_id": "news_20201121_000003", "ts_code": "601857", "name": "中国石油", "date": "2020-11-21 22:25:20", "sentiment_score": 0.7128}
+{"news_id": "news_20201121_000003", "ts_code": "603993", "name": "洛阳钼业", "date": "2020-11-21 22:25:20", "sentiment_score": 0.7128}
+{"news_id": "news_20201121_000003", "ts_code": "600019", "name": "宝钢股份", "date": "2020-11-21 22:25:20", "sentiment_score": 0.7128}
+{"news_id": "news_20201121_000016", "ts_code": "000063", "name": "中兴通讯", "date": "2020-11-21 15:37:31", "sentiment_score": 0.6072}
+{"news_id": "news_20201121_000020", "ts_code": "601628", "name": "中国人寿", "date": "2020-11-21 13:25:41", "sentiment_score": 0.7078}
+{"news_id": "news_20201121_000023", "ts_code": "002405", "name": "北京四维图新科技股份有限公司", "date": "2020-11-21 10:40:37", "sentiment_score": 0.4118}
+{"news_id": "news_20201121_000025", "ts_code": "000063", "name": "中兴通讯", "date": "2020-11-21 08:55:44", "sentiment_score": 0.7096}
+{"news_id": "news_20201121_000026", "ts_code": "600519", "name": "贵州茅台", "date": "2020-11-21 07:24:59", "sentiment_score": 0.7335}
+{"news_id": "news_20201121_000026", "ts_code": "000568", "name": "泸州老窖", "date": "2020-11-21 07:24:59", "sentiment_score": 0.7335}
+{"news_id": "news_20201121_000026", "ts_code": "000858", "name": "五粮液", "date": "2020-11-21 07:24:59", "sentiment_score": 0.7335}

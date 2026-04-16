@@ -1,0 +1,13 @@
+{"news_id": "news_20230402_000004", "ts_code": "601628", "name": "中国人寿", "date": "2023-04-02 21:51:11", "sentiment_score": 0.8318}
+{"news_id": "news_20230402_000004", "ts_code": "002594", "name": "比亚迪", "date": "2023-04-02 21:51:11", "sentiment_score": 0.8318}
+{"news_id": "news_20230402_000005", "ts_code": "601127", "name": "赛力斯", "date": "2023-04-02 21:28:11", "sentiment_score": 0.606}
+{"news_id": "news_20230402_000030", "ts_code": "002594", "name": "比亚迪", "date": "2023-04-02 18:10:05", "sentiment_score": 0.6206}
+{"news_id": "news_20230402_000054", "ts_code": "601899", "name": "紫金矿业", "date": "2023-04-02 16:36:42", "sentiment_score": 0.394}
+{"news_id": "news_20230402_000059", "ts_code": "002594", "name": "比亚迪", "date": "2023-04-02 16:23:18", "sentiment_score": 0.8144}
+{"news_id": "news_20230402_000074", "ts_code": "601127", "name": "赛力斯", "date": "2023-04-02 15:43:05", "sentiment_score": 0.8278}
+{"news_id": "news_20230402_000086", "ts_code": "601127", "name": "赛力斯", "date": "2023-04-02 15:03:28", "sentiment_score": 0.6534}
+{"news_id": "news_20230402_000103", "ts_code": "300014", "name": "亿纬锂能", "date": "2023-04-02 11:03:27", "sentiment_score": 0.689}
+{"news_id": "news_20230402_000104", "ts_code": "601127", "name": "赛力斯", "date": "2023-04-02 10:56:34", "sentiment_score": 0.6634}
+{"news_id": "news_20230402_000105", "ts_code": "300014", "name": "亿纬锂能", "date": "2023-04-02 10:50:08", "sentiment_score": 0.6609}
+{"news_id": "news_20230402_000109", "ts_code": "300014", "name": "亿纬锂能", "date": "2023-04-02 10:27:04", "sentiment_score": 0.6537}
+{"news_id": "news_20230402_000117", "ts_code": "000998", "name": "袁隆平农业高科技股份有限公司", "date": "2023-04-02 07:31:08", "sentiment_score": 0.6846}

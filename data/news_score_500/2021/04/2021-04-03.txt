@@ -1,0 +1,8 @@
+{"news_id": "news_20210403_000005", "ts_code": "300274", "name": "阳光电源", "date": "2021-04-03 19:38:52", "sentiment_score": 0.5513}
+{"news_id": "news_20210403_000005", "ts_code": "002352", "name": "顺丰控股", "date": "2021-04-03 19:38:52", "sentiment_score": 0.5513}
+{"news_id": "news_20210403_000005", "ts_code": "002236", "name": "大华股份", "date": "2021-04-03 19:38:52", "sentiment_score": 0.5513}
+{"news_id": "news_20210403_000005", "ts_code": "603986", "name": "兆易创新", "date": "2021-04-03 19:38:52", "sentiment_score": 0.5513}
+{"news_id": "news_20210403_000028", "ts_code": "601800", "name": "中国交建", "date": "2021-04-03 12:51:53", "sentiment_score": 0.7023}
+{"news_id": "news_20210403_000031", "ts_code": "601186", "name": "中国铁建", "date": "2021-04-03 10:23:10", "sentiment_score": 0.6358}
+{"news_id": "news_20210403_000033", "ts_code": "000157", "name": "中联重科", "date": "2021-04-03 09:22:10", "sentiment_score": 0.6947}
+{"news_id": "news_20210403_000038", "ts_code": "002594", "name": "比亚迪", "date": "2021-04-03 00:38:00", "sentiment_score": 0.6476}

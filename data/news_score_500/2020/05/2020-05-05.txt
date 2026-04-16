@@ -1,0 +1,10 @@
+{"news_id": "news_20200505_000018", "ts_code": "601988", "name": "中国银行", "date": "2020-05-05 21:29:02", "sentiment_score": 0.5986}
+{"news_id": "news_20200505_000024", "ts_code": "600104", "name": "上汽集团", "date": "2020-05-05 20:41:58", "sentiment_score": 0.8201}
+{"news_id": "news_20200505_000031", "ts_code": "601988", "name": "中国银行", "date": "2020-05-05 19:29:58", "sentiment_score": 0.7058}
+{"news_id": "news_20200505_000045", "ts_code": "601988", "name": "中国银行", "date": "2020-05-05 17:49:15", "sentiment_score": 0.6902}
+{"news_id": "news_20200505_000050", "ts_code": "002352", "name": "顺丰控股", "date": "2020-05-05 17:37:53", "sentiment_score": 0.7587}
+{"news_id": "news_20200505_000055", "ts_code": "300001", "name": "特锐德", "date": "2020-05-05 17:15:34", "sentiment_score": 0.7478}
+{"news_id": "news_20200505_000060", "ts_code": "000625", "name": "长安汽车", "date": "2020-05-05 17:07:45", "sentiment_score": 0.7817}
+{"news_id": "news_20200505_000061", "ts_code": "000999", "name": "华润三九", "date": "2020-05-05 17:06:50", "sentiment_score": 0.7413}
+{"news_id": "news_20200505_000109", "ts_code": "600166", "name": "福田汽车", "date": "2020-05-05 14:39:00", "sentiment_score": 0.8097}
+{"news_id": "news_20200505_000129", "ts_code": "600030", "name": "中信证券", "date": "2020-05-05 10:23:58", "sentiment_score": 0.6792}

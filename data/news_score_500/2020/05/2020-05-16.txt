@@ -1,0 +1,4 @@
+{"news_id": "news_20200516_000001", "ts_code": "601857", "name": "中国石油", "date": "2020-05-16 22:55:48", "sentiment_score": 0.5772}
+{"news_id": "news_20200516_000019", "ts_code": "600030", "name": "中信证券", "date": "2020-05-16 15:14:52", "sentiment_score": 0.787}
+{"news_id": "news_20200516_000025", "ts_code": "600050", "name": "中国联通", "date": "2020-05-16 13:21:25", "sentiment_score": 0.6512}
+{"news_id": "news_20200516_000028", "ts_code": "000651", "name": "格力电器", "date": "2020-05-16 10:59:36", "sentiment_score": 0.761}

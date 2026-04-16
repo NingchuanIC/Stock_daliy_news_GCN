@@ -1,0 +1,4 @@
+{"news_id": "news_20190907_000001", "ts_code": "601857", "name": "中国石油", "date": "2019-09-07 22:22:04", "sentiment_score": 0.7398}
+{"news_id": "news_20190907_000006", "ts_code": "600115", "name": "东方航空", "date": "2019-09-07 20:51:02", "sentiment_score": 0.4062}
+{"news_id": "news_20190907_000007", "ts_code": "003816", "name": "中国广核", "date": "2019-09-07 17:36:12", "sentiment_score": 0.7147}
+{"news_id": "news_20190907_000019", "ts_code": "000858", "name": "五粮液", "date": "2019-09-07 00:10:41", "sentiment_score": 0.7969}

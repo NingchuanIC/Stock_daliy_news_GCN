@@ -1,0 +1,15 @@
+{"news_id": "news_20240421_000005", "ts_code": "300308", "name": "中际旭创", "date": "2024-04-21 23:00:44", "sentiment_score": 0.867}
+{"news_id": "news_20240421_000008", "ts_code": "603986", "name": "兆易创新", "date": "2024-04-21 22:51:26", "sentiment_score": 0.6273}
+{"news_id": "news_20240421_000019", "ts_code": "300394", "name": "天孚通信", "date": "2024-04-21 20:50:32", "sentiment_score": 0.7328}
+{"news_id": "news_20240421_000024", "ts_code": "600050", "name": "中国联通", "date": "2024-04-21 20:12:57", "sentiment_score": 0.7171}
+{"news_id": "news_20240421_000051", "ts_code": "300433", "name": "蓝思科技", "date": "2024-04-21 16:44:59", "sentiment_score": 0.8161}
+{"news_id": "news_20240421_000056", "ts_code": "688506", "name": "百利天恒", "date": "2024-04-21 16:22:50", "sentiment_score": 0.8153}
+{"news_id": "news_20240421_000073", "ts_code": "300308", "name": "中际旭创", "date": "2024-04-21 15:41:22", "sentiment_score": 0.8744}
+{"news_id": "news_20240421_000075", "ts_code": "603986", "name": "兆易创新", "date": "2024-04-21 15:38:15", "sentiment_score": 0.6273}
+{"news_id": "news_20240421_000084", "ts_code": "300750", "name": "宁德时代", "date": "2024-04-21 12:15:16", "sentiment_score": 0.7804}
+{"news_id": "news_20240421_000084", "ts_code": "601601", "name": "中国太保", "date": "2024-04-21 12:15:16", "sentiment_score": 0.7804}
+{"news_id": "news_20240421_000084", "ts_code": "600938", "name": "中国海油", "date": "2024-04-21 12:15:16", "sentiment_score": 0.7804}
+{"news_id": "news_20240421_000084", "ts_code": "601127", "name": "赛力斯", "date": "2024-04-21 12:15:16", "sentiment_score": 0.7804}
+{"news_id": "news_20240421_000087", "ts_code": "601857", "name": "中国石油", "date": "2024-04-21 11:58:47", "sentiment_score": 0.6976}
+{"news_id": "news_20240421_000091", "ts_code": "002371", "name": "北方华创", "date": "2024-04-21 11:40:43", "sentiment_score": 0.7742}
+{"news_id": "news_20240421_000107", "ts_code": "002415", "name": "海康威视", "date": "2024-04-21 07:29:43", "sentiment_score": 0.7186}

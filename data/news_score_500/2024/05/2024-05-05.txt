@@ -1,0 +1,11 @@
+{"news_id": "news_20240505_000018", "ts_code": "600438", "name": "通威股份", "date": "2024-05-05 19:04:32", "sentiment_score": 0.8315}
+{"news_id": "news_20240505_000057", "ts_code": "601318", "name": "中国平安", "date": "2024-05-05 15:59:02", "sentiment_score": 0.7691}
+{"news_id": "news_20240505_000058", "ts_code": "002594", "name": "比亚迪", "date": "2024-05-05 15:57:55", "sentiment_score": 0.7671}
+{"news_id": "news_20240505_000059", "ts_code": "002594", "name": "比亚迪", "date": "2024-05-05 15:57:55", "sentiment_score": 0.5247}
+{"news_id": "news_20240505_000079", "ts_code": "601127", "name": "赛力斯", "date": "2024-05-05 15:39:16", "sentiment_score": 0.8028}
+{"news_id": "news_20240505_000080", "ts_code": "601127", "name": "赛力斯", "date": "2024-05-05 15:39:16", "sentiment_score": 0.8429}
+{"news_id": "news_20240505_000100", "ts_code": "002594", "name": "比亚迪", "date": "2024-05-05 13:43:28", "sentiment_score": 0.7893}
+{"news_id": "news_20240505_000101", "ts_code": "601318", "name": "中国平安", "date": "2024-05-05 13:38:31", "sentiment_score": 0.7351}
+{"news_id": "news_20240505_000108", "ts_code": "601127", "name": "赛力斯", "date": "2024-05-05 10:45:56", "sentiment_score": 0.764}
+{"news_id": "news_20240505_000164", "ts_code": "002594", "name": "比亚迪", "date": "2024-05-05 00:41:45", "sentiment_score": 0.6461}
+{"news_id": "news_20240505_000165", "ts_code": "002594", "name": "比亚迪", "date": "2024-05-05 00:41:45", "sentiment_score": 0.6891}

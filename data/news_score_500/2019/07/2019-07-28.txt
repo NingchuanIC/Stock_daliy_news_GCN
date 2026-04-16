@@ -1,0 +1,7 @@
+{"news_id": "news_20190728_000019", "ts_code": "601988", "name": "中国银行", "date": "2019-07-28 17:55:44", "sentiment_score": 0.6268}
+{"news_id": "news_20190728_000020", "ts_code": "002130", "name": "沃尔核材", "date": "2019-07-28 17:54:40", "sentiment_score": 0.6192}
+{"news_id": "news_20190728_000025", "ts_code": "601398", "name": "工商银行", "date": "2019-07-28 17:06:03", "sentiment_score": 0.7942}
+{"news_id": "news_20190728_000046", "ts_code": "600050", "name": "中国联合网络通信股份有限公司", "date": "2019-07-28 13:09:40", "sentiment_score": 0.7223}
+{"news_id": "news_20190728_000052", "ts_code": "600050", "name": "中国联通", "date": "2019-07-28 10:35:35", "sentiment_score": 0.7502}
+{"news_id": "news_20190728_000056", "ts_code": "601728", "name": "中国电信", "date": "2019-07-28 09:02:48", "sentiment_score": 0.7222}
+{"news_id": "news_20190728_000056", "ts_code": "600050", "name": "中国联通", "date": "2019-07-28 09:02:48", "sentiment_score": 0.7222}

@@ -1,0 +1,9 @@
+{"news_id": "news_20250502_000073", "ts_code": "601888", "name": "中国中免", "date": "2025-05-02 19:02:41", "sentiment_score": 0.8309}
+{"news_id": "news_20250502_000100", "ts_code": "601186", "name": "中国铁建股份有限公司", "date": "2025-05-02 17:48:47", "sentiment_score": 0.7152}
+{"news_id": "news_20250502_000232", "ts_code": "601211", "name": "国泰海通", "date": "2025-05-02 11:49:32", "sentiment_score": 0.8051}
+{"news_id": "news_20250502_000233", "ts_code": "601211", "name": "国泰海通", "date": "2025-05-02 11:49:25", "sentiment_score": 0.8005}
+{"news_id": "news_20250502_000242", "ts_code": "002594", "name": "比亚迪", "date": "2025-05-02 11:05:51", "sentiment_score": 0.8637}
+{"news_id": "news_20250502_000243", "ts_code": "002594", "name": "比亚迪", "date": "2025-05-02 11:05:44", "sentiment_score": 0.8339}
+{"news_id": "news_20250502_000244", "ts_code": "600519", "name": "贵州茅台", "date": "2025-05-02 11:02:31", "sentiment_score": 0.6807}
+{"news_id": "news_20250502_000244", "ts_code": "000568", "name": "泸州老窖", "date": "2025-05-02 11:02:31", "sentiment_score": 0.6807}
+{"news_id": "news_20250502_000244", "ts_code": "000858", "name": "五粮液", "date": "2025-05-02 11:02:31", "sentiment_score": 0.6807}

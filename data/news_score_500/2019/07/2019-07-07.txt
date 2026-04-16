@@ -1,0 +1,5 @@
+{"news_id": "news_20190707_000005", "ts_code": "601155", "name": "新城控股", "date": "2019-07-07 20:08:26", "sentiment_score": 0.7748}
+{"news_id": "news_20190707_000009", "ts_code": "601155", "name": "新城控股", "date": "2019-07-07 17:50:32", "sentiment_score": 0.675}
+{"news_id": "news_20190707_000015", "ts_code": "601155", "name": "新城控股", "date": "2019-07-07 16:48:14", "sentiment_score": 0.8393}
+{"news_id": "news_20190707_000034", "ts_code": "603019", "name": "中科曙光", "date": "2019-07-07 11:24:07", "sentiment_score": 0.7457}
+{"news_id": "news_20190707_000034", "ts_code": "601288", "name": "农业银行", "date": "2019-07-07 11:24:07", "sentiment_score": 0.7457}

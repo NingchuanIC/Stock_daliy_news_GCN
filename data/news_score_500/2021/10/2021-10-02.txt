@@ -1,0 +1,6 @@
+{"news_id": "news_20211002_000001", "ts_code": "601238", "name": "广汽集团", "date": "2021-10-02 22:51:22", "sentiment_score": 0.8263}
+{"news_id": "news_20211002_000002", "ts_code": "000625", "name": "长安汽车", "date": "2021-10-02 21:54:19", "sentiment_score": 0.8653}
+{"news_id": "news_20211002_000006", "ts_code": "601127", "name": "赛力斯", "date": "2021-10-02 16:58:30", "sentiment_score": 0.7291}
+{"news_id": "news_20211002_000007", "ts_code": "300059", "name": "东方财富", "date": "2021-10-02 16:49:33", "sentiment_score": 0.6847}
+{"news_id": "news_20211002_000012", "ts_code": "601857", "name": "中国石油", "date": "2021-10-02 16:02:21", "sentiment_score": 0.662}
+{"news_id": "news_20211002_000014", "ts_code": "601238", "name": "广汽集团", "date": "2021-10-02 14:45:10", "sentiment_score": 0.8286}

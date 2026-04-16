@@ -1,0 +1,11 @@
+{"news_id": "news_20230415_000002", "ts_code": "002415", "name": "海康威视", "date": "2023-04-15 22:39:26", "sentiment_score": 0.556}
+{"news_id": "news_20230415_000004", "ts_code": "600028", "name": "中国石化", "date": "2023-04-15 22:08:05", "sentiment_score": 0.7285}
+{"news_id": "news_20230415_000013", "ts_code": "002129", "name": "TCL中环", "date": "2023-04-15 19:58:49", "sentiment_score": 0.7567}
+{"news_id": "news_20230415_000023", "ts_code": "601615", "name": "明阳智能", "date": "2023-04-15 17:41:51", "sentiment_score": 0.7064}
+{"news_id": "news_20230415_000042", "ts_code": "002594", "name": "比亚迪", "date": "2023-04-15 14:09:21", "sentiment_score": 0.8295}
+{"news_id": "news_20230415_000046", "ts_code": "600104", "name": "上汽集团", "date": "2023-04-15 12:07:58", "sentiment_score": 0.6437}
+{"news_id": "news_20230415_000051", "ts_code": "002460", "name": "赣锋锂业", "date": "2023-04-15 11:35:07", "sentiment_score": 0.6862}
+{"news_id": "news_20230415_000057", "ts_code": "601328", "name": "交通银行", "date": "2023-04-15 10:17:33", "sentiment_score": 0.533}
+{"news_id": "news_20230415_000074", "ts_code": "002594", "name": "比亚迪", "date": "2023-04-15 03:56:44", "sentiment_score": 0.7233}
+{"news_id": "news_20230415_000078", "ts_code": "002812", "name": "Lee", "date": "2023-04-15 03:33:09", "sentiment_score": 0.744}
+{"news_id": "news_20230415_000084", "ts_code": "601012", "name": "隆基绿能", "date": "2023-04-15 03:06:16", "sentiment_score": 0.6599}

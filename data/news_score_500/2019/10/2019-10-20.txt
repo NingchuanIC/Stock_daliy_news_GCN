@@ -1,0 +1,6 @@
+{"news_id": "news_20191020_000013", "ts_code": "002916", "name": "深南电路", "date": "2019-10-20 18:10:34", "sentiment_score": 0.6619}
+{"news_id": "news_20191020_000022", "ts_code": "000963", "name": "华东医药", "date": "2019-10-20 17:22:52", "sentiment_score": 0.6953}
+{"news_id": "news_20191020_000028", "ts_code": "601628", "name": "中国人寿", "date": "2019-10-20 16:07:03", "sentiment_score": 0.8619}
+{"news_id": "news_20191020_000030", "ts_code": "600030", "name": "中信证券", "date": "2019-10-20 15:57:22", "sentiment_score": 0.6846}
+{"news_id": "news_20191020_000049", "ts_code": "000651", "name": "格力电器", "date": "2019-10-20 08:06:03", "sentiment_score": 0.5695}
+{"news_id": "news_20191020_000049", "ts_code": "600690", "name": "海尔智家", "date": "2019-10-20 08:06:03", "sentiment_score": 0.5695}

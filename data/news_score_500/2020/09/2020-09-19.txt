@@ -1,0 +1,3 @@
+{"news_id": "news_20200919_000002", "ts_code": "300750", "name": "宁德时代", "date": "2020-09-19 21:09:07", "sentiment_score": 0.6867}
+{"news_id": "news_20200919_000011", "ts_code": "002475", "name": "立讯精密", "date": "2020-09-19 15:44:24", "sentiment_score": 0.7593}
+{"news_id": "news_20200919_000011", "ts_code": "002594", "name": "比亚迪", "date": "2020-09-19 15:44:24", "sentiment_score": 0.7593}

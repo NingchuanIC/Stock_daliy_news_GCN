@@ -1,0 +1,7 @@
+{"news_id": "news_20210103_000008", "ts_code": "600519", "name": "贵州茅台", "date": "2021-01-03 20:03:21", "sentiment_score": 0.6981}
+{"news_id": "news_20210103_000012", "ts_code": "002603", "name": "以岭药业", "date": "2021-01-03 17:52:41", "sentiment_score": 0.7706}
+{"news_id": "news_20210103_000035", "ts_code": "002714", "name": "牧原股份", "date": "2021-01-03 17:06:00", "sentiment_score": 0.8612}
+{"news_id": "news_20210103_000041", "ts_code": "601211", "name": "国泰君安", "date": "2021-01-03 16:50:24", "sentiment_score": 0.6557}
+{"news_id": "news_20210103_000053", "ts_code": "002459", "name": "晶澳科技", "date": "2021-01-03 16:08:03", "sentiment_score": 0.7899}
+{"news_id": "news_20210103_000055", "ts_code": "600030", "name": "中信证券", "date": "2021-01-03 15:56:10", "sentiment_score": 0.6584}
+{"news_id": "news_20210103_000056", "ts_code": "600030", "name": "中信证券", "date": "2021-01-03 15:21:54", "sentiment_score": 0.6773}

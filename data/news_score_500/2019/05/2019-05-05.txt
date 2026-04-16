@@ -1,0 +1,5 @@
+{"news_id": "news_20190505_000001", "ts_code": "600519", "name": "贵州茅台", "date": "2019-05-05 23:22:53", "sentiment_score": 0.6403}
+{"news_id": "news_20190505_000005", "ts_code": "600519", "name": "贵州茅台", "date": "2019-05-05 19:16:13", "sentiment_score": 0.7313}
+{"news_id": "news_20190505_000014", "ts_code": "601390", "name": "中国中铁", "date": "2019-05-05 17:17:35", "sentiment_score": 0.852}
+{"news_id": "news_20190505_000020", "ts_code": "000333", "name": "美的集团", "date": "2019-05-05 16:35:44", "sentiment_score": 0.8551}
+{"news_id": "news_20190505_000028", "ts_code": "600332", "name": "白云山", "date": "2019-05-05 14:45:07", "sentiment_score": 0.7701}

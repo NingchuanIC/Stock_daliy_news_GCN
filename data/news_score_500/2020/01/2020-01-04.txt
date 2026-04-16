@@ -1,0 +1,7 @@
+{"news_id": "news_20200104_000002", "ts_code": "600519", "name": "贵州茅台", "date": "2020-01-04 21:07:28", "sentiment_score": 0.6782}
+{"news_id": "news_20200104_000005", "ts_code": "601600", "name": "中国铝业", "date": "2020-01-04 15:25:46", "sentiment_score": 0.7176}
+{"news_id": "news_20200104_000006", "ts_code": "300014", "name": "亿纬锂能", "date": "2020-01-04 15:00:15", "sentiment_score": 0.6099}
+{"news_id": "news_20200104_000014", "ts_code": "300003", "name": "乐普医疗", "date": "2020-01-04 12:04:58", "sentiment_score": 0.3522}
+{"news_id": "news_20200104_000020", "ts_code": "601728", "name": "中国电信", "date": "2020-01-04 09:24:55", "sentiment_score": 0.695}
+{"news_id": "news_20200104_000020", "ts_code": "600050", "name": "中国联通", "date": "2020-01-04 09:24:55", "sentiment_score": 0.695}
+{"news_id": "news_20200104_000032", "ts_code": "600030", "name": "中信证券", "date": "2020-01-04 00:52:00", "sentiment_score": 0.7984}

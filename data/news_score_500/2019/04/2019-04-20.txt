@@ -1,0 +1,10 @@
+{"news_id": "news_20190420_000002", "ts_code": "000651", "name": "格力电器", "date": "2019-04-20 18:19:00", "sentiment_score": 0.711}
+{"news_id": "news_20190420_000002", "ts_code": "600519", "name": "贵州茅台", "date": "2019-04-20 18:19:00", "sentiment_score": 0.711}
+{"news_id": "news_20190420_000002", "ts_code": "002475", "name": "立讯精密", "date": "2019-04-20 18:19:00", "sentiment_score": 0.711}
+{"news_id": "news_20190420_000002", "ts_code": "000661", "name": "长春高新", "date": "2019-04-20 18:19:00", "sentiment_score": 0.711}
+{"news_id": "news_20190420_000002", "ts_code": "601318", "name": "中国平安", "date": "2019-04-20 18:19:00", "sentiment_score": 0.711}
+{"news_id": "news_20190420_000002", "ts_code": "000568", "name": "泸州老窖", "date": "2019-04-20 18:19:00", "sentiment_score": 0.711}
+{"news_id": "news_20190420_000002", "ts_code": "002415", "name": "海康威视", "date": "2019-04-20 18:19:00", "sentiment_score": 0.711}
+{"news_id": "news_20190420_000002", "ts_code": "600887", "name": "伊利股份", "date": "2019-04-20 18:19:00", "sentiment_score": 0.711}
+{"news_id": "news_20190420_000002", "ts_code": "000858", "name": "五粮液", "date": "2019-04-20 18:19:00", "sentiment_score": 0.711}
+{"news_id": "news_20190420_000005", "ts_code": "600519", "name": "贵州茅台", "date": "2019-04-20 16:17:50", "sentiment_score": 0.627}

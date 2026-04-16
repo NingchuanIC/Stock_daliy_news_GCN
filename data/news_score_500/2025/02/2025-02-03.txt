@@ -1,0 +1,5 @@
+{"news_id": "news_20250203_000080", "ts_code": "600115", "name": "东方航空", "date": "2025-02-03 20:33:12", "sentiment_score": 0.8711}
+{"news_id": "news_20250203_000097", "ts_code": "601318", "name": "中国平安", "date": "2025-02-03 19:46:56", "sentiment_score": 0.8467}
+{"news_id": "news_20250203_000162", "ts_code": "300832", "name": "新产业", "date": "2025-02-03 15:12:06", "sentiment_score": 0.7188}
+{"news_id": "news_20250203_000227", "ts_code": "600547", "name": "山东黄金", "date": "2025-02-03 10:39:05", "sentiment_score": 0.8132}
+{"news_id": "news_20250203_000228", "ts_code": "600547", "name": "山东黄金", "date": "2025-02-03 10:39:05", "sentiment_score": 0.8459}

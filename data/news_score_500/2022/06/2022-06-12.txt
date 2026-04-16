@@ -1,0 +1,7 @@
+{"news_id": "news_20220612_000006", "ts_code": "600104", "name": "上汽集团", "date": "2022-06-12 19:29:32", "sentiment_score": 0.7315}
+{"news_id": "news_20220612_000007", "ts_code": "603606", "name": "东方电缆", "date": "2022-06-12 19:10:07", "sentiment_score": 0.287}
+{"news_id": "news_20220612_000008", "ts_code": "600030", "name": "中信证券", "date": "2022-06-12 18:57:19", "sentiment_score": 0.6484}
+{"news_id": "news_20220612_000009", "ts_code": "002594", "name": "比亚迪", "date": "2022-06-12 18:56:27", "sentiment_score": 0.6972}
+{"news_id": "news_20220612_000012", "ts_code": "600859", "name": "王府井", "date": "2022-06-12 17:49:04", "sentiment_score": 0.7964}
+{"news_id": "news_20220612_000016", "ts_code": "300073", "name": "当升科技", "date": "2022-06-12 16:38:55", "sentiment_score": 0.6752}
+{"news_id": "news_20220612_000017", "ts_code": "600048", "name": "保利发展", "date": "2022-06-12 16:35:01", "sentiment_score": 0.8144}

@@ -1,0 +1,13 @@
+{"news_id": "news_20230910_000010", "ts_code": "601238", "name": "广汽集团", "date": "2023-09-10 20:08:58", "sentiment_score": 0.7314}
+{"news_id": "news_20230910_000012", "ts_code": "300459", "name": "汤姆猫", "date": "2023-09-10 20:04:30", "sentiment_score": 0.6711}
+{"news_id": "news_20230910_000047", "ts_code": "300003", "name": "乐普医疗", "date": "2023-09-10 16:32:59", "sentiment_score": 0.7717}
+{"news_id": "news_20230910_000048", "ts_code": "601728", "name": "中国电信股份有限公司", "date": "2023-09-10 16:32:47", "sentiment_score": 0.6786}
+{"news_id": "news_20230910_000059", "ts_code": "688180", "name": "君实生物", "date": "2023-09-10 15:50:54", "sentiment_score": 0.7412}
+{"news_id": "news_20230910_000063", "ts_code": "600276", "name": "恒瑞医药", "date": "2023-09-10 15:39:54", "sentiment_score": 0.6876}
+{"news_id": "news_20230910_000079", "ts_code": "601766", "name": "中国中车", "date": "2023-09-10 14:44:21", "sentiment_score": 0.7515}
+{"news_id": "news_20230910_000085", "ts_code": "002074", "name": "国轩高科", "date": "2023-09-10 13:02:40", "sentiment_score": 0.6831}
+{"news_id": "news_20230910_000086", "ts_code": "002475", "name": "立讯精密", "date": "2023-09-10 12:40:31", "sentiment_score": 0.4221}
+{"news_id": "news_20230910_000095", "ts_code": "601988", "name": "中国银行", "date": "2023-09-10 10:06:01", "sentiment_score": 0.7376}
+{"news_id": "news_20230910_000097", "ts_code": "601899", "name": "紫金矿业", "date": "2023-09-10 09:41:10", "sentiment_score": 0.6451}
+{"news_id": "news_20230910_000099", "ts_code": "601633", "name": "长城汽车", "date": "2023-09-10 09:12:14", "sentiment_score": 0.7051}
+{"news_id": "news_20230910_000103", "ts_code": "002074", "name": "国轩高科", "date": "2023-09-10 08:33:20", "sentiment_score": 0.778}

@@ -1,0 +1,6 @@
+{"news_id": "news_20190622_000013", "ts_code": "000063", "name": "中兴通讯股份有限公司", "date": "2019-06-22 13:48:03", "sentiment_score": 0.6999}
+{"news_id": "news_20190622_000013", "ts_code": "601728", "name": "中国电信", "date": "2019-06-22 13:48:03", "sentiment_score": 0.6999}
+{"news_id": "news_20190622_000017", "ts_code": "600048", "name": "保利地产", "date": "2019-06-22 10:11:29", "sentiment_score": 0.758}
+{"news_id": "news_20190622_000017", "ts_code": "000002", "name": "万科A", "date": "2019-06-22 10:11:29", "sentiment_score": 0.758}
+{"news_id": "news_20190622_000030", "ts_code": "601669", "name": "中国电建", "date": "2019-06-22 01:32:45", "sentiment_score": 0.6944}
+{"news_id": "news_20190622_000034", "ts_code": "601211", "name": "国泰君安", "date": "2019-06-22 00:16:42", "sentiment_score": 0.6714}

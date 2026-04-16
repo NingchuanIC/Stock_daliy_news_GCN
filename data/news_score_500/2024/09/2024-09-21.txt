@@ -1,0 +1,7 @@
+{"news_id": "news_20240921_000008", "ts_code": "000425", "name": "徐工机械", "date": "2024-09-21 22:00:39", "sentiment_score": 0.7619}
+{"news_id": "news_20240921_000010", "ts_code": "300750", "name": "宁德时代", "date": "2024-09-21 21:14:25", "sentiment_score": 0.6288}
+{"news_id": "news_20240921_000030", "ts_code": "688599", "name": "天合光能", "date": "2024-09-21 15:28:32", "sentiment_score": 0.5278}
+{"news_id": "news_20240921_000035", "ts_code": "601012", "name": "隆基绿能", "date": "2024-09-21 14:00:03", "sentiment_score": 0.6277}
+{"news_id": "news_20240921_000049", "ts_code": "002074", "name": "国轩高科", "date": "2024-09-21 11:45:30", "sentiment_score": 0.6575}
+{"news_id": "news_20240921_000059", "ts_code": "600519", "name": "贵州茅台", "date": "2024-09-21 09:17:43", "sentiment_score": 0.653}
+{"news_id": "news_20240921_000066", "ts_code": "601127", "name": "赛力斯", "date": "2024-09-21 07:42:59", "sentiment_score": 0.6545}

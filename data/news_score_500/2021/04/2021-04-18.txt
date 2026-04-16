@@ -1,0 +1,6 @@
+{"news_id": "news_20210418_000002", "ts_code": "601211", "name": "国泰君安", "date": "2021-04-18 22:46:37", "sentiment_score": 0.6494}
+{"news_id": "news_20210418_000002", "ts_code": "000858", "name": "五粮液", "date": "2021-04-18 22:46:37", "sentiment_score": 0.6494}
+{"news_id": "news_20210418_000026", "ts_code": "002465", "name": "海格通信", "date": "2021-04-18 17:06:36", "sentiment_score": 0.7847}
+{"news_id": "news_20210418_000035", "ts_code": "300251", "name": "光线传媒", "date": "2021-04-18 16:10:18", "sentiment_score": 0.8593}
+{"news_id": "news_20210418_000061", "ts_code": "002415", "name": "海康威视", "date": "2021-04-18 09:48:54", "sentiment_score": 0.6587}
+{"news_id": "news_20210418_000062", "ts_code": "002049", "name": "紫光国微", "date": "2021-04-18 09:26:37", "sentiment_score": 0.7579}

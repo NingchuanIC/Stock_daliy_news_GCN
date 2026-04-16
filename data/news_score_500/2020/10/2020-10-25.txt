@@ -1,0 +1,15 @@
+{"news_id": "news_20201025_000001", "ts_code": "300750", "name": "宁德时代", "date": "2020-10-25 21:58:57", "sentiment_score": 0.2066}
+{"news_id": "news_20201025_000001", "ts_code": "002050", "name": "三花智控", "date": "2020-10-25 21:58:57", "sentiment_score": 0.2066}
+{"news_id": "news_20201025_000024", "ts_code": "601088", "name": "中国神华", "date": "2020-10-25 17:06:12", "sentiment_score": 0.8345}
+{"news_id": "news_20201025_000031", "ts_code": "601088", "name": "中国神华", "date": "2020-10-25 16:49:05", "sentiment_score": 0.8742}
+{"news_id": "news_20201025_000047", "ts_code": "002008", "name": "大族激光", "date": "2020-10-25 16:20:13", "sentiment_score": 0.8182}
+{"news_id": "news_20201025_000058", "ts_code": "600030", "name": "中信证券", "date": "2020-10-25 15:23:55", "sentiment_score": 0.7619}
+{"news_id": "news_20201025_000059", "ts_code": "600519", "name": "贵州茅台", "date": "2020-10-25 15:20:02", "sentiment_score": 0.771}
+{"news_id": "news_20201025_000066", "ts_code": "600519", "name": "贵州茅台", "date": "2020-10-25 14:41:23", "sentiment_score": 0.772}
+{"news_id": "news_20201025_000067", "ts_code": "600519", "name": "贵州茅台", "date": "2020-10-25 14:40:40", "sentiment_score": 0.8362}
+{"news_id": "news_20201025_000073", "ts_code": "600079", "name": "人福医药", "date": "2020-10-25 14:17:17", "sentiment_score": 0.8252}
+{"news_id": "news_20201025_000074", "ts_code": "600519", "name": "贵州茅台", "date": "2020-10-25 14:12:07", "sentiment_score": 0.8606}
+{"news_id": "news_20201025_000075", "ts_code": "600519", "name": "贵州茅台", "date": "2020-10-25 14:10:59", "sentiment_score": 0.7862}
+{"news_id": "news_20201025_000076", "ts_code": "600519", "name": "贵州茅台", "date": "2020-10-25 14:08:01", "sentiment_score": 0.8705}
+{"news_id": "news_20201025_000077", "ts_code": "600519", "name": "贵州茅台", "date": "2020-10-25 13:15:42", "sentiment_score": 0.8113}
+{"news_id": "news_20201025_000089", "ts_code": "601628", "name": "中国人寿", "date": "2020-10-25 07:55:49", "sentiment_score": 0.7218}

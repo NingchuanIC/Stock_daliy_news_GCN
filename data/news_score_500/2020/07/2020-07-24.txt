@@ -1,0 +1,17 @@
+{"news_id": "news_20200724_000030", "ts_code": "601988", "name": "中国银行", "date": "2020-07-24 18:55:06", "sentiment_score": 0.22}
+{"news_id": "news_20200724_000037", "ts_code": "002415", "name": "海康威视", "date": "2020-07-24 18:24:34", "sentiment_score": 0.869}
+{"news_id": "news_20200724_000074", "ts_code": "601668", "name": "中国建筑", "date": "2020-07-24 16:56:39", "sentiment_score": 0.8433}
+{"news_id": "news_20200724_000080", "ts_code": "601888", "name": "中国中免", "date": "2020-07-24 16:26:22", "sentiment_score": 0.7126}
+{"news_id": "news_20200724_000093", "ts_code": "600519", "name": "贵州茅台", "date": "2020-07-24 14:03:34", "sentiment_score": 0.8524}
+{"news_id": "news_20200724_000112", "ts_code": "601728", "name": "中国电信", "date": "2020-07-24 10:32:27", "sentiment_score": 0.6632}
+{"news_id": "news_20200724_000115", "ts_code": "601888", "name": "中国中免", "date": "2020-07-24 10:07:25", "sentiment_score": 0.7924}
+{"news_id": "news_20200724_000115", "ts_code": "600859", "name": "王府井", "date": "2020-07-24 10:07:25", "sentiment_score": 0.7924}
+{"news_id": "news_20200724_000116", "ts_code": "601633", "name": "长城汽车", "date": "2020-07-24 10:01:36", "sentiment_score": 0.8607}
+{"news_id": "news_20200724_000119", "ts_code": "601211", "name": "国泰君安", "date": "2020-07-24 09:46:11", "sentiment_score": 0.8909}
+{"news_id": "news_20200724_000119", "ts_code": "600030", "name": "中信证券", "date": "2020-07-24 09:46:11", "sentiment_score": 0.8909}
+{"news_id": "news_20200724_000122", "ts_code": "600030", "name": "中信证券", "date": "2020-07-24 09:30:43", "sentiment_score": 0.8034}
+{"news_id": "news_20200724_000123", "ts_code": "688012", "name": "中微公司", "date": "2020-07-24 09:28:18", "sentiment_score": 0.5358}
+{"news_id": "news_20200724_000124", "ts_code": "601857", "name": "中国石油", "date": "2020-07-24 09:24:25", "sentiment_score": 0.848}
+{"news_id": "news_20200724_000127", "ts_code": "603993", "name": "洛阳钼业", "date": "2020-07-24 09:08:53", "sentiment_score": 0.7849}
+{"news_id": "news_20200724_000130", "ts_code": "688012", "name": "中微公司", "date": "2020-07-24 08:56:20", "sentiment_score": 0.442}
+{"news_id": "news_20200724_000131", "ts_code": "601857", "name": "中国石油", "date": "2020-07-24 08:54:57", "sentiment_score": 0.8484}

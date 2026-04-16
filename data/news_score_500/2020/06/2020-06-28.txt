@@ -1,0 +1,16 @@
+{"news_id": "news_20200628_000001", "ts_code": "002074", "name": "国轩高科", "date": "2020-06-28 23:01:47", "sentiment_score": 0.6735}
+{"news_id": "news_20200628_000001", "ts_code": "300207", "name": "欣旺达", "date": "2020-06-28 23:01:47", "sentiment_score": 0.6735}
+{"news_id": "news_20200628_000009", "ts_code": "002152", "name": "广电运通", "date": "2020-06-28 21:15:50", "sentiment_score": 0.5944}
+{"news_id": "news_20200628_000011", "ts_code": "601988", "name": "中国银行股份有限公司", "date": "2020-06-28 18:47:14", "sentiment_score": 0.7534}
+{"news_id": "news_20200628_000011", "ts_code": "000063", "name": "中兴通讯", "date": "2020-06-28 18:47:14", "sentiment_score": 0.7534}
+{"news_id": "news_20200628_000012", "ts_code": "002920", "name": "德赛西威", "date": "2020-06-28 18:36:23", "sentiment_score": 0.8195}
+{"news_id": "news_20200628_000018", "ts_code": "000661", "name": "长春高新", "date": "2020-06-28 17:57:12", "sentiment_score": 0.7036}
+{"news_id": "news_20200628_000020", "ts_code": "000425", "name": "徐工机械", "date": "2020-06-28 17:44:02", "sentiment_score": 0.6216}
+{"news_id": "news_20200628_000027", "ts_code": "002465", "name": "海格通信", "date": "2020-06-28 17:11:32", "sentiment_score": 0.7297}
+{"news_id": "news_20200628_000033", "ts_code": "600196", "name": "复星医药", "date": "2020-06-28 16:32:44", "sentiment_score": 0.7637}
+{"news_id": "news_20200628_000052", "ts_code": "002594", "name": "比亚迪", "date": "2020-06-28 14:55:41", "sentiment_score": 0.7266}
+{"news_id": "news_20200628_000055", "ts_code": "600276", "name": "恒瑞医药", "date": "2020-06-28 14:41:46", "sentiment_score": 0.6863}
+{"news_id": "news_20200628_000061", "ts_code": "600029", "name": "南方航空", "date": "2020-06-28 13:33:07", "sentiment_score": 0.67}
+{"news_id": "news_20200628_000061", "ts_code": "600115", "name": "东方航空", "date": "2020-06-28 13:33:07", "sentiment_score": 0.67}
+{"news_id": "news_20200628_000069", "ts_code": "600309", "name": "万华化学", "date": "2020-06-28 11:35:01", "sentiment_score": 0.7889}
+{"news_id": "news_20200628_000072", "ts_code": "002230", "name": "科大讯飞股份有限公司", "date": "2020-06-28 11:12:49", "sentiment_score": 0.6238}

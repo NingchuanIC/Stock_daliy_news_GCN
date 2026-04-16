@@ -1,0 +1,16 @@
+{"news_id": "news_20230617_000006", "ts_code": "600905", "name": "三峡能源", "date": "2023-06-17 22:39:01", "sentiment_score": 0.7046}
+{"news_id": "news_20230617_000011", "ts_code": "300207", "name": "欣旺达", "date": "2023-06-17 21:16:12", "sentiment_score": 0.6671}
+{"news_id": "news_20230617_000021", "ts_code": "002714", "name": "牧原股份", "date": "2023-06-17 20:10:52", "sentiment_score": 0.7257}
+{"news_id": "news_20230617_000029", "ts_code": "600196", "name": "复星医药", "date": "2023-06-17 18:01:03", "sentiment_score": 0.57}
+{"news_id": "news_20230617_000030", "ts_code": "300750", "name": "宁德时代新能源科技股份有限公司", "date": "2023-06-17 17:36:45", "sentiment_score": 0.6764}
+{"news_id": "news_20230617_000050", "ts_code": "300750", "name": "宁德时代", "date": "2023-06-17 15:09:15", "sentiment_score": 0.6701}
+{"news_id": "news_20230617_000059", "ts_code": "300750", "name": "宁德时代", "date": "2023-06-17 13:05:50", "sentiment_score": 0.6701}
+{"news_id": "news_20230617_000063", "ts_code": "000625", "name": "长安汽车", "date": "2023-06-17 12:13:55", "sentiment_score": 0.6701}
+{"news_id": "news_20230617_000065", "ts_code": "600166", "name": "福田汽车", "date": "2023-06-17 12:00:50", "sentiment_score": 0.6921}
+{"news_id": "news_20230617_000078", "ts_code": "601633", "name": "长城汽车", "date": "2023-06-17 10:22:16", "sentiment_score": 0.7011}
+{"news_id": "news_20230617_000078", "ts_code": "002594", "name": "比亚迪", "date": "2023-06-17 10:22:16", "sentiment_score": 0.7011}
+{"news_id": "news_20230617_000087", "ts_code": "600039", "name": "四川路桥", "date": "2023-06-17 09:12:45", "sentiment_score": 0.6552}
+{"news_id": "news_20230617_000088", "ts_code": "600111", "name": "北方稀土", "date": "2023-06-17 08:48:30", "sentiment_score": 0.6879}
+{"news_id": "news_20230617_000090", "ts_code": "000932", "name": "华菱钢铁", "date": "2023-06-17 08:38:15", "sentiment_score": 0.7135}
+{"news_id": "news_20230617_000095", "ts_code": "601238", "name": "广汽集团", "date": "2023-06-17 07:36:38", "sentiment_score": 0.8606}
+{"news_id": "news_20230617_000112", "ts_code": "601857", "name": "中国石油", "date": "2023-06-17 01:49:08", "sentiment_score": 0.7724}

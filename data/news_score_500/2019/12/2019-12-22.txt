@@ -1,0 +1,4 @@
+{"news_id": "news_20191222_000004", "ts_code": "300015", "name": "爱尔眼科", "date": "2019-12-22 20:20:25", "sentiment_score": 0.7865}
+{"news_id": "news_20191222_000012", "ts_code": "601318", "name": "中国平安", "date": "2019-12-22 17:14:06", "sentiment_score": 0.8485}
+{"news_id": "news_20191222_000022", "ts_code": "600031", "name": "三一重工", "date": "2019-12-22 16:10:13", "sentiment_score": 0.8274}
+{"news_id": "news_20191222_000039", "ts_code": "300750", "name": "宁德时代", "date": "2019-12-22 10:32:21", "sentiment_score": 0.5889}

@@ -1,0 +1,13 @@
+{"news_id": "news_20251228_000004", "ts_code": "002001", "name": "新和成", "date": "2025-12-28 23:00:15", "sentiment_score": 0.7064}
+{"news_id": "news_20251228_000008", "ts_code": "300207", "name": "欣旺达", "date": "2025-12-28 21:59:00", "sentiment_score": 0.6016}
+{"news_id": "news_20251228_000015", "ts_code": "601288", "name": "农业银行", "date": "2025-12-28 21:10:57", "sentiment_score": 0.7393}
+{"news_id": "news_20251228_000035", "ts_code": "000002", "name": "万科企业股份有限公司", "date": "2025-12-28 18:57:24", "sentiment_score": 0.6578}
+{"news_id": "news_20251228_000041", "ts_code": "688180", "name": "君实生物", "date": "2025-12-28 18:50:45", "sentiment_score": 0.6319}
+{"news_id": "news_20251228_000041", "ts_code": "601988", "name": "中国银行", "date": "2025-12-28 18:50:45", "sentiment_score": 0.6319}
+{"news_id": "news_20251228_000047", "ts_code": "002074", "name": "国轩高科", "date": "2025-12-28 17:24:52", "sentiment_score": 0.5759}
+{"news_id": "news_20251228_000052", "ts_code": "600519", "name": "贵州茅台", "date": "2025-12-28 17:06:10", "sentiment_score": 0.5531}
+{"news_id": "news_20251228_000054", "ts_code": "601088", "name": "中国神华", "date": "2025-12-28 17:02:52", "sentiment_score": 0.4432}
+{"news_id": "news_20251228_000058", "ts_code": "600276", "name": "恒瑞医药", "date": "2025-12-28 16:37:19", "sentiment_score": 0.6204}
+{"news_id": "news_20251228_000074", "ts_code": "600859", "name": "王府井", "date": "2025-12-28 15:58:02", "sentiment_score": 0.7084}
+{"news_id": "news_20251228_000079", "ts_code": "688506", "name": "百利天恒", "date": "2025-12-28 15:46:12", "sentiment_score": 0.6183}
+{"news_id": "news_20251228_000105", "ts_code": "600028", "name": "中国石化", "date": "2025-12-28 15:22:10", "sentiment_score": 0.6761}

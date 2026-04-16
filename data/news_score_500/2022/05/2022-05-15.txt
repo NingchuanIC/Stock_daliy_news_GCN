@@ -1,0 +1,7 @@
+{"news_id": "news_20220515_000002", "ts_code": "000858", "name": "五粮液", "date": "2022-05-15 22:57:07", "sentiment_score": 0.6896}
+{"news_id": "news_20220515_000015", "ts_code": "601728", "name": "中国电信", "date": "2022-05-15 17:41:04", "sentiment_score": 0.6903}
+{"news_id": "news_20220515_000029", "ts_code": "300059", "name": "东方财富", "date": "2022-05-15 16:45:23", "sentiment_score": 0.6032}
+{"news_id": "news_20220515_000032", "ts_code": "601728", "name": "中国电信", "date": "2022-05-15 16:28:01", "sentiment_score": 0.7233}
+{"news_id": "news_20220515_000040", "ts_code": "002352", "name": "顺丰控股", "date": "2022-05-15 15:50:51", "sentiment_score": 0.7567}
+{"news_id": "news_20220515_000060", "ts_code": "600050", "name": "中国联通", "date": "2022-05-15 13:30:36", "sentiment_score": 0.746}
+{"news_id": "news_20220515_000071", "ts_code": "601186", "name": "中国铁建", "date": "2022-05-15 08:44:10", "sentiment_score": 0.7046}

@@ -1,0 +1,11 @@
+{"news_id": "news_20190922_000003", "ts_code": "000002", "name": "万科A", "date": "2019-09-22 19:12:58", "sentiment_score": 0.6943}
+{"news_id": "news_20190922_000019", "ts_code": "002405", "name": "四维图新", "date": "2019-09-22 16:09:55", "sentiment_score": 0.7777}
+{"news_id": "news_20190922_000021", "ts_code": "300750", "name": "宁德时代", "date": "2019-09-22 16:02:46", "sentiment_score": 0.6958}
+{"news_id": "news_20190922_000022", "ts_code": "688036", "name": "传音控股", "date": "2019-09-22 15:07:41", "sentiment_score": 0.7634}
+{"news_id": "news_20190922_000023", "ts_code": "600519", "name": "贵州茅台", "date": "2019-09-22 14:46:54", "sentiment_score": 0.4371}
+{"news_id": "news_20190922_000030", "ts_code": "600938", "name": "中国海洋石油", "date": "2019-09-22 12:12:04", "sentiment_score": 0.585}
+{"news_id": "news_20190922_000034", "ts_code": "603986", "name": "兆易创新", "date": "2019-09-22 11:32:50", "sentiment_score": 0.6292}
+{"news_id": "news_20190922_000037", "ts_code": "601669", "name": "中国电建", "date": "2019-09-22 10:11:44", "sentiment_score": 0.6493}
+{"news_id": "news_20190922_000040", "ts_code": "001979", "name": "招商局蛇口工业区控股股份有限公司", "date": "2019-09-22 08:14:39", "sentiment_score": 0.6593}
+{"news_id": "news_20190922_000040", "ts_code": "000651", "name": "格力电器", "date": "2019-09-22 08:14:39", "sentiment_score": 0.6593}
+{"news_id": "news_20190922_000042", "ts_code": "601766", "name": "中国中车股份有限公司", "date": "2019-09-22 00:39:19", "sentiment_score": 0.6852}

@@ -1,0 +1,4 @@
+{"news_id": "news_20200614_000006", "ts_code": "601899", "name": "紫金矿业", "date": "2020-06-14 19:00:25", "sentiment_score": 0.8411}
+{"news_id": "news_20200614_000013", "ts_code": "300558", "name": "贝达药业", "date": "2020-06-14 17:05:51", "sentiment_score": 0.7007}
+{"news_id": "news_20200614_000028", "ts_code": "000651", "name": "珠海格力电器股份有限公司", "date": "2020-06-14 15:05:35", "sentiment_score": 0.7399}
+{"news_id": "news_20200614_000030", "ts_code": "600115", "name": "东方航空", "date": "2020-06-14 14:54:41", "sentiment_score": 0.1889}

@@ -1,0 +1,5 @@
+{"news_id": "news_20200315_000004", "ts_code": "600028", "name": "中国石化", "date": "2020-03-15 18:17:33", "sentiment_score": 0.8306}
+{"news_id": "news_20200315_000012", "ts_code": "601728", "name": "中国电信", "date": "2020-03-15 17:24:39", "sentiment_score": 0.6709}
+{"news_id": "news_20200315_000021", "ts_code": "600196", "name": "复星医药", "date": "2020-03-15 15:56:36", "sentiment_score": 0.8182}
+{"news_id": "news_20200315_000022", "ts_code": "002415", "name": "杭州海康威视数字技术股份有限公司", "date": "2020-03-15 15:20:04", "sentiment_score": 0.6959}
+{"news_id": "news_20200315_000034", "ts_code": "600028", "name": "中国石化", "date": "2020-03-15 12:14:49", "sentiment_score": 0.7236}

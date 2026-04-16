@@ -1,0 +1,8 @@
+{"news_id": "news_20220626_000005", "ts_code": "000100", "name": "TCL科技", "date": "2022-06-26 19:23:20", "sentiment_score": 0.7754}
+{"news_id": "news_20220626_000020", "ts_code": "002340", "name": "格林美", "date": "2022-06-26 17:02:44", "sentiment_score": 0.7322}
+{"news_id": "news_20220626_000021", "ts_code": "600111", "name": "北方稀土", "date": "2022-06-26 16:58:47", "sentiment_score": 0.7039}
+{"news_id": "news_20220626_000026", "ts_code": "688599", "name": "天合光能", "date": "2022-06-26 16:20:41", "sentiment_score": 0.7701}
+{"news_id": "news_20220626_000034", "ts_code": "601857", "name": "中国石油", "date": "2022-06-26 14:16:02", "sentiment_score": 0.5166}
+{"news_id": "news_20220626_000037", "ts_code": "600519", "name": "贵州茅台", "date": "2022-06-26 11:30:24", "sentiment_score": 0.7149}
+{"news_id": "news_20220626_000042", "ts_code": "601238", "name": "广汽集团", "date": "2022-06-26 08:07:19", "sentiment_score": 0.6044}
+{"news_id": "news_20220626_000043", "ts_code": "002129", "name": "TCL中环", "date": "2022-06-26 08:07:04", "sentiment_score": 0.6584}

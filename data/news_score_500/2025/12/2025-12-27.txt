@@ -1,0 +1,13 @@
+{"news_id": "news_20251227_000021", "ts_code": "600332", "name": "白云山", "date": "2025-12-27 18:47:27", "sentiment_score": 0.5829}
+{"news_id": "news_20251227_000037", "ts_code": "301358", "name": "湖南裕能", "date": "2025-12-27 16:05:39", "sentiment_score": 0.7197}
+{"news_id": "news_20251227_000045", "ts_code": "601633", "name": "长城汽车", "date": "2025-12-27 14:28:27", "sentiment_score": 0.7211}
+{"news_id": "news_20251227_000045", "ts_code": "600418", "name": "江淮汽车", "date": "2025-12-27 14:28:27", "sentiment_score": 0.7211}
+{"news_id": "news_20251227_000045", "ts_code": "601127", "name": "赛力斯", "date": "2025-12-27 14:28:27", "sentiment_score": 0.7211}
+{"news_id": "news_20251227_000046", "ts_code": "300274", "name": "阳光电源", "date": "2025-12-27 14:26:27", "sentiment_score": 0.7638}
+{"news_id": "news_20251227_000048", "ts_code": "002465", "name": "海格通信", "date": "2025-12-27 14:12:38", "sentiment_score": 0.6411}
+{"news_id": "news_20251227_000056", "ts_code": "002594", "name": "比亚迪股份有限公司", "date": "2025-12-27 12:19:31", "sentiment_score": 0.6375}
+{"news_id": "news_20251227_000060", "ts_code": "601186", "name": "中国铁建股份有限公司", "date": "2025-12-27 12:01:17", "sentiment_score": 0.6876}
+{"news_id": "news_20251227_000065", "ts_code": "601628", "name": "中国人寿", "date": "2025-12-27 10:50:00", "sentiment_score": 0.6636}
+{"news_id": "news_20251227_000073", "ts_code": "002271", "name": "东方雨虹", "date": "2025-12-27 10:07:26", "sentiment_score": 0.6834}
+{"news_id": "news_20251227_000108", "ts_code": "600519", "name": "贵州茅台", "date": "2025-12-27 01:00:44", "sentiment_score": 0.6407}
+{"news_id": "news_20251227_000113", "ts_code": "601211", "name": "国泰海通", "date": "2025-12-27 00:21:14", "sentiment_score": 0.7687}

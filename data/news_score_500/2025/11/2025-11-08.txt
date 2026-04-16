@@ -1,0 +1,7 @@
+{"news_id": "news_20251108_000021", "ts_code": "002353", "name": "杰瑞股份", "date": "2025-11-08 18:44:01", "sentiment_score": 0.6692}
+{"news_id": "news_20251108_000037", "ts_code": "601398", "name": "工商银行", "date": "2025-11-08 15:47:00", "sentiment_score": 0.6489}
+{"news_id": "news_20251108_000049", "ts_code": "601600", "name": "中国铝业", "date": "2025-11-08 14:02:15", "sentiment_score": 0.6674}
+{"news_id": "news_20251108_000062", "ts_code": "002648", "name": "卫星化学", "date": "2025-11-08 11:32:36", "sentiment_score": 0.4253}
+{"news_id": "news_20251108_000063", "ts_code": "601398", "name": "工商银行", "date": "2025-11-08 11:21:44", "sentiment_score": 0.5513}
+{"news_id": "news_20251108_000087", "ts_code": "601398", "name": "工商银行", "date": "2025-11-08 08:30:10", "sentiment_score": 0.436}
+{"news_id": "news_20251108_000087", "ts_code": "601988", "name": "中国银行", "date": "2025-11-08 08:30:10", "sentiment_score": 0.436}

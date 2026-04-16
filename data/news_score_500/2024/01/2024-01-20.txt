@@ -1,0 +1,13 @@
+{"news_id": "news_20240120_000001", "ts_code": "002594", "name": "比亚迪", "date": "2024-01-20 22:34:59", "sentiment_score": 0.6701}
+{"news_id": "news_20240120_000006", "ts_code": "601633", "name": "长城汽车", "date": "2024-01-20 20:11:42", "sentiment_score": 0.7729}
+{"news_id": "news_20240120_000018", "ts_code": "601988", "name": "中国银行", "date": "2024-01-20 14:06:02", "sentiment_score": 0.5917}
+{"news_id": "news_20240120_000027", "ts_code": "300750", "name": "宁德时代", "date": "2024-01-20 12:04:10", "sentiment_score": 0.5973}
+{"news_id": "news_20240120_000036", "ts_code": "601398", "name": "工商银行", "date": "2024-01-20 10:20:14", "sentiment_score": 0.7709}
+{"news_id": "news_20240120_000056", "ts_code": "000858", "name": "五粮液", "date": "2024-01-20 04:30:34", "sentiment_score": 0.5528}
+{"news_id": "news_20240120_000078", "ts_code": "601155", "name": "新城控股", "date": "2024-01-20 00:43:56", "sentiment_score": 0.6764}
+{"news_id": "news_20240120_000078", "ts_code": "002244", "name": "滨江集团", "date": "2024-01-20 00:43:56", "sentiment_score": 0.6764}
+{"news_id": "news_20240120_000084", "ts_code": "600519", "name": "贵州茅台", "date": "2024-01-20 00:09:02", "sentiment_score": 0.7724}
+{"news_id": "news_20240120_000084", "ts_code": "601012", "name": "隆基绿能", "date": "2024-01-20 00:09:02", "sentiment_score": 0.7724}
+{"news_id": "news_20240120_000084", "ts_code": "000063", "name": "中兴通讯", "date": "2024-01-20 00:09:02", "sentiment_score": 0.7724}
+{"news_id": "news_20240120_000084", "ts_code": "603501", "name": "韦尔股份", "date": "2024-01-20 00:09:02", "sentiment_score": 0.7724}
+{"news_id": "news_20240120_000084", "ts_code": "600900", "name": "长江电力", "date": "2024-01-20 00:09:02", "sentiment_score": 0.7724}

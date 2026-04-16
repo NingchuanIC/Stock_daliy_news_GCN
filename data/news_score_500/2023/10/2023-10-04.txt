@@ -1,0 +1,5 @@
+{"news_id": "news_20231004_000088", "ts_code": "002353", "name": "杰瑞股份", "date": "2023-10-04 10:48:08", "sentiment_score": 0.7611}
+{"news_id": "news_20231004_000090", "ts_code": "002594", "name": "比亚迪", "date": "2023-10-04 10:44:12", "sentiment_score": 0.84}
+{"news_id": "news_20231004_000107", "ts_code": "601238", "name": "广汽集团", "date": "2023-10-04 09:35:40", "sentiment_score": 0.8444}
+{"news_id": "news_20231004_000107", "ts_code": "002594", "name": "比亚迪", "date": "2023-10-04 09:35:40", "sentiment_score": 0.8444}
+{"news_id": "news_20231004_000135", "ts_code": "601899", "name": "紫金矿业", "date": "2023-10-04 07:58:28", "sentiment_score": 0.6786}

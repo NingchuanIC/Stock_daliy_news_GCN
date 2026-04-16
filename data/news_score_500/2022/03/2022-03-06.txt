@@ -1,0 +1,9 @@
+{"news_id": "news_20220306_000002", "ts_code": "600028", "name": "中国石化", "date": "2022-03-06 21:09:32", "sentiment_score": 0.5717}
+{"news_id": "news_20220306_000008", "ts_code": "300207", "name": "欣旺达", "date": "2022-03-06 18:26:57", "sentiment_score": 0.6257}
+{"news_id": "news_20220306_000013", "ts_code": "601211", "name": "国泰君安", "date": "2022-03-06 17:41:17", "sentiment_score": 0.8255}
+{"news_id": "news_20220306_000026", "ts_code": "601012", "name": "隆基股份", "date": "2022-03-06 16:25:38", "sentiment_score": 0.7126}
+{"news_id": "news_20220306_000027", "ts_code": "601012", "name": "隆基股份", "date": "2022-03-06 16:13:53", "sentiment_score": 0.6254}
+{"news_id": "news_20220306_000028", "ts_code": "601633", "name": "长城汽车", "date": "2022-03-06 16:11:51", "sentiment_score": 0.706}
+{"news_id": "news_20220306_000044", "ts_code": "601127", "name": "赛力斯", "date": "2022-03-06 13:02:33", "sentiment_score": 0.7037}
+{"news_id": "news_20220306_000046", "ts_code": "601766", "name": "中国中车", "date": "2022-03-06 12:14:54", "sentiment_score": 0.6677}
+{"news_id": "news_20220306_000047", "ts_code": "002415", "name": "海康威视", "date": "2022-03-06 11:39:58", "sentiment_score": 0.6981}

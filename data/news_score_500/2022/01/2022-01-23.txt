@@ -1,0 +1,14 @@
+{"news_id": "news_20220123_000003", "ts_code": "300750", "name": "宁德时代", "date": "2022-01-23 22:08:42", "sentiment_score": 0.0955}
+{"news_id": "news_20220123_000003", "ts_code": "600104", "name": "上汽集团", "date": "2022-01-23 22:08:42", "sentiment_score": 0.0955}
+{"news_id": "news_20220123_000004", "ts_code": "300122", "name": "智飞生物", "date": "2022-01-23 20:34:39", "sentiment_score": 0.7416}
+{"news_id": "news_20220123_000008", "ts_code": "300750", "name": "宁德时代", "date": "2022-01-23 18:16:53", "sentiment_score": 0.7137}
+{"news_id": "news_20220123_000008", "ts_code": "600519", "name": "贵州茅台", "date": "2022-01-23 18:16:53", "sentiment_score": 0.7137}
+{"news_id": "news_20220123_000008", "ts_code": "000792", "name": "盐湖股份", "date": "2022-01-23 18:16:53", "sentiment_score": 0.7137}
+{"news_id": "news_20220123_000008", "ts_code": "603259", "name": "药明康德", "date": "2022-01-23 18:16:53", "sentiment_score": 0.7137}
+{"news_id": "news_20220123_000020", "ts_code": "601633", "name": "长城汽车", "date": "2022-01-23 17:02:16", "sentiment_score": 0.8638}
+{"news_id": "news_20220123_000028", "ts_code": "000661", "name": "长春高新", "date": "2022-01-23 16:07:32", "sentiment_score": 0.6411}
+{"news_id": "news_20220123_000031", "ts_code": "601633", "name": "长城汽车", "date": "2022-01-23 15:54:19", "sentiment_score": 0.8787}
+{"news_id": "news_20220123_000035", "ts_code": "002460", "name": "赣锋锂业", "date": "2022-01-23 14:55:14", "sentiment_score": 0.7944}
+{"news_id": "news_20220123_000037", "ts_code": "600028", "name": "中国石化", "date": "2022-01-23 14:07:11", "sentiment_score": 0.592}
+{"news_id": "news_20220123_000048", "ts_code": "601633", "name": "长城汽车", "date": "2022-01-23 00:54:28", "sentiment_score": 0.7298}
+{"news_id": "news_20220123_000048", "ts_code": "002920", "name": "德赛西威", "date": "2022-01-23 00:54:28", "sentiment_score": 0.7298}

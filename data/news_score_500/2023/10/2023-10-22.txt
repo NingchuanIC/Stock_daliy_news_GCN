@@ -1,0 +1,16 @@
+{"news_id": "news_20231022_000003", "ts_code": "002648", "name": "卫星化学", "date": "2023-10-22 22:30:11", "sentiment_score": 0.6621}
+{"news_id": "news_20231022_000023", "ts_code": "300308", "name": "中际旭创", "date": "2023-10-22 19:04:47", "sentiment_score": 0.6605}
+{"news_id": "news_20231022_000025", "ts_code": "300308", "name": "中际旭创", "date": "2023-10-22 18:54:11", "sentiment_score": 0.2089}
+{"news_id": "news_20231022_000026", "ts_code": "300308", "name": "中际旭创", "date": "2023-10-22 18:53:37", "sentiment_score": 0.6925}
+{"news_id": "news_20231022_000036", "ts_code": "002049", "name": "紫光国微", "date": "2023-10-22 18:20:24", "sentiment_score": 0.5765}
+{"news_id": "news_20231022_000047", "ts_code": "601127", "name": "赛力斯", "date": "2023-10-22 17:26:25", "sentiment_score": 0.7054}
+{"news_id": "news_20231022_000099", "ts_code": "300308", "name": "中际旭创", "date": "2023-10-22 15:35:42", "sentiment_score": 0.8317}
+{"news_id": "news_20231022_000102", "ts_code": "600050", "name": "中国联通", "date": "2023-10-22 14:38:18", "sentiment_score": 0.5793}
+{"news_id": "news_20231022_000103", "ts_code": "601088", "name": "中国神华", "date": "2023-10-22 13:04:41", "sentiment_score": 0.6728}
+{"news_id": "news_20231022_000106", "ts_code": "600415", "name": "小商品城", "date": "2023-10-22 12:01:53", "sentiment_score": 0.6667}
+{"news_id": "news_20231022_000112", "ts_code": "600028", "name": "中国石化", "date": "2023-10-22 10:30:06", "sentiment_score": 0.6329}
+{"news_id": "news_20231022_000113", "ts_code": "688235", "name": "百济神州", "date": "2023-10-22 10:06:23", "sentiment_score": 0.6505}
+{"news_id": "news_20231022_000117", "ts_code": "002415", "name": "海康威视", "date": "2023-10-22 09:26:49", "sentiment_score": 0.649}
+{"news_id": "news_20231022_000118", "ts_code": "002236", "name": "大华股份", "date": "2023-10-22 09:25:12", "sentiment_score": 0.697}
+{"news_id": "news_20231022_000120", "ts_code": "002415", "name": "海康威视", "date": "2023-10-22 09:11:18", "sentiment_score": 0.6807}
+{"news_id": "news_20231022_000124", "ts_code": "000425", "name": "徐工机械", "date": "2023-10-22 08:14:55", "sentiment_score": 0.4857}

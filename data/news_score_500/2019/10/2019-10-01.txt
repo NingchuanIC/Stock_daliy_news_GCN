@@ -1,0 +1,6 @@
+{"news_id": "news_20191001_000010", "ts_code": "600519", "name": "贵州茅台", "date": "2019-10-01 17:47:22", "sentiment_score": 0.5775}
+{"news_id": "news_20191001_000015", "ts_code": "688036", "name": "传音控股", "date": "2019-10-01 13:29:50", "sentiment_score": 0.72}
+{"news_id": "news_20191001_000018", "ts_code": "002594", "name": "比亚迪", "date": "2019-10-01 12:57:10", "sentiment_score": 0.6809}
+{"news_id": "news_20191001_000023", "ts_code": "600900", "name": "长江电力", "date": "2019-10-01 10:38:48", "sentiment_score": 0.7452}
+{"news_id": "news_20191001_000025", "ts_code": "601728", "name": "中国电信", "date": "2019-10-01 09:05:43", "sentiment_score": 0.6927}
+{"news_id": "news_20191001_000025", "ts_code": "600050", "name": "中国联通", "date": "2019-10-01 09:05:43", "sentiment_score": 0.6927}

@@ -1,0 +1,6 @@
+{"news_id": "news_20210530_000009", "ts_code": "600905", "name": "三峡能源", "date": "2021-05-30 20:58:22", "sentiment_score": 0.7256}
+{"news_id": "news_20210530_000009", "ts_code": "601288", "name": "农业银行", "date": "2021-05-30 20:58:22", "sentiment_score": 0.7256}
+{"news_id": "news_20210530_000010", "ts_code": "002008", "name": "大族激光", "date": "2021-05-30 20:10:03", "sentiment_score": 0.6835}
+{"news_id": "news_20210530_000012", "ts_code": "300003", "name": "乐普医疗", "date": "2021-05-30 19:25:53", "sentiment_score": 0.6071}
+{"news_id": "news_20210530_000028", "ts_code": "300750", "name": "宁德时代", "date": "2021-05-30 16:09:14", "sentiment_score": 0.6984}
+{"news_id": "news_20210530_000033", "ts_code": "002008", "name": "大族激光", "date": "2021-05-30 15:31:00", "sentiment_score": 0.6152}

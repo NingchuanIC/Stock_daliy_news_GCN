@@ -1,0 +1,6 @@
+{"news_id": "news_20191103_000006", "ts_code": "600521", "name": "华海药业", "date": "2019-11-03 20:36:10", "sentiment_score": 0.6678}
+{"news_id": "news_20191103_000027", "ts_code": "002465", "name": "海格通信", "date": "2019-11-03 16:08:23", "sentiment_score": 0.7547}
+{"news_id": "news_20191103_000036", "ts_code": "000625", "name": "长安汽车", "date": "2019-11-03 12:29:29", "sentiment_score": 0.7947}
+{"news_id": "news_20191103_000037", "ts_code": "600660", "name": "福耀玻璃", "date": "2019-11-03 12:23:30", "sentiment_score": 0.6771}
+{"news_id": "news_20191103_000039", "ts_code": "688036", "name": "传音控股", "date": "2019-11-03 09:40:56", "sentiment_score": 0.7187}
+{"news_id": "news_20191103_000043", "ts_code": "600050", "name": "中国联通", "date": "2019-11-03 07:55:02", "sentiment_score": 0.6941}

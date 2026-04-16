@@ -1,0 +1,9 @@
+{"news_id": "news_20230204_000006", "ts_code": "600030", "name": "中信证券", "date": "2023-02-04 21:38:53", "sentiment_score": 0.6921}
+{"news_id": "news_20230204_000010", "ts_code": "002594", "name": "比亚迪", "date": "2023-02-04 18:35:54", "sentiment_score": 0.8622}
+{"news_id": "news_20230204_000013", "ts_code": "300750", "name": "宁德时代", "date": "2023-02-04 16:40:52", "sentiment_score": 0.6544}
+{"news_id": "news_20230204_000013", "ts_code": "601618", "name": "中国中冶", "date": "2023-02-04 16:40:52", "sentiment_score": 0.6544}
+{"news_id": "news_20230204_000017", "ts_code": "002129", "name": "TCL中环", "date": "2023-02-04 15:03:36", "sentiment_score": 0.8589}
+{"news_id": "news_20230204_000021", "ts_code": "300750", "name": "宁德时代", "date": "2023-02-04 13:45:40", "sentiment_score": 0.7303}
+{"news_id": "news_20230204_000029", "ts_code": "000039", "name": "中集集团", "date": "2023-02-04 10:27:37", "sentiment_score": 0.6046}
+{"news_id": "news_20230204_000034", "ts_code": "002230", "name": "科大讯飞", "date": "2023-02-04 09:28:41", "sentiment_score": 0.6803}
+{"news_id": "news_20230204_000039", "ts_code": "600276", "name": "恒瑞医药", "date": "2023-02-04 08:45:52", "sentiment_score": 0.6341}

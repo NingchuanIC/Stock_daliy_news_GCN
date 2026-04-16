@@ -1,0 +1,5 @@
+{"news_id": "news_20241123_000030", "ts_code": "300750", "name": "宁德时代", "date": "2024-11-23 13:50:43", "sentiment_score": 0.4976}
+{"news_id": "news_20241123_000033", "ts_code": "600938", "name": "中国海洋石油", "date": "2024-11-23 13:27:47", "sentiment_score": 0.2883}
+{"news_id": "news_20241123_000033", "ts_code": "600028", "name": "中国石化", "date": "2024-11-23 13:27:47", "sentiment_score": 0.2883}
+{"news_id": "news_20241123_000033", "ts_code": "601857", "name": "中国石油", "date": "2024-11-23 13:27:47", "sentiment_score": 0.2883}
+{"news_id": "news_20241123_000052", "ts_code": "601211", "name": "国泰君安", "date": "2024-11-23 08:31:41", "sentiment_score": 0.6593}

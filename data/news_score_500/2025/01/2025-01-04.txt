@@ -1,0 +1,14 @@
+{"news_id": "news_20250104_000003", "ts_code": "002594", "name": "比亚迪", "date": "2025-01-04 21:05:32", "sentiment_score": 0.7273}
+{"news_id": "news_20250104_000008", "ts_code": "601288", "name": "农业银行", "date": "2025-01-04 19:33:19", "sentiment_score": 0.64}
+{"news_id": "news_20250104_000008", "ts_code": "601988", "name": "中国银行", "date": "2025-01-04 19:33:19", "sentiment_score": 0.64}
+{"news_id": "news_20250104_000009", "ts_code": "601127", "name": "赛力斯", "date": "2025-01-04 19:04:12", "sentiment_score": 0.5829}
+{"news_id": "news_20250104_000022", "ts_code": "600859", "name": "王府井", "date": "2025-01-04 15:00:06", "sentiment_score": 0.5937}
+{"news_id": "news_20250104_000023", "ts_code": "600859", "name": "王府井", "date": "2025-01-04 14:59:10", "sentiment_score": 0.6543}
+{"news_id": "news_20250104_000032", "ts_code": "300760", "name": "迈瑞医疗", "date": "2025-01-04 13:47:08", "sentiment_score": 0.5645}
+{"news_id": "news_20250104_000033", "ts_code": "600415", "name": "小商品城", "date": "2025-01-04 13:14:06", "sentiment_score": 0.6951}
+{"news_id": "news_20250104_000034", "ts_code": "600415", "name": "小商品城", "date": "2025-01-04 13:13:59", "sentiment_score": 0.6869}
+{"news_id": "news_20250104_000036", "ts_code": "603501", "name": "韦尔股份", "date": "2025-01-04 12:05:33", "sentiment_score": 0.6461}
+{"news_id": "news_20250104_000040", "ts_code": "600030", "name": "中信证券", "date": "2025-01-04 11:10:48", "sentiment_score": 0.7543}
+{"news_id": "news_20250104_000041", "ts_code": "600030", "name": "中信证券", "date": "2025-01-04 11:10:21", "sentiment_score": 0.6931}
+{"news_id": "news_20250104_000043", "ts_code": "300207", "name": "欣旺达", "date": "2025-01-04 11:08:00", "sentiment_score": 0.6352}
+{"news_id": "news_20250104_000056", "ts_code": "300760", "name": "迈瑞医疗", "date": "2025-01-04 09:38:03", "sentiment_score": 0.6451}

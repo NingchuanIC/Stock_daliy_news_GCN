@@ -1,0 +1,10 @@
+{"news_id": "news_20230115_000009", "ts_code": "601127", "name": "赛力斯", "date": "2023-01-15 21:26:22", "sentiment_score": 0.7456}
+{"news_id": "news_20230115_000016", "ts_code": "300207", "name": "欣旺达", "date": "2023-01-15 19:29:01", "sentiment_score": 0.6227}
+{"news_id": "news_20230115_000024", "ts_code": "002050", "name": "三花智控", "date": "2023-01-15 18:04:43", "sentiment_score": 0.8356}
+{"news_id": "news_20230115_000025", "ts_code": "002340", "name": "格林美", "date": "2023-01-15 18:01:38", "sentiment_score": 0.6909}
+{"news_id": "news_20230115_000033", "ts_code": "000998", "name": "隆平高科", "date": "2023-01-15 17:22:20", "sentiment_score": 0.6727}
+{"news_id": "news_20230115_000036", "ts_code": "688169", "name": "石头科技", "date": "2023-01-15 17:16:48", "sentiment_score": 0.8404}
+{"news_id": "news_20230115_000049", "ts_code": "002459", "name": "晶澳科技", "date": "2023-01-15 16:21:45", "sentiment_score": 0.8501}
+{"news_id": "news_20230115_000056", "ts_code": "600276", "name": "恒瑞医药", "date": "2023-01-15 16:02:50", "sentiment_score": 0.8278}
+{"news_id": "news_20230115_000057", "ts_code": "600521", "name": "华海药业", "date": "2023-01-15 15:59:19", "sentiment_score": 0.7268}
+{"news_id": "news_20230115_000065", "ts_code": "600104", "name": "上汽集团", "date": "2023-01-15 15:16:26", "sentiment_score": 0.8039}

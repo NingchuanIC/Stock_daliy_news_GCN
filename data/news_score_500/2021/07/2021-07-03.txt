@@ -1,0 +1,7 @@
+{"news_id": "news_20210703_000001", "ts_code": "600519", "name": "贵州茅台", "date": "2021-07-03 23:08:30", "sentiment_score": 0.7619}
+{"news_id": "news_20210703_000001", "ts_code": "002129", "name": "中环股份", "date": "2021-07-03 23:08:30", "sentiment_score": 0.7619}
+{"news_id": "news_20210703_000003", "ts_code": "600905", "name": "中国三峡新能源(集团)股份有限公司", "date": "2021-07-03 20:33:23", "sentiment_score": 0.7106}
+{"news_id": "news_20210703_000006", "ts_code": "300001", "name": "特锐德", "date": "2021-07-03 19:00:46", "sentiment_score": 0.7851}
+{"news_id": "news_20210703_000014", "ts_code": "688012", "name": "中微公司", "date": "2021-07-03 17:06:35", "sentiment_score": 0.7544}
+{"news_id": "news_20210703_000022", "ts_code": "600745", "name": "闻泰科技", "date": "2021-07-03 11:37:15", "sentiment_score": 0.7166}
+{"news_id": "news_20210703_000030", "ts_code": "600745", "name": "闻泰科技", "date": "2021-07-03 07:48:46", "sentiment_score": 0.7263}

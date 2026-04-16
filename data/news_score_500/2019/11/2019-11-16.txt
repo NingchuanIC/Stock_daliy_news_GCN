@@ -1,0 +1,7 @@
+{"news_id": "news_20191116_000008", "ts_code": "601633", "name": "长城汽车", "date": "2019-11-16 17:33:05", "sentiment_score": 0.6708}
+{"news_id": "news_20191116_000008", "ts_code": "600104", "name": "上汽集团", "date": "2019-11-16 17:33:05", "sentiment_score": 0.6708}
+{"news_id": "news_20191116_000008", "ts_code": "600066", "name": "宇通客车", "date": "2019-11-16 17:33:05", "sentiment_score": 0.6708}
+{"news_id": "news_20191116_000008", "ts_code": "002594", "name": "比亚迪", "date": "2019-11-16 17:33:05", "sentiment_score": 0.6708}
+{"news_id": "news_20191116_000013", "ts_code": "600030", "name": "中信证券", "date": "2019-11-16 15:00:04", "sentiment_score": 0.7138}
+{"news_id": "news_20191116_000017", "ts_code": "601857", "name": "中国石油", "date": "2019-11-16 12:50:14", "sentiment_score": 0.5339}
+{"news_id": "news_20191116_000022", "ts_code": "002230", "name": "科大讯飞", "date": "2019-11-16 07:56:59", "sentiment_score": 0.7505}

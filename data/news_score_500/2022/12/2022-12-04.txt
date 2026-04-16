@@ -1,0 +1,5 @@
+{"news_id": "news_20221204_000004", "ts_code": "600519", "name": "贵州茅台", "date": "2022-12-04 19:14:44", "sentiment_score": 0.7131}
+{"news_id": "news_20221204_000022", "ts_code": "000998", "name": "隆平高科", "date": "2022-12-04 16:53:13", "sentiment_score": 0.5115}
+{"news_id": "news_20221204_000040", "ts_code": "600276", "name": "恒瑞医药", "date": "2022-12-04 15:41:23", "sentiment_score": 0.6496}
+{"news_id": "news_20221204_000052", "ts_code": "601012", "name": "隆基绿能", "date": "2022-12-04 08:25:08", "sentiment_score": 0.6696}
+{"news_id": "news_20221204_000052", "ts_code": "600309", "name": "万华化学", "date": "2022-12-04 08:25:08", "sentiment_score": 0.6696}

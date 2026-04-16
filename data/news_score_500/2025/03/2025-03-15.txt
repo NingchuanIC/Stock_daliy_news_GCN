@@ -1,0 +1,16 @@
+{"news_id": "news_20250315_000042", "ts_code": "601988", "name": "中国银行", "date": "2025-03-15 22:09:01", "sentiment_score": 0.7137}
+{"news_id": "news_20250315_000110", "ts_code": "601186", "name": "中国铁建股份有限公司", "date": "2025-03-15 18:04:01", "sentiment_score": 0.7586}
+{"news_id": "news_20250315_000112", "ts_code": "300274", "name": "阳光电源股份有限公司", "date": "2025-03-15 17:43:23", "sentiment_score": 0.7017}
+{"news_id": "news_20250315_000120", "ts_code": "601288", "name": "农业银行", "date": "2025-03-15 16:56:07", "sentiment_score": 0.6837}
+{"news_id": "news_20250315_000121", "ts_code": "601318", "name": "中国平安", "date": "2025-03-15 16:38:33", "sentiment_score": 0.6593}
+{"news_id": "news_20250315_000153", "ts_code": "600031", "name": "三一重工", "date": "2025-03-15 13:38:21", "sentiment_score": 0.5249}
+{"news_id": "news_20250315_000181", "ts_code": "601211", "name": "国泰君安", "date": "2025-03-15 08:38:30", "sentiment_score": 0.75}
+{"news_id": "news_20250315_000181", "ts_code": "601985", "name": "中国核电", "date": "2025-03-15 08:38:30", "sentiment_score": 0.75}
+{"news_id": "news_20250315_000181", "ts_code": "600886", "name": "国投电力", "date": "2025-03-15 08:38:30", "sentiment_score": 0.75}
+{"news_id": "news_20250315_000182", "ts_code": "601211", "name": "国泰君安", "date": "2025-03-15 08:38:23", "sentiment_score": 0.7539}
+{"news_id": "news_20250315_000182", "ts_code": "601985", "name": "中国核电", "date": "2025-03-15 08:38:23", "sentiment_score": 0.7539}
+{"news_id": "news_20250315_000182", "ts_code": "600886", "name": "国投电力", "date": "2025-03-15 08:38:23", "sentiment_score": 0.7539}
+{"news_id": "news_20250315_000189", "ts_code": "002371", "name": "北方华创", "date": "2025-03-15 07:41:13", "sentiment_score": 0.6166}
+{"news_id": "news_20250315_000190", "ts_code": "002371", "name": "北方华创", "date": "2025-03-15 07:41:06", "sentiment_score": 0.728}
+{"news_id": "news_20250315_000227", "ts_code": "002916", "name": "深南电路", "date": "2025-03-15 04:51:12", "sentiment_score": 0.7519}
+{"news_id": "news_20250315_000228", "ts_code": "002916", "name": "深南电路", "date": "2025-03-15 04:51:05", "sentiment_score": 0.7533}

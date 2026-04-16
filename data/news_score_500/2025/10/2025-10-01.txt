@@ -1,0 +1,6 @@
+{"news_id": "news_20251001_000061", "ts_code": "002594", "name": "比亚迪", "date": "2025-10-01 19:28:43", "sentiment_score": 0.8785}
+{"news_id": "news_20251001_000062", "ts_code": "002594", "name": "比亚迪", "date": "2025-10-01 19:27:33", "sentiment_score": 0.8622}
+{"news_id": "news_20251001_000089", "ts_code": "601633", "name": "长城汽车", "date": "2025-10-01 18:07:28", "sentiment_score": 0.8611}
+{"news_id": "news_20251001_000140", "ts_code": "600030", "name": "中信证券", "date": "2025-10-01 15:29:29", "sentiment_score": 0.6909}
+{"news_id": "news_20251001_000186", "ts_code": "601899", "name": "紫金矿业", "date": "2025-10-01 10:15:46", "sentiment_score": 0.5999}
+{"news_id": "news_20251001_000186", "ts_code": "002812", "name": "Lee", "date": "2025-10-01 10:15:46", "sentiment_score": 0.5999}

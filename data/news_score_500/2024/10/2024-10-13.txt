@@ -1,0 +1,15 @@
+{"news_id": "news_20241013_000047", "ts_code": "601868", "name": "中国能建", "date": "2024-10-13 19:56:31", "sentiment_score": 0.7315}
+{"news_id": "news_20241013_000055", "ts_code": "688223", "name": "晶科能源", "date": "2024-10-13 19:07:48", "sentiment_score": 0.7491}
+{"news_id": "news_20241013_000056", "ts_code": "601211", "name": "国泰君安", "date": "2024-10-13 19:04:01", "sentiment_score": 0.8468}
+{"news_id": "news_20241013_000057", "ts_code": "688180", "name": "君实生物", "date": "2024-10-13 19:02:51", "sentiment_score": 0.7962}
+{"news_id": "news_20241013_000068", "ts_code": "600438", "name": "通威股份", "date": "2024-10-13 18:11:09", "sentiment_score": 0.6457}
+{"news_id": "news_20241013_000094", "ts_code": "688506", "name": "百利天恒", "date": "2024-10-13 16:15:38", "sentiment_score": 0.6728}
+{"news_id": "news_20241013_000098", "ts_code": "600276", "name": "恒瑞医药", "date": "2024-10-13 16:05:14", "sentiment_score": 0.1936}
+{"news_id": "news_20241013_000099", "ts_code": "600938", "name": "中国海油", "date": "2024-10-13 16:03:46", "sentiment_score": 0.7461}
+{"news_id": "news_20241013_000101", "ts_code": "688521", "name": "芯原股份", "date": "2024-10-13 16:03:04", "sentiment_score": 0.7935}
+{"news_id": "news_20241013_000127", "ts_code": "300750", "name": "宁德时代", "date": "2024-10-13 13:38:58", "sentiment_score": 0.4822}
+{"news_id": "news_20241013_000129", "ts_code": "600048", "name": "保利发展", "date": "2024-10-13 12:58:34", "sentiment_score": 0.6639}
+{"news_id": "news_20241013_000133", "ts_code": "601988", "name": "中国银行股份有限公司", "date": "2024-10-13 11:36:48", "sentiment_score": 0.3275}
+{"news_id": "news_20241013_000140", "ts_code": "002465", "name": "海格通信", "date": "2024-10-13 10:01:11", "sentiment_score": 0.6603}
+{"news_id": "news_20241013_000143", "ts_code": "601288", "name": "农业银行", "date": "2024-10-13 09:39:16", "sentiment_score": 0.5953}
+{"news_id": "news_20241013_000144", "ts_code": "601288", "name": "农业银行", "date": "2024-10-13 09:39:12", "sentiment_score": 0.6322}

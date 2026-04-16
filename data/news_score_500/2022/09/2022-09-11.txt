@@ -1,0 +1,7 @@
+{"news_id": "news_20220911_000002", "ts_code": "000792", "name": "盐湖股份", "date": "2022-09-11 19:30:28", "sentiment_score": 0.6339}
+{"news_id": "news_20220911_000016", "ts_code": "601601", "name": "中国太保", "date": "2022-09-11 11:09:14", "sentiment_score": 0.6744}
+{"news_id": "news_20220911_000016", "ts_code": "601318", "name": "中国平安", "date": "2022-09-11 11:09:14", "sentiment_score": 0.6744}
+{"news_id": "news_20220911_000016", "ts_code": "601628", "name": "中国人寿", "date": "2022-09-11 11:09:14", "sentiment_score": 0.6744}
+{"news_id": "news_20220911_000020", "ts_code": "688223", "name": "晶科能源", "date": "2022-09-11 10:28:15", "sentiment_score": 0.7012}
+{"news_id": "news_20220911_000021", "ts_code": "002241", "name": "歌尔股份", "date": "2022-09-11 10:06:21", "sentiment_score": 0.6504}
+{"news_id": "news_20220911_000022", "ts_code": "002475", "name": "立讯精密", "date": "2022-09-11 10:03:53", "sentiment_score": 0.7712}

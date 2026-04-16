@@ -1,0 +1,16 @@
+{"news_id": "news_20250607_000010", "ts_code": "688012", "name": "中微公司", "date": "2025-06-07 18:10:00", "sentiment_score": 0.7086}
+{"news_id": "news_20250607_000010", "ts_code": "688506", "name": "百利天恒", "date": "2025-06-07 18:10:00", "sentiment_score": 0.7086}
+{"news_id": "news_20250607_000010", "ts_code": "300496", "name": "中科创达", "date": "2025-06-07 18:10:00", "sentiment_score": 0.7086}
+{"news_id": "news_20250607_000011", "ts_code": "688012", "name": "中微公司", "date": "2025-06-07 18:09:53", "sentiment_score": 0.6951}
+{"news_id": "news_20250607_000011", "ts_code": "688506", "name": "百利天恒", "date": "2025-06-07 18:09:53", "sentiment_score": 0.6951}
+{"news_id": "news_20250607_000011", "ts_code": "300496", "name": "中科创达", "date": "2025-06-07 18:09:53", "sentiment_score": 0.6951}
+{"news_id": "news_20250607_000038", "ts_code": "002074", "name": "国轩高科", "date": "2025-06-07 15:25:32", "sentiment_score": 0.5065}
+{"news_id": "news_20250607_000039", "ts_code": "000725", "name": "京东方A", "date": "2025-06-07 12:37:20", "sentiment_score": 0.7187}
+{"news_id": "news_20250607_000039", "ts_code": "002475", "name": "立讯精密", "date": "2025-06-07 12:37:20", "sentiment_score": 0.7187}
+{"news_id": "news_20250607_000039", "ts_code": "300496", "name": "中科创达", "date": "2025-06-07 12:37:20", "sentiment_score": 0.7187}
+{"news_id": "news_20250607_000039", "ts_code": "002273", "name": "水晶光电", "date": "2025-06-07 12:37:20", "sentiment_score": 0.7187}
+{"news_id": "news_20250607_000040", "ts_code": "000725", "name": "京东方A", "date": "2025-06-07 12:37:13", "sentiment_score": 0.681}
+{"news_id": "news_20250607_000040", "ts_code": "002475", "name": "立讯精密", "date": "2025-06-07 12:37:13", "sentiment_score": 0.681}
+{"news_id": "news_20250607_000040", "ts_code": "300496", "name": "中科创达", "date": "2025-06-07 12:37:13", "sentiment_score": 0.681}
+{"news_id": "news_20250607_000040", "ts_code": "002273", "name": "水晶光电", "date": "2025-06-07 12:37:13", "sentiment_score": 0.681}
+{"news_id": "news_20250607_000068", "ts_code": "688256", "name": "寒武纪", "date": "2025-06-07 07:35:51", "sentiment_score": 0.6701}

@@ -1,0 +1,8 @@
+{"news_id": "news_20250628_000012", "ts_code": "002415", "name": "海康威视", "date": "2025-06-28 22:01:31", "sentiment_score": 0.6884}
+{"news_id": "news_20250628_000015", "ts_code": "300015", "name": "爱尔眼科医院集团股份有限公司", "date": "2025-06-28 20:42:40", "sentiment_score": 0.7042}
+{"news_id": "news_20250628_000031", "ts_code": "002594", "name": "比亚迪", "date": "2025-06-28 17:34:21", "sentiment_score": 0.6747}
+{"news_id": "news_20250628_000035", "ts_code": "601211", "name": "国泰海通", "date": "2025-06-28 17:13:41", "sentiment_score": 0.6529}
+{"news_id": "news_20250628_000035", "ts_code": "600030", "name": "中信证券", "date": "2025-06-28 17:13:41", "sentiment_score": 0.6529}
+{"news_id": "news_20250628_000049", "ts_code": "601857", "name": "中国石油", "date": "2025-06-28 15:01:10", "sentiment_score": 0.6911}
+{"news_id": "news_20250628_000061", "ts_code": "601012", "name": "隆基绿能", "date": "2025-06-28 12:14:30", "sentiment_score": 0.7342}
+{"news_id": "news_20250628_000069", "ts_code": "002594", "name": "比亚迪", "date": "2025-06-28 11:05:41", "sentiment_score": 0.7176}

@@ -1,0 +1,6 @@
+{"news_id": "news_20190316_000019", "ts_code": "600030", "name": "中信证券", "date": "2019-03-16 15:15:53", "sentiment_score": 0.6739}
+{"news_id": "news_20190316_000026", "ts_code": "601628", "name": "中国人寿", "date": "2019-03-16 11:23:41", "sentiment_score": 0.6675}
+{"news_id": "news_20190316_000035", "ts_code": "002230", "name": "科大讯飞", "date": "2019-03-16 08:06:17", "sentiment_score": 0.7242}
+{"news_id": "news_20190316_000038", "ts_code": "300059", "name": "东方财富", "date": "2019-03-16 07:40:38", "sentiment_score": 0.6914}
+{"news_id": "news_20190316_000051", "ts_code": "000333", "name": "美的集团", "date": "2019-03-16 01:01:59", "sentiment_score": 0.5959}
+{"news_id": "news_20190316_000054", "ts_code": "002594", "name": "比亚迪", "date": "2019-03-16 00:44:41", "sentiment_score": 0.7209}

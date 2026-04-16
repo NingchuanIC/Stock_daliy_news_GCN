@@ -1,0 +1,5 @@
+{"news_id": "news_20220205_000001", "ts_code": "002594", "name": "比亚迪", "date": "2022-02-05 22:47:51", "sentiment_score": 0.8454}
+{"news_id": "news_20220205_000003", "ts_code": "600519", "name": "贵州茅台", "date": "2022-02-05 17:25:29", "sentiment_score": 0.7129}
+{"news_id": "news_20220205_000006", "ts_code": "601211", "name": "国泰君安", "date": "2022-02-05 15:16:06", "sentiment_score": 0.657}
+{"news_id": "news_20220205_000008", "ts_code": "600028", "name": "中国石化", "date": "2022-02-05 14:06:26", "sentiment_score": 0.6438}
+{"news_id": "news_20220205_000013", "ts_code": "600050", "name": "中国联通", "date": "2022-02-05 09:52:39", "sentiment_score": 0.7262}

@@ -1,0 +1,11 @@
+{"news_id": "news_20211010_000001", "ts_code": "600938", "name": "中国海洋石油", "date": "2021-10-10 23:01:40", "sentiment_score": 0.6418}
+{"news_id": "news_20211010_000002", "ts_code": "605499", "name": "东鹏饮料", "date": "2021-10-10 22:31:43", "sentiment_score": 0.6291}
+{"news_id": "news_20211010_000006", "ts_code": "600938", "name": "中国海洋石油有限公司", "date": "2021-10-10 21:42:17", "sentiment_score": 0.7507}
+{"news_id": "news_20211010_000017", "ts_code": "000100", "name": "TCL科技", "date": "2021-10-10 20:23:09", "sentiment_score": 0.7821}
+{"news_id": "news_20211010_000030", "ts_code": "002460", "name": "赣锋锂业", "date": "2021-10-10 18:53:58", "sentiment_score": 0.6911}
+{"news_id": "news_20211010_000034", "ts_code": "000683", "name": "远兴能源", "date": "2021-10-10 18:23:25", "sentiment_score": 0.7875}
+{"news_id": "news_20211010_000062", "ts_code": "000002", "name": "万科A", "date": "2021-10-10 16:35:14", "sentiment_score": 0.8314}
+{"news_id": "news_20211010_000063", "ts_code": "600905", "name": "三峡能源", "date": "2021-10-10 16:27:30", "sentiment_score": 0.8529}
+{"news_id": "news_20211010_000067", "ts_code": "601899", "name": "紫金矿业", "date": "2021-10-10 16:04:25", "sentiment_score": 0.7019}
+{"news_id": "news_20211010_000070", "ts_code": "601615", "name": "明阳智能", "date": "2021-10-10 15:39:38", "sentiment_score": 0.8211}
+{"news_id": "news_20211010_000071", "ts_code": "600104", "name": "上汽集团", "date": "2021-10-10 15:37:31", "sentiment_score": 0.8268}

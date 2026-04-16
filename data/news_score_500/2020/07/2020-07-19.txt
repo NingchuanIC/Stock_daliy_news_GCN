@@ -1,0 +1,4 @@
+{"news_id": "news_20200719_000002", "ts_code": "601601", "name": "中国太保", "date": "2020-07-19 21:17:42", "sentiment_score": 0.5798}
+{"news_id": "news_20200719_000006", "ts_code": "601628", "name": "中国人寿", "date": "2020-07-19 18:35:19", "sentiment_score": 0.4882}
+{"news_id": "news_20200719_000011", "ts_code": "600745", "name": "闻泰科技", "date": "2020-07-19 17:37:22", "sentiment_score": 0.8773}
+{"news_id": "news_20200719_000013", "ts_code": "600153", "name": "建发股份", "date": "2020-07-19 17:29:59", "sentiment_score": 0.6857}

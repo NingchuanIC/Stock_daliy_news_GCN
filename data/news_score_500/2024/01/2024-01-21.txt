@@ -1,0 +1,9 @@
+{"news_id": "news_20240121_000005", "ts_code": "600029", "name": "南方航空", "date": "2024-01-21 21:57:56", "sentiment_score": 0.7088}
+{"news_id": "news_20240121_000011", "ts_code": "601012", "name": "隆基股份", "date": "2024-01-21 20:17:31", "sentiment_score": 0.6353}
+{"news_id": "news_20240121_000042", "ts_code": "601238", "name": "广汽集团", "date": "2024-01-21 16:28:07", "sentiment_score": 0.7485}
+{"news_id": "news_20240121_000059", "ts_code": "002714", "name": "牧原股份", "date": "2024-01-21 15:19:15", "sentiment_score": 0.7268}
+{"news_id": "news_20240121_000063", "ts_code": "600900", "name": "中国长江电力股份有限公司", "date": "2024-01-21 13:48:20", "sentiment_score": 0.6976}
+{"news_id": "news_20240121_000081", "ts_code": "601857", "name": "中国石油", "date": "2024-01-21 08:49:03", "sentiment_score": 0.6884}
+{"news_id": "news_20240121_000082", "ts_code": "688012", "name": "中微公司", "date": "2024-01-21 08:34:18", "sentiment_score": 0.6548}
+{"news_id": "news_20240121_000082", "ts_code": "600699", "name": "均胜电子", "date": "2024-01-21 08:34:18", "sentiment_score": 0.6548}
+{"news_id": "news_20240121_000082", "ts_code": "601689", "name": "拓普集团", "date": "2024-01-21 08:34:18", "sentiment_score": 0.6548}

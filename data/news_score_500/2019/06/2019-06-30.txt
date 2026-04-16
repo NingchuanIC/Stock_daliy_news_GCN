@@ -1,0 +1,7 @@
+{"news_id": "news_20190630_000002", "ts_code": "000858", "name": "五粮液", "date": "2019-06-30 21:06:41", "sentiment_score": 0.5557}
+{"news_id": "news_20190630_000003", "ts_code": "600519", "name": "贵州茅台", "date": "2019-06-30 20:31:26", "sentiment_score": 0.6639}
+{"news_id": "news_20190630_000011", "ts_code": "600028", "name": "中国石化", "date": "2019-06-30 16:57:29", "sentiment_score": 0.7335}
+{"news_id": "news_20190630_000018", "ts_code": "300832", "name": "新产业", "date": "2019-06-30 16:49:35", "sentiment_score": 0.7544}
+{"news_id": "news_20190630_000023", "ts_code": "002463", "name": "沪电股份", "date": "2019-06-30 16:26:43", "sentiment_score": 0.7708}
+{"news_id": "news_20190630_000035", "ts_code": "000651", "name": "格力电器", "date": "2019-06-30 11:50:20", "sentiment_score": 0.7296}
+{"news_id": "news_20190630_000041", "ts_code": "000568", "name": "泸州老窖", "date": "2019-06-30 08:43:51", "sentiment_score": 0.7192}

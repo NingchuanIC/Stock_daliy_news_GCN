@@ -1,0 +1,5 @@
+{"news_id": "news_20210614_000079", "ts_code": "002152", "name": "广电运通", "date": "2021-06-14 17:17:03", "sentiment_score": 0.28}
+{"news_id": "news_20210614_000081", "ts_code": "002460", "name": "赣锋锂业", "date": "2021-06-14 17:14:15", "sentiment_score": 0.7499}
+{"news_id": "news_20210614_000118", "ts_code": "002594", "name": "比亚迪", "date": "2021-06-14 13:00:15", "sentiment_score": 0.7254}
+{"news_id": "news_20210614_000121", "ts_code": "002594", "name": "比亚迪", "date": "2021-06-14 10:06:55", "sentiment_score": 0.6605}
+{"news_id": "news_20210614_000126", "ts_code": "600276", "name": "恒瑞医药", "date": "2021-06-14 06:40:59", "sentiment_score": 0.6943}

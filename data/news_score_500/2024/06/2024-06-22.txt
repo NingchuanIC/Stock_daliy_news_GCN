@@ -1,0 +1,8 @@
+{"news_id": "news_20240622_000004", "ts_code": "300750", "name": "宁德时代", "date": "2024-06-22 23:03:11", "sentiment_score": 0.6568}
+{"news_id": "news_20240622_000005", "ts_code": "300750", "name": "宁德时代", "date": "2024-06-22 22:49:50", "sentiment_score": 0.6405}
+{"news_id": "news_20240622_000015", "ts_code": "000425", "name": "徐工机械", "date": "2024-06-22 18:50:56", "sentiment_score": 0.7532}
+{"news_id": "news_20240622_000016", "ts_code": "000425", "name": "徐工机械", "date": "2024-06-22 18:37:01", "sentiment_score": 0.6049}
+{"news_id": "news_20240622_000036", "ts_code": "600519", "name": "贵州茅台", "date": "2024-06-22 14:45:39", "sentiment_score": 0.6998}
+{"news_id": "news_20240622_000041", "ts_code": "003816", "name": "中国广核", "date": "2024-06-22 14:13:34", "sentiment_score": 0.6731}
+{"news_id": "news_20240622_000057", "ts_code": "600153", "name": "建发股份", "date": "2024-06-22 09:58:54", "sentiment_score": 0.2777}
+{"news_id": "news_20240622_000106", "ts_code": "002594", "name": "比亚迪", "date": "2024-06-22 00:03:14", "sentiment_score": 0.7297}

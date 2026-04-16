@@ -1,0 +1,15 @@
+{"news_id": "news_20190201_000008", "ts_code": "002129", "name": "中环股份", "date": "2019-02-01 20:56:46", "sentiment_score": 0.6694}
+{"news_id": "news_20190201_000011", "ts_code": "601155", "name": "新城控股", "date": "2019-02-01 20:26:59", "sentiment_score": 0.8243}
+{"news_id": "news_20190201_000024", "ts_code": "002236", "name": "大华股份", "date": "2019-02-01 19:32:02", "sentiment_score": 0.8096}
+{"news_id": "news_20190201_000028", "ts_code": "002594", "name": "比亚迪", "date": "2019-02-01 19:11:01", "sentiment_score": 0.8085}
+{"news_id": "news_20190201_000031", "ts_code": "601186", "name": "中国铁建", "date": "2019-02-01 19:02:45", "sentiment_score": 0.7753}
+{"news_id": "news_20190201_000037", "ts_code": "002594", "name": "比亚迪", "date": "2019-02-01 18:45:27", "sentiment_score": 0.7317}
+{"news_id": "news_20190201_000038", "ts_code": "002594", "name": "比亚迪", "date": "2019-02-01 18:45:19", "sentiment_score": 0.7298}
+{"news_id": "news_20190201_000043", "ts_code": "600029", "name": "南方航空", "date": "2019-02-01 18:16:18", "sentiment_score": 0.851}
+{"news_id": "news_20190201_000049", "ts_code": "600938", "name": "中国海洋石油", "date": "2019-02-01 18:06:20", "sentiment_score": 0.8222}
+{"news_id": "news_20190201_000052", "ts_code": "600115", "name": "东方航空", "date": "2019-02-01 18:01:23", "sentiment_score": 0.6642}
+{"news_id": "news_20190201_000065", "ts_code": "601155", "name": "新城控股", "date": "2019-02-01 17:14:44", "sentiment_score": 0.8405}
+{"news_id": "news_20190201_000107", "ts_code": "600029", "name": "南方航空", "date": "2019-02-01 13:56:28", "sentiment_score": 0.4496}
+{"news_id": "news_20190201_000119", "ts_code": "000625", "name": "长安汽车", "date": "2019-02-01 12:42:36", "sentiment_score": 0.4831}
+{"news_id": "news_20190201_000124", "ts_code": "601857", "name": "中国石油", "date": "2019-02-01 12:25:23", "sentiment_score": 0.7341}
+{"news_id": "news_20190201_000132", "ts_code": "600028", "name": "中国石化", "date": "2019-02-01 11:45:09", "sentiment_score": 0.7843}

@@ -1,0 +1,6 @@
+{"news_id": "news_20251007_000051", "ts_code": "002271", "name": "东方雨虹", "date": "2025-10-07 20:50:23", "sentiment_score": 0.6608}
+{"news_id": "news_20251007_000150", "ts_code": "300274", "name": "阳光电源", "date": "2025-10-07 13:34:17", "sentiment_score": 0.7311}
+{"news_id": "news_20251007_000150", "ts_code": "600438", "name": "通威股份", "date": "2025-10-07 13:34:17", "sentiment_score": 0.7311}
+{"news_id": "news_20251007_000186", "ts_code": "688008", "name": "澜起科技", "date": "2025-10-07 09:34:14", "sentiment_score": 0.6322}
+{"news_id": "news_20251007_000195", "ts_code": "002594", "name": "比亚迪", "date": "2025-10-07 08:06:54", "sentiment_score": 0.6909}
+{"news_id": "news_20251007_000197", "ts_code": "300750", "name": "宁德时代", "date": "2025-10-07 07:57:41", "sentiment_score": 0.6583}

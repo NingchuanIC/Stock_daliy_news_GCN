@@ -1,0 +1,9 @@
+{"news_id": "news_20240610_000037", "ts_code": "600859", "name": "王府井", "date": "2024-06-10 19:19:15", "sentiment_score": 0.4838}
+{"news_id": "news_20240610_000040", "ts_code": "300308", "name": "中际旭创", "date": "2024-06-10 17:40:45", "sentiment_score": 0.6203}
+{"news_id": "news_20240610_000059", "ts_code": "600938", "name": "中国海油", "date": "2024-06-10 15:53:38", "sentiment_score": 0.7029}
+{"news_id": "news_20240610_000073", "ts_code": "300308", "name": "中际旭创", "date": "2024-06-10 15:35:22", "sentiment_score": 0.6531}
+{"news_id": "news_20240610_000089", "ts_code": "600031", "name": "三一重工", "date": "2024-06-10 13:21:45", "sentiment_score": 0.734}
+{"news_id": "news_20240610_000089", "ts_code": "000425", "name": "徐工机械", "date": "2024-06-10 13:21:45", "sentiment_score": 0.734}
+{"news_id": "news_20240610_000090", "ts_code": "600031", "name": "三一重工", "date": "2024-06-10 13:21:45", "sentiment_score": 0.734}
+{"news_id": "news_20240610_000090", "ts_code": "000425", "name": "徐工机械", "date": "2024-06-10 13:21:45", "sentiment_score": 0.734}
+{"news_id": "news_20240610_000112", "ts_code": "601728", "name": "中国电信", "date": "2024-06-10 11:44:24", "sentiment_score": 0.7328}

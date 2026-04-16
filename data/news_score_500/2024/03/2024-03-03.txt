@@ -1,0 +1,8 @@
+{"news_id": "news_20240303_000002", "ts_code": "002049", "name": "紫光国微", "date": "2024-03-03 22:36:11", "sentiment_score": 0.6699}
+{"news_id": "news_20240303_000005", "ts_code": "300459", "name": "汤姆猫", "date": "2024-03-03 20:13:10", "sentiment_score": 0.6759}
+{"news_id": "news_20240303_000007", "ts_code": "601628", "name": "中国人寿", "date": "2024-03-03 19:48:09", "sentiment_score": 0.7116}
+{"news_id": "news_20240303_000011", "ts_code": "000625", "name": "长安汽车", "date": "2024-03-03 18:59:38", "sentiment_score": 0.6607}
+{"news_id": "news_20240303_000015", "ts_code": "300832", "name": "新产业", "date": "2024-03-03 18:04:58", "sentiment_score": 0.743}
+{"news_id": "news_20240303_000034", "ts_code": "601628", "name": "中国人寿保险股份有限公司", "date": "2024-03-03 12:43:50", "sentiment_score": 0.6358}
+{"news_id": "news_20240303_000050", "ts_code": "300750", "name": "宁德时代", "date": "2024-03-03 07:24:00", "sentiment_score": 0.7374}
+{"news_id": "news_20240303_000050", "ts_code": "601857", "name": "中国石油", "date": "2024-03-03 07:24:00", "sentiment_score": 0.7374}

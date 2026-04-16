@@ -1,0 +1,15 @@
+{"news_id": "news_20190607_000016", "ts_code": "601669", "name": "中国电建", "date": "2019-06-07 18:03:24", "sentiment_score": 0.2462}
+{"news_id": "news_20190607_000018", "ts_code": "300750", "name": "宁德时代", "date": "2019-06-07 17:28:29", "sentiment_score": 0.5853}
+{"news_id": "news_20190607_000018", "ts_code": "002594", "name": "比亚迪", "date": "2019-06-07 17:28:29", "sentiment_score": 0.5853}
+{"news_id": "news_20190607_000019", "ts_code": "601186", "name": "中国铁建", "date": "2019-06-07 17:28:13", "sentiment_score": 0.5931}
+{"news_id": "news_20190607_000022", "ts_code": "601988", "name": "中国银行", "date": "2019-06-07 16:02:12", "sentiment_score": 0.7114}
+{"news_id": "news_20190607_000024", "ts_code": "300750", "name": "宁德时代", "date": "2019-06-07 12:43:18", "sentiment_score": 0.665}
+{"news_id": "news_20190607_000025", "ts_code": "300750", "name": "宁德时代", "date": "2019-06-07 11:54:34", "sentiment_score": 0.8557}
+{"news_id": "news_20190607_000025", "ts_code": "002594", "name": "比亚迪", "date": "2019-06-07 11:54:34", "sentiment_score": 0.8557}
+{"news_id": "news_20190607_000026", "ts_code": "000858", "name": "五粮液", "date": "2019-06-07 11:52:05", "sentiment_score": 0.6832}
+{"news_id": "news_20190607_000032", "ts_code": "600938", "name": "中国海油", "date": "2019-06-07 09:45:13", "sentiment_score": 0.069}
+{"news_id": "news_20190607_000037", "ts_code": "601186", "name": "中国铁建", "date": "2019-06-07 08:54:17", "sentiment_score": 0.5662}
+{"news_id": "news_20190607_000061", "ts_code": "300750", "name": "宁德时代", "date": "2019-06-07 01:47:41", "sentiment_score": 0.8255}
+{"news_id": "news_20190607_000066", "ts_code": "600079", "name": "人福医药", "date": "2019-06-07 00:15:58", "sentiment_score": 0.7383}
+{"news_id": "news_20190607_000066", "ts_code": "600839", "name": "四川长虹", "date": "2019-06-07 00:15:58", "sentiment_score": 0.7383}
+{"news_id": "news_20190607_000066", "ts_code": "600332", "name": "白云山", "date": "2019-06-07 00:15:58", "sentiment_score": 0.7383}

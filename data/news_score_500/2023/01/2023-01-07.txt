@@ -1,0 +1,8 @@
+{"news_id": "news_20230107_000002", "ts_code": "002340", "name": "格林美", "date": "2023-01-07 23:31:58", "sentiment_score": 0.6209}
+{"news_id": "news_20230107_000008", "ts_code": "002340", "name": "格林美", "date": "2023-01-07 20:19:05", "sentiment_score": 0.4645}
+{"news_id": "news_20230107_000014", "ts_code": "601238", "name": "广汽集团", "date": "2023-01-07 17:44:37", "sentiment_score": 0.7116}
+{"news_id": "news_20230107_000017", "ts_code": "600030", "name": "中信证券", "date": "2023-01-07 16:01:17", "sentiment_score": 0.7124}
+{"news_id": "news_20230107_000018", "ts_code": "600029", "name": "南方航空", "date": "2023-01-07 15:51:28", "sentiment_score": 0.6902}
+{"news_id": "news_20230107_000018", "ts_code": "600115", "name": "东方航空", "date": "2023-01-07 15:51:28", "sentiment_score": 0.6902}
+{"news_id": "news_20230107_000031", "ts_code": "600104", "name": "上汽集团", "date": "2023-01-07 12:23:59", "sentiment_score": 0.7597}
+{"news_id": "news_20230107_000044", "ts_code": "600115", "name": "中国东航", "date": "2023-01-07 09:40:57", "sentiment_score": 0.7134}

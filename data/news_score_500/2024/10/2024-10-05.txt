@@ -1,0 +1,4 @@
+{"news_id": "news_20241005_000003", "ts_code": "601211", "name": "国泰君安", "date": "2024-10-05 23:02:46", "sentiment_score": 0.796}
+{"news_id": "news_20241005_000003", "ts_code": "600030", "name": "中信证券", "date": "2024-10-05 23:02:46", "sentiment_score": 0.796}
+{"news_id": "news_20241005_000033", "ts_code": "000625", "name": "长安汽车", "date": "2024-10-05 14:25:13", "sentiment_score": 0.7635}
+{"news_id": "news_20241005_000051", "ts_code": "002594", "name": "比亚迪", "date": "2024-10-05 09:06:01", "sentiment_score": 0.8552}

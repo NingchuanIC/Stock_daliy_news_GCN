@@ -1,0 +1,9 @@
+{"news_id": "news_20220220_000006", "ts_code": "601155", "name": "新城控股", "date": "2022-02-20 16:53:14", "sentiment_score": 0.6968}
+{"news_id": "news_20220220_000008", "ts_code": "300750", "name": "宁德时代", "date": "2022-02-20 16:38:58", "sentiment_score": 0.7137}
+{"news_id": "news_20220220_000018", "ts_code": "002050", "name": "三花智控", "date": "2022-02-20 16:18:38", "sentiment_score": 0.5668}
+{"news_id": "news_20220220_000021", "ts_code": "002594", "name": "比亚迪", "date": "2022-02-20 15:44:10", "sentiment_score": 0.7705}
+{"news_id": "news_20220220_000028", "ts_code": "600519", "name": "贵州茅台", "date": "2022-02-20 14:20:47", "sentiment_score": 0.7278}
+{"news_id": "news_20220220_000030", "ts_code": "000651", "name": "格力电器", "date": "2022-02-20 13:18:08", "sentiment_score": 0.6549}
+{"news_id": "news_20220220_000033", "ts_code": "300750", "name": "宁德时代", "date": "2022-02-20 10:58:17", "sentiment_score": 0.5766}
+{"news_id": "news_20220220_000035", "ts_code": "002050", "name": "三花智控", "date": "2022-02-20 08:52:28", "sentiment_score": 0.7612}
+{"news_id": "news_20220220_000036", "ts_code": "601628", "name": "中国人寿", "date": "2022-02-20 05:39:21", "sentiment_score": 0.7094}

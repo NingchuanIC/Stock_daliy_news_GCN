@@ -1,0 +1,4 @@
+{"news_id": "news_20190407_000009", "ts_code": "601328", "name": "交通银行", "date": "2019-04-07 18:06:24", "sentiment_score": 0.6475}
+{"news_id": "news_20190407_000013", "ts_code": "002460", "name": "赣锋锂业", "date": "2019-04-07 17:10:00", "sentiment_score": 0.6851}
+{"news_id": "news_20190407_000022", "ts_code": "000157", "name": "中联重科", "date": "2019-04-07 16:18:58", "sentiment_score": 0.8065}
+{"news_id": "news_20190407_000025", "ts_code": "002714", "name": "牧原股份", "date": "2019-04-07 16:16:13", "sentiment_score": 0.7093}

@@ -1,0 +1,11 @@
+{"news_id": "news_20210627_000002", "ts_code": "600905", "name": "中国三峡新能源(集团)股份有限公司", "date": "2021-06-27 23:31:13", "sentiment_score": 0.6697}
+{"news_id": "news_20210627_000011", "ts_code": "600030", "name": "中信证券股份有限公司", "date": "2021-06-27 19:05:15", "sentiment_score": 0.7062}
+{"news_id": "news_20210627_000018", "ts_code": "000651", "name": "格力电器", "date": "2021-06-27 16:57:00", "sentiment_score": 0.7602}
+{"news_id": "news_20210627_000022", "ts_code": "600030", "name": "中信证券", "date": "2021-06-27 16:24:08", "sentiment_score": 0.5797}
+{"news_id": "news_20210627_000024", "ts_code": "601888", "name": "中国中免", "date": "2021-06-27 16:18:52", "sentiment_score": 0.7179}
+{"news_id": "news_20210627_000025", "ts_code": "000651", "name": "格力电器", "date": "2021-06-27 16:18:24", "sentiment_score": 0.7002}
+{"news_id": "news_20210627_000029", "ts_code": "000651", "name": "格力电器", "date": "2021-06-27 16:12:25", "sentiment_score": 0.5866}
+{"news_id": "news_20210627_000031", "ts_code": "000651", "name": "格力电器", "date": "2021-06-27 16:09:01", "sentiment_score": 0.6812}
+{"news_id": "news_20210627_000033", "ts_code": "600859", "name": "王府井", "date": "2021-06-27 15:39:10", "sentiment_score": 0.7897}
+{"news_id": "news_20210627_000036", "ts_code": "600030", "name": "中信证券", "date": "2021-06-27 14:42:44", "sentiment_score": 0.6145}
+{"news_id": "news_20210627_000039", "ts_code": "600050", "name": "中国联通", "date": "2021-06-27 13:34:57", "sentiment_score": 0.7315}

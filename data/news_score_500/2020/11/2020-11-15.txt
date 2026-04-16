@@ -1,0 +1,16 @@
+{"news_id": "news_20201115_000007", "ts_code": "000425", "name": "徐工机械", "date": "2020-11-15 19:40:20", "sentiment_score": 0.6772}
+{"news_id": "news_20201115_000009", "ts_code": "000651", "name": "格力电器", "date": "2020-11-15 19:36:47", "sentiment_score": 0.7543}
+{"news_id": "news_20201115_000012", "ts_code": "600028", "name": "中国石化", "date": "2020-11-15 18:12:25", "sentiment_score": 0.7996}
+{"news_id": "news_20201115_000016", "ts_code": "601800", "name": "中国交建", "date": "2020-11-15 17:05:38", "sentiment_score": 0.4588}
+{"news_id": "news_20201115_000017", "ts_code": "688599", "name": "天合光能股份有限公司", "date": "2020-11-15 16:56:24", "sentiment_score": 0.7616}
+{"news_id": "news_20201115_000019", "ts_code": "688012", "name": "中微公司", "date": "2020-11-15 16:39:41", "sentiment_score": 0.7998}
+{"news_id": "news_20201115_000020", "ts_code": "300896", "name": "爱美客", "date": "2020-11-15 16:36:22", "sentiment_score": 0.6862}
+{"news_id": "news_20201115_000023", "ts_code": "601766", "name": "中国中车", "date": "2020-11-15 16:28:06", "sentiment_score": 0.5344}
+{"news_id": "news_20201115_000025", "ts_code": "688599", "name": "天合光能", "date": "2020-11-15 16:24:15", "sentiment_score": 0.7516}
+{"news_id": "news_20201115_000027", "ts_code": "001979", "name": "招商蛇口", "date": "2020-11-15 16:12:52", "sentiment_score": 0.7535}
+{"news_id": "news_20201115_000028", "ts_code": "688012", "name": "中微公司", "date": "2020-11-15 16:08:14", "sentiment_score": 0.7368}
+{"news_id": "news_20201115_000032", "ts_code": "600886", "name": "国投电力", "date": "2020-11-15 14:36:28", "sentiment_score": 0.7953}
+{"news_id": "news_20201115_000033", "ts_code": "600886", "name": "国投电力", "date": "2020-11-15 14:35:54", "sentiment_score": 0.7937}
+{"news_id": "news_20201115_000038", "ts_code": "600028", "name": "中国石化", "date": "2020-11-15 12:17:02", "sentiment_score": 0.7705}
+{"news_id": "news_20201115_000041", "ts_code": "300750", "name": "宁德时代", "date": "2020-11-15 08:20:46", "sentiment_score": 0.6928}
+{"news_id": "news_20201115_000041", "ts_code": "000625", "name": "长安汽车", "date": "2020-11-15 08:20:46", "sentiment_score": 0.6928}

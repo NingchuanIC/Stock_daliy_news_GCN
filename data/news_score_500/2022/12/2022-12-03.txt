@@ -1,0 +1,10 @@
+{"news_id": "news_20221203_000004", "ts_code": "002594", "name": "比亚迪", "date": "2022-12-03 21:47:21", "sentiment_score": 0.6777}
+{"news_id": "news_20221203_000005", "ts_code": "601012", "name": "隆基绿能", "date": "2022-12-03 21:25:31", "sentiment_score": 0.6115}
+{"news_id": "news_20221203_000005", "ts_code": "600309", "name": "万华化学", "date": "2022-12-03 21:25:31", "sentiment_score": 0.6115}
+{"news_id": "news_20221203_000023", "ts_code": "601155", "name": "新城控股集团股份有限公司", "date": "2022-12-03 11:31:45", "sentiment_score": 0.5755}
+{"news_id": "news_20221203_000023", "ts_code": "601988", "name": "中国银行", "date": "2022-12-03 11:31:45", "sentiment_score": 0.5755}
+{"news_id": "news_20221203_000024", "ts_code": "002241", "name": "歌尔股份", "date": "2022-12-03 11:13:57", "sentiment_score": 0.7352}
+{"news_id": "news_20221203_000025", "ts_code": "688223", "name": "晶科能源", "date": "2022-12-03 10:51:16", "sentiment_score": 0.6067}
+{"news_id": "news_20221203_000027", "ts_code": "300207", "name": "欣旺达", "date": "2022-12-03 09:31:37", "sentiment_score": 0.6699}
+{"news_id": "news_20221203_000052", "ts_code": "002594", "name": "比亚迪", "date": "2022-12-03 01:26:41", "sentiment_score": 0.2627}
+{"news_id": "news_20221203_000053", "ts_code": "688223", "name": "晶科能源", "date": "2022-12-03 01:13:40", "sentiment_score": 0.8791}

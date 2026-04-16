@@ -1,0 +1,3 @@
+{"news_id": "news_20200307_000007", "ts_code": "601728", "name": "中国电信", "date": "2020-03-07 17:43:06", "sentiment_score": 0.7158}
+{"news_id": "news_20200307_000012", "ts_code": "000063", "name": "中兴通讯", "date": "2020-03-07 16:27:36", "sentiment_score": 0.7267}
+{"news_id": "news_20200307_000016", "ts_code": "600050", "name": "中国联通", "date": "2020-03-07 09:55:17", "sentiment_score": 0.6661}

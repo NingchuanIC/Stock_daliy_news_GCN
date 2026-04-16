@@ -1,0 +1,5 @@
+{"news_id": "news_20220131_000003", "ts_code": "688235", "name": "百济神州", "date": "2022-01-31 23:44:59", "sentiment_score": 0.8652}
+{"news_id": "news_20220131_000045", "ts_code": "002422", "name": "科伦药业", "date": "2022-01-31 11:36:39", "sentiment_score": 0.4368}
+{"news_id": "news_20220131_000050", "ts_code": "300496", "name": "中科创达", "date": "2022-01-31 09:51:57", "sentiment_score": 0.7076}
+{"news_id": "news_20220131_000050", "ts_code": "002594", "name": "比亚迪", "date": "2022-01-31 09:51:57", "sentiment_score": 0.7076}
+{"news_id": "news_20220131_000058", "ts_code": "601318", "name": "中国平安", "date": "2022-01-31 08:30:55", "sentiment_score": 0.6613}

@@ -1,0 +1,5 @@
+{"news_id": "news_20201205_000010", "ts_code": "600031", "name": "三一重工", "date": "2020-12-05 19:04:43", "sentiment_score": 0.7054}
+{"news_id": "news_20201205_000014", "ts_code": "002594", "name": "比亚迪", "date": "2020-12-05 17:19:34", "sentiment_score": 0.6375}
+{"news_id": "news_20201205_000016", "ts_code": "601988", "name": "中国银行", "date": "2020-12-05 16:08:05", "sentiment_score": 0.6928}
+{"news_id": "news_20201205_000017", "ts_code": "601988", "name": "中国银行", "date": "2020-12-05 16:07:19", "sentiment_score": 0.6409}
+{"news_id": "news_20201205_000042", "ts_code": "688180", "name": "君实生物", "date": "2020-12-05 01:20:12", "sentiment_score": 0.8033}

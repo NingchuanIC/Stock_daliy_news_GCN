@@ -1,0 +1,6 @@
+{"news_id": "news_20251220_000006", "ts_code": "600030", "name": "中信证券", "date": "2025-12-20 22:32:12", "sentiment_score": 0.5665}
+{"news_id": "news_20251220_000013", "ts_code": "601088", "name": "中国神华", "date": "2025-12-20 20:50:47", "sentiment_score": 0.7273}
+{"news_id": "news_20251220_000025", "ts_code": "002353", "name": "杰瑞股份", "date": "2025-12-20 16:48:39", "sentiment_score": 0.7458}
+{"news_id": "news_20251220_000026", "ts_code": "002353", "name": "杰瑞股份", "date": "2025-12-20 16:44:53", "sentiment_score": 0.7447}
+{"news_id": "news_20251220_000063", "ts_code": "600104", "name": "上汽集团", "date": "2025-12-20 10:13:07", "sentiment_score": 0.769}
+{"news_id": "news_20251220_000069", "ts_code": "000858", "name": "五粮液", "date": "2025-12-20 09:04:34", "sentiment_score": 0.7286}

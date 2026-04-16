@@ -1,0 +1,7 @@
+{"news_id": "news_20241207_000009", "ts_code": "600050", "name": "中国联通", "date": "2024-12-07 20:11:05", "sentiment_score": 0.5483}
+{"news_id": "news_20241207_000024", "ts_code": "002594", "name": "比亚迪股份有限公司", "date": "2024-12-07 15:32:46", "sentiment_score": 0.4688}
+{"news_id": "news_20241207_000035", "ts_code": "002594", "name": "比亚迪股份有限公司", "date": "2024-12-07 14:19:10", "sentiment_score": 0.6581}
+{"news_id": "news_20241207_000051", "ts_code": "000063", "name": "中兴通讯", "date": "2024-12-07 12:02:29", "sentiment_score": 0.6542}
+{"news_id": "news_20241207_000051", "ts_code": "601728", "name": "中国电信", "date": "2024-12-07 12:02:29", "sentiment_score": 0.6542}
+{"news_id": "news_20241207_000068", "ts_code": "002415", "name": "海康威视", "date": "2024-12-07 08:17:17", "sentiment_score": 0.5553}
+{"news_id": "news_20241207_000069", "ts_code": "002415", "name": "海康威视", "date": "2024-12-07 08:17:12", "sentiment_score": 0.6587}

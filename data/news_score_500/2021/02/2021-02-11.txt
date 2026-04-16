@@ -1,0 +1,6 @@
+{"news_id": "news_20210211_000051", "ts_code": "002812", "name": "Lee", "date": "2021-02-11 19:38:26", "sentiment_score": 0.7741}
+{"news_id": "news_20210211_000102", "ts_code": "601857", "name": "中国石油", "date": "2021-02-11 15:11:56", "sentiment_score": 0.7683}
+{"news_id": "news_20210211_000138", "ts_code": "601988", "name": "中国银行", "date": "2021-02-11 11:19:04", "sentiment_score": 0.7222}
+{"news_id": "news_20210211_000164", "ts_code": "600050", "name": "中国联通", "date": "2021-02-11 06:35:45", "sentiment_score": 0.8806}
+{"news_id": "news_20210211_000168", "ts_code": "600196", "name": "复星医药", "date": "2021-02-11 06:26:10", "sentiment_score": 0.8856}
+{"news_id": "news_20210211_000171", "ts_code": "601728", "name": "中国电信", "date": "2021-02-11 06:12:11", "sentiment_score": 0.8596}

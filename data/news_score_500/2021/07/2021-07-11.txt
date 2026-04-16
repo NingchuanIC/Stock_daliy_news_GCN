@@ -1,0 +1,14 @@
+{"news_id": "news_20210711_000005", "ts_code": "002050", "name": "三花智控", "date": "2021-07-11 22:34:20", "sentiment_score": 0.6819}
+{"news_id": "news_20210711_000007", "ts_code": "600196", "name": "复星医药", "date": "2021-07-11 22:17:10", "sentiment_score": 0.5899}
+{"news_id": "news_20210711_000009", "ts_code": "600196", "name": "复星医药", "date": "2021-07-11 20:49:37", "sentiment_score": 0.778}
+{"news_id": "news_20210711_000020", "ts_code": "300003", "name": "乐普医疗", "date": "2021-07-11 16:51:36", "sentiment_score": 0.7931}
+{"news_id": "news_20210711_000029", "ts_code": "002271", "name": "东方雨虹", "date": "2021-07-11 16:24:40", "sentiment_score": 0.8036}
+{"news_id": "news_20210711_000034", "ts_code": "601628", "name": "中国人寿", "date": "2021-07-11 16:12:45", "sentiment_score": 0.7622}
+{"news_id": "news_20210711_000037", "ts_code": "300750", "name": "宁德时代", "date": "2021-07-11 15:47:40", "sentiment_score": 0.7632}
+{"news_id": "news_20210711_000041", "ts_code": "601615", "name": "明阳智能", "date": "2021-07-11 15:38:46", "sentiment_score": 0.8134}
+{"news_id": "news_20210711_000042", "ts_code": "002230", "name": "科大讯飞", "date": "2021-07-11 15:14:14", "sentiment_score": 0.5665}
+{"news_id": "news_20210711_000044", "ts_code": "000625", "name": "长安汽车", "date": "2021-07-11 14:26:11", "sentiment_score": 0.6825}
+{"news_id": "news_20210711_000045", "ts_code": "300750", "name": "宁德时代", "date": "2021-07-11 14:00:50", "sentiment_score": 0.5621}
+{"news_id": "news_20210711_000046", "ts_code": "300750", "name": "宁德时代新能源科技股份有限公司", "date": "2021-07-11 11:57:57", "sentiment_score": 0.7075}
+{"news_id": "news_20210711_000049", "ts_code": "601238", "name": "广汽集团", "date": "2021-07-11 10:50:14", "sentiment_score": 0.6624}
+{"news_id": "news_20210711_000054", "ts_code": "300750", "name": "宁德时代", "date": "2021-07-11 00:03:03", "sentiment_score": 0.7663}

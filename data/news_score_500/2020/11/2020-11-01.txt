@@ -1,0 +1,8 @@
+{"news_id": "news_20201101_000024", "ts_code": "600745", "name": "闻泰科技", "date": "2020-11-01 16:22:17", "sentiment_score": 0.6738}
+{"news_id": "news_20201101_000029", "ts_code": "600030", "name": "中信证券", "date": "2020-11-01 15:38:55", "sentiment_score": 0.7069}
+{"news_id": "news_20201101_000038", "ts_code": "600196", "name": "复星医药", "date": "2020-11-01 14:30:40", "sentiment_score": 0.7678}
+{"news_id": "news_20201101_000043", "ts_code": "002714", "name": "牧原股份", "date": "2020-11-01 12:34:18", "sentiment_score": 0.6932}
+{"news_id": "news_20201101_000047", "ts_code": "601899", "name": "紫金矿业", "date": "2020-11-01 10:37:18", "sentiment_score": 0.5574}
+{"news_id": "news_20201101_000047", "ts_code": "002415", "name": "海康威视", "date": "2020-11-01 10:37:18", "sentiment_score": 0.5574}
+{"news_id": "news_20201101_000047", "ts_code": "002236", "name": "大华股份", "date": "2020-11-01 10:37:18", "sentiment_score": 0.5574}
+{"news_id": "news_20201101_000052", "ts_code": "603501", "name": "韦尔股份", "date": "2020-11-01 08:44:18", "sentiment_score": 0.7237}

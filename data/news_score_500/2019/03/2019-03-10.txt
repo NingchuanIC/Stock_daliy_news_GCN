@@ -1,0 +1,5 @@
+{"news_id": "news_20190310_000010", "ts_code": "000661", "name": "长春高新", "date": "2019-03-10 17:36:37", "sentiment_score": 0.6449}
+{"news_id": "news_20190310_000015", "ts_code": "002152", "name": "广电运通", "date": "2019-03-10 17:00:45", "sentiment_score": 0.7798}
+{"news_id": "news_20190310_000032", "ts_code": "601238", "name": "广汽集团", "date": "2019-03-10 14:20:07", "sentiment_score": 0.8496}
+{"news_id": "news_20190310_000034", "ts_code": "601888", "name": "中国国旅", "date": "2019-03-10 14:18:44", "sentiment_score": 0.7211}
+{"news_id": "news_20190310_000036", "ts_code": "000425", "name": "徐工机械", "date": "2019-03-10 08:53:09", "sentiment_score": 0.7592}

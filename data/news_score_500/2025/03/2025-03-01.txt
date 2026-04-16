@@ -1,0 +1,12 @@
+{"news_id": "news_20250301_000015", "ts_code": "600938", "name": "中国海洋石油", "date": "2025-03-01 21:01:46", "sentiment_score": 0.7594}
+{"news_id": "news_20250301_000016", "ts_code": "600938", "name": "中国海洋石油", "date": "2025-03-01 21:01:38", "sentiment_score": 0.7473}
+{"news_id": "news_20250301_000017", "ts_code": "601857", "name": "中国石油", "date": "2025-03-01 20:59:30", "sentiment_score": 0.7064}
+{"news_id": "news_20250301_000019", "ts_code": "002594", "name": "比亚迪", "date": "2025-03-01 20:39:58", "sentiment_score": 0.6598}
+{"news_id": "news_20250301_000027", "ts_code": "002594", "name": "比亚迪", "date": "2025-03-01 19:23:46", "sentiment_score": 0.8406}
+{"news_id": "news_20250301_000036", "ts_code": "002916", "name": "深南电路", "date": "2025-03-01 17:32:02", "sentiment_score": 0.6457}
+{"news_id": "news_20250301_000038", "ts_code": "000792", "name": "盐湖股份", "date": "2025-03-01 17:14:57", "sentiment_score": 0.7598}
+{"news_id": "news_20250301_000039", "ts_code": "000792", "name": "盐湖股份", "date": "2025-03-01 17:14:39", "sentiment_score": 0.7533}
+{"news_id": "news_20250301_000040", "ts_code": "000425", "name": "徐工机械", "date": "2025-03-01 16:51:19", "sentiment_score": 0.5921}
+{"news_id": "news_20250301_000102", "ts_code": "600519", "name": "贵州茅台", "date": "2025-03-01 09:28:20", "sentiment_score": 0.6635}
+{"news_id": "news_20250301_000116", "ts_code": "688036", "name": "传音控股", "date": "2025-03-01 07:53:00", "sentiment_score": 0.6488}
+{"news_id": "news_20250301_000134", "ts_code": "688036", "name": "传音控股", "date": "2025-03-01 05:32:23", "sentiment_score": 0.6089}

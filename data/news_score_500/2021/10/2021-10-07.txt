@@ -1,0 +1,14 @@
+{"news_id": "news_20211007_000021", "ts_code": "601633", "name": "长城汽车", "date": "2021-10-07 19:01:27", "sentiment_score": 0.7464}
+{"news_id": "news_20211007_000029", "ts_code": "000963", "name": "华东医药", "date": "2021-10-07 18:33:50", "sentiment_score": 0.7548}
+{"news_id": "news_20211007_000038", "ts_code": "300122", "name": "智飞生物", "date": "2021-10-07 18:04:26", "sentiment_score": 0.6216}
+{"news_id": "news_20211007_000043", "ts_code": "000963", "name": "华东医药股份有限公司", "date": "2021-10-07 17:53:59", "sentiment_score": 0.737}
+{"news_id": "news_20211007_000044", "ts_code": "002594", "name": "比亚迪", "date": "2021-10-07 17:49:25", "sentiment_score": 0.8735}
+{"news_id": "news_20211007_000067", "ts_code": "002371", "name": "北方华创", "date": "2021-10-07 16:15:17", "sentiment_score": 0.8393}
+{"news_id": "news_20211007_000083", "ts_code": "600011", "name": "华能国际", "date": "2021-10-07 13:39:31", "sentiment_score": 0.876}
+{"news_id": "news_20211007_000090", "ts_code": "601633", "name": "长城汽车", "date": "2021-10-07 12:07:37", "sentiment_score": 0.8458}
+{"news_id": "news_20211007_000090", "ts_code": "601857", "name": "中国石油", "date": "2021-10-07 12:07:37", "sentiment_score": 0.8458}
+{"news_id": "news_20211007_000092", "ts_code": "601668", "name": "中国建筑", "date": "2021-10-07 11:55:38", "sentiment_score": 0.86}
+{"news_id": "news_20211007_000110", "ts_code": "601238", "name": "广汽集团", "date": "2021-10-07 09:42:34", "sentiment_score": 0.8888}
+{"news_id": "news_20211007_000110", "ts_code": "601633", "name": "长城汽车", "date": "2021-10-07 09:42:34", "sentiment_score": 0.8888}
+{"news_id": "news_20211007_000110", "ts_code": "002594", "name": "比亚迪", "date": "2021-10-07 09:42:34", "sentiment_score": 0.8888}
+{"news_id": "news_20211007_000122", "ts_code": "601155", "name": "新城控股", "date": "2021-10-07 07:26:40", "sentiment_score": 0.7972}

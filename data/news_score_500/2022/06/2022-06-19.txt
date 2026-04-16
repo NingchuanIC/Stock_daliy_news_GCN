@@ -1,0 +1,4 @@
+{"news_id": "news_20220619_000009", "ts_code": "688180", "name": "君实生物", "date": "2022-06-19 18:16:05", "sentiment_score": 0.7883}
+{"news_id": "news_20220619_000016", "ts_code": "002065", "name": "东华软件", "date": "2022-06-19 17:33:16", "sentiment_score": 0.6488}
+{"news_id": "news_20220619_000026", "ts_code": "002352", "name": "顺丰控股", "date": "2022-06-19 16:28:31", "sentiment_score": 0.8341}
+{"news_id": "news_20220619_000027", "ts_code": "002352", "name": "顺丰控股", "date": "2022-06-19 16:26:25", "sentiment_score": 0.8803}

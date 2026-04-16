@@ -1,0 +1,16 @@
+{"news_id": "news_20250510_000032", "ts_code": "300750", "name": "宁德时代", "date": "2025-05-10 14:57:14", "sentiment_score": 0.6909}
+{"news_id": "news_20250510_000045", "ts_code": "600030", "name": "中信证券", "date": "2025-05-10 13:32:01", "sentiment_score": 0.632}
+{"news_id": "news_20250510_000046", "ts_code": "600030", "name": "中信证券", "date": "2025-05-10 13:31:54", "sentiment_score": 0.6415}
+{"news_id": "news_20250510_000056", "ts_code": "601868", "name": "中国能建", "date": "2025-05-10 12:01:25", "sentiment_score": 0.7439}
+{"news_id": "news_20250510_000062", "ts_code": "601669", "name": "中国电建", "date": "2025-05-10 11:18:47", "sentiment_score": 0.6368}
+{"news_id": "news_20250510_000065", "ts_code": "000725", "name": "京东方科技集团股份有限公司", "date": "2025-05-10 10:55:39", "sentiment_score": 0.6763}
+{"news_id": "news_20250510_000065", "ts_code": "000100", "name": "TCL科技集团股份有限公司", "date": "2025-05-10 10:55:39", "sentiment_score": 0.6763}
+{"news_id": "news_20250510_000066", "ts_code": "600153", "name": "厦门建发", "date": "2025-05-10 10:54:40", "sentiment_score": 0.7223}
+{"news_id": "news_20250510_000099", "ts_code": "601211", "name": "国泰君安", "date": "2025-05-10 07:34:22", "sentiment_score": 0.2257}
+{"news_id": "news_20250510_000100", "ts_code": "601211", "name": "国泰君安", "date": "2025-05-10 07:34:16", "sentiment_score": 0.5539}
+{"news_id": "news_20250510_000106", "ts_code": "000426", "name": "兴业银锡", "date": "2025-05-10 07:20:31", "sentiment_score": 0.6753}
+{"news_id": "news_20250510_000110", "ts_code": "601601", "name": "中国太保", "date": "2025-05-10 06:50:52", "sentiment_score": 0.5789}
+{"news_id": "news_20250510_000110", "ts_code": "601607", "name": "上海医药", "date": "2025-05-10 06:50:52", "sentiment_score": 0.5789}
+{"news_id": "news_20250510_000161", "ts_code": "300014", "name": "亿纬锂能", "date": "2025-05-10 04:39:34", "sentiment_score": 0.737}
+{"news_id": "news_20250510_000172", "ts_code": "002340", "name": "格林美", "date": "2025-05-10 04:08:10", "sentiment_score": 0.8663}
+{"news_id": "news_20250510_000173", "ts_code": "002340", "name": "格林美", "date": "2025-05-10 04:08:04", "sentiment_score": 0.8623}

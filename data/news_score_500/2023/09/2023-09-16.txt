@@ -1,0 +1,17 @@
+{"news_id": "news_20230916_000002", "ts_code": "601728", "name": "中国电信", "date": "2023-09-16 22:44:04", "sentiment_score": 0.7255}
+{"news_id": "news_20230916_000003", "ts_code": "002594", "name": "比亚迪", "date": "2023-09-16 22:42:27", "sentiment_score": 0.6645}
+{"news_id": "news_20230916_000006", "ts_code": "600519", "name": "贵州茅台", "date": "2023-09-16 22:01:12", "sentiment_score": 0.6816}
+{"news_id": "news_20230916_000019", "ts_code": "601238", "name": "广汽集团", "date": "2023-09-16 19:01:37", "sentiment_score": 0.7261}
+{"news_id": "news_20230916_000019", "ts_code": "002475", "name": "立讯精密", "date": "2023-09-16 19:01:37", "sentiment_score": 0.7261}
+{"news_id": "news_20230916_000021", "ts_code": "000963", "name": "华东医药", "date": "2023-09-16 19:00:52", "sentiment_score": 0.6328}
+{"news_id": "news_20230916_000026", "ts_code": "002648", "name": "卫星化学", "date": "2023-09-16 17:34:05", "sentiment_score": 0.4157}
+{"news_id": "news_20230916_000032", "ts_code": "002594", "name": "比亚迪", "date": "2023-09-16 15:55:24", "sentiment_score": 0.6372}
+{"news_id": "news_20230916_000037", "ts_code": "601288", "name": "农业银行", "date": "2023-09-16 14:23:36", "sentiment_score": 0.7089}
+{"news_id": "news_20230916_000037", "ts_code": "601328", "name": "交通银行", "date": "2023-09-16 14:23:36", "sentiment_score": 0.7089}
+{"news_id": "news_20230916_000046", "ts_code": "002008", "name": "大族激光", "date": "2023-09-16 12:43:27", "sentiment_score": 0.6875}
+{"news_id": "news_20230916_000057", "ts_code": "600111", "name": "北方稀土", "date": "2023-09-16 10:56:16", "sentiment_score": 0.6625}
+{"news_id": "news_20230916_000063", "ts_code": "000063", "name": "中兴通讯", "date": "2023-09-16 09:45:29", "sentiment_score": 0.756}
+{"news_id": "news_20230916_000064", "ts_code": "600690", "name": "海尔智家", "date": "2023-09-16 09:32:13", "sentiment_score": 0.8208}
+{"news_id": "news_20230916_000065", "ts_code": "600519", "name": "贵州茅台", "date": "2023-09-16 09:31:40", "sentiment_score": 0.6873}
+{"news_id": "news_20230916_000072", "ts_code": "601857", "name": "中国石油", "date": "2023-09-16 08:48:32", "sentiment_score": 0.6632}
+{"news_id": "news_20230916_000080", "ts_code": "601899", "name": "紫金矿业", "date": "2023-09-16 08:07:42", "sentiment_score": 0.5847}

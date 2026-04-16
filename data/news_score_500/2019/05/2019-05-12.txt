@@ -1,0 +1,7 @@
+{"news_id": "news_20190512_000002", "ts_code": "002001", "name": "新和成", "date": "2019-05-12 22:36:46", "sentiment_score": 0.7271}
+{"news_id": "news_20190512_000003", "ts_code": "603019", "name": "中科曙光", "date": "2019-05-12 22:07:38", "sentiment_score": 0.7332}
+{"news_id": "news_20190512_000015", "ts_code": "300750", "name": "宁德时代", "date": "2019-05-12 17:14:02", "sentiment_score": 0.7139}
+{"news_id": "news_20190512_000016", "ts_code": "300750", "name": "宁德时代", "date": "2019-05-12 17:02:41", "sentiment_score": 0.7771}
+{"news_id": "news_20190512_000020", "ts_code": "300001", "name": "特锐德", "date": "2019-05-12 16:59:32", "sentiment_score": 0.703}
+{"news_id": "news_20190512_000045", "ts_code": "002594", "name": "比亚迪", "date": "2019-05-12 12:30:14", "sentiment_score": 0.7573}
+{"news_id": "news_20190512_000046", "ts_code": "002739", "name": "万达电影股份有限公司", "date": "2019-05-12 11:36:38", "sentiment_score": 0.7601}

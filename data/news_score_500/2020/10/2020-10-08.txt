@@ -1,0 +1,14 @@
+{"news_id": "news_20201008_000013", "ts_code": "002202", "name": "金风科技", "date": "2020-10-08 22:03:27", "sentiment_score": 0.7373}
+{"news_id": "news_20201008_000013", "ts_code": "603606", "name": "东方电缆", "date": "2020-10-08 22:03:27", "sentiment_score": 0.7373}
+{"news_id": "news_20201008_000014", "ts_code": "002475", "name": "立讯精密", "date": "2020-10-08 21:59:08", "sentiment_score": 0.611}
+{"news_id": "news_20201008_000014", "ts_code": "002241", "name": "歌尔股份", "date": "2020-10-08 21:59:08", "sentiment_score": 0.611}
+{"news_id": "news_20201008_000031", "ts_code": "601318", "name": "中国平安", "date": "2020-10-08 18:09:22", "sentiment_score": 0.8852}
+{"news_id": "news_20201008_000046", "ts_code": "002049", "name": "紫光国微", "date": "2020-10-08 17:10:57", "sentiment_score": 0.6366}
+{"news_id": "news_20201008_000053", "ts_code": "300750", "name": "宁德时代", "date": "2020-10-08 16:59:01", "sentiment_score": 0.8457}
+{"news_id": "news_20201008_000056", "ts_code": "600196", "name": "复星医药", "date": "2020-10-08 16:35:48", "sentiment_score": 0.6131}
+{"news_id": "news_20201008_000057", "ts_code": "000625", "name": "长安汽车", "date": "2020-10-08 16:34:55", "sentiment_score": 0.8206}
+{"news_id": "news_20201008_000073", "ts_code": "601318", "name": "中国平安", "date": "2020-10-08 14:53:56", "sentiment_score": 0.6586}
+{"news_id": "news_20201008_000074", "ts_code": "601988", "name": "中国银行", "date": "2020-10-08 14:53:48", "sentiment_score": 0.7692}
+{"news_id": "news_20201008_000094", "ts_code": "688180", "name": "君实生物", "date": "2020-10-08 09:54:04", "sentiment_score": 0.8668}
+{"news_id": "news_20201008_000095", "ts_code": "688180", "name": "君实生物", "date": "2020-10-08 09:44:05", "sentiment_score": 0.7604}
+{"news_id": "news_20201008_000096", "ts_code": "000100", "name": "TCL集团", "date": "2020-10-08 09:38:22", "sentiment_score": 0.8687}

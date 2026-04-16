@@ -1,0 +1,4 @@
+{"news_id": "news_20191123_000002", "ts_code": "600519", "name": "贵州茅台", "date": "2019-11-23 21:15:27", "sentiment_score": 0.57}
+{"news_id": "news_20191123_000003", "ts_code": "600519", "name": "贵州茅台", "date": "2019-11-23 19:10:07", "sentiment_score": 0.7025}
+{"news_id": "news_20191123_000007", "ts_code": "601988", "name": "中国银行", "date": "2019-11-23 14:52:31", "sentiment_score": 0.6692}
+{"news_id": "news_20191123_000016", "ts_code": "000063", "name": "中兴通讯", "date": "2019-11-23 09:32:35", "sentiment_score": 0.731}

@@ -1,0 +1,3 @@
+{"news_id": "news_20220409_000009", "ts_code": "600050", "name": "中国联通", "date": "2022-04-09 19:34:36", "sentiment_score": 0.6096}
+{"news_id": "news_20220409_000012", "ts_code": "688180", "name": "君实生物", "date": "2022-04-09 17:29:32", "sentiment_score": 0.7536}
+{"news_id": "news_20220409_000020", "ts_code": "600030", "name": "中信证券", "date": "2022-04-09 10:30:52", "sentiment_score": 0.6248}

@@ -1,0 +1,10 @@
+{"news_id": "news_20210529_000001", "ts_code": "000338", "name": "潍柴动力", "date": "2021-05-29 22:30:15", "sentiment_score": 0.61}
+{"news_id": "news_20210529_000006", "ts_code": "000683", "name": "远兴能源", "date": "2021-05-29 20:48:25", "sentiment_score": 0.6802}
+{"news_id": "news_20210529_000013", "ts_code": "600028", "name": "中国石化", "date": "2021-05-29 16:43:23", "sentiment_score": 0.6956}
+{"news_id": "news_20210529_000014", "ts_code": "600938", "name": "中国海洋石油", "date": "2021-05-29 16:39:48", "sentiment_score": 0.6463}
+{"news_id": "news_20210529_000015", "ts_code": "601211", "name": "国泰君安", "date": "2021-05-29 14:33:51", "sentiment_score": 0.5173}
+{"news_id": "news_20210529_000015", "ts_code": "600030", "name": "中信证券", "date": "2021-05-29 14:33:51", "sentiment_score": 0.5173}
+{"news_id": "news_20210529_000016", "ts_code": "601328", "name": "交通银行", "date": "2021-05-29 13:29:39", "sentiment_score": 0.5895}
+{"news_id": "news_20210529_000024", "ts_code": "600938", "name": "中国海油", "date": "2021-05-29 09:31:56", "sentiment_score": 0.7399}
+{"news_id": "news_20210529_000027", "ts_code": "601211", "name": "国泰君安", "date": "2021-05-29 07:42:55", "sentiment_score": 0.4351}
+{"news_id": "news_20210529_000027", "ts_code": "600030", "name": "中信证券", "date": "2021-05-29 07:42:55", "sentiment_score": 0.4351}

@@ -1,0 +1,9 @@
+{"news_id": "news_20191012_000013", "ts_code": "600519", "name": "贵州茅台", "date": "2019-10-12 16:50:54", "sentiment_score": 0.4962}
+{"news_id": "news_20191012_000018", "ts_code": "000063", "name": "中兴通讯", "date": "2019-10-12 15:34:35", "sentiment_score": 0.6263}
+{"news_id": "news_20191012_000019", "ts_code": "601633", "name": "长城汽车", "date": "2019-10-12 14:58:26", "sentiment_score": 0.7077}
+{"news_id": "news_20191012_000029", "ts_code": "605499", "name": "东鹏饮料", "date": "2019-10-12 11:40:24", "sentiment_score": 0.7524}
+{"news_id": "news_20191012_000039", "ts_code": "601633", "name": "长城汽车", "date": "2019-10-12 10:16:33", "sentiment_score": 0.8507}
+{"news_id": "news_20191012_000041", "ts_code": "600031", "name": "三一重工", "date": "2019-10-12 09:55:42", "sentiment_score": 0.7732}
+{"news_id": "news_20191012_000042", "ts_code": "600104", "name": "上汽集团", "date": "2019-10-12 09:50:39", "sentiment_score": 0.794}
+{"news_id": "news_20191012_000047", "ts_code": "601186", "name": "中国铁建股份有限公司", "date": "2019-10-12 08:29:35", "sentiment_score": 0.6812}
+{"news_id": "news_20191012_000060", "ts_code": "601186", "name": "中国铁建", "date": "2019-10-12 01:49:29", "sentiment_score": 0.7546}

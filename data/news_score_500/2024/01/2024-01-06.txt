@@ -1,0 +1,7 @@
+{"news_id": "news_20240106_000007", "ts_code": "600519", "name": "贵州茅台", "date": "2024-01-06 19:18:17", "sentiment_score": 0.7465}
+{"news_id": "news_20240106_000010", "ts_code": "300750", "name": "宁德时代", "date": "2024-01-06 18:55:07", "sentiment_score": 0.6871}
+{"news_id": "news_20240106_000015", "ts_code": "002459", "name": "晶澳科技", "date": "2024-01-06 18:15:21", "sentiment_score": 0.8082}
+{"news_id": "news_20240106_000017", "ts_code": "601689", "name": "拓普集团", "date": "2024-01-06 16:22:16", "sentiment_score": 0.689}
+{"news_id": "news_20240106_000021", "ts_code": "002459", "name": "晶澳科技", "date": "2024-01-06 15:25:07", "sentiment_score": 0.6824}
+{"news_id": "news_20240106_000032", "ts_code": "601988", "name": "中国银行", "date": "2024-01-06 13:13:04", "sentiment_score": 0.7298}
+{"news_id": "news_20240106_000034", "ts_code": "601857", "name": "中国石油", "date": "2024-01-06 12:05:08", "sentiment_score": 0.6732}

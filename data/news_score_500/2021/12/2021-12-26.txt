@@ -1,0 +1,12 @@
+{"news_id": "news_20211226_000008", "ts_code": "601600", "name": "中国铝业", "date": "2021-12-26 18:12:18", "sentiment_score": 0.8268}
+{"news_id": "news_20211226_000015", "ts_code": "000333", "name": "美的集团", "date": "2021-12-26 16:45:08", "sentiment_score": 0.5639}
+{"news_id": "news_20211226_000023", "ts_code": "600028", "name": "中国石油化工股份有限公司", "date": "2021-12-26 16:08:26", "sentiment_score": 0.6454}
+{"news_id": "news_20211226_000023", "ts_code": "601857", "name": "中国石油", "date": "2021-12-26 16:08:26", "sentiment_score": 0.6454}
+{"news_id": "news_20211226_000023", "ts_code": "002001", "name": "新和成", "date": "2021-12-26 16:08:26", "sentiment_score": 0.6454}
+{"news_id": "news_20211226_000024", "ts_code": "688235", "name": "百济神州", "date": "2021-12-26 16:07:17", "sentiment_score": 0.7174}
+{"news_id": "news_20211226_000029", "ts_code": "601899", "name": "紫金矿业", "date": "2021-12-26 15:45:41", "sentiment_score": 0.5614}
+{"news_id": "news_20211226_000031", "ts_code": "600104", "name": "上汽集团", "date": "2021-12-26 15:04:46", "sentiment_score": 0.5955}
+{"news_id": "news_20211226_000032", "ts_code": "601728", "name": "中国电信", "date": "2021-12-26 14:53:05", "sentiment_score": 0.7302}
+{"news_id": "news_20211226_000041", "ts_code": "601628", "name": "中国人寿", "date": "2021-12-26 08:31:01", "sentiment_score": 0.7191}
+{"news_id": "news_20211226_000043", "ts_code": "002475", "name": "立讯精密", "date": "2021-12-26 03:32:08", "sentiment_score": 0.7226}
+{"news_id": "news_20211226_000044", "ts_code": "000568", "name": "泸州老窖", "date": "2021-12-26 00:59:55", "sentiment_score": 0.6828}

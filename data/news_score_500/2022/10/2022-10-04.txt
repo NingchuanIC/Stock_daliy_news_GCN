@@ -1,0 +1,15 @@
+{"news_id": "news_20221004_000001", "ts_code": "002594", "name": "比亚迪", "date": "2022-10-04 23:21:15", "sentiment_score": 0.7616}
+{"news_id": "news_20221004_000022", "ts_code": "600519", "name": "贵州茅台", "date": "2022-10-04 21:24:15", "sentiment_score": 0.5675}
+{"news_id": "news_20221004_000026", "ts_code": "000039", "name": "中集集团", "date": "2022-10-04 20:15:40", "sentiment_score": 0.7258}
+{"news_id": "news_20221004_000043", "ts_code": "002594", "name": "比亚迪", "date": "2022-10-04 16:46:22", "sentiment_score": 0.7537}
+{"news_id": "news_20221004_000064", "ts_code": "601238", "name": "广汽集团", "date": "2022-10-04 13:51:26", "sentiment_score": 0.6565}
+{"news_id": "news_20221004_000065", "ts_code": "601288", "name": "农业银行", "date": "2022-10-04 13:48:21", "sentiment_score": 0.8022}
+{"news_id": "news_20221004_000069", "ts_code": "300750", "name": "宁德时代", "date": "2022-10-04 12:47:09", "sentiment_score": 0.7283}
+{"news_id": "news_20221004_000069", "ts_code": "600519", "name": "贵州茅台", "date": "2022-10-04 12:47:09", "sentiment_score": 0.7283}
+{"news_id": "news_20221004_000069", "ts_code": "000333", "name": "美的集团", "date": "2022-10-04 12:47:09", "sentiment_score": 0.7283}
+{"news_id": "news_20221004_000069", "ts_code": "601012", "name": "隆基绿能", "date": "2022-10-04 12:47:09", "sentiment_score": 0.7283}
+{"news_id": "news_20221004_000069", "ts_code": "002475", "name": "立讯精密", "date": "2022-10-04 12:47:09", "sentiment_score": 0.7283}
+{"news_id": "news_20221004_000069", "ts_code": "600048", "name": "保利发展", "date": "2022-10-04 12:47:09", "sentiment_score": 0.7283}
+{"news_id": "news_20221004_000069", "ts_code": "600030", "name": "中信证券", "date": "2022-10-04 12:47:09", "sentiment_score": 0.7283}
+{"news_id": "news_20221004_000069", "ts_code": "300059", "name": "东方财富", "date": "2022-10-04 12:47:09", "sentiment_score": 0.7283}
+{"news_id": "news_20221004_000070", "ts_code": "601288", "name": "农业银行", "date": "2022-10-04 12:40:15", "sentiment_score": 0.8027}

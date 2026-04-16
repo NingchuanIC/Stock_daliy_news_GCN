@@ -1,0 +1,15 @@
+{"news_id": "news_20240803_000005", "ts_code": "601669", "name": "中国电建", "date": "2024-08-03 22:31:26", "sentiment_score": 0.727}
+{"news_id": "news_20240803_000006", "ts_code": "601669", "name": "中国电建", "date": "2024-08-03 22:31:21", "sentiment_score": 0.7023}
+{"news_id": "news_20240803_000010", "ts_code": "002594", "name": "比亚迪股份有限公司", "date": "2024-08-03 21:25:25", "sentiment_score": 0.6828}
+{"news_id": "news_20240803_000011", "ts_code": "002594", "name": "比亚迪股份有限公司", "date": "2024-08-03 21:25:21", "sentiment_score": 0.6301}
+{"news_id": "news_20240803_000012", "ts_code": "002714", "name": "牧原股份", "date": "2024-08-03 21:25:11", "sentiment_score": 0.7401}
+{"news_id": "news_20240803_000033", "ts_code": "601668", "name": "中国建筑", "date": "2024-08-03 17:40:00", "sentiment_score": 0.653}
+{"news_id": "news_20240803_000034", "ts_code": "601668", "name": "中国建筑", "date": "2024-08-03 17:39:52", "sentiment_score": 0.6396}
+{"news_id": "news_20240803_000040", "ts_code": "600028", "name": "中国石化", "date": "2024-08-03 16:40:21", "sentiment_score": 0.7328}
+{"news_id": "news_20240803_000041", "ts_code": "300750", "name": "宁德时代", "date": "2024-08-03 16:06:55", "sentiment_score": 0.6634}
+{"news_id": "news_20240803_000042", "ts_code": "300750", "name": "宁德时代", "date": "2024-08-03 16:06:16", "sentiment_score": 0.7109}
+{"news_id": "news_20240803_000043", "ts_code": "000538", "name": "云南白药", "date": "2024-08-03 15:59:08", "sentiment_score": 0.0556}
+{"news_id": "news_20240803_000049", "ts_code": "002129", "name": "TCL中环", "date": "2024-08-03 14:28:52", "sentiment_score": 0.6696}
+{"news_id": "news_20240803_000051", "ts_code": "601800", "name": "中国交建", "date": "2024-08-03 14:08:22", "sentiment_score": 0.8046}
+{"news_id": "news_20240803_000057", "ts_code": "000651", "name": "格力电器", "date": "2024-08-03 13:13:12", "sentiment_score": 0.8038}
+{"news_id": "news_20240803_000071", "ts_code": "002594", "name": "比亚迪", "date": "2024-08-03 10:37:18", "sentiment_score": 0.8723}

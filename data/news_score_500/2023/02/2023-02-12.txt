@@ -1,0 +1,12 @@
+{"news_id": "news_20230212_000003", "ts_code": "002594", "name": "比亚迪", "date": "2023-02-12 22:14:40", "sentiment_score": 0.4455}
+{"news_id": "news_20230212_000011", "ts_code": "002129", "name": "TCL中环", "date": "2023-02-12 20:08:05", "sentiment_score": 0.7017}
+{"news_id": "news_20230212_000014", "ts_code": "300750", "name": "宁德时代", "date": "2023-02-12 19:25:31", "sentiment_score": 0.8477}
+{"news_id": "news_20230212_000015", "ts_code": "002129", "name": "TCL中环", "date": "2023-02-12 19:24:14", "sentiment_score": 0.6672}
+{"news_id": "news_20230212_000016", "ts_code": "600519", "name": "贵州茅台", "date": "2023-02-12 19:10:56", "sentiment_score": 0.834}
+{"news_id": "news_20230212_000026", "ts_code": "002603", "name": "以岭药业", "date": "2023-02-12 17:37:51", "sentiment_score": 0.7562}
+{"news_id": "news_20230212_000029", "ts_code": "600276", "name": "恒瑞医药", "date": "2023-02-12 17:05:40", "sentiment_score": 0.7573}
+{"news_id": "news_20230212_000030", "ts_code": "300459", "name": "金科文化", "date": "2023-02-12 17:03:21", "sentiment_score": 0.6978}
+{"news_id": "news_20230212_000038", "ts_code": "000002", "name": "万科A", "date": "2023-02-12 16:21:24", "sentiment_score": 0.7878}
+{"news_id": "news_20230212_000039", "ts_code": "300459", "name": "金科文化", "date": "2023-02-12 16:06:37", "sentiment_score": 0.4593}
+{"news_id": "news_20230212_000054", "ts_code": "601857", "name": "中国石油", "date": "2023-02-12 13:47:09", "sentiment_score": 0.6312}
+{"news_id": "news_20230212_000072", "ts_code": "600438", "name": "通威股份", "date": "2023-02-12 07:25:50", "sentiment_score": 0.7093}

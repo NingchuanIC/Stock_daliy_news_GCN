@@ -1,0 +1,6 @@
+{"news_id": "news_20211106_000001", "ts_code": "300122", "name": "智飞生物", "date": "2021-11-06 22:54:49", "sentiment_score": 0.5894}
+{"news_id": "news_20211106_000004", "ts_code": "000625", "name": "长安汽车", "date": "2021-11-06 21:53:19", "sentiment_score": 0.6958}
+{"news_id": "news_20211106_000014", "ts_code": "600048", "name": "保利发展", "date": "2021-11-06 20:04:44", "sentiment_score": 0.6703}
+{"news_id": "news_20211106_000026", "ts_code": "002460", "name": "赣锋锂业", "date": "2021-11-06 15:49:23", "sentiment_score": 0.7889}
+{"news_id": "news_20211106_000036", "ts_code": "601328", "name": "交通银行", "date": "2021-11-06 10:57:31", "sentiment_score": 0.5701}
+{"news_id": "news_20211106_000037", "ts_code": "601857", "name": "中国石油", "date": "2021-11-06 10:48:00", "sentiment_score": 0.6919}

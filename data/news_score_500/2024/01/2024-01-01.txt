@@ -1,0 +1,17 @@
+{"news_id": "news_20240101_000001", "ts_code": "002244", "name": "滨江集团", "date": "2024-01-01 23:36:10", "sentiment_score": 0.6831}
+{"news_id": "news_20240101_000003", "ts_code": "601238", "name": "广汽集团", "date": "2024-01-01 22:05:35", "sentiment_score": 0.7002}
+{"news_id": "news_20240101_000006", "ts_code": "002244", "name": "滨江集团", "date": "2024-01-01 21:31:32", "sentiment_score": 0.6831}
+{"news_id": "news_20240101_000015", "ts_code": "300459", "name": "汤姆猫", "date": "2024-01-01 19:35:31", "sentiment_score": 0.7309}
+{"news_id": "news_20240101_000016", "ts_code": "601985", "name": "中国核电", "date": "2024-01-01 19:33:37", "sentiment_score": 0.6943}
+{"news_id": "news_20240101_000019", "ts_code": "600104", "name": "上汽集团", "date": "2024-01-01 19:19:44", "sentiment_score": 0.8098}
+{"news_id": "news_20240101_000020", "ts_code": "000858", "name": "五粮液", "date": "2024-01-01 19:12:19", "sentiment_score": 0.775}
+{"news_id": "news_20240101_000023", "ts_code": "002594", "name": "比亚迪", "date": "2024-01-01 18:12:32", "sentiment_score": 0.847}
+{"news_id": "news_20240101_000028", "ts_code": "601127", "name": "赛力斯", "date": "2024-01-01 17:28:42", "sentiment_score": 0.805}
+{"news_id": "news_20240101_000034", "ts_code": "601985", "name": "中国核电", "date": "2024-01-01 17:00:54", "sentiment_score": 0.6568}
+{"news_id": "news_20240101_000042", "ts_code": "600276", "name": "恒瑞医药", "date": "2024-01-01 16:25:31", "sentiment_score": 0.7451}
+{"news_id": "news_20240101_000054", "ts_code": "600886", "name": "国投电力", "date": "2024-01-01 15:45:40", "sentiment_score": 0.7112}
+{"news_id": "news_20240101_000064", "ts_code": "000063", "name": "中兴通讯", "date": "2024-01-01 14:54:39", "sentiment_score": 0.7021}
+{"news_id": "news_20240101_000068", "ts_code": "603993", "name": "洛阳钼业", "date": "2024-01-01 14:30:13", "sentiment_score": 0.7088}
+{"news_id": "news_20240101_000076", "ts_code": "601633", "name": "长城汽车", "date": "2024-01-01 12:32:05", "sentiment_score": 0.851}
+{"news_id": "news_20240101_000088", "ts_code": "601985", "name": "中国核电", "date": "2024-01-01 10:15:41", "sentiment_score": 0.7213}
+{"news_id": "news_20240101_000097", "ts_code": "002340", "name": "格林美", "date": "2024-01-01 08:13:56", "sentiment_score": 0.7351}

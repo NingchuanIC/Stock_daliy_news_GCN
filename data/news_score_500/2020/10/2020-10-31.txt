@@ -1,0 +1,17 @@
+{"news_id": "news_20201031_000004", "ts_code": "000661", "name": "长春高新", "date": "2020-10-31 18:46:00", "sentiment_score": 0.7067}
+{"news_id": "news_20201031_000004", "ts_code": "601398", "name": "工商银行", "date": "2020-10-31 18:46:00", "sentiment_score": 0.7067}
+{"news_id": "news_20201031_000004", "ts_code": "600079", "name": "人福医药", "date": "2020-10-31 18:46:00", "sentiment_score": 0.7067}
+{"news_id": "news_20201031_000004", "ts_code": "601288", "name": "农业银行", "date": "2020-10-31 18:46:00", "sentiment_score": 0.7067}
+{"news_id": "news_20201031_000004", "ts_code": "601328", "name": "交通银行", "date": "2020-10-31 18:46:00", "sentiment_score": 0.7067}
+{"news_id": "news_20201031_000009", "ts_code": "300059", "name": "东方财富信息股份有限公司", "date": "2020-10-31 17:31:15", "sentiment_score": 0.6941}
+{"news_id": "news_20201031_000010", "ts_code": "300433", "name": "蓝思科技", "date": "2020-10-31 17:11:16", "sentiment_score": 0.7324}
+{"news_id": "news_20201031_000010", "ts_code": "601318", "name": "中国平安", "date": "2020-10-31 17:11:16", "sentiment_score": 0.7324}
+{"news_id": "news_20201031_000010", "ts_code": "000858", "name": "五粮液", "date": "2020-10-31 17:11:16", "sentiment_score": 0.7324}
+{"news_id": "news_20201031_000018", "ts_code": "600050", "name": "中国联通", "date": "2020-10-31 16:09:20", "sentiment_score": 0.6423}
+{"news_id": "news_20201031_000021", "ts_code": "601728", "name": "中国电信", "date": "2020-10-31 15:51:26", "sentiment_score": 0.749}
+{"news_id": "news_20201031_000025", "ts_code": "600030", "name": "中信证券", "date": "2020-10-31 13:59:31", "sentiment_score": 0.6961}
+{"news_id": "news_20201031_000026", "ts_code": "300832", "name": "新产业", "date": "2020-10-31 12:55:59", "sentiment_score": 0.6446}
+{"news_id": "news_20201031_000029", "ts_code": "601988", "name": "中国银行", "date": "2020-10-31 11:04:13", "sentiment_score": 0.6926}
+{"news_id": "news_20201031_000034", "ts_code": "000651", "name": "格力电器", "date": "2020-10-31 08:00:51", "sentiment_score": 0.7817}
+{"news_id": "news_20201031_000043", "ts_code": "600030", "name": "中信证券", "date": "2020-10-31 01:48:35", "sentiment_score": 0.7216}
+{"news_id": "news_20201031_000043", "ts_code": "300122", "name": "智飞生物", "date": "2020-10-31 01:48:35", "sentiment_score": 0.7216}

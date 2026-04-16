@@ -1,0 +1,9 @@
+{"news_id": "news_20210424_000007", "ts_code": "601398", "name": "工商银行", "date": "2021-04-24 20:13:36", "sentiment_score": 0.6441}
+{"news_id": "news_20210424_000007", "ts_code": "601288", "name": "农业银行", "date": "2021-04-24 20:13:36", "sentiment_score": 0.6441}
+{"news_id": "news_20210424_000007", "ts_code": "601328", "name": "交通银行", "date": "2021-04-24 20:13:36", "sentiment_score": 0.6441}
+{"news_id": "news_20210424_000007", "ts_code": "601988", "name": "中国银行", "date": "2021-04-24 20:13:36", "sentiment_score": 0.6441}
+{"news_id": "news_20210424_000030", "ts_code": "002460", "name": "赣锋锂业", "date": "2021-04-24 10:11:47", "sentiment_score": 0.8171}
+{"news_id": "news_20210424_000030", "ts_code": "000963", "name": "华东医药", "date": "2021-04-24 10:11:47", "sentiment_score": 0.8171}
+{"news_id": "news_20210424_000030", "ts_code": "002241", "name": "歌尔股份", "date": "2021-04-24 10:11:47", "sentiment_score": 0.8171}
+{"news_id": "news_20210424_000032", "ts_code": "601127", "name": "小康股份", "date": "2021-04-24 09:04:32", "sentiment_score": 0.712}
+{"news_id": "news_20210424_000050", "ts_code": "601633", "name": "长城汽车", "date": "2021-04-24 00:09:41", "sentiment_score": 0.7287}

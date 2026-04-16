@@ -1,0 +1,4 @@
+{"news_id": "news_20221210_000024", "ts_code": "600028", "name": "中国石化", "date": "2022-12-10 09:24:05", "sentiment_score": 0.6503}
+{"news_id": "news_20221210_000026", "ts_code": "002594", "name": "比亚迪", "date": "2022-12-10 07:54:53", "sentiment_score": 0.6932}
+{"news_id": "news_20221210_000073", "ts_code": "601888", "name": "中国中免", "date": "2022-12-10 00:38:39", "sentiment_score": 0.6554}
+{"news_id": "news_20221210_000073", "ts_code": "002466", "name": "天齐锂业", "date": "2022-12-10 00:38:39", "sentiment_score": 0.6554}

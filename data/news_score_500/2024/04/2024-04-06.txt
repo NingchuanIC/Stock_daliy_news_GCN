@@ -1,0 +1,4 @@
+{"news_id": "news_20240406_000004", "ts_code": "601398", "name": "工商银行", "date": "2024-04-06 22:06:20", "sentiment_score": 0.6808}
+{"news_id": "news_20240406_000005", "ts_code": "601398", "name": "工商银行", "date": "2024-04-06 22:06:20", "sentiment_score": 0.6789}
+{"news_id": "news_20240406_000006", "ts_code": "601857", "name": "中国石油", "date": "2024-04-06 22:00:59", "sentiment_score": 0.6717}
+{"news_id": "news_20240406_000063", "ts_code": "300750", "name": "宁德时代", "date": "2024-04-06 10:49:38", "sentiment_score": 0.5873}

@@ -1,0 +1,13 @@
+{"news_id": "news_20250119_000008", "ts_code": "300223", "name": "北京君正", "date": "2025-01-19 22:28:58", "sentiment_score": 0.7095}
+{"news_id": "news_20250119_000012", "ts_code": "002466", "name": "天齐锂业", "date": "2025-01-19 22:10:32", "sentiment_score": 0.7056}
+{"news_id": "news_20250119_000017", "ts_code": "600438", "name": "通威股份", "date": "2025-01-19 21:31:54", "sentiment_score": 0.7335}
+{"news_id": "news_20250119_000022", "ts_code": "600030", "name": "中信证券", "date": "2025-01-19 20:55:44", "sentiment_score": 0.7646}
+{"news_id": "news_20250119_000023", "ts_code": "600030", "name": "中信证券", "date": "2025-01-19 20:55:40", "sentiment_score": 0.7252}
+{"news_id": "news_20250119_000030", "ts_code": "601899", "name": "紫金矿业", "date": "2025-01-19 19:26:26", "sentiment_score": 0.6953}
+{"news_id": "news_20250119_000030", "ts_code": "300014", "name": "亿纬锂能", "date": "2025-01-19 19:26:26", "sentiment_score": 0.6953}
+{"news_id": "news_20250119_000032", "ts_code": "601899", "name": "紫金矿业", "date": "2025-01-19 19:15:09", "sentiment_score": 0.7517}
+{"news_id": "news_20250119_000032", "ts_code": "300014", "name": "亿纬锂能", "date": "2025-01-19 19:15:09", "sentiment_score": 0.7517}
+{"news_id": "news_20250119_000051", "ts_code": "601211", "name": "国泰君安", "date": "2025-01-19 16:12:08", "sentiment_score": 0.4179}
+{"news_id": "news_20250119_000052", "ts_code": "601211", "name": "国泰君安", "date": "2025-01-19 16:11:07", "sentiment_score": 0.4684}
+{"news_id": "news_20250119_000107", "ts_code": "600050", "name": "中国联通", "date": "2025-01-19 07:28:24", "sentiment_score": 0.6926}
+{"news_id": "news_20250119_000107", "ts_code": "601988", "name": "中国银行", "date": "2025-01-19 07:28:24", "sentiment_score": 0.6926}

@@ -1,0 +1,9 @@
+{"news_id": "news_20190106_000008", "ts_code": "000100", "name": "TCL集团", "date": "2019-01-06 19:38:42", "sentiment_score": 0.7601}
+{"news_id": "news_20190106_000019", "ts_code": "603259", "name": "药明康德", "date": "2019-01-06 17:16:40", "sentiment_score": 0.7819}
+{"news_id": "news_20190106_000025", "ts_code": "002594", "name": "比亚迪", "date": "2019-01-06 16:49:45", "sentiment_score": 0.6918}
+{"news_id": "news_20190106_000026", "ts_code": "002594", "name": "比亚迪", "date": "2019-01-06 16:48:56", "sentiment_score": 0.6746}
+{"news_id": "news_20190106_000028", "ts_code": "000100", "name": "TCL集团", "date": "2019-01-06 16:34:31", "sentiment_score": 0.8071}
+{"news_id": "news_20190106_000035", "ts_code": "600859", "name": "王府井", "date": "2019-01-06 16:08:43", "sentiment_score": 0.7978}
+{"news_id": "news_20190106_000037", "ts_code": "600048", "name": "保利地产", "date": "2019-01-06 15:43:52", "sentiment_score": 0.7262}
+{"news_id": "news_20190106_000039", "ts_code": "600699", "name": "均胜电子", "date": "2019-01-06 15:09:27", "sentiment_score": 0.8423}
+{"news_id": "news_20190106_000053", "ts_code": "300760", "name": "深圳迈瑞生物医疗电子股份有限公司", "date": "2019-01-06 04:33:15", "sentiment_score": 0.686}

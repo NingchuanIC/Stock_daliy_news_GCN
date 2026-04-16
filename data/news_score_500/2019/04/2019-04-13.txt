@@ -1,0 +1,3 @@
+{"news_id": "news_20190413_000012", "ts_code": "601628", "name": "中国人寿", "date": "2019-04-13 16:50:48", "sentiment_score": 0.6047}
+{"news_id": "news_20190413_000014", "ts_code": "601186", "name": "中国铁建", "date": "2019-04-13 14:37:07", "sentiment_score": 0.5732}
+{"news_id": "news_20190413_000033", "ts_code": "601398", "name": "工商银行", "date": "2019-04-13 00:24:23", "sentiment_score": 0.6422}

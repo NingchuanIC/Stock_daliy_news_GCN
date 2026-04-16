@@ -1,0 +1,4 @@
+{"news_id": "news_20220730_000002", "ts_code": "002074", "name": "国轩高科", "date": "2022-07-30 22:17:43", "sentiment_score": 0.7263}
+{"news_id": "news_20220730_000023", "ts_code": "601988", "name": "中国银行", "date": "2022-07-30 10:23:19", "sentiment_score": 0.6288}
+{"news_id": "news_20220730_000032", "ts_code": "688223", "name": "晶科能源", "date": "2022-07-30 04:15:34", "sentiment_score": 0.8842}
+{"news_id": "news_20220730_000039", "ts_code": "002812", "name": "Lee", "date": "2022-07-30 03:35:15", "sentiment_score": 0.7726}

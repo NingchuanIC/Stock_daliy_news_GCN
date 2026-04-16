@@ -1,0 +1,6 @@
+{"news_id": "news_20240908_000022", "ts_code": "000792", "name": "盐湖股份", "date": "2024-09-08 17:16:55", "sentiment_score": 0.7318}
+{"news_id": "news_20240908_000023", "ts_code": "000792", "name": "盐湖股份", "date": "2024-09-08 17:13:11", "sentiment_score": 0.7144}
+{"news_id": "news_20240908_000024", "ts_code": "002340", "name": "格林美", "date": "2024-09-08 17:07:03", "sentiment_score": 0.6801}
+{"news_id": "news_20240908_000026", "ts_code": "002340", "name": "格林美", "date": "2024-09-08 16:37:24", "sentiment_score": 0.6918}
+{"news_id": "news_20240908_000064", "ts_code": "000333", "name": "美的集团", "date": "2024-09-08 10:30:53", "sentiment_score": 0.7388}
+{"news_id": "news_20240908_000065", "ts_code": "002371", "name": "北方华创", "date": "2024-09-08 10:14:24", "sentiment_score": 0.645}

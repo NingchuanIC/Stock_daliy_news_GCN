@@ -1,0 +1,7 @@
+{"news_id": "news_20200920_000018", "ts_code": "601888", "name": "中国中免", "date": "2020-09-20 16:40:38", "sentiment_score": 0.684}
+{"news_id": "news_20200920_000025", "ts_code": "600030", "name": "中信证券", "date": "2020-09-20 16:12:27", "sentiment_score": 0.1538}
+{"news_id": "news_20200920_000033", "ts_code": "000568", "name": "泸州老窖", "date": "2020-09-20 15:33:21", "sentiment_score": 0.3477}
+{"news_id": "news_20200920_000038", "ts_code": "600938", "name": "中国海洋石油", "date": "2020-09-20 14:59:53", "sentiment_score": 0.6989}
+{"news_id": "news_20200920_000041", "ts_code": "688599", "name": "天合光能", "date": "2020-09-20 14:15:00", "sentiment_score": 0.6859}
+{"news_id": "news_20200920_000058", "ts_code": "000651", "name": "格力电器", "date": "2020-09-20 09:43:57", "sentiment_score": 0.8227}
+{"news_id": "news_20200920_000073", "ts_code": "601398", "name": "工商银行", "date": "2020-09-20 06:56:04", "sentiment_score": 0.6503}

@@ -1,0 +1,7 @@
+{"news_id": "news_20220709_000004", "ts_code": "600519", "name": "贵州茅台", "date": "2022-07-09 22:01:45", "sentiment_score": 0.6522}
+{"news_id": "news_20220709_000005", "ts_code": "002594", "name": "比亚迪", "date": "2022-07-09 21:15:09", "sentiment_score": 0.83}
+{"news_id": "news_20220709_000009", "ts_code": "002202", "name": "金风科技", "date": "2022-07-09 16:59:30", "sentiment_score": 0.6998}
+{"news_id": "news_20220709_000024", "ts_code": "600519", "name": "贵州茅台", "date": "2022-07-09 11:30:11", "sentiment_score": 0.6617}
+{"news_id": "news_20220709_000025", "ts_code": "000338", "name": "潍柴动力", "date": "2022-07-09 11:21:59", "sentiment_score": 0.7516}
+{"news_id": "news_20220709_000027", "ts_code": "601868", "name": "中国能建", "date": "2022-07-09 10:24:34", "sentiment_score": 0.6511}
+{"news_id": "news_20220709_000031", "ts_code": "601988", "name": "中国银行", "date": "2022-07-09 09:45:07", "sentiment_score": 0.6323}

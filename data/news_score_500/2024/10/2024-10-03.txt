@@ -1,0 +1,11 @@
+{"news_id": "news_20241003_000033", "ts_code": "601012", "name": "隆基绿能", "date": "2024-10-03 20:31:46", "sentiment_score": 0.859}
+{"news_id": "news_20241003_000036", "ts_code": "002594", "name": "比亚迪", "date": "2024-10-03 20:03:50", "sentiment_score": 0.8473}
+{"news_id": "news_20241003_000041", "ts_code": "002594", "name": "比亚迪", "date": "2024-10-03 19:59:12", "sentiment_score": 0.8499}
+{"news_id": "news_20241003_000050", "ts_code": "601601", "name": "中国太保", "date": "2024-10-03 19:19:44", "sentiment_score": 0.8591}
+{"news_id": "news_20241003_000065", "ts_code": "000651", "name": "格力电器", "date": "2024-10-03 18:12:47", "sentiment_score": 0.8051}
+{"news_id": "news_20241003_000070", "ts_code": "002594", "name": "比亚迪", "date": "2024-10-03 17:34:04", "sentiment_score": 0.8927}
+{"news_id": "news_20241003_000071", "ts_code": "002594", "name": "比亚迪", "date": "2024-10-03 17:34:04", "sentiment_score": 0.8999}
+{"news_id": "news_20241003_000103", "ts_code": "600690", "name": "海尔智家", "date": "2024-10-03 15:01:16", "sentiment_score": 0.7497}
+{"news_id": "news_20241003_000130", "ts_code": "002594", "name": "比亚迪", "date": "2024-10-03 12:50:58", "sentiment_score": 0.7247}
+{"news_id": "news_20241003_000192", "ts_code": "002594", "name": "比亚迪", "date": "2024-10-03 08:32:28", "sentiment_score": 0.8382}
+{"news_id": "news_20241003_000203", "ts_code": "002594", "name": "比亚迪", "date": "2024-10-03 08:11:20", "sentiment_score": 0.819}

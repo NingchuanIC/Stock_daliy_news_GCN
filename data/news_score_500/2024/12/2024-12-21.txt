@@ -1,0 +1,13 @@
+{"news_id": "news_20241221_000005", "ts_code": "601668", "name": "中国建筑", "date": "2024-12-21 21:58:34", "sentiment_score": 0.6234}
+{"news_id": "news_20241221_000015", "ts_code": "000425", "name": "徐工机械", "date": "2024-12-21 19:33:06", "sentiment_score": 0.4517}
+{"news_id": "news_20241221_000022", "ts_code": "002714", "name": "牧原股份", "date": "2024-12-21 18:19:14", "sentiment_score": 0.6462}
+{"news_id": "news_20241221_000029", "ts_code": "601766", "name": "中国中车", "date": "2024-12-21 16:28:53", "sentiment_score": 0.6944}
+{"news_id": "news_20241221_000034", "ts_code": "600153", "name": "厦门建发", "date": "2024-12-21 16:11:13", "sentiment_score": 0.6949}
+{"news_id": "news_20241221_000035", "ts_code": "000625", "name": "长安汽车", "date": "2024-12-21 16:04:23", "sentiment_score": 0.7095}
+{"news_id": "news_20241221_000040", "ts_code": "000625", "name": "长安汽车", "date": "2024-12-21 15:44:35", "sentiment_score": 0.4549}
+{"news_id": "news_20241221_000049", "ts_code": "000625", "name": "长安汽车", "date": "2024-12-21 13:52:46", "sentiment_score": 0.5572}
+{"news_id": "news_20241221_000061", "ts_code": "600028", "name": "中国石化", "date": "2024-12-21 11:52:37", "sentiment_score": 0.6956}
+{"news_id": "news_20241221_000074", "ts_code": "002714", "name": "牧原股份", "date": "2024-12-21 09:45:46", "sentiment_score": 0.6688}
+{"news_id": "news_20241221_000140", "ts_code": "002594", "name": "比亚迪", "date": "2024-12-21 03:33:06", "sentiment_score": 0.7343}
+{"news_id": "news_20241221_000141", "ts_code": "002594", "name": "比亚迪", "date": "2024-12-21 03:33:01", "sentiment_score": 0.7221}
+{"news_id": "news_20241221_000169", "ts_code": "300750", "name": "宁德时代", "date": "2024-12-21 01:34:29", "sentiment_score": 0.8479}

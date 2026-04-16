@@ -1,0 +1,4 @@
+{"news_id": "news_20230123_000005", "ts_code": "601615", "name": "明阳智能", "date": "2023-01-23 23:38:14", "sentiment_score": 0.7567}
+{"news_id": "news_20230123_000039", "ts_code": "601766", "name": "中国中车", "date": "2023-01-23 15:37:32", "sentiment_score": 0.7166}
+{"news_id": "news_20230123_000050", "ts_code": "600115", "name": "东方航空", "date": "2023-01-23 12:44:40", "sentiment_score": 0.7119}
+{"news_id": "news_20230123_000051", "ts_code": "600115", "name": "东方航空", "date": "2023-01-23 12:39:27", "sentiment_score": 0.6312}

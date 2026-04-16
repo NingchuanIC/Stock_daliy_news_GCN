@@ -1,0 +1,12 @@
+{"news_id": "news_20241102_000001", "ts_code": "002594", "name": "比亚迪", "date": "2024-11-02 23:29:25", "sentiment_score": 0.7147}
+{"news_id": "news_20241102_000005", "ts_code": "000932", "name": "华菱钢铁", "date": "2024-11-02 22:12:24", "sentiment_score": 0.6054}
+{"news_id": "news_20241102_000011", "ts_code": "002916", "name": "深南电路", "date": "2024-11-02 20:34:50", "sentiment_score": 0.7204}
+{"news_id": "news_20241102_000045", "ts_code": "600115", "name": "中国东航", "date": "2024-11-02 13:36:44", "sentiment_score": 0.7547}
+{"news_id": "news_20241102_000050", "ts_code": "601127", "name": "赛力斯", "date": "2024-11-02 12:20:29", "sentiment_score": 0.6678}
+{"news_id": "news_20241102_000058", "ts_code": "601628", "name": "中国人寿", "date": "2024-11-02 10:49:21", "sentiment_score": 0.5926}
+{"news_id": "news_20241102_000058", "ts_code": "600887", "name": "伊利股份", "date": "2024-11-02 10:49:21", "sentiment_score": 0.5926}
+{"news_id": "news_20241102_000059", "ts_code": "601628", "name": "中国人寿", "date": "2024-11-02 10:49:19", "sentiment_score": 0.7088}
+{"news_id": "news_20241102_000059", "ts_code": "600887", "name": "伊利股份", "date": "2024-11-02 10:49:19", "sentiment_score": 0.7088}
+{"news_id": "news_20241102_000073", "ts_code": "601766", "name": "中国中车", "date": "2024-11-02 08:52:22", "sentiment_score": 0.6522}
+{"news_id": "news_20241102_000117", "ts_code": "002594", "name": "比亚迪", "date": "2024-11-02 02:29:42", "sentiment_score": 0.7438}
+{"news_id": "news_20241102_000118", "ts_code": "601012", "name": "隆基绿能", "date": "2024-11-02 02:22:44", "sentiment_score": 0.7809}

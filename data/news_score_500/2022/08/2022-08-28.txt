@@ -1,0 +1,17 @@
+{"news_id": "news_20220828_000001", "ts_code": "300750", "name": "宁德时代", "date": "2022-08-28 23:31:23", "sentiment_score": 0.4426}
+{"news_id": "news_20220828_000002", "ts_code": "601899", "name": "紫金矿业", "date": "2022-08-28 23:00:43", "sentiment_score": 0.6648}
+{"news_id": "news_20220828_000002", "ts_code": "002008", "name": "大族激光", "date": "2022-08-28 23:00:43", "sentiment_score": 0.6648}
+{"news_id": "news_20220828_000002", "ts_code": "002415", "name": "海康威视", "date": "2022-08-28 23:00:43", "sentiment_score": 0.6648}
+{"news_id": "news_20220828_000002", "ts_code": "002001", "name": "新和成", "date": "2022-08-28 23:00:43", "sentiment_score": 0.6648}
+{"news_id": "news_20220828_000008", "ts_code": "600104", "name": "上汽集团", "date": "2022-08-28 19:40:09", "sentiment_score": 0.8153}
+{"news_id": "news_20220828_000019", "ts_code": "600153", "name": "建发股份", "date": "2022-08-28 16:46:59", "sentiment_score": 0.8199}
+{"news_id": "news_20220828_000029", "ts_code": "300750", "name": "宁德时代", "date": "2022-08-28 15:54:57", "sentiment_score": 0.7221}
+{"news_id": "news_20220828_000030", "ts_code": "601601", "name": "中国太保", "date": "2022-08-28 15:53:03", "sentiment_score": 0.8761}
+{"news_id": "news_20220828_000032", "ts_code": "600028", "name": "中国石化", "date": "2022-08-28 15:47:35", "sentiment_score": 0.8056}
+{"news_id": "news_20220828_000034", "ts_code": "000568", "name": "泸州老窖", "date": "2022-08-28 15:45:16", "sentiment_score": 0.8161}
+{"news_id": "news_20220828_000035", "ts_code": "002739", "name": "万达电影", "date": "2022-08-28 15:43:01", "sentiment_score": 0.8594}
+{"news_id": "news_20220828_000045", "ts_code": "300750", "name": "宁德时代", "date": "2022-08-28 11:48:10", "sentiment_score": 0.4995}
+{"news_id": "news_20220828_000045", "ts_code": "601127", "name": "赛力斯", "date": "2022-08-28 11:48:10", "sentiment_score": 0.4995}
+{"news_id": "news_20220828_000051", "ts_code": "000792", "name": "盐湖股份", "date": "2022-08-28 09:22:44", "sentiment_score": 0.7207}
+{"news_id": "news_20220828_000053", "ts_code": "300207", "name": "欣旺达", "date": "2022-08-28 08:26:26", "sentiment_score": 0.4266}
+{"news_id": "news_20220828_000054", "ts_code": "002648", "name": "卫星化学", "date": "2022-08-28 08:01:23", "sentiment_score": 0.6913}

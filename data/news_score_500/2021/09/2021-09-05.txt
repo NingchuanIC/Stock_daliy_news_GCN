@@ -1,0 +1,5 @@
+{"news_id": "news_20210905_000016", "ts_code": "002714", "name": "牧原股份", "date": "2021-09-05 17:13:10", "sentiment_score": 0.835}
+{"news_id": "news_20210905_000017", "ts_code": "300750", "name": "宁德时代", "date": "2021-09-05 17:10:15", "sentiment_score": 0.5689}
+{"news_id": "news_20210905_000020", "ts_code": "601766", "name": "中国中车", "date": "2021-09-05 17:03:41", "sentiment_score": 0.7669}
+{"news_id": "news_20210905_000023", "ts_code": "600276", "name": "恒瑞医药", "date": "2021-09-05 16:30:22", "sentiment_score": 0.2866}
+{"news_id": "news_20210905_000024", "ts_code": "000963", "name": "华东医药", "date": "2021-09-05 16:19:22", "sentiment_score": 0.5543}

@@ -1,0 +1,5 @@
+{"news_id": "news_20220522_000017", "ts_code": "002130", "name": "沃尔核材", "date": "2022-05-22 16:41:38", "sentiment_score": 0.6499}
+{"news_id": "news_20220522_000027", "ts_code": "601601", "name": "中国太保", "date": "2022-05-22 15:55:02", "sentiment_score": 0.8489}
+{"news_id": "news_20220522_000032", "ts_code": "603501", "name": "韦尔股份", "date": "2022-05-22 15:43:34", "sentiment_score": 0.7507}
+{"news_id": "news_20220522_000032", "ts_code": "300223", "name": "北京君正", "date": "2022-05-22 15:43:34", "sentiment_score": 0.7507}
+{"news_id": "news_20220522_000047", "ts_code": "603993", "name": "洛阳钼业", "date": "2022-05-22 09:40:40", "sentiment_score": 0.6462}

@@ -1,0 +1,17 @@
+{"news_id": "news_20231007_000004", "ts_code": "600519", "name": "贵州茅台", "date": "2023-10-07 22:09:06", "sentiment_score": 0.6895}
+{"news_id": "news_20231007_000007", "ts_code": "002459", "name": "晶澳科技", "date": "2023-10-07 21:19:48", "sentiment_score": 0.7042}
+{"news_id": "news_20231007_000013", "ts_code": "688599", "name": "天合光能股份有限公司", "date": "2023-10-07 19:21:21", "sentiment_score": 0.6428}
+{"news_id": "news_20231007_000014", "ts_code": "601766", "name": "中国中车", "date": "2023-10-07 19:10:56", "sentiment_score": 0.7202}
+{"news_id": "news_20231007_000022", "ts_code": "601988", "name": "中国银行", "date": "2023-10-07 18:06:23", "sentiment_score": 0.6601}
+{"news_id": "news_20231007_000035", "ts_code": "300832", "name": "新产业", "date": "2023-10-07 16:41:01", "sentiment_score": 0.7281}
+{"news_id": "news_20231007_000045", "ts_code": "600309", "name": "万华化学", "date": "2023-10-07 16:17:52", "sentiment_score": 0.54}
+{"news_id": "news_20231007_000047", "ts_code": "000625", "name": "长安汽车", "date": "2023-10-07 16:15:25", "sentiment_score": 0.6141}
+{"news_id": "news_20231007_000049", "ts_code": "600795", "name": "国电电力", "date": "2023-10-07 16:10:59", "sentiment_score": 0.7353}
+{"news_id": "news_20231007_000051", "ts_code": "300750", "name": "宁德时代", "date": "2023-10-07 16:10:12", "sentiment_score": 0.483}
+{"news_id": "news_20231007_000066", "ts_code": "601899", "name": "紫金矿业", "date": "2023-10-07 15:08:04", "sentiment_score": 0.7323}
+{"news_id": "news_20231007_000084", "ts_code": "002594", "name": "比亚迪", "date": "2023-10-07 13:37:32", "sentiment_score": 0.6453}
+{"news_id": "news_20231007_000105", "ts_code": "601857", "name": "中国石油", "date": "2023-10-07 10:55:40", "sentiment_score": 0.7273}
+{"news_id": "news_20231007_000112", "ts_code": "002594", "name": "比亚迪", "date": "2023-10-07 10:27:25", "sentiment_score": 0.7026}
+{"news_id": "news_20231007_000114", "ts_code": "600309", "name": "万华化学", "date": "2023-10-07 10:16:24", "sentiment_score": 0.5315}
+{"news_id": "news_20231007_000118", "ts_code": "002475", "name": "立讯精密", "date": "2023-10-07 10:01:14", "sentiment_score": 0.7253}
+{"news_id": "news_20231007_000129", "ts_code": "601628", "name": "中国人寿", "date": "2023-10-07 09:18:39", "sentiment_score": 0.577}

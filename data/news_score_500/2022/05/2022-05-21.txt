@@ -1,0 +1,9 @@
+{"news_id": "news_20220521_000004", "ts_code": "601238", "name": "广汽集团", "date": "2022-05-21 21:23:19", "sentiment_score": 0.6644}
+{"news_id": "news_20220521_000006", "ts_code": "002714", "name": "牧原股份", "date": "2022-05-21 19:15:36", "sentiment_score": 0.572}
+{"news_id": "news_20220521_000011", "ts_code": "000858", "name": "五粮液", "date": "2022-05-21 17:55:57", "sentiment_score": 0.6726}
+{"news_id": "news_20220521_000013", "ts_code": "002594", "name": "比亚迪", "date": "2022-05-21 17:08:50", "sentiment_score": 0.7952}
+{"news_id": "news_20220521_000027", "ts_code": "601988", "name": "中国银行", "date": "2022-05-21 11:30:07", "sentiment_score": 0.5859}
+{"news_id": "news_20220521_000031", "ts_code": "600104", "name": "上汽集团", "date": "2022-05-21 10:24:07", "sentiment_score": 0.6815}
+{"news_id": "news_20220521_000032", "ts_code": "000858", "name": "五粮液", "date": "2022-05-21 10:03:33", "sentiment_score": 0.6443}
+{"news_id": "news_20220521_000036", "ts_code": "002074", "name": "国轩高科", "date": "2022-05-21 09:15:12", "sentiment_score": 0.688}
+{"news_id": "news_20220521_000039", "ts_code": "600104", "name": "上汽集团", "date": "2022-05-21 07:58:45", "sentiment_score": 0.7326}

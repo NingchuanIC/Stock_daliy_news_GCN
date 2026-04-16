@@ -1,0 +1,6 @@
+{"news_id": "news_20221231_000011", "ts_code": "601668", "name": "中国建筑", "date": "2022-12-31 18:07:44", "sentiment_score": 0.6893}
+{"news_id": "news_20221231_000014", "ts_code": "601899", "name": "紫金矿业", "date": "2022-12-31 17:30:54", "sentiment_score": 0.725}
+{"news_id": "news_20221231_000020", "ts_code": "601238", "name": "广汽集团", "date": "2022-12-31 15:14:06", "sentiment_score": 0.7011}
+{"news_id": "news_20221231_000023", "ts_code": "002594", "name": "比亚迪", "date": "2022-12-31 12:58:37", "sentiment_score": 0.7422}
+{"news_id": "news_20221231_000029", "ts_code": "601238", "name": "广汽集团", "date": "2022-12-31 10:57:40", "sentiment_score": 0.733}
+{"news_id": "news_20221231_000031", "ts_code": "000858", "name": "五粮液", "date": "2022-12-31 10:05:54", "sentiment_score": 0.7099}

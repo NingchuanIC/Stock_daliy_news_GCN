@@ -1,0 +1,4 @@
+{"news_id": "news_20190921_000001", "ts_code": "601601", "name": "中国太保", "date": "2019-09-21 23:51:23", "sentiment_score": 0.6269}
+{"news_id": "news_20190921_000008", "ts_code": "600066", "name": "宇通客车股份有限公司", "date": "2019-09-21 20:49:11", "sentiment_score": 0.7249}
+{"news_id": "news_20190921_000012", "ts_code": "601211", "name": "国泰君安", "date": "2019-09-21 17:33:44", "sentiment_score": 0.6922}
+{"news_id": "news_20190921_000012", "ts_code": "601601", "name": "中国太保", "date": "2019-09-21 17:33:44", "sentiment_score": 0.6922}

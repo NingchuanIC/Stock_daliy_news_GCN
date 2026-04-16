@@ -1,0 +1,4 @@
+{"news_id": "news_20210807_000004", "ts_code": "002594", "name": "比亚迪", "date": "2021-08-07 21:44:55", "sentiment_score": 0.716}
+{"news_id": "news_20210807_000009", "ts_code": "600905", "name": "三峡能源", "date": "2021-08-07 17:38:22", "sentiment_score": 0.6519}
+{"news_id": "news_20210807_000010", "ts_code": "600905", "name": "三峡能源", "date": "2021-08-07 17:26:54", "sentiment_score": 0.7121}
+{"news_id": "news_20210807_000019", "ts_code": "605499", "name": "东鹏饮料", "date": "2021-08-07 06:51:40", "sentiment_score": 0.5938}

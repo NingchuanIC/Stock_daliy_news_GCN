@@ -1,0 +1,5 @@
+{"news_id": "news_20190804_000004", "ts_code": "002008", "name": "大族激光", "date": "2019-08-04 19:59:56", "sentiment_score": 0.746}
+{"news_id": "news_20190804_000005", "ts_code": "000651", "name": "格力电器", "date": "2019-08-04 19:39:15", "sentiment_score": 0.7021}
+{"news_id": "news_20190804_000012", "ts_code": "002812", "name": "恩捷股份", "date": "2019-08-04 16:53:27", "sentiment_score": 0.8077}
+{"news_id": "news_20190804_000021", "ts_code": "600031", "name": "三一重工", "date": "2019-08-04 15:28:17", "sentiment_score": 0.8245}
+{"news_id": "news_20190804_000024", "ts_code": "000651", "name": "格力电器", "date": "2019-08-04 14:28:40", "sentiment_score": 0.5051}

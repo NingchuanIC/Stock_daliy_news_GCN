@@ -1,0 +1,15 @@
+{"news_id": "news_20200130_000040", "ts_code": "600115", "name": "东方航空", "date": "2020-01-30 19:26:54", "sentiment_score": 0.4528}
+{"news_id": "news_20200130_000067", "ts_code": "601633", "name": "长城汽车", "date": "2020-01-30 17:31:37", "sentiment_score": 0.8254}
+{"news_id": "news_20200130_000074", "ts_code": "300750", "name": "宁德时代", "date": "2020-01-30 17:20:51", "sentiment_score": 0.6176}
+{"news_id": "news_20200130_000076", "ts_code": "300433", "name": "蓝思科技", "date": "2020-01-30 17:18:25", "sentiment_score": 0.7487}
+{"news_id": "news_20200130_000076", "ts_code": "000157", "name": "中联重科", "date": "2020-01-30 17:18:25", "sentiment_score": 0.7487}
+{"news_id": "news_20200130_000093", "ts_code": "000625", "name": "长安汽车", "date": "2020-01-30 16:13:44", "sentiment_score": 0.8346}
+{"news_id": "news_20200130_000096", "ts_code": "600115", "name": "东方航空", "date": "2020-01-30 15:39:10", "sentiment_score": 0.3692}
+{"news_id": "news_20200130_000127", "ts_code": "300274", "name": "阳光电源", "date": "2020-01-30 13:50:48", "sentiment_score": 0.7351}
+{"news_id": "news_20200130_000129", "ts_code": "600028", "name": "中国石化", "date": "2020-01-30 13:40:30", "sentiment_score": 0.7042}
+{"news_id": "news_20200130_000135", "ts_code": "601390", "name": "中国中铁股份有限公司", "date": "2020-01-30 12:53:45", "sentiment_score": 0.5939}
+{"news_id": "news_20200130_000141", "ts_code": "300207", "name": "欣旺达", "date": "2020-01-30 11:46:07", "sentiment_score": 0.6887}
+{"news_id": "news_20200130_000148", "ts_code": "002714", "name": "牧原食品股份有限公司", "date": "2020-01-30 10:44:28", "sentiment_score": 0.7223}
+{"news_id": "news_20200130_000154", "ts_code": "000063", "name": "中兴通讯", "date": "2020-01-30 10:12:25", "sentiment_score": 0.839}
+{"news_id": "news_20200130_000154", "ts_code": "002594", "name": "比亚迪", "date": "2020-01-30 10:12:25", "sentiment_score": 0.839}
+{"news_id": "news_20200130_000156", "ts_code": "601155", "name": "新城控股", "date": "2020-01-30 10:06:31", "sentiment_score": 0.5671}

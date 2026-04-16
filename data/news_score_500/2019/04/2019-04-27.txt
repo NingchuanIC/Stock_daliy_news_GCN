@@ -1,0 +1,9 @@
+{"news_id": "news_20190427_000003", "ts_code": "601728", "name": "中国电信", "date": "2019-04-27 19:22:35", "sentiment_score": 0.6656}
+{"news_id": "news_20190427_000004", "ts_code": "600030", "name": "中信证券", "date": "2019-04-27 19:22:14", "sentiment_score": 0.7476}
+{"news_id": "news_20190427_000005", "ts_code": "600050", "name": "中国联通", "date": "2019-04-27 19:16:20", "sentiment_score": 0.6315}
+{"news_id": "news_20190427_000006", "ts_code": "000063", "name": "中兴通讯", "date": "2019-04-27 18:51:38", "sentiment_score": 0.682}
+{"news_id": "news_20190427_000006", "ts_code": "600050", "name": "中国联通", "date": "2019-04-27 18:51:38", "sentiment_score": 0.682}
+{"news_id": "news_20190427_000008", "ts_code": "600050", "name": "中国联通", "date": "2019-04-27 16:39:45", "sentiment_score": 0.7227}
+{"news_id": "news_20190427_000009", "ts_code": "600019", "name": "宝钢股份", "date": "2019-04-27 16:03:12", "sentiment_score": 0.6761}
+{"news_id": "news_20190427_000010", "ts_code": "601728", "name": "中国电信", "date": "2019-04-27 13:52:19", "sentiment_score": 0.7151}
+{"news_id": "news_20190427_000011", "ts_code": "600050", "name": "中国联通", "date": "2019-04-27 12:12:14", "sentiment_score": 0.7862}

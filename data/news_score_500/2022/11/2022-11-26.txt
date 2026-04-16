@@ -1,0 +1,11 @@
+{"news_id": "news_20221126_000003", "ts_code": "600196", "name": "复星医药", "date": "2022-11-26 19:26:04", "sentiment_score": 0.753}
+{"news_id": "news_20221126_000004", "ts_code": "601628", "name": "中国人寿", "date": "2022-11-26 19:19:59", "sentiment_score": 0.5833}
+{"news_id": "news_20221126_000005", "ts_code": "002714", "name": "牧原股份", "date": "2022-11-26 18:43:06", "sentiment_score": 0.6993}
+{"news_id": "news_20221126_000008", "ts_code": "601668", "name": "中国建筑", "date": "2022-11-26 16:15:53", "sentiment_score": 0.5143}
+{"news_id": "news_20221126_000009", "ts_code": "002371", "name": "北方华创", "date": "2022-11-26 16:15:43", "sentiment_score": 0.2052}
+{"news_id": "news_20221126_000020", "ts_code": "601398", "name": "工商银行", "date": "2022-11-26 12:32:36", "sentiment_score": 0.6405}
+{"news_id": "news_20221126_000024", "ts_code": "002244", "name": "滨江集团", "date": "2022-11-26 11:44:04", "sentiment_score": 0.7206}
+{"news_id": "news_20221126_000028", "ts_code": "600153", "name": "建发股份", "date": "2022-11-26 10:51:31", "sentiment_score": 0.7368}
+{"news_id": "news_20221126_000035", "ts_code": "300015", "name": "爱尔眼科", "date": "2022-11-26 09:02:22", "sentiment_score": 0.804}
+{"news_id": "news_20221126_000037", "ts_code": "002202", "name": "金风科技", "date": "2022-11-26 08:19:01", "sentiment_score": 0.6466}
+{"news_id": "news_20221126_000048", "ts_code": "601600", "name": "中国铝业", "date": "2022-11-26 02:01:37", "sentiment_score": 0.805}

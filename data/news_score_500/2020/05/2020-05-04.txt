@@ -1,0 +1,8 @@
+{"news_id": "news_20200504_000011", "ts_code": "600029", "name": "南方航空", "date": "2020-05-04 21:40:33", "sentiment_score": 0.8847}
+{"news_id": "news_20200504_000011", "ts_code": "600115", "name": "东方航空", "date": "2020-05-04 21:40:33", "sentiment_score": 0.8847}
+{"news_id": "news_20200504_000030", "ts_code": "601668", "name": "中国建筑", "date": "2020-05-04 19:06:15", "sentiment_score": 0.7234}
+{"news_id": "news_20200504_000030", "ts_code": "600029", "name": "南方航空", "date": "2020-05-04 19:06:15", "sentiment_score": 0.7234}
+{"news_id": "news_20200504_000054", "ts_code": "002594", "name": "比亚迪", "date": "2020-05-04 12:13:28", "sentiment_score": 0.7329}
+{"news_id": "news_20200504_000062", "ts_code": "688180", "name": "君实生物", "date": "2020-05-04 09:06:25", "sentiment_score": 0.7277}
+{"news_id": "news_20200504_000071", "ts_code": "601211", "name": "国泰君安", "date": "2020-05-04 02:37:01", "sentiment_score": 0.6734}
+{"news_id": "news_20200504_000071", "ts_code": "600030", "name": "中信证券", "date": "2020-05-04 02:37:01", "sentiment_score": 0.6734}

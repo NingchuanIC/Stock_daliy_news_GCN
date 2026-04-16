@@ -1,0 +1,15 @@
+{"news_id": "news_20231029_000004", "ts_code": "688036", "name": "传音控股", "date": "2023-10-29 22:56:40", "sentiment_score": 0.6286}
+{"news_id": "news_20231029_000015", "ts_code": "601633", "name": "长城汽车", "date": "2023-10-29 20:33:55", "sentiment_score": 0.6994}
+{"news_id": "news_20231029_000023", "ts_code": "002812", "name": "恩捷股份", "date": "2023-10-29 19:32:55", "sentiment_score": 0.6675}
+{"news_id": "news_20231029_000026", "ts_code": "002050", "name": "三花智控", "date": "2023-10-29 19:23:26", "sentiment_score": 0.7231}
+{"news_id": "news_20231029_000028", "ts_code": "600905", "name": "三峡能源", "date": "2023-10-29 19:08:05", "sentiment_score": 0.7406}
+{"news_id": "news_20231029_000055", "ts_code": "600438", "name": "通威股份", "date": "2023-10-29 17:24:16", "sentiment_score": 0.7016}
+{"news_id": "news_20231029_000066", "ts_code": "002812", "name": "恩捷股份", "date": "2023-10-29 16:51:17", "sentiment_score": 0.7726}
+{"news_id": "news_20231029_000069", "ts_code": "688180", "name": "君实生物", "date": "2023-10-29 16:44:52", "sentiment_score": 0.6353}
+{"news_id": "news_20231029_000071", "ts_code": "002714", "name": "牧原股份", "date": "2023-10-29 16:39:35", "sentiment_score": 0.6705}
+{"news_id": "news_20231029_000080", "ts_code": "601766", "name": "中国中车", "date": "2023-10-29 16:14:02", "sentiment_score": 0.8037}
+{"news_id": "news_20231029_000094", "ts_code": "300274", "name": "阳光电源", "date": "2023-10-29 15:47:57", "sentiment_score": 0.6726}
+{"news_id": "news_20231029_000102", "ts_code": "002466", "name": "天齐锂业", "date": "2023-10-29 15:30:00", "sentiment_score": 0.658}
+{"news_id": "news_20231029_000105", "ts_code": "300223", "name": "北京君正", "date": "2023-10-29 15:16:23", "sentiment_score": 0.6436}
+{"news_id": "news_20231029_000110", "ts_code": "000568", "name": "泸州老窖", "date": "2023-10-29 13:13:43", "sentiment_score": 0.5102}
+{"news_id": "news_20231029_000113", "ts_code": "603993", "name": "洛阳钼业", "date": "2023-10-29 12:47:16", "sentiment_score": 0.7183}

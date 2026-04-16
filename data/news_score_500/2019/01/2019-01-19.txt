@@ -1,0 +1,3 @@
+{"news_id": "news_20190119_000002", "ts_code": "600028", "name": "中国石化", "date": "2019-01-19 20:28:54", "sentiment_score": 0.7279}
+{"news_id": "news_20190119_000004", "ts_code": "600887", "name": "伊利股份", "date": "2019-01-19 18:34:04", "sentiment_score": 0.8065}
+{"news_id": "news_20190119_000011", "ts_code": "601601", "name": "中国太保", "date": "2019-01-19 17:17:38", "sentiment_score": 0.5969}

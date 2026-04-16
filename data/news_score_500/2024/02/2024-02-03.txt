@@ -1,0 +1,8 @@
+{"news_id": "news_20240203_000003", "ts_code": "601633", "name": "长城汽车", "date": "2024-02-03 22:09:07", "sentiment_score": 0.6352}
+{"news_id": "news_20240203_000004", "ts_code": "002594", "name": "比亚迪", "date": "2024-02-03 21:34:35", "sentiment_score": 0.8105}
+{"news_id": "news_20240203_000006", "ts_code": "000625", "name": "长安汽车", "date": "2024-02-03 20:49:33", "sentiment_score": 0.7443}
+{"news_id": "news_20240203_000011", "ts_code": "000625", "name": "长安汽车", "date": "2024-02-03 18:58:00", "sentiment_score": 0.661}
+{"news_id": "news_20240203_000011", "ts_code": "601127", "name": "赛力斯", "date": "2024-02-03 18:58:00", "sentiment_score": 0.661}
+{"news_id": "news_20240203_000029", "ts_code": "601728", "name": "中国电信", "date": "2024-02-03 12:40:48", "sentiment_score": 0.7741}
+{"news_id": "news_20240203_000031", "ts_code": "002594", "name": "比亚迪", "date": "2024-02-03 12:33:05", "sentiment_score": 0.7635}
+{"news_id": "news_20240203_000060", "ts_code": "300059", "name": "东方财富", "date": "2024-02-03 02:07:44", "sentiment_score": 0.5173}

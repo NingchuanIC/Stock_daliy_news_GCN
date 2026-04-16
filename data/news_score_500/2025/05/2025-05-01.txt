@@ -1,0 +1,11 @@
+{"news_id": "news_20250501_000122", "ts_code": "002594", "name": "比亚迪", "date": "2025-05-01 18:32:11", "sentiment_score": 0.8507}
+{"news_id": "news_20250501_000129", "ts_code": "002594", "name": "比亚迪", "date": "2025-05-01 18:26:31", "sentiment_score": 0.818}
+{"news_id": "news_20250501_000140", "ts_code": "601211", "name": "国泰海通", "date": "2025-05-01 17:31:14", "sentiment_score": 0.7764}
+{"news_id": "news_20250501_000141", "ts_code": "601211", "name": "国泰海通", "date": "2025-05-01 17:31:03", "sentiment_score": 0.7775}
+{"news_id": "news_20250501_000224", "ts_code": "601899", "name": "紫金矿业", "date": "2025-05-01 13:08:31", "sentiment_score": 0.7689}
+{"news_id": "news_20250501_000230", "ts_code": "002230", "name": "科大讯飞股份有限公司", "date": "2025-05-01 12:21:37", "sentiment_score": 0.6784}
+{"news_id": "news_20250501_000279", "ts_code": "688235", "name": "百济神州-U", "date": "2025-05-01 10:08:25", "sentiment_score": 0.6636}
+{"news_id": "news_20250501_000280", "ts_code": "688235", "name": "百济神州-U", "date": "2025-05-01 10:07:46", "sentiment_score": 0.708}
+{"news_id": "news_20250501_000311", "ts_code": "600887", "name": "伊利股份", "date": "2025-05-01 08:56:02", "sentiment_score": 0.7503}
+{"news_id": "news_20250501_000318", "ts_code": "688235", "name": "百济神州-U", "date": "2025-05-01 08:37:15", "sentiment_score": 0.5896}
+{"news_id": "news_20250501_000319", "ts_code": "688235", "name": "百济神州-U", "date": "2025-05-01 08:36:57", "sentiment_score": 0.5931}

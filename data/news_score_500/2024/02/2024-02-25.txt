@@ -1,0 +1,16 @@
+{"news_id": "news_20240225_000003", "ts_code": "600028", "name": "中国石化", "date": "2024-02-25 22:33:54", "sentiment_score": 0.7056}
+{"news_id": "news_20240225_000003", "ts_code": "601857", "name": "中国石油", "date": "2024-02-25 22:33:54", "sentiment_score": 0.7056}
+{"news_id": "news_20240225_000011", "ts_code": "002594", "name": "比亚迪", "date": "2024-02-25 20:40:52", "sentiment_score": 0.7408}
+{"news_id": "news_20240225_000032", "ts_code": "002594", "name": "比亚迪", "date": "2024-02-25 17:21:48", "sentiment_score": 0.7165}
+{"news_id": "news_20240225_000049", "ts_code": "002594", "name": "比亚迪股份有限公司", "date": "2024-02-25 15:40:02", "sentiment_score": 0.6978}
+{"news_id": "news_20240225_000055", "ts_code": "002049", "name": "紫光国微", "date": "2024-02-25 15:14:29", "sentiment_score": 0.7241}
+{"news_id": "news_20240225_000056", "ts_code": "002714", "name": "牧原股份", "date": "2024-02-25 15:14:17", "sentiment_score": 0.6881}
+{"news_id": "news_20240225_000057", "ts_code": "600028", "name": "中国石化", "date": "2024-02-25 15:12:53", "sentiment_score": 0.5552}
+{"news_id": "news_20240225_000058", "ts_code": "002594", "name": "比亚迪", "date": "2024-02-25 15:05:47", "sentiment_score": 0.6339}
+{"news_id": "news_20240225_000059", "ts_code": "300308", "name": "中际旭创", "date": "2024-02-25 15:04:04", "sentiment_score": 0.762}
+{"news_id": "news_20240225_000061", "ts_code": "002594", "name": "比亚迪", "date": "2024-02-25 14:56:47", "sentiment_score": 0.6763}
+{"news_id": "news_20240225_000065", "ts_code": "300308", "name": "中际旭创", "date": "2024-02-25 14:11:33", "sentiment_score": 0.6941}
+{"news_id": "news_20240225_000070", "ts_code": "601857", "name": "中国石油", "date": "2024-02-25 12:12:23", "sentiment_score": 0.5386}
+{"news_id": "news_20240225_000076", "ts_code": "600028", "name": "中国石化", "date": "2024-02-25 11:04:42", "sentiment_score": 0.6126}
+{"news_id": "news_20240225_000079", "ts_code": "002714", "name": "牧原股份", "date": "2024-02-25 10:26:26", "sentiment_score": 0.632}
+{"news_id": "news_20240225_000085", "ts_code": "002049", "name": "紫光国微", "date": "2024-02-25 08:25:34", "sentiment_score": 0.6911}

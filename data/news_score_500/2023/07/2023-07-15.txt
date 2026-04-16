@@ -1,0 +1,5 @@
+{"news_id": "news_20230715_000008", "ts_code": "002594", "name": "比亚迪股份有限公司", "date": "2023-07-15 20:16:02", "sentiment_score": 0.3656}
+{"news_id": "news_20230715_000061", "ts_code": "600028", "name": "中国石化", "date": "2023-07-15 08:16:50", "sentiment_score": 0.5798}
+{"news_id": "news_20230715_000063", "ts_code": "600029", "name": "南方航空", "date": "2023-07-15 08:01:43", "sentiment_score": 0.7198}
+{"news_id": "news_20230715_000063", "ts_code": "600115", "name": "中国东航", "date": "2023-07-15 08:01:43", "sentiment_score": 0.7198}
+{"news_id": "news_20230715_000064", "ts_code": "600938", "name": "中国海洋石油", "date": "2023-07-15 07:41:53", "sentiment_score": 0.7681}

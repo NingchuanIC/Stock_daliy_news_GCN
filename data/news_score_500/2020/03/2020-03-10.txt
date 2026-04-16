@@ -1,0 +1,10 @@
+{"news_id": "news_20200310_000005", "ts_code": "300750", "name": "宁德时代", "date": "2020-03-10 22:22:26", "sentiment_score": 0.5531}
+{"news_id": "news_20200310_000061", "ts_code": "002603", "name": "以岭药业", "date": "2020-03-10 17:47:19", "sentiment_score": 0.6506}
+{"news_id": "news_20200310_000066", "ts_code": "600079", "name": "人福医药", "date": "2020-03-10 17:30:24", "sentiment_score": 0.7354}
+{"news_id": "news_20200310_000072", "ts_code": "601633", "name": "长城汽车", "date": "2020-03-10 16:58:17", "sentiment_score": 0.8558}
+{"news_id": "news_20200310_000073", "ts_code": "002916", "name": "深南电路", "date": "2020-03-10 16:55:16", "sentiment_score": 0.7834}
+{"news_id": "news_20200310_000073", "ts_code": "002463", "name": "沪电股份", "date": "2020-03-10 16:55:16", "sentiment_score": 0.7834}
+{"news_id": "news_20200310_000077", "ts_code": "002594", "name": "比亚迪", "date": "2020-03-10 16:44:00", "sentiment_score": 0.7409}
+{"news_id": "news_20200310_000085", "ts_code": "002739", "name": "万达电影", "date": "2020-03-10 16:31:03", "sentiment_score": 0.6733}
+{"news_id": "news_20200310_000118", "ts_code": "600028", "name": "中国石化", "date": "2020-03-10 13:59:08", "sentiment_score": 0.6266}
+{"news_id": "news_20200310_000148", "ts_code": "002594", "name": "比亚迪", "date": "2020-03-10 09:34:58", "sentiment_score": 0.8602}

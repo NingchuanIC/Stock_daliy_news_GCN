@@ -1,0 +1,16 @@
+{"news_id": "news_20240414_000004", "ts_code": "600030", "name": "中信证券", "date": "2024-04-14 22:08:33", "sentiment_score": 0.673}
+{"news_id": "news_20240414_000005", "ts_code": "600030", "name": "中信证券", "date": "2024-04-14 22:08:33", "sentiment_score": 0.6766}
+{"news_id": "news_20240414_000012", "ts_code": "600309", "name": "万华化学", "date": "2024-04-14 21:30:08", "sentiment_score": 0.2006}
+{"news_id": "news_20240414_000012", "ts_code": "002812", "name": "恩捷股份", "date": "2024-04-14 21:30:08", "sentiment_score": 0.2006}
+{"news_id": "news_20240414_000015", "ts_code": "000002", "name": "万科A", "date": "2024-04-14 21:09:16", "sentiment_score": 0.6682}
+{"news_id": "news_20240414_000016", "ts_code": "000002", "name": "万科A", "date": "2024-04-14 21:09:16", "sentiment_score": 0.6321}
+{"news_id": "news_20240414_000019", "ts_code": "000002", "name": "万科A", "date": "2024-04-14 20:57:12", "sentiment_score": 0.7001}
+{"news_id": "news_20240414_000020", "ts_code": "000002", "name": "万科A", "date": "2024-04-14 20:57:12", "sentiment_score": 0.6627}
+{"news_id": "news_20240414_000027", "ts_code": "603019", "name": "中科曙光", "date": "2024-04-14 19:49:23", "sentiment_score": 0.6896}
+{"news_id": "news_20240414_000028", "ts_code": "603019", "name": "中科曙光", "date": "2024-04-14 19:49:23", "sentiment_score": 0.6794}
+{"news_id": "news_20240414_000064", "ts_code": "300832", "name": "新产业", "date": "2024-04-14 16:18:42", "sentiment_score": 0.6752}
+{"news_id": "news_20240414_000074", "ts_code": "605499", "name": "东鹏饮料", "date": "2024-04-14 15:42:59", "sentiment_score": 0.8232}
+{"news_id": "news_20240414_000087", "ts_code": "600418", "name": "江淮汽车", "date": "2024-04-14 12:36:06", "sentiment_score": 0.725}
+{"news_id": "news_20240414_000097", "ts_code": "601238", "name": "广汽集团", "date": "2024-04-14 08:39:33", "sentiment_score": 0.3665}
+{"news_id": "news_20240414_000097", "ts_code": "002340", "name": "格林美", "date": "2024-04-14 08:39:33", "sentiment_score": 0.3665}
+{"news_id": "news_20240414_000098", "ts_code": "600030", "name": "中信证券", "date": "2024-04-14 08:19:52", "sentiment_score": 0.5846}

@@ -1,0 +1,11 @@
+{"news_id": "news_20250524_000024", "ts_code": "601211", "name": "国泰海通证券股份有限公司", "date": "2025-05-24 20:06:16", "sentiment_score": 0.6216}
+{"news_id": "news_20250524_000025", "ts_code": "601211", "name": "国泰海通证券股份有限公司", "date": "2025-05-24 20:05:45", "sentiment_score": 0.6216}
+{"news_id": "news_20250524_000034", "ts_code": "601127", "name": "赛力斯集团股份有限公司", "date": "2025-05-24 15:51:14", "sentiment_score": 0.7002}
+{"news_id": "news_20250524_000057", "ts_code": "600019", "name": "宝钢股份", "date": "2025-05-24 11:07:29", "sentiment_score": 0.733}
+{"news_id": "news_20250524_000080", "ts_code": "002594", "name": "比亚迪", "date": "2025-05-24 07:56:22", "sentiment_score": 0.5059}
+{"news_id": "news_20250524_000082", "ts_code": "300832", "name": "新产业", "date": "2025-05-24 07:45:08", "sentiment_score": 0.6519}
+{"news_id": "news_20250524_000083", "ts_code": "300832", "name": "新产业", "date": "2025-05-24 07:45:01", "sentiment_score": 0.6918}
+{"news_id": "news_20250524_000087", "ts_code": "300750", "name": "宁德时代", "date": "2025-05-24 07:28:11", "sentiment_score": 0.6891}
+{"news_id": "news_20250524_000087", "ts_code": "002594", "name": "比亚迪", "date": "2025-05-24 07:28:11", "sentiment_score": 0.6891}
+{"news_id": "news_20250524_000088", "ts_code": "300750", "name": "宁德时代", "date": "2025-05-24 07:27:43", "sentiment_score": 0.6944}
+{"news_id": "news_20250524_000088", "ts_code": "002594", "name": "比亚迪", "date": "2025-05-24 07:27:43", "sentiment_score": 0.6944}

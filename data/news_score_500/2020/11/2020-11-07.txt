@@ -1,0 +1,11 @@
+{"news_id": "news_20201107_000003", "ts_code": "601601", "name": "中国太保", "date": "2020-11-07 22:24:14", "sentiment_score": 0.6677}
+{"news_id": "news_20201107_000023", "ts_code": "600938", "name": "中国海洋石油", "date": "2020-11-07 16:13:52", "sentiment_score": 0.6455}
+{"news_id": "news_20201107_000026", "ts_code": "601728", "name": "中国电信", "date": "2020-11-07 15:12:23", "sentiment_score": 0.7505}
+{"news_id": "news_20201107_000037", "ts_code": "003816", "name": "中国广核", "date": "2020-11-07 11:49:45", "sentiment_score": 0.2924}
+{"news_id": "news_20201107_000040", "ts_code": "601728", "name": "中国电信", "date": "2020-11-07 11:20:12", "sentiment_score": 0.6342}
+{"news_id": "news_20201107_000041", "ts_code": "002049", "name": "紫光国芯", "date": "2020-11-07 11:00:11", "sentiment_score": 0.7166}
+{"news_id": "news_20201107_000043", "ts_code": "601728", "name": "中国电信", "date": "2020-11-07 10:56:09", "sentiment_score": 0.667}
+{"news_id": "news_20201107_000045", "ts_code": "601728", "name": "中国电信", "date": "2020-11-07 10:47:42", "sentiment_score": 0.6349}
+{"news_id": "news_20201107_000046", "ts_code": "002594", "name": "比亚迪", "date": "2020-11-07 10:33:20", "sentiment_score": 0.8122}
+{"news_id": "news_20201107_000047", "ts_code": "601728", "name": "中国电信", "date": "2020-11-07 10:30:55", "sentiment_score": 0.74}
+{"news_id": "news_20201107_000057", "ts_code": "601628", "name": "中国人寿", "date": "2020-11-07 00:29:24", "sentiment_score": 0.7684}

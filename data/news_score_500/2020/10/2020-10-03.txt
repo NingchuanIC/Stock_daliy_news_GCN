@@ -1,0 +1,4 @@
+{"news_id": "news_20201003_000008", "ts_code": "601398", "name": "工商银行", "date": "2020-10-03 15:35:34", "sentiment_score": 0.7379}
+{"news_id": "news_20201003_000008", "ts_code": "601988", "name": "中国银行", "date": "2020-10-03 15:35:34", "sentiment_score": 0.7379}
+{"news_id": "news_20201003_000012", "ts_code": "300274", "name": "阳光电源股份有限公司", "date": "2020-10-03 12:26:26", "sentiment_score": 0.7744}
+{"news_id": "news_20201003_000017", "ts_code": "000063", "name": "中兴通讯", "date": "2020-10-03 11:06:59", "sentiment_score": 0.6343}

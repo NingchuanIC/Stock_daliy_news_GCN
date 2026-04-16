@@ -1,0 +1,8 @@
+{"news_id": "news_20200704_000002", "ts_code": "600031", "name": "三一重工", "date": "2020-07-04 22:22:26", "sentiment_score": 0.7079}
+{"news_id": "news_20200704_000002", "ts_code": "601728", "name": "中国电信", "date": "2020-07-04 22:22:26", "sentiment_score": 0.7079}
+{"news_id": "news_20200704_000005", "ts_code": "002049", "name": "紫光国微", "date": "2020-07-04 20:55:36", "sentiment_score": 0.6502}
+{"news_id": "news_20200704_000006", "ts_code": "600050", "name": "中国联通", "date": "2020-07-04 20:35:14", "sentiment_score": 0.6741}
+{"news_id": "news_20200704_000015", "ts_code": "000651", "name": "格力电器", "date": "2020-07-04 12:36:51", "sentiment_score": 0.5891}
+{"news_id": "news_20200704_000019", "ts_code": "601398", "name": "工商银行", "date": "2020-07-04 10:16:20", "sentiment_score": 0.7767}
+{"news_id": "news_20200704_000019", "ts_code": "601318", "name": "中国平安", "date": "2020-07-04 10:16:20", "sentiment_score": 0.7767}
+{"news_id": "news_20200704_000026", "ts_code": "000651", "name": "格力电器", "date": "2020-07-04 01:42:13", "sentiment_score": 0.8443}

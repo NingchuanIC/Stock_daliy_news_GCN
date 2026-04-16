@@ -1,0 +1,13 @@
+{"news_id": "news_20200517_000008", "ts_code": "600050", "name": "中国联通", "date": "2020-05-17 20:23:45", "sentiment_score": 0.7469}
+{"news_id": "news_20200517_000009", "ts_code": "000651", "name": "格力电器", "date": "2020-05-17 19:20:30", "sentiment_score": 0.848}
+{"news_id": "news_20200517_000015", "ts_code": "600859", "name": "王府井", "date": "2020-05-17 17:27:38", "sentiment_score": 0.6715}
+{"news_id": "news_20200517_000016", "ts_code": "002603", "name": "以岭药业", "date": "2020-05-17 17:26:02", "sentiment_score": 0.6618}
+{"news_id": "news_20200517_000037", "ts_code": "601728", "name": "中国电信", "date": "2020-05-17 13:17:20", "sentiment_score": 0.7466}
+{"news_id": "news_20200517_000038", "ts_code": "601728", "name": "中国电信", "date": "2020-05-17 13:12:18", "sentiment_score": 0.7755}
+{"news_id": "news_20200517_000038", "ts_code": "600050", "name": "中国联通", "date": "2020-05-17 13:12:18", "sentiment_score": 0.7755}
+{"news_id": "news_20200517_000039", "ts_code": "600050", "name": "中国联通", "date": "2020-05-17 12:21:22", "sentiment_score": 0.6746}
+{"news_id": "news_20200517_000040", "ts_code": "601728", "name": "中国电信", "date": "2020-05-17 12:19:28", "sentiment_score": 0.7137}
+{"news_id": "news_20200517_000044", "ts_code": "601728", "name": "中国电信", "date": "2020-05-17 11:05:39", "sentiment_score": 0.7829}
+{"news_id": "news_20200517_000044", "ts_code": "600050", "name": "中国联通", "date": "2020-05-17 11:05:39", "sentiment_score": 0.7829}
+{"news_id": "news_20200517_000045", "ts_code": "000063", "name": "中兴通讯", "date": "2020-05-17 10:52:58", "sentiment_score": 0.705}
+{"news_id": "news_20200517_000050", "ts_code": "000063", "name": "中兴通讯", "date": "2020-05-17 09:02:47", "sentiment_score": 0.7168}

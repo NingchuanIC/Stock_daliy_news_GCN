@@ -1,0 +1,11 @@
+{"news_id": "news_20200303_000002", "ts_code": "000338", "name": "潍柴动力", "date": "2020-03-03 22:04:05", "sentiment_score": 0.7139}
+{"news_id": "news_20200303_000004", "ts_code": "600519", "name": "贵州茅台酒股份有限公司", "date": "2020-03-03 21:26:50", "sentiment_score": 0.4661}
+{"news_id": "news_20200303_000009", "ts_code": "300558", "name": "贝达药业", "date": "2020-03-03 20:36:29", "sentiment_score": 0.8315}
+{"news_id": "news_20200303_000011", "ts_code": "000002", "name": "万科A", "date": "2020-03-03 20:17:16", "sentiment_score": 0.732}
+{"news_id": "news_20200303_000024", "ts_code": "601728", "name": "中国电信", "date": "2020-03-03 19:10:24", "sentiment_score": 0.6151}
+{"news_id": "news_20200303_000026", "ts_code": "600309", "name": "万华化学", "date": "2020-03-03 19:04:27", "sentiment_score": 0.4263}
+{"news_id": "news_20200303_000031", "ts_code": "600309", "name": "万华化学集团股份有限公司", "date": "2020-03-03 18:46:19", "sentiment_score": 0.3442}
+{"news_id": "news_20200303_000071", "ts_code": "601186", "name": "中国铁建", "date": "2020-03-03 17:02:39", "sentiment_score": 0.7562}
+{"news_id": "news_20200303_000090", "ts_code": "600066", "name": "宇通客车", "date": "2020-03-03 15:36:02", "sentiment_score": 0.8487}
+{"news_id": "news_20200303_000118", "ts_code": "300223", "name": "北京君正", "date": "2020-03-03 09:31:19", "sentiment_score": 0.78}
+{"news_id": "news_20200303_000120", "ts_code": "002384", "name": "东山精密", "date": "2020-03-03 09:26:55", "sentiment_score": 0.8049}

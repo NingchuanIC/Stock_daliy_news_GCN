@@ -1,0 +1,6 @@
+{"news_id": "news_20210410_000011", "ts_code": "600309", "name": "万华化学", "date": "2021-04-10 19:28:45", "sentiment_score": 0.5211}
+{"news_id": "news_20210410_000021", "ts_code": "002460", "name": "赣锋锂业", "date": "2021-04-10 16:15:43", "sentiment_score": 0.6427}
+{"news_id": "news_20210410_000036", "ts_code": "600030", "name": "中信证券", "date": "2021-04-10 12:06:55", "sentiment_score": 0.5404}
+{"news_id": "news_20210410_000037", "ts_code": "600030", "name": "中信证券", "date": "2021-04-10 11:54:37", "sentiment_score": 0.5404}
+{"news_id": "news_20210410_000043", "ts_code": "002594", "name": "比亚迪", "date": "2021-04-10 09:54:45", "sentiment_score": 0.6885}
+{"news_id": "news_20210410_000046", "ts_code": "002594", "name": "比亚迪", "date": "2021-04-10 09:39:32", "sentiment_score": 0.4822}

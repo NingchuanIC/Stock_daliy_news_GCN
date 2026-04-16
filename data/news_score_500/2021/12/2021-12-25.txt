@@ -1,0 +1,6 @@
+{"news_id": "news_20211225_000014", "ts_code": "601628", "name": "中国人寿", "date": "2021-12-25 18:29:04", "sentiment_score": 0.7473}
+{"news_id": "news_20211225_000016", "ts_code": "601012", "name": "隆基股份", "date": "2021-12-25 17:16:05", "sentiment_score": 0.7209}
+{"news_id": "news_20211225_000021", "ts_code": "600050", "name": "中国联通", "date": "2021-12-25 15:27:25", "sentiment_score": 0.7241}
+{"news_id": "news_20211225_000021", "ts_code": "000858", "name": "五粮液", "date": "2021-12-25 15:27:25", "sentiment_score": 0.7241}
+{"news_id": "news_20211225_000025", "ts_code": "003816", "name": "中国广核", "date": "2021-12-25 14:45:57", "sentiment_score": 0.7361}
+{"news_id": "news_20211225_000049", "ts_code": "600332", "name": "白云山", "date": "2021-12-25 02:09:58", "sentiment_score": 0.6982}

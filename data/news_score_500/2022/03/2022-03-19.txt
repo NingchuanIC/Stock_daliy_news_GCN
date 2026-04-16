@@ -1,0 +1,3 @@
+{"news_id": "news_20220319_000015", "ts_code": "300750", "name": "宁德时代", "date": "2022-03-19 13:55:34", "sentiment_score": 0.7432}
+{"news_id": "news_20220319_000017", "ts_code": "300750", "name": "宁德时代", "date": "2022-03-19 13:40:54", "sentiment_score": 0.7858}
+{"news_id": "news_20220319_000031", "ts_code": "002714", "name": "牧原股份", "date": "2022-03-19 06:45:04", "sentiment_score": 0.7563}

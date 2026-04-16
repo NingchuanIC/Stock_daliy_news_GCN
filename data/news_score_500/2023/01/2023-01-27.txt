@@ -1,0 +1,5 @@
+{"news_id": "news_20230127_000049", "ts_code": "601728", "name": "中国电信", "date": "2023-01-27 18:57:57", "sentiment_score": 0.757}
+{"news_id": "news_20230127_000049", "ts_code": "600050", "name": "中国联通", "date": "2023-01-27 18:57:57", "sentiment_score": 0.757}
+{"news_id": "news_20230127_000051", "ts_code": "600690", "name": "海尔智家", "date": "2023-01-27 18:56:38", "sentiment_score": 0.8536}
+{"news_id": "news_20230127_000058", "ts_code": "300750", "name": "宁德时代", "date": "2023-01-27 17:47:44", "sentiment_score": 0.7656}
+{"news_id": "news_20230127_000099", "ts_code": "002594", "name": "比亚迪", "date": "2023-01-27 10:11:53", "sentiment_score": 0.8837}

@@ -1,0 +1,7 @@
+{"news_id": "news_20200209_000011", "ts_code": "688169", "name": "石头科技", "date": "2020-02-09 19:39:22", "sentiment_score": 0.8033}
+{"news_id": "news_20200209_000025", "ts_code": "002065", "name": "东华软件", "date": "2020-02-09 17:17:21", "sentiment_score": 0.6549}
+{"news_id": "news_20200209_000038", "ts_code": "002230", "name": "科大讯飞", "date": "2020-02-09 16:33:58", "sentiment_score": 0.5843}
+{"news_id": "news_20200209_000040", "ts_code": "001979", "name": "招商蛇口", "date": "2020-02-09 16:30:40", "sentiment_score": 0.8053}
+{"news_id": "news_20200209_000042", "ts_code": "002371", "name": "北方华创", "date": "2020-02-09 16:22:00", "sentiment_score": 0.6777}
+{"news_id": "news_20200209_000047", "ts_code": "600547", "name": "山东黄金", "date": "2020-02-09 15:43:14", "sentiment_score": 0.7546}
+{"news_id": "news_20200209_000048", "ts_code": "600521", "name": "华海药业", "date": "2020-02-09 15:39:46", "sentiment_score": 0.8397}

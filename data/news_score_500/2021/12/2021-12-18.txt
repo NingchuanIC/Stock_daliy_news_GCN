@@ -1,0 +1,8 @@
+{"news_id": "news_20211218_000025", "ts_code": "000858", "name": "五粮液", "date": "2021-12-18 11:43:00", "sentiment_score": 0.7279}
+{"news_id": "news_20211218_000028", "ts_code": "600839", "name": "四川长虹", "date": "2021-12-18 10:41:08", "sentiment_score": 0.6991}
+{"news_id": "news_20211218_000067", "ts_code": "300750", "name": "宁德时代", "date": "2021-12-18 00:17:17", "sentiment_score": 0.7522}
+{"news_id": "news_20211218_000067", "ts_code": "600519", "name": "贵州茅台", "date": "2021-12-18 00:17:17", "sentiment_score": 0.7522}
+{"news_id": "news_20211218_000067", "ts_code": "601012", "name": "隆基股份", "date": "2021-12-18 00:17:17", "sentiment_score": 0.7522}
+{"news_id": "news_20211218_000067", "ts_code": "601888", "name": "中国中免", "date": "2021-12-18 00:17:17", "sentiment_score": 0.7522}
+{"news_id": "news_20211218_000067", "ts_code": "300760", "name": "迈瑞医疗", "date": "2021-12-18 00:17:17", "sentiment_score": 0.7522}
+{"news_id": "news_20211218_000067", "ts_code": "000858", "name": "五粮液", "date": "2021-12-18 00:17:17", "sentiment_score": 0.7522}

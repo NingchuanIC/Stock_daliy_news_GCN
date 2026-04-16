@@ -1,0 +1,12 @@
+{"news_id": "news_20190905_000004", "ts_code": "688235", "name": "百济神州", "date": "2019-09-05 23:36:43", "sentiment_score": 0.691}
+{"news_id": "news_20190905_000010", "ts_code": "600104", "name": "上汽集团", "date": "2019-09-05 22:00:39", "sentiment_score": 0.7114}
+{"news_id": "news_20190905_000022", "ts_code": "601328", "name": "交通银行", "date": "2019-09-05 20:37:30", "sentiment_score": 0.7527}
+{"news_id": "news_20190905_000028", "ts_code": "601211", "name": "国泰君安", "date": "2019-09-05 20:04:46", "sentiment_score": 0.8717}
+{"news_id": "news_20190905_000031", "ts_code": "601988", "name": "中国银行", "date": "2019-09-05 19:42:06", "sentiment_score": 0.5894}
+{"news_id": "news_20190905_000044", "ts_code": "600745", "name": "闻泰科技", "date": "2019-09-05 18:50:15", "sentiment_score": 0.6259}
+{"news_id": "news_20190905_000073", "ts_code": "600030", "name": "中信证券", "date": "2019-09-05 16:46:29", "sentiment_score": 0.8602}
+{"news_id": "news_20190905_000086", "ts_code": "000661", "name": "长春高新", "date": "2019-09-05 16:23:41", "sentiment_score": 0.7636}
+{"news_id": "news_20190905_000095", "ts_code": "600166", "name": "福田汽车", "date": "2019-09-05 15:58:53", "sentiment_score": 0.8433}
+{"news_id": "news_20190905_000109", "ts_code": "300750", "name": "宁德时代新能源科技股份有限公司", "date": "2019-09-05 15:10:16", "sentiment_score": 0.6248}
+{"news_id": "news_20190905_000121", "ts_code": "600699", "name": "均胜电子", "date": "2019-09-05 13:42:13", "sentiment_score": 0.7867}
+{"news_id": "news_20190905_000137", "ts_code": "300059", "name": "东方财富", "date": "2019-09-05 10:29:15", "sentiment_score": 0.8555}

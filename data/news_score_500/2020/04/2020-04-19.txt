@@ -1,0 +1,6 @@
+{"news_id": "news_20200419_000005", "ts_code": "300433", "name": "蓝思科技", "date": "2020-04-19 20:47:32", "sentiment_score": 0.5139}
+{"news_id": "news_20200419_000005", "ts_code": "002241", "name": "歌尔股份", "date": "2020-04-19 20:47:32", "sentiment_score": 0.5139}
+{"news_id": "news_20200419_000017", "ts_code": "002340", "name": "格林美", "date": "2020-04-19 17:05:47", "sentiment_score": 0.8271}
+{"news_id": "news_20200419_000020", "ts_code": "300014", "name": "亿纬锂能", "date": "2020-04-19 16:46:03", "sentiment_score": 0.8475}
+{"news_id": "news_20200419_000047", "ts_code": "600196", "name": "复星医药", "date": "2020-04-19 14:10:48", "sentiment_score": 0.4183}
+{"news_id": "news_20200419_000053", "ts_code": "300760", "name": "迈瑞医疗", "date": "2020-04-19 10:35:09", "sentiment_score": 0.6846}

@@ -1,0 +1,17 @@
+{"news_id": "news_20200520_000015", "ts_code": "300001", "name": "特锐德", "date": "2020-05-20 21:16:03", "sentiment_score": 0.7709}
+{"news_id": "news_20200520_000020", "ts_code": "003816", "name": "中国广核", "date": "2020-05-20 21:07:24", "sentiment_score": 0.7869}
+{"news_id": "news_20200520_000022", "ts_code": "688256", "name": "寒武纪", "date": "2020-05-20 21:02:18", "sentiment_score": 0.8007}
+{"news_id": "news_20200520_000032", "ts_code": "300014", "name": "亿纬锂能", "date": "2020-05-20 20:17:52", "sentiment_score": 0.8727}
+{"news_id": "news_20200520_000052", "ts_code": "600519", "name": "贵州茅台", "date": "2020-05-20 19:16:12", "sentiment_score": 0.5126}
+{"news_id": "news_20200520_000067", "ts_code": "688180", "name": "上海君实生物医药科技股份有限公司", "date": "2020-05-20 17:41:04", "sentiment_score": 0.7254}
+{"news_id": "news_20200520_000078", "ts_code": "600050", "name": "中国联通", "date": "2020-05-20 17:15:34", "sentiment_score": 0.8383}
+{"news_id": "news_20200520_000079", "ts_code": "002594", "name": "比亚迪", "date": "2020-05-20 17:10:28", "sentiment_score": 0.554}
+{"news_id": "news_20200520_000081", "ts_code": "600050", "name": "中国联通", "date": "2020-05-20 17:09:26", "sentiment_score": 0.8644}
+{"news_id": "news_20200520_000133", "ts_code": "601238", "name": "广汽集团", "date": "2020-05-20 12:29:58", "sentiment_score": 0.6876}
+{"news_id": "news_20200520_000143", "ts_code": "603501", "name": "韦尔股份", "date": "2020-05-20 11:12:25", "sentiment_score": 0.8636}
+{"news_id": "news_20200520_000158", "ts_code": "601899", "name": "紫金矿业", "date": "2020-05-20 09:32:36", "sentiment_score": 0.8482}
+{"news_id": "news_20200520_000158", "ts_code": "600547", "name": "山东黄金", "date": "2020-05-20 09:32:36", "sentiment_score": 0.8482}
+{"news_id": "news_20200520_000159", "ts_code": "300750", "name": "宁德时代", "date": "2020-05-20 09:32:17", "sentiment_score": 0.8551}
+{"news_id": "news_20200520_000159", "ts_code": "002812", "name": "恩捷股份", "date": "2020-05-20 09:32:17", "sentiment_score": 0.8551}
+{"news_id": "news_20200520_000159", "ts_code": "300073", "name": "当升科技", "date": "2020-05-20 09:32:17", "sentiment_score": 0.8551}
+{"news_id": "news_20200520_000171", "ts_code": "002594", "name": "比亚迪", "date": "2020-05-20 08:11:25", "sentiment_score": 0.6961}

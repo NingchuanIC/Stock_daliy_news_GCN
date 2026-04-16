@@ -1,0 +1,4 @@
+{"news_id": "news_20200128_000014", "ts_code": "601857", "name": "中国石油", "date": "2020-01-28 19:44:05", "sentiment_score": 0.6082}
+{"news_id": "news_20200128_000032", "ts_code": "002223", "name": "鱼跃医疗", "date": "2020-01-28 15:04:38", "sentiment_score": 0.6544}
+{"news_id": "news_20200128_000048", "ts_code": "000568", "name": "泸州老窖", "date": "2020-01-28 12:43:08", "sentiment_score": 0.5184}
+{"news_id": "news_20200128_000061", "ts_code": "688599", "name": "天合光能", "date": "2020-01-28 09:11:47", "sentiment_score": 0.5167}

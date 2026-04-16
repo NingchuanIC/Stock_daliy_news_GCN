@@ -1,0 +1,17 @@
+{"news_id": "news_20210217_000054", "ts_code": "688036", "name": "传音控股", "date": "2021-02-17 22:34:43", "sentiment_score": 0.8407}
+{"news_id": "news_20210217_000065", "ts_code": "002594", "name": "比亚迪", "date": "2021-02-17 22:17:04", "sentiment_score": 0.378}
+{"news_id": "news_20210217_000167", "ts_code": "688180", "name": "君实生物", "date": "2021-02-17 17:45:32", "sentiment_score": 0.7126}
+{"news_id": "news_20210217_000197", "ts_code": "000963", "name": "华东医药", "date": "2021-02-17 17:03:29", "sentiment_score": 0.8099}
+{"news_id": "news_20210217_000212", "ts_code": "688180", "name": "君实生物", "date": "2021-02-17 16:27:59", "sentiment_score": 0.8326}
+{"news_id": "news_20210217_000213", "ts_code": "688180", "name": "上海君实生物医药科技股份有限公司", "date": "2021-02-17 16:27:50", "sentiment_score": 0.8141}
+{"news_id": "news_20210217_000237", "ts_code": "600196", "name": "复星医药", "date": "2021-02-17 14:47:00", "sentiment_score": 0.6816}
+{"news_id": "news_20210217_000240", "ts_code": "300750", "name": "宁德时代", "date": "2021-02-17 14:35:37", "sentiment_score": 0.7248}
+{"news_id": "news_20210217_000240", "ts_code": "002594", "name": "比亚迪", "date": "2021-02-17 14:35:37", "sentiment_score": 0.7248}
+{"news_id": "news_20210217_000278", "ts_code": "600690", "name": "海尔智家", "date": "2021-02-17 10:10:26", "sentiment_score": 0.8581}
+{"news_id": "news_20210217_000282", "ts_code": "601600", "name": "中国铝业", "date": "2021-02-17 09:51:37", "sentiment_score": 0.8216}
+{"news_id": "news_20210217_000285", "ts_code": "002594", "name": "比亚迪", "date": "2021-02-17 09:36:29", "sentiment_score": 0.8746}
+{"news_id": "news_20210217_000291", "ts_code": "601899", "name": "紫金矿业", "date": "2021-02-17 09:24:34", "sentiment_score": 0.8752}
+{"news_id": "news_20210217_000291", "ts_code": "603993", "name": "洛阳钼业", "date": "2021-02-17 09:24:34", "sentiment_score": 0.8752}
+{"news_id": "news_20210217_000295", "ts_code": "601398", "name": "工商银行", "date": "2021-02-17 09:09:34", "sentiment_score": 0.8699}
+{"news_id": "news_20210217_000296", "ts_code": "601318", "name": "中国平安", "date": "2021-02-17 09:06:56", "sentiment_score": 0.8476}
+{"news_id": "news_20210217_000307", "ts_code": "600690", "name": "海尔智家", "date": "2021-02-17 07:21:38", "sentiment_score": 0.8437}

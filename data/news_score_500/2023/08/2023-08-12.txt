@@ -1,0 +1,7 @@
+{"news_id": "news_20230812_000006", "ts_code": "000998", "name": "隆平高科", "date": "2023-08-12 21:52:38", "sentiment_score": 0.5057}
+{"news_id": "news_20230812_000014", "ts_code": "601211", "name": "国泰君安", "date": "2023-08-12 17:24:04", "sentiment_score": 0.8373}
+{"news_id": "news_20230812_000028", "ts_code": "601127", "name": "赛力斯", "date": "2023-08-12 11:59:30", "sentiment_score": 0.534}
+{"news_id": "news_20230812_000036", "ts_code": "300068", "name": "南都电源", "date": "2023-08-12 09:28:49", "sentiment_score": 0.5752}
+{"news_id": "news_20230812_000036", "ts_code": "603606", "name": "东方电缆", "date": "2023-08-12 09:28:49", "sentiment_score": 0.5752}
+{"news_id": "news_20230812_000037", "ts_code": "002074", "name": "国轩高科", "date": "2023-08-12 08:58:33", "sentiment_score": 0.7637}
+{"news_id": "news_20230812_000049", "ts_code": "002594", "name": "比亚迪", "date": "2023-08-12 04:17:48", "sentiment_score": 0.8363}

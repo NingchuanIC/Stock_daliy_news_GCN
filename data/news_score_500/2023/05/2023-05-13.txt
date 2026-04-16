@@ -1,0 +1,12 @@
+{"news_id": "news_20230513_000009", "ts_code": "301358", "name": "湖南裕能", "date": "2023-05-13 20:24:59", "sentiment_score": 0.6769}
+{"news_id": "news_20230513_000011", "ts_code": "300750", "name": "宁德时代", "date": "2023-05-13 20:10:43", "sentiment_score": 0.7244}
+{"news_id": "news_20230513_000011", "ts_code": "002460", "name": "赣锋锂业", "date": "2023-05-13 20:10:43", "sentiment_score": 0.7244}
+{"news_id": "news_20230513_000011", "ts_code": "002594", "name": "比亚迪", "date": "2023-05-13 20:10:43", "sentiment_score": 0.7244}
+{"news_id": "news_20230513_000016", "ts_code": "601615", "name": "明阳智慧能源集团股份公司", "date": "2023-05-13 18:04:54", "sentiment_score": 0.7366}
+{"news_id": "news_20230513_000023", "ts_code": "601211", "name": "国泰君安", "date": "2023-05-13 16:50:46", "sentiment_score": 0.5994}
+{"news_id": "news_20230513_000029", "ts_code": "002074", "name": "国轩高科", "date": "2023-05-13 14:49:38", "sentiment_score": 0.6833}
+{"news_id": "news_20230513_000030", "ts_code": "002156", "name": "通富微电", "date": "2023-05-13 13:45:03", "sentiment_score": 0.7623}
+{"news_id": "news_20230513_000040", "ts_code": "601668", "name": "中国建筑", "date": "2023-05-13 09:58:56", "sentiment_score": 0.7}
+{"news_id": "news_20230513_000041", "ts_code": "601628", "name": "中国人寿", "date": "2023-05-13 09:46:17", "sentiment_score": 0.7023}
+{"news_id": "news_20230513_000042", "ts_code": "000338", "name": "潍柴动力", "date": "2023-05-13 09:44:02", "sentiment_score": 0.7076}
+{"news_id": "news_20230513_000042", "ts_code": "002594", "name": "比亚迪", "date": "2023-05-13 09:44:02", "sentiment_score": 0.7076}

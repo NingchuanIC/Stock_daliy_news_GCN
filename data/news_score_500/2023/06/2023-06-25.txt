@@ -1,0 +1,11 @@
+{"news_id": "news_20230625_000004", "ts_code": "600519", "name": "贵州茅台", "date": "2023-06-25 22:22:31", "sentiment_score": 0.787}
+{"news_id": "news_20230625_000005", "ts_code": "600438", "name": "通威股份", "date": "2023-06-25 22:18:49", "sentiment_score": 0.6747}
+{"news_id": "news_20230625_000041", "ts_code": "300014", "name": "亿纬锂能", "date": "2023-06-25 18:07:39", "sentiment_score": 0.7391}
+{"news_id": "news_20230625_000046", "ts_code": "003816", "name": "中国广核", "date": "2023-06-25 17:55:04", "sentiment_score": 0.7773}
+{"news_id": "news_20230625_000062", "ts_code": "601988", "name": "中国银行", "date": "2023-06-25 17:00:23", "sentiment_score": 0.7174}
+{"news_id": "news_20230625_000085", "ts_code": "002475", "name": "立讯精密", "date": "2023-06-25 15:57:52", "sentiment_score": 0.6468}
+{"news_id": "news_20230625_000093", "ts_code": "002594", "name": "比亚迪", "date": "2023-06-25 15:27:05", "sentiment_score": 0.6793}
+{"news_id": "news_20230625_000100", "ts_code": "002594", "name": "比亚迪股份有限公司", "date": "2023-06-25 14:40:41", "sentiment_score": 0.8029}
+{"news_id": "news_20230625_000114", "ts_code": "600166", "name": "福田汽车", "date": "2023-06-25 13:16:17", "sentiment_score": 0.8664}
+{"news_id": "news_20230625_000115", "ts_code": "003816", "name": "中国广核", "date": "2023-06-25 13:14:10", "sentiment_score": 0.5512}
+{"news_id": "news_20230625_000140", "ts_code": "300394", "name": "天孚通信", "date": "2023-06-25 09:19:19", "sentiment_score": 0.7777}

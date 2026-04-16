@@ -1,0 +1,8 @@
+{"news_id": "news_20190127_000003", "ts_code": "600030", "name": "中信证券", "date": "2019-01-27 20:38:16", "sentiment_score": 0.8289}
+{"news_id": "news_20190127_000009", "ts_code": "601398", "name": "工商银行", "date": "2019-01-27 18:52:38", "sentiment_score": 0.5763}
+{"news_id": "news_20190127_000011", "ts_code": "002230", "name": "科大讯飞", "date": "2019-01-27 18:43:40", "sentiment_score": 0.3695}
+{"news_id": "news_20190127_000023", "ts_code": "000425", "name": "徐工机械", "date": "2019-01-27 17:32:08", "sentiment_score": 0.7901}
+{"news_id": "news_20190127_000033", "ts_code": "601398", "name": "工商银行", "date": "2019-01-27 16:42:21", "sentiment_score": 0.7387}
+{"news_id": "news_20190127_000045", "ts_code": "600795", "name": "国电电力", "date": "2019-01-27 15:07:12", "sentiment_score": 0.7045}
+{"news_id": "news_20190127_000052", "ts_code": "600795", "name": "国电电力", "date": "2019-01-27 14:28:41", "sentiment_score": 0.8169}
+{"news_id": "news_20190127_000059", "ts_code": "002459", "name": "天业通联", "date": "2019-01-27 06:44:56", "sentiment_score": 0.7072}

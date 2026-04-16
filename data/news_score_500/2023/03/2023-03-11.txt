@@ -1,0 +1,16 @@
+{"news_id": "news_20230311_000016", "ts_code": "000063", "name": "中兴通讯", "date": "2023-03-11 20:06:24", "sentiment_score": 0.6126}
+{"news_id": "news_20230311_000021", "ts_code": "601633", "name": "长城汽车", "date": "2023-03-11 19:22:32", "sentiment_score": 0.674}
+{"news_id": "news_20230311_000025", "ts_code": "600111", "name": "北方稀土", "date": "2023-03-11 19:03:04", "sentiment_score": 0.6899}
+{"news_id": "news_20230311_000050", "ts_code": "601868", "name": "中国能建", "date": "2023-03-11 14:35:04", "sentiment_score": 0.7721}
+{"news_id": "news_20230311_000051", "ts_code": "002460", "name": "赣锋锂业", "date": "2023-03-11 14:22:40", "sentiment_score": 0.6112}
+{"news_id": "news_20230311_000051", "ts_code": "601398", "name": "工商银行", "date": "2023-03-11 14:22:40", "sentiment_score": 0.6112}
+{"news_id": "news_20230311_000064", "ts_code": "600050", "name": "中国联通", "date": "2023-03-11 12:36:06", "sentiment_score": 0.7093}
+{"news_id": "news_20230311_000065", "ts_code": "000651", "name": "格力电器", "date": "2023-03-11 12:34:49", "sentiment_score": 0.802}
+{"news_id": "news_20230311_000069", "ts_code": "000651", "name": "格力电器", "date": "2023-03-11 11:59:49", "sentiment_score": 0.7448}
+{"news_id": "news_20230311_000075", "ts_code": "600050", "name": "中国联通", "date": "2023-03-11 11:41:28", "sentiment_score": 0.5054}
+{"news_id": "news_20230311_000080", "ts_code": "002236", "name": "大华股份", "date": "2023-03-11 11:28:00", "sentiment_score": 0.6696}
+{"news_id": "news_20230311_000094", "ts_code": "601211", "name": "国泰君安", "date": "2023-03-11 10:00:27", "sentiment_score": 0.654}
+{"news_id": "news_20230311_000109", "ts_code": "000651", "name": "格力电器", "date": "2023-03-11 08:20:43", "sentiment_score": 0.6099}
+{"news_id": "news_20230311_000110", "ts_code": "000651", "name": "格力电器", "date": "2023-03-11 08:16:45", "sentiment_score": 0.6344}
+{"news_id": "news_20230311_000114", "ts_code": "000425", "name": "徐工机械", "date": "2023-03-11 07:52:33", "sentiment_score": 0.7065}
+{"news_id": "news_20230311_000160", "ts_code": "688223", "name": "晶科能源", "date": "2023-03-11 05:01:25", "sentiment_score": 0.8907}

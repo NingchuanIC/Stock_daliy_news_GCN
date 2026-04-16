@@ -1,0 +1,11 @@
+{"news_id": "news_20231112_000002", "ts_code": "000858", "name": "宜宾五粮液股份有限公司", "date": "2023-11-12 23:17:34", "sentiment_score": 0.4913}
+{"news_id": "news_20231112_000006", "ts_code": "600438", "name": "通威股份", "date": "2023-11-12 22:55:13", "sentiment_score": 0.7539}
+{"news_id": "news_20231112_000026", "ts_code": "601088", "name": "中国神华", "date": "2023-11-12 18:53:38", "sentiment_score": 0.8311}
+{"news_id": "news_20231112_000060", "ts_code": "002353", "name": "杰瑞股份", "date": "2023-11-12 16:08:23", "sentiment_score": 0.6343}
+{"news_id": "news_20231112_000069", "ts_code": "600276", "name": "恒瑞医药", "date": "2023-11-12 15:39:35", "sentiment_score": 0.7732}
+{"news_id": "news_20231112_000072", "ts_code": "002916", "name": "深南电路", "date": "2023-11-12 15:26:31", "sentiment_score": 0.7967}
+{"news_id": "news_20231112_000086", "ts_code": "000625", "name": "长安汽车", "date": "2023-11-12 12:53:40", "sentiment_score": 0.6633}
+{"news_id": "news_20231112_000107", "ts_code": "002594", "name": "比亚迪", "date": "2023-11-12 09:24:18", "sentiment_score": 0.744}
+{"news_id": "news_20231112_000114", "ts_code": "600030", "name": "中信证券", "date": "2023-11-12 08:12:04", "sentiment_score": 0.483}
+{"news_id": "news_20231112_000120", "ts_code": "002230", "name": "科大讯飞", "date": "2023-11-12 06:44:14", "sentiment_score": 0.6776}
+{"news_id": "news_20231112_000123", "ts_code": "002594", "name": "比亚迪", "date": "2023-11-12 01:36:01", "sentiment_score": 0.7879}

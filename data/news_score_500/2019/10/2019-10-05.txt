@@ -1,0 +1,11 @@
+{"news_id": "news_20191005_000011", "ts_code": "300433", "name": "蓝思科技", "date": "2019-10-05 16:40:59", "sentiment_score": 0.7116}
+{"news_id": "news_20191005_000012", "ts_code": "601728", "name": "中国电信", "date": "2019-10-05 16:23:06", "sentiment_score": 0.7539}
+{"news_id": "news_20191005_000012", "ts_code": "600050", "name": "中国联通", "date": "2019-10-05 16:23:06", "sentiment_score": 0.7539}
+{"news_id": "news_20191005_000015", "ts_code": "600115", "name": "东方航空", "date": "2019-10-05 14:19:38", "sentiment_score": 0.6653}
+{"news_id": "news_20191005_000015", "ts_code": "600050", "name": "中国联通", "date": "2019-10-05 14:19:38", "sentiment_score": 0.6653}
+{"news_id": "news_20191005_000018", "ts_code": "000651", "name": "格力电器", "date": "2019-10-05 13:48:57", "sentiment_score": 0.6444}
+{"news_id": "news_20191005_000025", "ts_code": "002049", "name": "紫光国微", "date": "2019-10-05 10:01:30", "sentiment_score": 0.7488}
+{"news_id": "news_20191005_000027", "ts_code": "601728", "name": "中国电信", "date": "2019-10-05 09:39:54", "sentiment_score": 0.7896}
+{"news_id": "news_20191005_000027", "ts_code": "600050", "name": "中国联通", "date": "2019-10-05 09:39:54", "sentiment_score": 0.7896}
+{"news_id": "news_20191005_000029", "ts_code": "002049", "name": "紫光国微", "date": "2019-10-05 09:30:49", "sentiment_score": 0.5424}
+{"news_id": "news_20191005_000031", "ts_code": "601601", "name": "中国太保", "date": "2019-10-05 09:21:32", "sentiment_score": 0.5873}
