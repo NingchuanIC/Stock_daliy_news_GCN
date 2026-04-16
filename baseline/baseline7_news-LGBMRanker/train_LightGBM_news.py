@@ -48,22 +48,34 @@ FEATURE_COLS = [
 	"days_since_last_news",
 ]
 
+PRICE_FEATURE_COLS = [
+	"ret_1",
+	"ret_5",
+	"ret_10",
+	"ret_20",
+	"hl_spread",
+	"co_ret",
+	"log_vol",
+	"turnover_rate",
+	"volume_ratio",
+	"pb",
+	"ma5_gap",
+	"ma10_gap",
+	"ma20_gap",
+	"volatility_5",
+	"volatility_20",
+]
+
 
 def parse_args() -> argparse.Namespace:
 	parser = argparse.ArgumentParser(
 		description="Train and evaluate a LightGBM model on monthly parquet features."
 	)
 	parser.add_argument(
-		"--dataset-root",
+		"--output-dir",
 		type=Path,
-		default=Path(__file__).resolve().parents[2] / "data" / "build_feature_news" / "dataset_by_month",
-		help="Root folder containing yearly subfolders of monthly parquet files.",
-	)
-	parser.add_argument(
-		"--target",
-		type=str,
-		default="future_ret_5",
-		help="Target column used for regression.",
+		default=Path(__file__).resolve().parent,
+		help="Directory where result txt files will be written.",
 	)
 	parser.add_argument(
 		"--n-estimators",
@@ -126,12 +138,6 @@ def parse_args() -> argparse.Namespace:
 		help="Random seed for reproducibility.",
 	)
 	parser.add_argument(
-		"--output-file",
-		type=Path,
-		default=Path(__file__).resolve().parent / "lightgbm_results.txt",
-		help="Path to the txt file where training/evaluation results will be written.",
-	)
-	parser.add_argument(
 		"--topk-list",
 		type=str,
 		default="10,30,50",
@@ -166,11 +172,11 @@ def build_features(
 	if target_col not in df.columns:
 		raise KeyError(f"Target column '{target_col}' not found in dataset columns.")
 
-	missing = [col for col in FEATURE_COLS if col not in df.columns]
+	missing = [col for col in PRICE_FEATURE_COLS if col not in df.columns]
 	if missing:
 		raise KeyError(f"Dataset is missing required features: {missing}")
 
-	feature_cols = FEATURE_COLS.copy()
+	feature_cols = [col for col in FEATURE_COLS if col in df.columns]
 
 	selected_cols = feature_cols + [target_col]
 	if "trade_date" in df.columns:
@@ -312,17 +318,21 @@ def evaluate_split(
 	return lines
 
 
-def main() -> None:
-	args = parse_args()
-	topk_values = parse_topk_list(args.topk_list)
+def run_experiment(
+	args: argparse.Namespace,
+	label: str,
+	dataset_root: Path,
+	target_col: str,
+	output_path: Path,
+	topk_values: list[int],
+) -> None:
+	train_df = load_years(dataset_root, TRAIN_YEARS)
+	val_df = load_years(dataset_root, VAL_YEARS)
+	test_df = load_years(dataset_root, TEST_YEARS)
 
-	train_df = load_years(args.dataset_root, TRAIN_YEARS)
-	val_df = load_years(args.dataset_root, VAL_YEARS)
-	test_df = load_years(args.dataset_root, TEST_YEARS)
-
-	x_train, y_train, feature_cols, trade_date_train = build_features(train_df, args.target)
-	x_val, y_val, _, trade_date_val = build_features(val_df, args.target)
-	x_test, y_test, _, trade_date_test = build_features(test_df, args.target)
+	x_train, y_train, feature_cols, trade_date_train = build_features(train_df, target_col)
+	x_val, y_val, _, trade_date_val = build_features(val_df, target_col)
+	x_test, y_test, _, trade_date_test = build_features(test_df, target_col)
 
 	model = fit_lightgbm_regression(x_train, y_train, args)
 
@@ -331,7 +341,7 @@ def main() -> None:
 		f"train years: {TRAIN_YEARS}",
 		f"val years: {VAL_YEARS}",
 		f"test years: {TEST_YEARS}",
-		f"target: {args.target}",
+		f"target: {target_col}",
 		f"n_estimators: {args.n_estimators}",
 		f"learning_rate: {args.learning_rate}",
 		f"num_leaves: {args.num_leaves}",
@@ -350,13 +360,44 @@ def main() -> None:
 	result_lines.extend(evaluate_split("validation", model, x_val, y_val, trade_date_val, topk_values))
 	result_lines.extend(evaluate_split("test", model, x_test, y_test, trade_date_test, topk_values))
 
-	output_path = args.output_file
 	output_path.parent.mkdir(parents=True, exist_ok=True)
 	output_path.write_text("\n".join(result_lines) + "\n", encoding="utf-8")
 
+	print(f"===== {label} =====")
 	for line in result_lines:
 		print(line)
 	print(f"Results saved to: {output_path}")
+
+
+def main() -> None:
+	args = parse_args()
+	topk_values = parse_topk_list(args.topk_list)
+
+	data_root = Path(__file__).resolve().parents[2] / "data"
+	experiments = [
+		(
+			"ret5",
+			data_root / "build_feature_news" / "dataset_by_month",
+			"future_ret_5",
+			args.output_dir / "lightgbm_results_ret5.txt",
+		),
+		(
+			"ret1",
+			data_root / "build_feature_news_ret1" / "dataset_by_month",
+			"future_ret_1",
+			args.output_dir / "lightgbm_results_ret1.txt",
+		),
+	]
+
+	for label, dataset_root, target_col, output_path in experiments:
+		run_experiment(
+			args=args,
+			label=label,
+			dataset_root=dataset_root,
+			target_col=target_col,
+			output_path=output_path,
+			topk_values=topk_values,
+		)
 
 
 if __name__ == "__main__":
