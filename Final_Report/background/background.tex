@@ -1,0 +1,180 @@
+\chapter{Background Reading}
+
+\section{Classical Statistical Methods for Time Series Forecasting}
+
+Stock price forecasting has historically relied on traditional statistical approaches such as Autoregressive Integrated Moving Average (ARIMA) and Exponential Smoothing models. These methods assume that price movements follow specific temporal patterns that can be captured through historical data. ARIMA models decompose time series into autoregressive (AR) and moving average (MA) components, making them effective for capturing linear dependencies. The primary advantage of such approaches is their interpretability, stability, and computational efficiency. However, they operate under strong assumptions including linearity and stationarity, which are frequently violated in real financial markets where nonlinear dynamics and structural breaks are commonplace. As \cite{lawrence1997nnstock} demonstrated, neural network-based approaches can outperform classical statistical models in capturing nonlinear patterns in stock price data.
+
+Recent comparative studies have reinforced this finding. \cite{appliedmath5040176} conducted a comprehensive evaluation comparing classical statistical models (SARIMA and ETS) with advanced deep learning architectures using data from 2012–2024, finding that while traditional methods maintain strong performance as stable baselines with Mean Absolute Percentage Error (MAPE) values competitive with baseline neural approaches, modern neural methods achieve superior predictive accuracy by capturing complex nonlinear dependencies. This study is particularly valuable because it demonstrates that statistical models should not be entirely discarded—they serve as important benchmarks for evaluating the true benefit of more complex approaches.
+
+The limitations of classical methods stem from their fundamental assumptions. Financial markets exhibit characteristics such as fat tails (extreme events occur more frequently than normal distributions predict), heteroskedasticity (variance changes over time), and structural breaks (sudden shifts in market dynamics). These characteristics make linear models inadequate, and attempts to extend ARIMA to capture nonlinearity often result in complex, difficult-to-estimate models with poor generalization. Additionally, ARIMA requires data to be stationary, but stock prices typically follow a random walk with drift, making differencing necessary. However, differencing can discard important long-term relationships, and determining the optimal differencing order requires manual tuning and domain expertise.
+
+\section{Deep Learning Fundamentals for Sequential Data}
+
+The application of deep learning to stock price forecasting has opened new possibilities for capturing complex temporal patterns. The fundamental advantage of deep learning is its capacity to learn nonlinear transformations from raw inputs without requiring strong assumptions about data distribution. Unlike statistical models that assume specific functional forms, neural networks can approximate arbitrary functions given sufficient capacity and data.
+
+Feedforward neural networks form the foundation for more complex architectures. A feedforward network processes input through successive layers of transformations, each layer combining inputs with learned weights and applying nonlinear activation functions. For time series data, however, feedforward networks treat each time step independently, missing temporal structure.
+
+Recurrent Neural Networks (RNNs) address this limitation by maintaining hidden states that propagate information across time steps. At each time step $t$, an RNN computes a hidden state $h_t$ based on the current input $x_t$ and the previous hidden state $h_{t-1}$:
+
+$$h_t = \text{tanh}(W_{hh} h_{t-1} + W_{xh} x_t + b_h)$$
+
+This recurrent structure enables the network to accumulate information over time and capture temporal dependencies. However, RNNs suffer from the vanishing gradient problem: gradients computed during backpropagation through many time steps become exponentially smaller, making it difficult to learn long-range dependencies.
+
+Long Short-Term Memory (LSTM) networks overcome this limitation through a gating mechanism. LSTMs introduce memory cells and gates that control information flow:
+
+\begin{itemize}
+    \item \textbf{Forget Gate:} Decides which information to discard from the previous memory cell
+    \item \textbf{Input Gate:} Decides which new information to add to the memory cell
+    \item \textbf{Output Gate:} Decides what information to output based on the memory cell
+\end{itemize}
+
+This architecture enables LSTMs to learn long-range dependencies more effectively than vanilla RNNs. Gated Recurrent Units (GRUs) provide a similar capability with fewer parameters, making them computationally more efficient. Both LSTM and GRU architectures have been widely applied to stock price forecasting, with mixed results. While they capture temporal patterns effectively, they still treat individual stocks in isolation.
+
+\section{Attention Mechanisms and Transformers}
+
+A major breakthrough in deep learning came with the introduction of attention mechanisms. Rather than using fixed recurrent connections, attention allows a model to directly compute relationships between any two time steps, regardless of distance. The attention mechanism computes a weighted combination of value vectors based on similarity between query and key vectors:
+
+$$\text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V$$
+
+where $Q$ (queries), $K$ (keys), and $V$ (values) are learned linear projections of the input. This allows the model to focus on relevant time steps without the sequential processing required by RNNs, enabling more efficient computation and better long-range dependency learning.
+
+The Transformer architecture, built entirely on attention mechanisms without recurrence, has revolutionized deep learning. Transformers compute self-attention (where all vectors simultaneously attend to each other) using multiple attention heads, each learning different aspects of relationships. This parallelizable design makes Transformers significantly faster to train than RNNs.
+
+The Temporal Fusion Transformer (TFT) represents a significant advancement for time series forecasting. As shown in \cite{appliedmath5040176}, TFT models substantially outperform traditional statistical methods and conventional RNN architectures in capturing short-term nonlinear dependencies in stock price movements. TFT incorporates several important components: variable selection networks that learn which features are predictive, multi-horizon attention for forecasting multiple steps ahead, and quantile regression outputs for uncertainty estimation. The attention mechanism enables the model to identify which historical periods and features are most relevant for prediction, providing both improved accuracy and enhanced interpretability compared to earlier deep learning approaches. Importantly, TFT also incorporates variable selection networks, allowing the model to automatically determine which features are most predictive, rather than requiring manual feature engineering.
+
+However, despite these advances, most purely temporal deep learning models suffer from a critical limitation: they treat individual stocks in isolation, ignoring the complex relationships and dependencies between different companies and market segments. This assumption rarely holds in practice. In reality, stock prices are influenced by industry structure (companies within the same sector experience correlated price movements), competitive relationships (competitors' performance affects relative valuations), ownership networks (institutional investors and holding companies create linkages), and shared exposure to macroeconomic factors. Ignoring these relationships means missing important signals that could improve prediction accuracy.
+
+\section{Graph Neural Networks and Relational Learning}
+
+To address the limitations of isolated stock analysis, recent research has introduced graph neural networks (GNNs) as a means to explicitly model relationships between assets. A graph is a mathematical structure consisting of nodes (entities) and edges (relationships). In the context of stock prediction, companies become nodes, and various types of relationships become edges.
+
+Graph Convolutional Networks (GCNs), introduced by \cite{kipf2017semisupervisedclassificationgraphconvolutional}, provide a foundational framework for learning on graph-structured data. GCNs perform convolution operations on graphs, enabling information propagation across connected nodes. The ability to propagate information across connected nodes enables the capture of inter-asset dependencies that purely temporal models miss. Mathematically, a GCN layer updates node features by aggregating information from neighboring nodes, weighted by edge values. This allows the model to learn that a company's prediction should depend not only on its own history but also on the history and characteristics of related companies.
+
+Specifically, a GCN layer computes:
+
+$$H^{(l+1)} = \sigma(\tilde{D}^{-1/2}\tilde{A}\tilde{D}^{-1/2}H^{(l)}W^{(l)})$$
+
+where $\tilde{A}$ is the normalized adjacency matrix (including self-loops), $H^{(l)}$ are the node representations at layer $l$, $W^{(l)}$ is a learnable weight matrix, and $\sigma$ is a nonlinear activation. This formulation ensures that each node's updated representation incorporates information from its neighbors while maintaining stability through normalization.
+
+\cite{hamilton2018inductiverepresentationlearninglarge} further extended this framework with GraphSAGE (Graph Sampling and Aggregating), an inductive learning approach that can generalize to unseen nodes and larger graphs. GraphSAGE uses a sampling-and-aggregation strategy where each node's representation is learned by sampling a fixed-size neighborhood and aggregating their features:
+
+$$h_v^{(l)} = \sigma(W^{(l)} \cdot \text{AGGREGATE}(\{h_u^{(l-1)} : u \in \mathcal{N}(v)\}))$$
+
+where $\mathcal{N}(v)$ is the sampled neighborhood of node $v$. Different aggregation functions (mean, LSTM, pooling) can be used. GraphSAGE is particularly suitable for dynamic financial markets where new stocks and relationships emerge over time, and the graph structure cannot be fixed in advance.
+
+Building on these foundations, several recent studies have developed graph-based models specifically for stock prediction. \cite{9892482} proposed a Multi-Relational Graph Convolution Network (MR-GCN) that explicitly models different types of relationships between stocks, including industry relationships and correlation-based relationships. By distinguishing between relationship types, the model can capture more nuanced dependencies compared to approaches that treat all relationships uniformly. This is important because industry relationships (representing structural market segments) convey different information than correlation-based relationships (which can arise from shared exposure to common factors). The MR-GCN architecture maintains separate convolution operations for each relationship type:
+
+$$H^{(l+1)} = \sigma\left(\sum_{r \in \mathcal{R}} \tilde{D}_r^{-1/2}\tilde{A}_r\tilde{D}_r^{-1/2}H^{(l)}W_r^{(l)}\right)$$
+
+where $r$ indexes different relationship types and $\mathcal{R}$ is the set of all relationship types.
+
+\cite{info15120743} introduced an implicit causality exploration framework that goes beyond simple correlation to identify causal relationships between stocks. This approach recognizes that not all correlations reflect meaningful causal influences—two stocks may move together because they respond to a common external factor, not because one influences the other. Distinguishing between these cases is critical for robust prediction because spurious correlations can break down when market conditions change. Additionally, the framework extracts both dynamic (time-varying) and static (persistent) relationships, addressing the limitation of methods that focus on only one type of relationship. The causal exploration mechanism learns to weight relationships based on their predictive power, automatically identifying which connections matter most for forecasting.
+
+\cite{zhuang2024grupfgextractinterstockcorrelation} proposed GRU-PFG, which combines Gated Recurrent Units (GRU) with a graph neural network component to extract inter-stock correlations from stock factors. This approach demonstrates the effectiveness of multi-level feature extraction, where both individual stock characteristics and relationships between stocks contribute to improved forecasting. By grounding correlations in underlying stock factors (fundamentals, technical indicators), the model creates more stable and interpretable relationships. The key insight is that factor-based correlations are more robust than price-based correlations, as they reflect underlying economic relationships rather than temporary price movements.
+
+\section{Hybrid Models and Multimodal Integration}
+
+The latest advances in stock prediction combine temporal deep learning with relational learning in hybrid architectures. \cite{appliedmath5040176} introduced the TFT-GNN model, which integrates the Temporal Fusion Transformer with graph neural networks. This hybrid approach achieved the highest overall predictive accuracy in their evaluation, demonstrating that relational signals derived from inter-asset connections provide meaningful improvements beyond traditional temporal indicators alone. The model successfully balances the temporal modeling strength of Transformers with the relational modeling capacity of GNNs. Importantly, their results showed approximately 15-20\% improvement in prediction accuracy when graph components were added to TFT baselines, quantifying the value of relational learning. The architecture works by: (1) encoding temporal information from price series using TFT, (2) encoding relational information using GNN, and (3) combining both representations for final prediction.
+
+\cite{dai2025griffinnetgraphrelationintegratedtransformer} presented GrifFinNet, a Graph-Relation Integrated Transformer that further advances this hybrid paradigm. Rather than treating temporal and relational learning as separate components that are simply combined, GrifFinNet integrates them more tightly, allowing relation information to inform temporal predictions and vice versa. This mutual reinforcement between temporal and relational modeling shows promising results for financial prediction tasks. For example, temporal attention weights can help identify which relationships are most predictive, while relational information can provide context for interpreting temporal patterns. The architecture features bidirectional information flow: temporal models inform which graph relationships to emphasize, while graph relationships inform temporal attention patterns.
+
+A key insight from these hybrid approaches is that temporal and relational information are complementary. Temporal models excel at capturing short-term momentum and trend patterns, while relational models capture longer-term structural factors and cross-asset dependencies. Neither alone is sufficient; their combination produces superior results. Furthermore, the integration itself can be learned, rather than predetermined, allowing the model to automatically balance the two information sources.
+
+\section{Integration of News and Sentiment Data}
+
+An emerging and increasingly important trend in stock prediction involves incorporating news sentiment and policy information alongside price data. Financial markets are not purely mechanical systems governed by past prices—they are influenced by forward-looking expectations. News articles, earnings announcements, and policy decisions represent flows of new information that investors process and incorporate into prices.
+
+\cite{Chen_2023} demonstrated that large language models such as ChatGPT can be leveraged to extract semantic information from financial news and integrate this information into graph neural network models for stock movement prediction. By converting unstructured textual data into meaningful features, these approaches capture market sentiment and forward-looking information that is not reflected in historical prices. Traditional sentiment analysis typically produces simple positive/negative scores, but advanced language models can extract nuanced information about specific topics, risks, and opportunities mentioned in financial news. The advantage of using large language models is their ability to understand context, implications, and domain-specific meanings without requiring manual labeling.
+
+The integration process typically involves: (1) identifying relevant news for each company, (2) extracting sentiment and key topics using LLMs, (3) encoding this information as node or edge features in the graph, and (4) training the graph neural network end-to-end. By incorporating news signals through the graph structure, the model can propagate sentiment information across related companies. For example, if a supplier has positive news, customer companies linked to that supplier might experience positive spillover effects.
+
+This multimodal approach recognizes that stock prices are influenced not only by historical patterns and inter-stock relationships but also by external information flows, policy announcements, and sentiment shifts. The challenge is that news and sentiment are noisy—not all news is equally important, and market reactions to news vary depending on context. However, when properly extracted and integrated, sentiment data provides forward-looking signals that historical prices alone cannot provide. Additionally, sentiment information can help explain sudden market movements that would otherwise appear random from price data alone.
+
+\section{Technical Indicators and Feature Engineering}
+
+Beyond raw prices, financial analysts have developed numerous technical indicators designed to capture different aspects of market behavior. Common categories include:
+
+\begin{itemize}
+    \item \textbf{Momentum Indicators:} RSI (Relative Strength Index), MACD (Moving Average Convergence Divergence), and momentum oscillators that identify overbought/oversold conditions. RSI measures the magnitude of recent price changes to evaluate overbought or oversold conditions, typically over a 14-day period.
+    \item \textbf{Trend Indicators:} Moving averages (simple, exponential, weighted) that smooth price data and identify direction. Simple moving averages are easy to compute but give equal weight to all periods, while exponential moving averages weight recent prices more heavily.
+    \item \textbf{Volatility Indicators:} Bollinger Bands, Average True Range (ATR), and other measures that quantify price variability. High volatility suggests market uncertainty, while low volatility may indicate consolidation before a move.
+    \item \textbf{Volume-based Indicators:} On-Balance Volume (OBV), Volume Rate of Change, and other measures that incorporate trading volume. Volume analysis helps confirm price trends and identify reversal points.
+\end{itemize}
+
+The effectiveness of technical indicators in stock prediction remains debated. While some evidence suggests they contain predictive information, particularly for short-term trading, others argue that markets are sufficiently efficient that technical indicators offer no edge beyond what prices alone provide. Modern machine learning approaches, particularly deep learning models, can potentially learn optimal combinations of technical indicators without manual selection. However, this raises questions about whether learned patterns reflect true market microstructure or are artifacts of the training data. Feature engineering remains important even with deep learning, as carefully designed features can reduce the data and computation required for models to learn effective patterns.
+
+\section{Market Characteristics and Information Flow}
+
+Understanding why stock prediction is difficult requires understanding market microstructure and information flows. Financial markets exhibit several important characteristics:
+
+\begin{itemize}
+    \item \textbf{Information Asymmetry:} Institutional investors and insiders often have superior information and faster access to data, creating information advantages. High-frequency trading firms have invested billions in infrastructure to gain microsecond advantages in information access.
+    \item \textbf{Behavioral Factors:} Investor emotions (fear, greed), herd behavior, and irrational exuberance create price movements disconnected from fundamentals. Behavioral finance has documented numerous anomalies where rational pricing models fail.
+    \item \textbf{Regime Changes:} Market dynamics change over time as economic conditions, investor composition, and regulations evolve. A model trained during bull market conditions may fail during bear markets or crisis periods.
+    \item \textbf{Fat Tails and Black Swans:} Markets experience extreme events more frequently than normal distributions predict. The 2008 financial crisis, COVID-19 crash, and other events invalidate models trained only on normal market conditions.
+\end{itemize}
+
+These characteristics suggest that perfect prediction may be impossible. However, they do not preclude meaningful improvements over naive baselines. The goal should be to capture exploitable patterns while remaining robust to regime changes. Additionally, even imperfect predictions can be valuable if they enable better portfolio management and risk reduction.
+
+\section{Evaluation Metrics and Benchmarking}
+
+Evaluating stock prediction models requires careful consideration of appropriate metrics. Classification metrics (accuracy, precision, recall, F1) are commonly used when framing prediction as a directional prediction problem (up or down). However, these metrics may not align with financial objectives. A model could be highly accurate but still generate poor returns if it makes small correct predictions and large incorrect ones.
+
+Alternative approaches include:
+
+\begin{itemize}
+    \item \textbf{Directional Accuracy:} Percentage of predictions where the direction (up/down) matches actual outcomes. Easy to interpret but ignores magnitude.
+    \item \textbf{Financial Metrics:} Sharpe Ratio (return per unit of risk), maximum drawdown, and cumulative returns when predictions are used for trading.
+    \item \textbf{Probabilistic Metrics:} Log-loss or Brier score when models output probability estimates rather than hard classifications.
+    \item \textbf{Information Coefficient:} Correlation between predicted and actual returns, capturing both direction and magnitude.
+\end{itemize}
+
+An important consideration is that historical backtesting can be misleading due to look-ahead bias, survivorship bias, and overfitting to historical data. Proper evaluation requires careful time-series cross-validation where the model is trained on past data and tested on future data, never seeing test data during training. Walk-forward analysis, where the training window advances through time, is particularly important for detecting overfitting. Additionally, transaction costs and market impact (the effect of trades on prices) must be considered, as they significantly reduce returns in practice.
+
+\section{Baseline Linear Regression Model}
+
+To establish a baseline understanding of the predictive potential of multimodal financial data, we implemented a linear regression model that motivates the need for more sophisticated approaches.
+
+\subsection{Data and Model Design}
+
+We collected six years of historical stock market data from \texttt{tushare.com}, including historical prices, news articles, market indices, shareholder information, and government policies. We used the ProsusAI/finbert model to encode news and policy documents into sentiment scores, capturing forward-looking information that prices alone cannot provide.
+
+The linear regression model predicts daily stock price percentage change using four features: (1) news sentiment score, (2) policy sentiment score, (3) yesterday's market index, and (4) shareholder changes. After filtering for data quality (excluding null outputs, zero policy scores, and zero market indices), the dataset contained 331,166 samples: 298,049 training samples and 33,117 validation samples across six years.
+
+\subsection{Results and Performance Analysis}
+
+We employed sign-based accuracy as the evaluation metric, counting predictions as correct only if the predicted direction (positive/negative) matches the actual direction. The linear regression model achieved:
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|c|c|}
+\hline
+\textbf{Metric} & \textbf{Training} & \textbf{Validation} \\
+\hline
+Sign-based Accuracy & 48.25\% & 48.71\% \\
+\hline
+R² Score & 0.000496 & 0.001203 \\
+\hline
+RMSE & 2.959 & 2.654 \\
+\hline
+\end{tabular}
+\caption{Linear regression model performance}
+\end{table}
+
+Notably, the 48.71\% validation accuracy is \textbf{below the 50\% threshold of random guessing}, indicating that the linear model learned patterns that do not generalize and may even harm prediction accuracy. The extremely low R² scores confirm that the model explains virtually none of the variance in stock returns, suggesting predictions are correct by chance rather than through genuine pattern learning.
+
+\subsection{Limitations and Motivation for GNNs}
+
+The linear regression failure reveals fundamental limitations of simple linear approaches:
+
+\begin{enumerate}
+    \item \textbf{Nonlinear Relationships:} Stock prices involve complex, nonlinear interactions (threshold effects, interaction between factors, temporal dynamics) that linear models cannot capture. Linear regression assumes additive, proportional effects, which financial markets violate.
+    
+    \item \textbf{Loss of Relational Structure:} The model treats each company and day independently, ignoring crucial information: inter-company relationships (competitors, supply chains), temporal patterns (trends, momentum), and network effects of sentiment propagation across related companies. By reducing news and policy to scalar scores, rich contextual information is collapsed into single dimensions.
+    
+    \item \textbf{Insufficient Feature Set:} Four features cannot capture the complexity of stock movements. Missing are technical indicators, company fundamentals, macroeconomic variables, and network sentiment cascades.
+\end{enumerate}
+
+Graph Neural Networks address these limitations by: (1) learning nonlinear transformations through deep architectures, (2) explicitly modeling company relationships through graph structures with multi-hop information flow, (3) preserving sentiment structure through heterogeneous graphs linking companies to relevant news/policies, and (4) integrating temporal and relational information simultaneously.
+
+The baseline linear regression thus demonstrates that simple approaches are insufficient and quantifies the gap between current performance and random guessing, establishing a clear objective for more sophisticated GNN-based approaches.

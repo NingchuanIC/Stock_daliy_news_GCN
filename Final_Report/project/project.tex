@@ -1,0 +1,187 @@
+\chapter{PROJECT X}
+
+\subsection{Problem Formulation}
+
+The primary objective is to develop a multimodal graph neural network that predicts short-term stock price movements by simultaneously capturing firm-level relationships, sentiment information from financial news, and policy impacts. The approach treats the stock market as a dynamic graph where nodes represent companies and edges represent relationships derived from multiple sources.
+
+\subsection{Data Sources and Feature Engineering}
+
+The proposed model integrates three primary data sources:
+
+\begin{enumerate}
+    \item \textbf{Historical Price Data:} Daily stock prices, trading volumes, and technical indicators (moving averages, momentum indicators) for a set of companies. These serve as the temporal foundation for prediction.
+    
+    \item \textbf{Relational Data:} Multiple relationship types between companies:
+    \begin{itemize}
+        \item Industry classification (sector, subsector)
+        \item Correlation-based relationships derived from historical price movements
+        \item Supply chain and ownership relationships
+    \end{itemize}
+    
+    \item \textbf{Multimodal External Data:}
+    \begin{itemize}
+        \item \textbf{News Sentiment:} Financial news articles relevant to companies are processed using natural language processing to extract sentiment scores and key topics. Large language models (e.g., BERT, or instruction-tuned models) can enhance semantic understanding.
+        \item \textbf{Policy Information:} Government policy announcements, regulatory decisions, and macroeconomic indicators are extracted and encoded as features that can influence the graph structure and node representations.
+    \end{itemize}
+\end{enumerate}
+
+\subsection{Proposed Multimodal Graph Neural Network Architecture}
+
+The proposed architecture consists of several integrated components:
+
+\subsubsection{Graph Construction}
+A dynamic graph $G = (V, E, A)$ is constructed where:
+\begin{itemize}
+    \item $V$ is the set of company nodes
+    \item $E$ is the set of edges, where edges represent firm relationships (weighted by correlation, industry similarity, etc.)
+    \item $A$ is a feature matrix incorporating both company-level features (prices, technical indicators) and graph-level features (policy, sector trends)
+\end{itemize}
+
+Multiple relationship types are encoded as separate edge types, allowing the model to distinguish between different types of dependencies.
+
+\subsubsection{Temporal Representation Learning}
+For each node, historical price data is processed through a temporal encoder (e.g., Temporal Fusion Transformer or GRU layers) to extract temporal patterns and dynamic features. This produces a set of temporal embeddings $H_{\text{temp}}$ that capture individual stock dynamics.
+
+\subsubsection{Relational Representation Learning}
+A graph neural network (specifically, a Graph Convolution Network or similar architecture) operates on the constructed graph to propagate information across related companies. This component learns relational embeddings $H_{\text{rel}}$ that capture how companies influence each other through their connections.
+
+\subsubsection{Multimodal Fusion}
+News sentiment scores and policy information are encoded as additional features or separate embeddings. These are fused with both temporal and relational representations through an attention mechanism or concatenation followed by a learned fusion layer. This produces a unified representation $H_{\text{fused}}$ that integrates all three information sources.
+
+\subsubsection{Prediction Layer}
+The fused representation is passed through a final prediction layer (fully connected network or attention-based decoder) to generate stock price movement predictions.
+
+\section{Core Methodologies}
+
+\subsection{Long Short-Term Memory (LSTM) Networks for Temporal Encoding}
+
+Long Short-Term Memory (LSTM) networks are recurrent neural networks designed to capture long-range temporal dependencies while mitigating the vanishing gradient problem. Each LSTM cell maintains a memory state with gating mechanisms: the input gate controls new information entry, the forget gate determines what previous information to discard, and the output gate decides what information to propagate forward.
+
+LSTMs process daily historical price sequences to capture temporal trends, momentum, and volatility clustering. The LSTM output represents learned temporal features encoding historical dynamics that integrate with relational and sentiment information for final prediction. LSTMs are particularly suitable for financial time series because they learn asymmetric patterns (e.g., faster crashes than recoveries) and capture regime-dependent behaviors.
+
+\subsection{Attention Mechanisms and Transformers}
+
+Attention mechanisms enable models to focus on relevant information by computing weighted combinations based on learned similarity scores. The self-attention mechanism computes:
+$$\text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V$$
+
+where $Q$ (queries), $K$ (keys), and $V$ (values) are learned projections of input sequences. Transformers build entirely on attention without recurrence, enabling parallel computation across all time steps simultaneously. Multi-head attention learns different temporal aspects (short-term momentum, long-term trends), while attention weights provide interpretability showing which historical periods influence predictions. Transformer encoder layers with positional encodings maintain temporal ordering information for stock prediction.
+
+\subsection{Graph Neural Networks (GNNs) for Relational Learning}
+
+Graph Neural Networks operate on graph-structured data through message-passing, where each node aggregates information from neighboring nodes to update its representation. Through multiple GNN layers, information propagates across multi-hop paths, allowing distant companies to influence each other's predictions. The basic GNN layer update rule is:
+$$h_v^{(l+1)} = \text{UPDATE}^{(l)}\left(h_v^{(l)}, \text{AGGREGATE}^{(l)}(\{h_u^{(l)} : u \in \mathcal{N}(v)\})\right)$$
+
+where $h_v^{(l)}$ is node $v$'s representation at layer $l$, $\mathcal{N}(v)$ is its neighborhood, and AGGREGATE and UPDATE are learnable functions.
+
+\subsection{Graph Convolutional Networks (GCNs)}
+
+Graph Convolutional Networks instantiate GNNs using convolutional operations with localized spectral convolution on graphs:
+
+$$H^{(l+1)} = \sigma\left(\tilde{D}^{-1/2}\tilde{A}\tilde{D}^{-1/2}H^{(l)}W^{(l)}\right)$$
+
+where $\tilde{A}$ is the normalized adjacency matrix, $H^{(l)}$ are node representations at layer $l$, and $W^{(l)}$ are learnable weight matrices. GCNs offer computational efficiency through localized aggregation, multi-hop information propagation across layers, and multi-relational extensions (R-GCN) handling multiple edge types simultaneously (industry relationships, ownership ties, correlation-based links). Companies in similar network positions develop correlated representations based on industry classification, correlation-based similarity, and supply chain relationships.
+
+\subsection{Sentiment Extraction with ChatGPT and Advanced Language Models}
+
+Advanced language models like ChatGPT extract nuanced, context-aware information from unstructured financial text beyond simple sentiment scores. ChatGPT identifies financial relevance to specific companies, quantifies sentiment with impact magnitude, identifies affected companies and sectors from policies, extracts key themes (regulatory changes, leadership transitions, product launches), and generates structured numerical feature vectors. ChatGPT provides context understanding of financial terminology, multi-aspect impact analysis rather than single scores, zero-shot capability for new information types, and interpretable explanations. Extracted sentiment and impact scores encode company-news relationships as node features and propagate through the GCN to capture how sentiment about one company affects related companies.
+
+\subsection{Integration of Methods}
+
+The final model integrates methods into a unified architecture: the temporal branch uses LSTM or Transformer encoders on historical price sequences producing temporal embeddings; the relational branch uses GCN on the company network graph for relational embeddings capturing inter-company dependencies; the sentiment branch encodes ChatGPT-extracted features as node or edge features; the fusion layer combines temporal and relational embeddings using attention-based fusion or learned weights; and the prediction head maps fused representation to stock price predictions (directional or magnitude). This architecture enables component specialization in different stock dynamics aspects (temporal patterns, inter-company relationships, external information) with information flow through the fusion layer.
+
+\subsection{Implementation Approach}
+
+\begin{enumerate}
+    \item \textbf{Data Preprocessing:} Normalize price data, compute technical indicators, extract sentiment scores from news using pretrained NLP models, and encode policy information.
+    
+    \item \textbf{Graph Construction:} Build the multimodal graph with firms as nodes, dynamically weight edges based on correlations and relationships, and encode external information as node/graph-level features.
+    
+    \item \textbf{Model Training:} Train the hybrid model end-to-end using a combination of supervised learning (predicting actual price movements) and potentially contrastive objectives (learning meaningful representations).
+    
+    \item \textbf{Evaluation:} Assess model performance using standard financial metrics (accuracy of directional prediction, precision, recall, F1 score) and financial metrics (Sharpe ratio if used for trading). Conduct ablation studies to understand the contribution of each component (temporal, relational, policy).
+\end{enumerate}
+
+\subsection{Key Innovations}
+
+The proposed approach differs from existing work in several ways:
+
+\begin{itemize}
+    \item \textbf{Explicit Policy Integration:} Rather than treating policy as an auxiliary feature, the framework explicitly incorporates policy impacts into the graph structure and feature representation.
+    
+    \item \textbf{Multimodal Design:} Simultaneous integration of prices, news sentiment, and policy information within a unified graph-based framework.
+    
+    \item \textbf{Causal Reasoning:} By capturing both correlation and causal relationships, the model aims to be more robust to spurious patterns and better generalize across market conditions.
+\end{itemize}
+
+\section{Timeline and Expected Challenges}
+
+\subsection{Project Timeline}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|p{5cm}|p{4cm}|}
+\hline
+\textbf{Phase} & \textbf{Key Activities} & \textbf{Estimated Duration} \\
+\hline
+Data Collection and Preprocessing & Gather stock data, news articles, policy documents; preprocess and normalize & January to February \\
+\hline
+Sentiment and Policy Encoding & Extract sentiment from news using NLP; encode policy information & February \\
+\hline
+Graph Construction & Build graph structure; define and weight edge types & February to March \\
+\hline
+Model Design and Implementation & Implement temporal encoder, GNN, and fusion components & March \\
+\hline
+Training and Hyperparameter Tuning & Train model variants; conduct ablation studies & March to April \\
+\hline
+Evaluation and Analysis & Comprehensive evaluation; interpretability analysis & April to May \\
+\hline
+Report Writing and Finalization & Document findings, prepare visualizations, final revisions & May to June \\
+\hline
+\end{tabular}
+\end{table}
+
+Total estimated duration: 24 weeks (approximately 6 months), allowing for iterative improvements and unforeseen challenges.
+
+\subsection{Expected Challenges}
+
+\subsubsection{Data Integration and Quality}
+\begin{itemize}
+    \item \textbf{Challenge:} Integrating data from multiple heterogeneous sources (prices, news, policies) with different temporal granularities and quality levels.
+    \item \textbf{Mitigation:} Develop robust preprocessing pipelines; perform extensive data validation; handle missing values using appropriate imputation strategies.
+\end{itemize}
+
+\subsubsection{Graph Construction and Dynamics}
+\begin{itemize}
+    \item \textbf{Challenge:} The graph structure is inherently dynamic (relationships change over time), and edge weights must be constantly recomputed. This introduces significant computational overhead.
+    \item \textbf{Mitigation:} Use sliding window approaches to approximate dynamic graphs; explore efficient graph neural network implementations; consider using temporal graph neural networks specifically designed for dynamic settings.
+\end{itemize}
+
+\subsubsection{Feature Engineering for News and Policy}
+\begin{itemize}
+    \item \textbf{Challenge:} Extracting meaningful semantic information from unstructured text (news and policy documents) is non-trivial. Sentiment analysis may not capture all relevant aspects, and policy impacts vary by industry and time.
+    \item \textbf{Mitigation:} Use pretrained language models (BERT, GPT-based models) for robust feature extraction; conduct manual validation on a sample of extracted features; explore domain-specific models trained on financial text.
+\end{itemize}
+
+\subsubsection{Generalization and Overfitting}
+\begin{itemize}
+    \item \textbf{Challenge:} Stock market prediction is notoriously difficult due to noise and changing market regimes. Models trained on historical data often fail to generalize to new periods or different market conditions.
+    \item \textbf{Mitigation:} Use rigorous cross-validation strategies (time-series split cross-validation, not random splits); test on multiple market conditions (bull, bear, sideways); include regularization techniques; monitor out-of-sample performance closely.
+\end{itemize}
+
+\subsubsection{Computational Complexity}
+\begin{itemize}
+    \item \textbf{Challenge:} Integrating graph neural networks with temporal models, multimodal fusion, and dynamic graph updates can create significant computational overhead, potentially limiting scalability.
+    \item \textbf{Mitigation:} Design efficient model architectures; leverage existing optimized libraries (PyTorch Geometric, DGL); consider sampling strategies for large graphs; profile and optimize computational bottlenecks iteratively.
+\end{itemize}
+
+\subsubsection{Interpretability and Trust}
+\begin{itemize}
+    \item \textbf{Challenge:} Deep learning models are often treated as "black boxes," which is problematic in finance where understanding model decisions is critical for trust and regulatory compliance.
+    \item \textbf{Mitigation:} Implement attention visualization to understand which relationships and time periods influence predictions; conduct ablation studies to quantify component contributions; provide feature importance analysis; use explainability tools (LIME, SHAP) as applicable.
+\end{itemize}
+
+\subsubsection{Limited Policy Data and Specificity}
+\begin{itemize}
+    \item \textbf{Challenge:} Policy impacts are complex, context-dependent, and may not be easily quantifiable. Additionally, obtaining comprehensive policy datasets aligned with stock data may be challenging.
+    \item \textbf{Mitigation:} Start with a curated set of major policies; manually annotate policy impacts for key events; explore causal inference methods to identify policy-stock relationships; focus on sectors where policy impacts are most visible.
+\end{itemize}

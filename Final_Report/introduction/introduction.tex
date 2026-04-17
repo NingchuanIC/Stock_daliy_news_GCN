@@ -1,0 +1,72 @@
+\chapter{Introduction}
+
+\section{Motivation}
+
+Investment is a critical economic activity that influences individuals, institutions, and national economies. Effective asset management can generate returns that exceed overall market growth while also reducing exposure to systemic risks, including unexpected economic downturns and financial crises.
+
+One widely adopted approach to asset management is participation in the stock market. Stocks are traded in relatively open and liquid markets, where prices fluctuate according to investors’ collective expectations and confidence. Stock prices generally increase when market sentiment toward a company or sector improves and decline when confidence weakens. In contrast to other asset classes, such as real estate—which may experience significant price corrections following the bursting of speculative bubbles—cash assets are subject to depreciation through inflation, and precious metals are strongly influenced by supply-side dynamics within their respective industries. Stock market investment, however, plays a prominent role in representing and measuring regional economic performance. Market indices are frequently used by policymakers as indicators of economic health, and record highs are often cited as evidence of economic growth. Long-term observations of major indices, such as the NASDAQ, demonstrate a general upward trend, a pattern similarly observed in the Shanghai and Shenzhen stock markets and in other regions undergoing sustained economic development.
+
+\section{The Stock Prediction Problem}
+
+Stock prediction has long been considered one of the most challenging problems in the financial domain. Unlike many other prediction tasks where underlying patterns are relatively stable and well-defined, stock markets operate in highly complex and dynamic environments. Price movements are influenced by a large number of interacting factors, many of which are unstructured, difficult to quantify, and subject to rapid change. As a result, market behavior often appears irregular and dominated by noise rather than clear and consistent signals.
+
+
+Furthermore, stock market movements do not always follow common sense or purely rational logic. Investor decisions are frequently affected by emotions such as fear and greed, herd behavior, and varying risk preferences, which can lead to abrupt and disproportionate price fluctuations. These behavioral elements introduce additional uncertainty into the market, making it difficult to establish stable relationships between historical information and future price movements. Sudden reactions to unexpected events, including political decisions, economic announcements, or global crises, can further disrupt existing trends and invalidate previously observed patterns.
+
+In addition, financial markets are characterized by information asymmetry and unequal market influence. Large financial institutions and major market participants often possess superior access to information, advanced trading technologies, and significant capital, allowing their actions to exert a disproportionate impact on price dynamics. Such concentrated activities may amplify short-term volatility or distort price signals, increasing the difficulty of distinguishing meaningful market information from background noise. Together, these factors contribute to the inherently unpredictable nature of stock price movements and highlight the fundamental challenges faced in stock market prediction.
+
+\section{Related Work and Existing Approaches}
+
+Stock price prediction has been studied using a wide range of modelling approaches, ranging from classical statistical methods to modern deep learning frameworks. Traditional statistical models, such as autoregressive and exponential smoothing techniques, model price movements based on historical time series patterns. These approaches are valued for their interpretability, stability, and low computational cost, but they rely on strong assumptions including linearity and stationarity, which often limit their effectiveness in complex and rapidly changing market environments.
+
+In recent years, deep learning models have been increasingly applied to stock forecasting due to their ability to capture nonlinear temporal dependencies. Architectures based on recurrent networks and attention mechanisms have demonstrated improved performance in modelling short-term price fluctuations. However, many of these models treat individual stocks independently and fail to account for interactions among assets.
+
+To address this limitation, graph-based models have been introduced to explicitly model relationships between stocks. By incorporating relational information derived from industry structure, ownership, or learned correlations, graph neural networks enable the modelling of cross-asset dependencies. Hybrid frameworks that combine temporal deep learning models with graph-based relational learning have shown further performance improvements, although they introduce additional complexity and challenges related to generalization and data integration.
+
+Although stock price prediction has long been considered extremely difficult, recent advances in artificial intelligence have significantly expanded the scope of problems that can be effectively modelled. Traditional forecasting methods often struggle to cope with the nonlinearity, noise, and structural complexity inherent in financial markets. In contrast, machine learning approaches offer greater flexibility by learning patterns directly from data without relying on strong predefined assumptions. Neural networks, in particular, are capable of approximating complex nonlinear functions and have demonstrated strong performance in a variety of prediction tasks.
+
+The rapid development of deep learning architectures has further accelerated this trend. The introduction of attention mechanisms and Transformer-based models has enabled more effective modelling of long-range dependencies and dynamic interactions within sequential data. Breakthroughs in natural language processing, exemplified by conversational systems such as ChatGPT, illustrate how seemingly intractable problems can become tractable when appropriate model architectures are introduced. Inspired by these advances, deep learning techniques have increasingly been applied in financial contexts, including price forecasting, sentiment analysis, and the integration of heterogeneous data sources.
+
+Despite their progress, many existing machine learning and neural network-based approaches still face important limitations. A common issue is the reliance on a single type of data source, such as historical prices or technical indicators, which provides only a partial view of market dynamics. Other models incorporate additional information, such as news or industry data, but often lack a clear structure for integrating signals operating at different levels, including firm-level, sector-level, and macroeconomic factors.
+Furthermore, the modelling of macro-level influences, such as government policies and regulatory changes, remains relatively limited, even though such factors can have significant and abrupt impacts on financial markets. Generalization also poses a persistent challenge, as models trained on specific markets or time periods may perform poorly under changing economic conditions. These limitations suggest that improving stock prediction performance requires not only more powerful models, but also more structured representations of market information and interactions.
+
+\section{Research Motivation and Gap}
+
+Motivated by these observations, this report aims to explore stock price prediction from a relational learning perspective. Instead of modelling stock prices in isolation, the proposed approach emphasizes the complex interdependencies between companies, financial news, and government policies. By leveraging graph-based deep learning models, these relationships can be explicitly represented and integrated into the prediction framework, with the goal of uncovering latent patterns that are difficult to capture using traditional or purely time-series-based methods.
+
+\section{Objectives}
+\begin{itemize}
+    \item Develop a graph-based deep learning framework that incorporates multi-modal information including historical prices, financial news, and government policies
+    \item Model explicit relationships between companies and market-level factors to capture cross-asset dependencies
+    \item Improve stock price prediction performance compared to traditional time-series methods
+\end{itemize}
+
+\section{Challenges}
+
+Stock price prediction faces several critical challenges that make it a difficult problem in the financial domain:
+
+\begin{itemize}
+    \item \textbf{Market Complexity and Noise:} Stock markets operate in highly complex and dynamic environments influenced by numerous interacting factors that are unstructured, difficult to quantify, and subject to rapid change. Market behavior often appears irregular and dominated by noise rather than clear signals.
+    
+    \item \textbf{Behavioral and Emotional Factors:} Stock market movements do not follow purely rational logic. Investor decisions are affected by emotions such as fear and greed, herd behavior, and varying risk preferences, leading to abrupt and disproportionate price fluctuations. Sudden reactions to unexpected events can invalidate previously observed patterns.
+    
+    \item \textbf{Information Asymmetry:} Financial markets are characterized by unequal market influence, where large institutions possess superior access to information and technology, exerting disproportionate impact on price dynamics and amplifying volatility.
+    
+    \item \textbf{Limited Integration of Multi-source Information:} Many existing approaches rely on single data sources such as historical prices, providing only partial views of market dynamics. Models that incorporate multiple information types often lack clear structures for integrating signals at different levels (firm-level, sector-level, macroeconomic).
+    
+    \item \textbf{Generalization Across Different Market Conditions:} Models trained on specific markets or time periods often perform poorly under changing economic conditions, limiting their practical applicability.
+\end{itemize}
+
+\section{Contributions}
+
+This work contributes to the field of stock price prediction in the following ways:
+
+\begin{itemize}
+    \item \textbf{Relational Learning Framework:} Proposes a novel approach that explicitly models relationships between companies, financial news, and government policies using graph-based deep learning models, moving beyond traditional isolated stock analysis.
+    
+    \item \textbf{Multi-modal Information Integration:} Combines temporal deep learning models with graph neural networks to integrate heterogeneous data sources operating at different levels, creating a more comprehensive representation of market dynamics.
+    
+    \item \textbf{Cross-asset Dependency Modeling:} Enables the modeling of cross-asset dependencies and interactions among multiple stocks, accounting for industry structure and learned correlations that traditional methods often miss.
+    
+    \item \textbf{Enhanced Prediction Performance:} Demonstrates improved stock price prediction performance compared to conventional statistical methods and isolated neural network approaches through systematic integration of relational information.
+\end{itemize}
