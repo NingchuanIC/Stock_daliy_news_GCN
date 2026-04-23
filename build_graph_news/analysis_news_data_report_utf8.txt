@@ -1,0 +1,22 @@
+﻿=== Source Dataset Summary ===
+rows=806807 files=84
+date_range=2019-01-30 -> 2025-12-24
+rows_with_any_missing_in_model_inputs=0 (0.000000%)
+top5_missing_columns:
+  ts_code: 0 (0.000000%)
+  trade_date: 0 (0.000000%)
+  ret_1: 0 (0.000000%)
+  ret_5: 0 (0.000000%)
+  ret_10: 0 (0.000000%)
+top5_outlier_columns_iqr:
+  turnover_rate: 68103 (8.441052% of valid)
+  pb: 66251 (8.211505% of valid)
+  ret_1: 53998 (6.692803% of valid)
+  co_ret: 49401 (6.123026% of valid)
+  ma5_gap: 48411 (6.000320% of valid)
+=== Graph Dataset Summary ===
+nodes=500 edges=21082 features=28
+  train: steps=1194 mask_coverage=94.980235%
+  val: steps=242 mask_coverage=99.946281%
+  test: steps=238 mask_coverage=99.865546%
+report_json=D:\imperial_homework\third_year\FYP\GCN\build_graph_news\analysis_news_data_report.json

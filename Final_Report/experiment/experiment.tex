@@ -411,3 +411,193 @@ So the most accurate summary is that GCN improves global cross-sectional ranking
 \subsection{Takeaway}
 
 This experiment gives a clean foundation for later graph-based work. It shows that a simple industry graph is already enough to beat the price-only LightGBM in IC, which justifies moving on to more advanced graph variants such as GAT, or to multimodal graph models that combine price, news, and policy information.
+
+\section{GCN + News: Naive Feature Fusion Experiment}
+
+After the price-only GCN baseline, we directly extend the node feature space by concatenating the 13 daily aggregated news features to the 15 price features, resulting in a 28-dimensional input per stock node. The goal is to test whether a straightforward multimodal fusion strategy can further improve graph-based prediction.
+
+\subsection{Method}
+
+The graph topology is unchanged from the previous GCN experiment: an industry graph built from sector relations, with message passing performed over the same fixed \texttt{edge\_index}. The dataset is rebuilt from the price+news monthly parquet files, and each daily snapshot contains:
+\begin{itemize}
+\item \texttt{x}: $N \times 28$ node feature matrix (15 price + 13 news)
+\item \texttt{y}: \texttt{future\_ret\_5}
+\item \texttt{mask}: valid-label indicator
+\item \texttt{trade\_date}: snapshot date
+\end{itemize}
+
+The chronological split remains unchanged (train 2019--2023, validation 2024, test 2025), ensuring a fair comparison with all previous baselines.
+
+Model and training setup:
+\begin{itemize}
+\item Architecture: two-layer GCN, \texttt{GCNConv(28, 32)} $\rightarrow$ ReLU $\rightarrow$ \texttt{GCNConv(32, 1)}
+\item Optimizer: Adam, learning rate \texttt{0.001}, weight decay \texttt{1e-4}
+\item Dropout: \texttt{0.0}
+\item Early stopping patience: \texttt{20} (monitored by validation IC)
+\item Device: CUDA
+\end{itemize}
+
+In this run, early stopping is triggered at epoch 26 (\texttt{early\_stopping\_triggered\_at\_epoch=026}).
+
+\subsection{Results}
+
+\begin{table}[htbp]
+\centering
+\caption{GCN + news (naive feature fusion) performance}
+\label{tab:gcn-news-results}
+\begin{tabular}{lccccc}
+\hline
+Split & IC & RankIC & SignAcc & Sharpe & MSE \\
+\hline
+Train & 0.02570720 & 0.01694803 & 0.51022165 & -0.01330520 & 0.00493104 \\
+Validation & 0.02815299 & 0.03480681 & 0.51884070 & 0.08337738 & 0.00607030 \\
+Test & 0.01774965 & -0.01090303 & 0.48513127 & -0.22383365 & 0.00389935 \\
+\hline
+\end{tabular}
+\end{table}
+
+Top-$k$ portfolio metrics are:
+\begin{itemize}
+\item Train: Top10 IRR $=0.57108011$, Top10 Sharpe $=0.99038085$; Top30 IRR $=1.21270513$, Top30 Sharpe $=1.54181882$; Top50 IRR $=1.41018173$, Top50 Sharpe $=1.72388718$
+\item Validation: Top10 IRR $=1.23593125$, Top10 Sharpe $=1.31856354$; Top30 IRR $=1.03630241$, Top30 Sharpe $=1.19862977$; Top50 IRR $=0.51437948$, Top50 Sharpe $=0.88606933$
+\item Test: Top10 IRR $=2.79205900$, Top10 Sharpe $=2.55943744$; Top30 IRR $=1.83442621$, Top30 Sharpe $=2.26488221$; Top50 IRR $=1.51323129$, Top50 Sharpe $=2.08909511$
+\end{itemize}
+
+The key signal is that test IC and test RankIC are weaker than the price-only GCN baseline, despite adding more information channels.
+
+\subsection{Interpretation and Conclusion}
+
+While news features improve performance in non-graph models, directly incorporating them into GCN leads to performance degradation. This suggests that naive feature fusion under graph propagation may amplify noise and harm cross-sectional ranking. Proper feature scaling and selective aggregation are necessary for effective integration.
+
+In short, naive feature fusion can degrade performance under graph propagation. A plausible reason is that standard GCN performs fixed neighborhood averaging and cannot distinguish which neighbor is more informative under sparse event-driven news shocks.
+
+\subsection{Next Session Direction: Processed/Filtered News + Better Graph Attention}
+
+The next stage should move from raw concatenation to \textbf{processed/filtered news + GCN}: denoising, scaling, or gating news channels before message passing, so that event signals do not dominate or contaminate all neighbors.
+
+At the same time, replacing GCN with GAT is well-motivated. The current bottleneck is that GCN cannot distinguish ``which neighbor matters more,'' while GAT can learn attention weights and adaptively focus on informative neighbors. Therefore, \textbf{processed/filtered news + GAT} is a strong candidate for the next iteration.
+
+\section{Processed/Filtered News Session: From Raw Signals to Compact Graph Inputs}
+
+This section reports the next stage after naive news fusion. We first redesign the news pipeline in \texttt{build\_feature\_news\_graph.py}, then compare two graph-input settings under the same GCN framework:
+\begin{itemize}
+\item \textbf{27-feature setting}: 15 price + 12 processed news features
+\item \textbf{21-feature setting}: 15 price + 6 compact news features
+\end{itemize}
+
+\subsection{What Changed in \texttt{build\_feature\_news\_graph.py}}
+
+Compared with the earlier raw-news style aggregation, the new processing introduces three key changes designed for graph stability:
+
+\begin{enumerate}
+\item \textbf{Sentiment mean is replaced by sentiment deviation.}
+Instead of directly using \texttt{news\_sent\_mean\_*} with a fixed default baseline, we use
+\[
+\texttt{news\_sent\_dev} = \texttt{sentiment\_mean} - \mu_{\text{news}}
+\]
+where $\mu_{\text{news}} = 0.732936$. Missing-news cases are set to zero deviation.
+
+\item \textbf{Count channels are compressed and gated.}
+Raw counts are replaced by \texttt{log1p} versions (e.g., \texttt{news\_cnt\_7d\_log}), and explicit event indicators (\texttt{has\_news\_*}) are added.
+
+\item \textbf{Recency is transformed into freshness.}
+Instead of using extreme raw gap values, recency is converted to
+\[
+\texttt{news\_freshness} = \exp(-\texttt{days}/7).
+\]
+In the compact graph builder, \texttt{news\_freshness} is additionally forced to zero when \texttt{has\_news\_7d}=0, and \texttt{news\_sent\_std\_7d} is clipped at 0.2.
+\end{enumerate}
+
+All news features are still shifted by one trading day to avoid leakage.
+
+\subsection{Experiment A: Processed News with 27 Features (15+12)}
+
+This setting uses the full processed news feature set:
+\begin{itemize}
+\item \texttt{has\_news\_1d}, \texttt{has\_news\_3d}, \texttt{has\_news\_7d}
+\item \texttt{news\_cnt\_1d\_log}, \texttt{news\_cnt\_3d\_log}, \texttt{news\_cnt\_7d\_log}
+\item \texttt{news\_sent\_dev\_1d}, \texttt{news\_sent\_dev\_3d}, \texttt{news\_sent\_dev\_7d}
+\item \texttt{news\_sent\_std\_7d}, \texttt{news\_risk\_cnt\_7d\_log}, \texttt{news\_freshness}
+\end{itemize}
+
+Main results:
+\begin{itemize}
+\item Best validation IC: $0.05982203$ (epoch 7)
+\item Test IC: $0.02790876$
+\item Test RankIC: $0.04116817$
+\item Test Top30 Sharpe: $2.31734319$
+\item Test Top50 Sharpe: $2.38834289$
+\end{itemize}
+
+\subsection{Experiment B: Compact Processed News with 21 Features (15+6)}
+
+This setting keeps only six news channels:
+\begin{align*}
+\{&\texttt{has\_news\_7d},\ \texttt{news\_cnt\_7d\_log},\ \texttt{news\_sent\_dev\_7d},\\
+&\texttt{news\_sent\_std\_7d},\ \texttt{news\_risk\_cnt\_7d\_log},\ \texttt{news\_freshness}\}
+\end{align*}
+
+Main results:
+\begin{itemize}
+\item Best validation IC: $0.06348345$ (epoch 19)
+\item Test IC: $0.04239240$
+\item Test RankIC: $0.03813298$
+\item Test Top30 Sharpe: $1.96451284$
+\item Test Top50 Sharpe: $2.24241265$
+\end{itemize}
+
+\begin{table}[htbp]
+\centering
+\caption{Processed-news GCN comparison: 27 vs 21 features}
+\label{tab:gcn-processed-news-27-vs-21}
+\begin{tabular}{lccccc}
+\hline
+Setting & Best Val IC & Test IC & Test RankIC & Top30 Sharpe & Top50 Sharpe \\
+\hline
+GCN + 27 features (15+12) & 0.05982203 & 0.02790876 & 0.04116817 & 2.31734319 & 2.38834289 \\
+GCN + 21 features (15+6) & \textbf{0.06348345} & \textbf{0.04239240} & 0.03813298 & 1.96451284 & 2.24241265 \\
+\hline
+\end{tabular}
+\end{table}
+
+\subsection{What This Means}
+
+Two conclusions are clear.
+
+\paragraph{(1) Compact processed news is better than noisier news formulations.}
+Relative to the earlier raw-news fusion results (which showed weaker test IC and even negative RankIC in this report), the processed/compact pipeline improves stability: test IC returns to a positive and clearly higher level, and training dynamics are more controlled.
+
+\paragraph{(2) News still does not improve GCN over price-only.}
+Even after substantial feature cleaning, the best compact setting (test IC $=0.04239240$) remains below the price-only GCN baseline reported earlier (test IC $=0.0561$). Therefore, the issue is no longer just ``raw news is noisy.'' A deeper issue is the \textbf{naive way news is injected into node features and then propagated by GCN}.
+
+\subsection{Why Compact News Can Still Hurt Under GCN}
+
+\begin{enumerate}
+\item \textbf{News is event-driven, not a stable structural state.}
+Price factors (return, volatility, valuation, liquidity) are relatively persistent node-state variables. News is sparse and shock-like. Treating both as homogeneous node attributes is not ideal.
+
+\item \textbf{Industry message passing is naturally aligned with price, not always with news.}
+Industry co-movement is plausible for price factors, but firm-specific news is often idiosyncratic. Uniform propagation can spread local events to weakly related neighbors.
+
+\item \textbf{Standard GCN has limited selectivity.}
+Vanilla GCN aggregates neighbors with fixed normalization and no feature-level gating. It cannot explicitly decide which event signal should be propagated and to whom.
+\end{enumerate}
+
+\subsection{Research Implication and Next Architecture}
+
+This result chain is important:
+\begin{itemize}
+\item News helps tree models in non-graph settings.
+\item Price-only GCN is strong.
+\item GCN + raw news degrades.
+\item GCN + compact news degrades less, but still does not beat price-only GCN.
+\end{itemize}
+
+So the practical next step is \textbf{not} ``add more news channels into the same GCN input,'' but a modality-aware architecture:
+\begin{itemize}
+\item \textbf{Price branch:} price features go through GCN to model cross-stock relational structure.
+\item \textbf{News branch:} compact news features go through an MLP (or gated MLP) as event encoder.
+\item \textbf{Fusion:} late fusion (concatenation + MLP head, or gated additive fusion) combines price-graph embedding and news embedding for final return prediction.
+\end{itemize}
+
+This design preserves the advantage of graph propagation for structural price signals, while avoiding indiscriminate diffusion of sparse event shocks.
