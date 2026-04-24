@@ -601,3 +601,76 @@ So the practical next step is \textbf{not} ``add more news channels into the sam
 \end{itemize}
 
 This design preserves the advantage of graph propagation for structural price signals, while avoiding indiscriminate diffusion of sparse event shocks.
+
+\subsection{Residual News Fusion Ablation and Final Conclusion}
+
+To further test whether compact news signals can be injected more safely, we evaluate a residual fusion design on top of the 21-feature setting (15 price + 6 news):
+\[
+\hat{y} = \hat{y}_{\text{price}} + \alpha \cdot \Delta_{\text{news}},
+\]
+where the price branch is a GCN predictor and the news branch is a small MLP that outputs a scalar correction term. We test three residual weights: $\alpha \in \{0.05, 0.1, 0.2\}$.
+
+Compared with the earlier concat-fusion model, residual fusion is clearly more stable during training: predictions do not collapse to a near-constant output as quickly, and validation IC remains meaningful across epochs. However, the key question is whether residual news fusion can beat the strongest graph baseline, i.e., price-only GCN.
+
+\begin{table}[htbp]
+\centering
+\caption{Price-only GCN vs residual news fusion (2025 test set)}
+\label{tab:gcn-residual-news-vs-price}
+\begin{tabular}{lcccc}
+\hline
+Model & Val IC & Test IC & Test RankIC & Top50 Sharpe \\
+\hline
+GCN price-only & \textbf{0.0692} & \textbf{0.0561} & \textbf{0.0470} & \textbf{4.0833} \\
+Residual $\alpha=0.10$ & 0.0676 & 0.0391 & 0.0363 & 2.0537 \\
+Residual $\alpha=0.20$ & 0.0678 & 0.0455 & 0.0374 & 1.8038 \\
+Residual $\alpha=0.05$ & 0.0603 & 0.0333 & 0.0470 & 2.7287 \\
+\hline
+\end{tabular}
+\end{table}
+
+The residual ablation leads to three final findings:
+\begin{itemize}
+\item \textbf{Residual fusion is more stable than concat fusion.} Adding news as a constrained correction term is better behaved than direct feature concatenation.
+\item \textbf{The best residual setting is $\alpha=0.2$ by Test IC, but it still underperforms price-only GCN.} The best residual Test IC is $0.0455$, still below $0.0561$ from price-only GCN.
+\item \textbf{News does not provide positive net gain for GCN on \texttt{future\_ret\_5} in this setup.} Under both concat and residual fusion, news tends to dilute the strong structural price signal already captured by the graph branch.
+\end{itemize}
+
+Therefore, for the main GNN result in this report, we keep \textbf{GCN + price-only + industry graph} as the strongest and cleanest baseline. The news-fusion experiments are treated as ablation evidence rather than as the final model.
+
+This also clarifies the next research step: instead of further tuning node-level news fusion, the more meaningful direction is \textbf{GAT + price-only + industry graph}. Since vanilla GCN uses fixed normalized averaging, it cannot adaptively distinguish which neighbors are most informative. GAT introduces learnable attention weights over neighbors, making it a natural next architecture to test whether adaptive relation weighting can exceed the current price-only GCN baseline.
+
+\subsection{Multi-Seed Robustness and Dropout Ablation (New Subsession)}
+
+To provide a fair and unbiased summary for the GCN baseline, we run two additional controlled experiments on the same setup (industry graph, 15 price features, train 2019--2023, validation 2024, test 2025).
+
+\paragraph{Experiment 1: Multi-seed robustness check (dropout $=0.0$).}
+We rerun the price-only GCN with five random seeds. The main test metrics are:
+\begin{itemize}
+\item Test IC: $0.0422 \pm 0.0051$
+\item Test RankIC: $0.0397 \pm 0.0015$
+\item Top30 Sharpe: $2.53 \pm 0.85$
+\item Top50 Sharpe: $2.73 \pm 0.89$
+\end{itemize}
+
+Compared with LightGBM (test IC $\approx 0.0497$), GCN is close but not stably superior: the best seed reaches about $0.0502$ (roughly on par with LightGBM), while the mean remains lower. Importantly, IC variance is relatively high, but RankIC is much more stable, indicating that GCN consistently captures cross-sectional ranking structure even when regression magnitude fluctuates.
+
+\paragraph{Experiment 2: Dropout ablation (dropout $=0.3$, 5 seeds).}
+We then test stronger regularization by setting dropout to 0.3 and repeating five-seed evaluation. The result is clearly negative:
+\begin{itemize}
+\item Test IC changes from $0.0422 \pm 0.0051$ to $0.0353 \pm 0.0141$
+\item Mean IC decreases and variance increases
+\end{itemize}
+
+This indicates that the bottleneck is not classic overfitting. Instead, under weak and sparse financial signals, aggressive dropout further attenuates useful information and hurts stability.
+
+\paragraph{One-sentence conclusion for GCN.}
+GCN does not stably outperform LightGBM yet, but it is already close and consistently shows that graph structure contains usable predictive signal.
+
+\paragraph{Implications for next-stage graph research.}
+These two experiments motivate three concrete directions as the next stage:
+\begin{itemize}
+\item \textbf{Direction 1: GAT for adaptive relation weighting.} Learn neighbor importance instead of fixed averaging to improve stability and signal utilization.
+\item \textbf{Direction 2: Rebuild graph structure.} Go beyond same-sector edges to richer, weighted, and potentially dynamic relations.
+\item \textbf{Direction 3: Reconstruct news modeling.} Treat news as event-driven information (e.g., event nodes/edges, temporal gating, or late fusion) rather than direct dense node-feature concatenation.
+\end{itemize}
+

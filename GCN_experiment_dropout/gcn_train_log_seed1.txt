@@ -1,0 +1,57 @@
+GCN Regression (fixed year split, prebuilt graph dataset)
+train years: [2019, 2020, 2021, 2022, 2023]
+val years: [2024]
+test years: [2025]
+target: future_ret_5
+seed: 1
+epochs: 100
+lr: 0.001
+weight_decay: 0.0001
+dropout: 0.3
+early_stopping_patience: 20
+topk_list: [10, 30, 50]
+features (15): ['ret_1', 'ret_5', 'ret_10', 'ret_20', 'hl_spread', 'co_ret', 'log_vol', 'turnover_rate', 'volume_ratio', 'pb', 'ma5_gap', 'ma10_gap', 'ma20_gap', 'volatility_5', 'volatility_20']
+best_epoch: 6
+best_val_ic: 0.04773910
+epoch=001 mse=0.06930695 | val_ic=-0.04800414 | best_val_ic=-0.04800414 | best_epoch=001 | val_pred_mean=-0.00956758 | val_pred_std=0.04426667 | val_pred_abs_max=0.24463192
+epoch=002 mse=0.01644191 | val_ic=0.01608383 | best_val_ic=0.01608383 | best_epoch=002 | val_pred_mean=-0.01541237 | val_pred_std=0.04620613 | val_pred_abs_max=0.42992723
+epoch=003 mse=0.00835173 | val_ic=0.02748923 | best_val_ic=0.02748923 | best_epoch=003 | val_pred_mean=-0.01496345 | val_pred_std=0.03923956 | val_pred_abs_max=0.34493464
+epoch=004 mse=0.00599651 | val_ic=0.03367552 | best_val_ic=0.03367552 | best_epoch=004 | val_pred_mean=0.00067056 | val_pred_std=0.03663484 | val_pred_abs_max=0.28354359
+epoch=005 mse=0.00507565 | val_ic=0.03367471 | best_val_ic=0.03367552 | best_epoch=004 | val_pred_mean=0.00300999 | val_pred_std=0.02577312 | val_pred_abs_max=0.15725707
+epoch=006 mse=0.00464043 | val_ic=0.04773910 | best_val_ic=0.04773910 | best_epoch=006 | val_pred_mean=-0.00722496 | val_pred_std=0.01250135 | val_pred_abs_max=0.14373940
+epoch=007 mse=0.00443080 | val_ic=0.03225039 | best_val_ic=0.04773910 | best_epoch=006 | val_pred_mean=-0.00720143 | val_pred_std=0.00994138 | val_pred_abs_max=0.10839026
+epoch=008 mse=0.00437252 | val_ic=0.01779318 | best_val_ic=0.04773910 | best_epoch=006 | val_pred_mean=-0.00620658 | val_pred_std=0.00506804 | val_pred_abs_max=0.05014567
+epoch=009 mse=0.00436613 | val_ic=0.01564815 | best_val_ic=0.04773910 | best_epoch=006 | val_pred_mean=-0.00606328 | val_pred_std=0.00461611 | val_pred_abs_max=0.04817493
+epoch=010 mse=0.00436214 | val_ic=0.04155762 | best_val_ic=0.04773910 | best_epoch=006 | val_pred_mean=-0.00532687 | val_pred_std=0.00160328 | val_pred_abs_max=0.02374759
+epoch=011 mse=0.00436396 | val_ic=0.02890427 | best_val_ic=0.04773910 | best_epoch=006 | val_pred_mean=-0.00509931 | val_pred_std=0.00095801 | val_pred_abs_max=0.01611518
+epoch=012 mse=0.00436077 | val_ic=0.01414594 | best_val_ic=0.04773910 | best_epoch=006 | val_pred_mean=-0.00494106 | val_pred_std=0.00062484 | val_pred_abs_max=0.01450073
+epoch=013 mse=0.00437145 | val_ic=0.04630481 | best_val_ic=0.04773910 | best_epoch=006 | val_pred_mean=-0.00484426 | val_pred_std=0.00014425 | val_pred_abs_max=0.00699850
+epoch=014 mse=0.00439383 | val_ic=0.02823799 | best_val_ic=0.04773910 | best_epoch=006 | val_pred_mean=-0.00486332 | val_pred_std=0.00043773 | val_pred_abs_max=0.01151558
+epoch=015 mse=0.00439241 | val_ic=0.01482964 | best_val_ic=0.04773910 | best_epoch=006 | val_pred_mean=-0.00482957 | val_pred_std=0.00024979 | val_pred_abs_max=0.00942965
+epoch=016 mse=0.00438717 | val_ic=0.03669387 | best_val_ic=0.04773910 | best_epoch=006 | val_pred_mean=-0.00491828 | val_pred_std=0.00076433 | val_pred_abs_max=0.01440748
+epoch=017 mse=0.00436023 | val_ic=0.02235361 | best_val_ic=0.04773910 | best_epoch=006 | val_pred_mean=-0.00478599 | val_pred_std=0.00036646 | val_pred_abs_max=0.00983573
+epoch=018 mse=0.00436395 | val_ic=-0.00581930 | best_val_ic=0.04773910 | best_epoch=006 | val_pred_mean=-0.00482044 | val_pred_std=0.00003539 | val_pred_abs_max=0.00482512
+epoch=019 mse=0.00436357 | val_ic=0.00107230 | best_val_ic=0.04773910 | best_epoch=006 | val_pred_mean=-0.00483694 | val_pred_std=0.00007951 | val_pred_abs_max=0.00563920
+epoch=020 mse=0.00436396 | val_ic=-0.00002613 | best_val_ic=0.04773910 | best_epoch=006 | val_pred_mean=-0.00481786 | val_pred_std=0.00002528 | val_pred_abs_max=0.00505617
+epoch=021 mse=0.00436407 | val_ic=-0.00041039 | best_val_ic=0.04773910 | best_epoch=006 | val_pred_mean=-0.00605925 | val_pred_std=0.00009013 | val_pred_abs_max=0.00688746
+epoch=022 mse=0.00437540 | val_ic=0.00020304 | best_val_ic=0.04773910 | best_epoch=006 | val_pred_mean=-0.00456757 | val_pred_std=0.00012952 | val_pred_abs_max=0.00571313
+epoch=023 mse=0.00436298 | val_ic=-0.00027891 | best_val_ic=0.04773910 | best_epoch=006 | val_pred_mean=-0.00619309 | val_pred_std=0.00009919 | val_pred_abs_max=0.00708361
+epoch=024 mse=0.00436509 | val_ic=0.00313680 | best_val_ic=0.04773910 | best_epoch=006 | val_pred_mean=-0.00484294 | val_pred_std=0.00012623 | val_pred_abs_max=0.00625240
+epoch=025 mse=0.00435812 | val_ic=0.01124859 | best_val_ic=0.04773910 | best_epoch=006 | val_pred_mean=-0.00595501 | val_pred_std=0.00000010 | val_pred_abs_max=0.00595987
+epoch=026 mse=0.00438917 | val_ic=0.00453758 | best_val_ic=0.04773910 | best_epoch=006 | val_pred_mean=-0.00481849 | val_pred_std=0.00001148 | val_pred_abs_max=0.00492535
+early_stopping_triggered_at_epoch=026
+[train] samples=567032
+[train] IC=0.01940975 | RankIC=0.02892509 | SignAcc=0.51090591 | Sharpe=-0.38275068 | MSE=0.00452092
+[train] Top10 IRR=1.03967189 | Top10 Sharpe=1.49453322
+[train] Top30 IRR=1.22262459 | Top30 Sharpe=1.72571125
+[train] Top50 IRR=1.67709672 | Top50 Sharpe=2.10079118
+[validation] samples=120935
+[validation] IC=0.04773910 | RankIC=0.02559871 | SignAcc=0.53077273 | Sharpe=0.29175320 | MSE=0.00551276
+[validation] Top10 IRR=1.22779268 | Top10 Sharpe=1.42963290
+[validation] Top30 IRR=2.23393923 | Top30 Sharpe=1.76121154
+[validation] Top50 IRR=1.55148241 | Top50 Sharpe=1.52815600
+[test] samples=118840
+[test] IC=0.03614358 | RankIC=0.06412277 | SignAcc=0.49787109 | Sharpe=-0.94198718 | MSE=0.00349464
+[test] Top10 IRR=5.19288077 | Top10 Sharpe=4.24177575
+[test] Top30 IRR=6.38066961 | Top30 Sharpe=5.06637214
+[test] Top50 IRR=5.10159027 | Top50 Sharpe=4.82681427
